@@ -10,10 +10,6 @@ inputs:
     type: array
 
 outputs:
-- id: output_files
-  type:
-    items: File
-    type: array
 - id: inedx
   outputSource: collect/index
   type: Directory
