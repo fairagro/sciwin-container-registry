@@ -20,7 +20,9 @@ steps:
   - output_file
   run: ../syft/syft.cwl
 - id: digest
-  in: []
+  in:
+  - id: inspect_json
+    source: inspect/inspect_json
   out:
   - digest
   run: ../digest/digest.cwl
