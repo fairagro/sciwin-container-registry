@@ -7,7 +7,10 @@ inputs:
 - id: image
   type: string
 
-outputs: []
+outputs:
+- id: output_file
+  type: File
+
 requirements:
 - class: SubworkflowFeatureRequirement
 
