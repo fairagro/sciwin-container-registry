@@ -12,7 +12,7 @@ inputs:
 
 outputs:
 - id: output
-  type: File?
+  type: File
   outputSource: syft/output
 
 steps:
