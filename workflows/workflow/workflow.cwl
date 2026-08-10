@@ -23,6 +23,8 @@ steps:
   in:
   - id: digest
     source: digest/digest
+  - id: image
+    source: image
   out:
   - output_file
   run: ../syft/syft.cwl
