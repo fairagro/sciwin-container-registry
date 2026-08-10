@@ -37,7 +37,9 @@ steps:
   - index
   run: index/collect.cwl
 - id: add_index
-  in: []
+  in:
+  - id: sboms
+    source: collect/index
   out:
   - index_sqlite
   run: index/add_index.cwl
