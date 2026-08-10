@@ -20,7 +20,12 @@ inputs:
     position: 0
   type: File
 
-outputs: []
+outputs:
+- id: digest
+  outputBinding:
+    glob: digest
+  type: Directory
+
 requirements:
 - class: DockerRequirement
   dockerPull: ghcr.io/jqlang/jq:latest
