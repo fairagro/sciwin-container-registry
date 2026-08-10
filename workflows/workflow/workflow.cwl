@@ -9,6 +9,7 @@ inputs:
 
 outputs:
 - id: output_file
+  outputSource: syft/output_file
   type: File
 
 requirements:
