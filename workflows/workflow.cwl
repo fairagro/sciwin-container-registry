@@ -39,7 +39,9 @@ steps:
   - index
   run: index/collect.cwl
 - id: add_index
-  in: []
+  in:
+  - id: scheme
+    source: sql_scheme
   out:
   - index_sqlite
   run: index/add_index.cwl
