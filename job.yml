@@ -1,4 +1,3 @@
-inspect_json:
-  class: File
-  location: inspect.json
-  format: edam:format_3464
+images: 
+  - sciwin/python-datascience
+  - sciwin/r-datascience

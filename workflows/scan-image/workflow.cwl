@@ -1,7 +1,10 @@
 #!/usr/bin/env cwl-runner
 
-class: Workflow
 cwlVersion: v1.2
+class: Workflow
+
+requirements:
+- class: SubworkflowFeatureRequirement
 
 inputs:
 - id: image
@@ -9,33 +12,30 @@ inputs:
 
 outputs:
 - id: output_file
-  outputSource: syft/output_file
   type: File
-
-requirements:
-- class: SubworkflowFeatureRequirement
+  outputSource: syft/output_file
 
 steps:
 - id: inspect
   in:
   - id: image
     source: image
+  run: inspect.cwl
   out:
   - inspect_json
-  run: ../inspect/inspect.cwl
 - id: syft
   in:
   - id: digest
     source: digest/digest
   - id: image
     source: image
+  run: syft.cwl
   out:
   - output_file
-  run: ../syft/syft.cwl
 - id: digest
   in:
   - id: inspect_json
     source: inspect/inspect_json
+  run: digest.cwl
   out:
   - digest
-  run: ../digest/digest.cwl
