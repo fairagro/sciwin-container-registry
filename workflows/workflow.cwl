@@ -16,6 +16,7 @@ outputs:
   outputSource: collect/index
   type: Directory
 - id: index_sqlite
+  outputSource: add_index/index_sqlite
   type: File
 
 requirements:
