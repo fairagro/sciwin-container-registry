@@ -3,7 +3,10 @@
 class: Workflow
 cwlVersion: v1.2
 
-inputs: []
+inputs:
+- id: image
+  type: string
+
 outputs: []
 requirements:
 - class: SubworkflowFeatureRequirement
