@@ -10,6 +10,8 @@ inputs:
     type: array
 - id: sql_scheme
   type: File
+- id: index
+  type: File
 
 outputs:
 - id: index
