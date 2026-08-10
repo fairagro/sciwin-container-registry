@@ -13,7 +13,9 @@ requirements:
 
 steps:
 - id: inspect
-  in: []
+  in:
+  - id: image
+    source: image
   out:
   - inspect_json
   run: ../inspect/inspect.cwl
