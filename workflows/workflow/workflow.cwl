@@ -14,3 +14,8 @@ steps:
   out:
   - inspect_json
   run: ../inspect/inspect.cwl
+- id: syft
+  in: []
+  out:
+  - output_file
+  run: ../syft/syft.cwl
