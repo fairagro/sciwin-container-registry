@@ -10,7 +10,7 @@ inputs:
     type: array
 - id: sql_scheme
   type: File
-- id: index
+- id: old_index
   type: File
 
 outputs:
@@ -48,7 +48,7 @@ steps:
   - id: sboms
     source: collect/index
   - id: index
-    source: index
+    source: old_index
   out:
   - index_sqlite
   run: index/add_index.cwl

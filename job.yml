@@ -1,3 +1,10 @@
-images: 
+images:
   - sciwin/python-datascience
   - sciwin/r-datascience
+old_index:
+  class: File
+  location: index/index.sqlite
+sql_scheme:
+  class: File
+  format: http://edamontology.org/format_3788
+  location: index.sql
