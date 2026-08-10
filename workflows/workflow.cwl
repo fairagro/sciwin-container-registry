@@ -1,25 +1,36 @@
 #!/usr/bin/env cwl-runner
-cwlVersion: v1.2
-class: Workflow
 
-requirements:
-  - class: SubworkflowFeatureRequirement
-  - class: ScatterFeatureRequirement
+class: Workflow
+cwlVersion: v1.2
 
 inputs:
-  images:
-    type: string[]
+- id: images
+  type:
+    items: string
+    type: array
 
 outputs:
-  output_files:
-    type: Directory[]
-    outputSource: scan_image/output_dir
+- id: output_files
+  outputSource: scan_image/output_file
+  type:
+    items: File
+    type: array
+
+requirements:
+- class: SubworkflowFeatureRequirement
+- class: ScatterFeatureRequirement
 
 steps:
-  - id: scan_image
-    in:
-      image: images
-    scatter: image
-    run: scan-image/workflow.cwl
-    out:
-      - output_dir
+- id: scan_image
+  in:
+  - id: image
+    source: images
+  out:
+  - output_file
+  run: scan-image/workflow.cwl
+  scatter: image
+- id: collect
+  in: []
+  out:
+  - index
+  run: collect.cwl
