@@ -8,6 +8,8 @@ inputs:
   type:
     items: string
     type: array
+- id: sql_scheme
+  type: File
 
 outputs:
 - id: index
