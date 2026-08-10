@@ -43,6 +43,8 @@ steps:
   in:
   - id: scheme
     source: sql_scheme
+  - id: sboms
+    source: collect/index
   out:
   - index_sqlite
   run: index/add_index.cwl
