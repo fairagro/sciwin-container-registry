@@ -27,4 +27,6 @@ outputs:
 requirements:
 - class: DockerRequirement
   dockerPull: anchore/syft
+- class: NetworkAccess
+  networkAccess: true
 stdout: syft.json
