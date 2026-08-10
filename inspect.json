@@ -1,0 +1,62 @@
+{
+    "Name": "docker.io/sciwin/python-datascience",
+    "Digest": "sha256:3cb1d57f1c21df316e42441331e71ea4eb6272c0b4f699e35ede75b4b8dd027d",
+    "RepoTags": [
+        "latest",
+        "v0.0.4"
+    ],
+    "Created": "2026-07-20T15:00:41.646114697Z",
+    "DockerVersion": "",
+    "Labels": {
+        "net.fairagro.sciwin.lang": "python",
+        "net.fairagro.sciwin.version": "3.13",
+        "net.fairagro.use-case": "datascience"
+    },
+    "Architecture": "amd64",
+    "Os": "linux",
+    "Layers": [
+        "sha256:062e450697faa5f02a3a74eba9864ee4d79bc9cfbd65769fc6cdff2c05c6a053",
+        "sha256:cd384decb92718ac6ca0ea7ee45412390d4550c2d90cb5ae66c1f5568c72256f",
+        "sha256:463aa101532a7abeef6c2a0f4bc54076803889e951e68c0ab73f8ce3c998e08e",
+        "sha256:4a633c382b0646fccf87ab8d848c41265bd33dffb57fc16216ad04da8ca69b0a",
+        "sha256:54ecef998e318543128f0396f18b873409a5fd75ff92fc49206aa6fcbce97018"
+    ],
+    "LayersData": [
+        {
+            "MIMEType": "application/vnd.docker.image.rootfs.diff.tar.gzip",
+            "Digest": "sha256:062e450697faa5f02a3a74eba9864ee4d79bc9cfbd65769fc6cdff2c05c6a053",
+            "Size": 29780905,
+            "Annotations": null
+        },
+        {
+            "MIMEType": "application/vnd.docker.image.rootfs.diff.tar.gzip",
+            "Digest": "sha256:cd384decb92718ac6ca0ea7ee45412390d4550c2d90cb5ae66c1f5568c72256f",
+            "Size": 1293290,
+            "Annotations": null
+        },
+        {
+            "MIMEType": "application/vnd.docker.image.rootfs.diff.tar.gzip",
+            "Digest": "sha256:463aa101532a7abeef6c2a0f4bc54076803889e951e68c0ab73f8ce3c998e08e",
+            "Size": 11887670,
+            "Annotations": null
+        },
+        {
+            "MIMEType": "application/vnd.docker.image.rootfs.diff.tar.gzip",
+            "Digest": "sha256:4a633c382b0646fccf87ab8d848c41265bd33dffb57fc16216ad04da8ca69b0a",
+            "Size": 249,
+            "Annotations": null
+        },
+        {
+            "MIMEType": "application/vnd.docker.image.rootfs.diff.tar.gzip",
+            "Digest": "sha256:54ecef998e318543128f0396f18b873409a5fd75ff92fc49206aa6fcbce97018",
+            "Size": 169942929,
+            "Annotations": null
+        }
+    ],
+    "Env": [
+        "PATH=/usr/local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin",
+        "GPG_KEY=7169605F62C751356D054A26A821E680E5FA6305",
+        "PYTHON_VERSION=3.13.14",
+        "PYTHON_SHA256=639e43243c620a308f968213df9e00f2f8f62332f7adbaa7a7eeb9783057c690"
+    ]
+}
