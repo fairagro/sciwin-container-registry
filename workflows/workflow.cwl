@@ -11,7 +11,6 @@ inputs:
 
 outputs:
 - id: output_files
-  outputSource: scan_image/output_file
   type:
     items: File
     type: array
