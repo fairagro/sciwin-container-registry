@@ -15,6 +15,8 @@ outputs:
   type:
     items: File
     type: array
+- id: inedx
+  type: Directory
 
 requirements:
 - class: SubworkflowFeatureRequirement
