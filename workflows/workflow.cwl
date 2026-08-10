@@ -13,6 +13,8 @@ outputs:
 - id: index
   outputSource: collect/index
   type: Directory
+- id: index_sqlite
+  type: File
 
 requirements:
 - class: SubworkflowFeatureRequirement
