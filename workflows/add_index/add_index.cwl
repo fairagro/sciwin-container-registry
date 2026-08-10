@@ -6,7 +6,9 @@ $namespaces:
 $schemas:
 - https://edamontology.org/EDAM.owl
 
-baseCommand: scripts/add_index.py
+baseCommand:
+- python3
+- scripts/add_index.py
 class: CommandLineTool
 cwlVersion: v1.2
 
@@ -32,7 +34,13 @@ inputs:
     prefix: --index
   type: string
 
-outputs: []
+outputs:
+- format: edam:format_1926
+  id: index_sqlite
+  outputBinding:
+    glob: $(inputs.index)
+  type: File
+
 requirements:
 - class: InitialWorkDirRequirement
   listing:
@@ -41,3 +49,4 @@ requirements:
     entryname: scripts/add_index.py
 - class: DockerRequirement
   dockerPull: python:3.12-slim
+- class: InlineJavascriptRequirement
