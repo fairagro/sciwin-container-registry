@@ -1,0 +1,3 @@
+[workflow]
+name = "container-registry"
+version = "0.1.0"
