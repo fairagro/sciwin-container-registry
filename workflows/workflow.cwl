@@ -10,7 +10,7 @@ inputs:
     type: array
 
 outputs:
-- id: inedx
+- id: index
   outputSource: collect/index
   type: Directory
 
@@ -24,11 +24,12 @@ steps:
   - id: image
     source: images
   out:
-  - output_file
+  - output
   run: scan-image/workflow.cwl
   scatter: image
 - id: collect
-  in: []
+  in: 
+    sboms: scan_image/output
   out:
   - index
   run: collect.cwl

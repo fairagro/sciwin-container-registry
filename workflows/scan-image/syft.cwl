@@ -26,11 +26,11 @@ inputs:
   type: string
 
 outputs:
-- id: output_dir
-  type: Directory
+- id: output
+  type: File
   outputBinding:
-    glob: $(inputs.digest.split(":")[1])/
-stdout: $(inputs.digest.split(":")[1])/sbom.json
+    glob: $(inputs.digest.split(":")[1]).json
+stdout: $(inputs.digest.split(":")[1]).json
 
 baseCommand: []
 $schemas:

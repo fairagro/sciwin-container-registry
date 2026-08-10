@@ -11,9 +11,9 @@ inputs:
   type: string
 
 outputs:
-- id: output_dir
-  type: Directory?
-  outputSource: syft/output_dir
+- id: output
+  type: File?
+  outputSource: syft/output
 
 steps:
 - id: inspect
@@ -31,7 +31,7 @@ steps:
     source: image
   run: syft.cwl
   out:
-  - output_dir
+  - output
 - id: digest
   in:
   - id: inspect_json
