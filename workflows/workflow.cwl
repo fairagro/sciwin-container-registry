@@ -38,3 +38,8 @@ steps:
   out:
   - index
   run: index/collect.cwl
+- id: add_index
+  in: []
+  out:
+  - index_sqlite
+  run: index/add_index.cwl
