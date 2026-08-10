@@ -12,8 +12,8 @@ inputs:
 
 outputs:
   output_files:
-    type: File[]
-    outputSource: scan_image/output_file
+    type: Directory[]
+    outputSource: scan_image/output_dir
 
 steps:
   - id: scan_image
@@ -22,4 +22,4 @@ steps:
     scatter: image
     run: scan-image/workflow.cwl
     out:
-      - output_file
+      - output_dir

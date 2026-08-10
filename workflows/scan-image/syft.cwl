@@ -26,12 +26,11 @@ inputs:
   type: string
 
 outputs:
-- id: output_file
-  type: File
-  format: edam:format_3464
+- id: output_dir
+  type: Directory
   outputBinding:
-    glob: $(inputs.digest.split(":")[1]).json
-stdout: $(inputs.digest.split(":")[1]).json
+    glob: $(inputs.digest.split(":")[1])/
+stdout: $(inputs.digest.split(":")[1])/sbom.json
 
 baseCommand: []
 $schemas:
