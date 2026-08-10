@@ -19,3 +19,8 @@ steps:
   out:
   - output_file
   run: ../syft/syft.cwl
+- id: digest
+  in: []
+  out:
+  - digest
+  run: ../digest/digest.cwl
