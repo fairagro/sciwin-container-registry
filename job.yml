@@ -1,0 +1,4 @@
+inspect_json:
+  class: File
+  location: inspect.json
+  format: edam:format_3464
