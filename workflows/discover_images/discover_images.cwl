@@ -32,6 +32,8 @@ requirements:
       $include: ../../scripts/discover_images.py
     entryname: scripts/discover_images.py
 - class: DockerRequirement
-  dockerPull: python:3.12-slim
+  dockerFile:
+    $include: ../../Dockerfile
+  dockerImageId: sciwin-container
 - class: NetworkAccess
   networkAccess: true
