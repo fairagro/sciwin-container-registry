@@ -54,10 +54,14 @@ steps:
   run: scan-image/workflow.cwl
   out:
   - output
+  - config
 - id: collect
   in:
   - id: sboms
     source: scan_image/output
+    pickValue: all_non_null
+  - id: configs
+    source: scan_image/config
     pickValue: all_non_null
   run: index/collect.cwl
   out:

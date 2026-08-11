@@ -69,7 +69,7 @@
 <text text-anchor="middle" x="284" y="-136.8" font-family="Fira Sans" font-size="14.00">add_index</text>
 </g>
 <!-- sql_scheme&#45;&gt;add_index -->
-<g id="edge5" class="edge">
+<g id="edge6" class="edge">
 <title>sql_scheme&#45;&gt;add_index</title>
 <path fill="none" stroke="#385723" stroke-width="2" d="M273.77,-371.13C275.66,-328.78 280.51,-219.92 282.78,-168.79"/>
 <polygon fill="#385723" stroke="#385723" stroke-width="2" points="286.29,-168.67 283.24,-158.52 279.3,-168.36 286.29,-168.67"/>
@@ -89,7 +89,7 @@
 <text text-anchor="middle" x="304.5" y="-345.8" font-family="Fira Sans" font-size="9.00" fill="#818281">old_index</text>
 </g>
 <!-- old_index&#45;&gt;add_index -->
-<g id="edge7" class="edge">
+<g id="edge8" class="edge">
 <title>old_index&#45;&gt;add_index</title>
 <path fill="none" stroke="#385723" stroke-width="2" d="M375.11,-371.13C358.2,-328.51 314.57,-218.55 294.45,-167.84"/>
 <polygon fill="#385723" stroke="#385723" stroke-width="2" points="297.69,-166.53 290.75,-158.52 291.19,-169.11 297.69,-166.53"/>
@@ -102,7 +102,7 @@
 <text text-anchor="middle" x="399" y="-136.8" font-family="Fira Sans" font-size="14.00">generate_api</text>
 </g>
 <!-- old_index&#45;&gt;generate_api -->
-<g id="edge8" class="edge">
+<g id="edge9" class="edge">
 <title>old_index&#45;&gt;generate_api</title>
 <path fill="none" stroke="#385723" stroke-width="2" d="M383.2,-371.13C386.11,-328.78 393.6,-219.92 397.12,-168.79"/>
 <polygon fill="#385723" stroke="#385723" stroke-width="2" points="400.63,-168.74 397.83,-158.52 393.65,-168.26 400.63,-168.74"/>
@@ -129,39 +129,46 @@
 <!-- collect -->
 <g id="node10" class="node">
 <title>collect</title>
-<polygon fill="#c5e0b4" stroke="#385723" stroke-width="2" points="173.5,-205.5 173.5,-241.5 234.5,-241.5 234.5,-205.5 173.5,-205.5"/>
-<text text-anchor="middle" x="204" y="-219.8" font-family="Fira Sans" font-size="14.00">collect</text>
+<polygon fill="#c5e0b4" stroke="#385723" stroke-width="2" points="182.5,-205.5 182.5,-241.5 243.5,-241.5 243.5,-205.5 182.5,-205.5"/>
+<text text-anchor="middle" x="213" y="-219.8" font-family="Fira Sans" font-size="14.00">collect</text>
 </g>
 <!-- scan_image&#45;&gt;collect -->
 <g id="edge4" class="edge">
 <title>scan_image&#45;&gt;collect</title>
-<path fill="none" stroke="#385723" stroke-width="2" d="M204,-288.32C204,-277.69 204,-263.81 204,-251.7"/>
-<polygon fill="#385723" stroke="#385723" stroke-width="2" points="207.5,-251.65 204,-241.65 200.5,-251.65 207.5,-251.65"/>
-<text text-anchor="middle" x="219" y="-262.8" font-family="Fira Sans" font-size="9.00" fill="#818281">sboms</text>
+<path fill="none" stroke="#385723" stroke-width="2" d="M172.55,-288.3C162.57,-280.46 155.42,-270.57 161,-260 164.19,-253.96 168.92,-248.75 174.25,-244.33"/>
+<polygon fill="#385723" stroke="#385723" stroke-width="2" points="176.35,-247.13 182.38,-238.42 172.23,-241.47 176.35,-247.13"/>
+<text text-anchor="middle" x="176" y="-262.8" font-family="Fira Sans" font-size="9.00" fill="#818281">sboms</text>
+</g>
+<!-- scan_image&#45;&gt;collect -->
+<g id="edge5" class="edge">
+<title>scan_image&#45;&gt;collect</title>
+<path fill="none" stroke="#385723" stroke-width="2" d="M205.91,-288.32C207.09,-277.69 208.63,-263.81 209.98,-251.7"/>
+<polygon fill="#385723" stroke="#385723" stroke-width="2" points="213.47,-251.98 211.09,-241.65 206.51,-251.21 213.47,-251.98"/>
+<text text-anchor="middle" x="226" y="-262.8" font-family="Fira Sans" font-size="9.00" fill="#818281">configs</text>
 </g>
 <!-- collect&#45;&gt;index -->
-<g id="edge10" class="edge">
+<g id="edge11" class="edge">
 <title>collect&#45;&gt;index</title>
-<path fill="none" stroke="#385723" stroke-width="2" d="M203.26,-205.26C202.05,-176.76 199.61,-119.62 198.16,-85.66"/>
-<polygon fill="#385723" stroke="#385723" stroke-width="2" points="201.65,-85.35 197.73,-75.51 194.66,-85.65 201.65,-85.35"/>
-<text text-anchor="middle" x="213.5" y="-138.3" font-family="Fira Sans" font-size="9.00" fill="#818281">index</text>
+<path fill="none" stroke="#385723" stroke-width="2" d="M211,-205.26C209.55,-192.49 207.57,-174.67 206,-159 203.52,-134.18 201.01,-105.87 199.28,-85.64"/>
+<polygon fill="#385723" stroke="#385723" stroke-width="2" points="202.76,-85.25 198.42,-75.58 195.78,-85.84 202.76,-85.25"/>
+<text text-anchor="middle" x="218.5" y="-138.3" font-family="Fira Sans" font-size="9.00" fill="#818281">index</text>
 </g>
 <!-- collect&#45;&gt;add_index -->
-<g id="edge6" class="edge">
+<g id="edge7" class="edge">
 <title>collect&#45;&gt;add_index</title>
-<path fill="none" stroke="#385723" stroke-width="2" d="M214.81,-205.14C220.78,-196.23 228.66,-185.5 237,-177 241.13,-172.79 245.78,-168.68 250.51,-164.83"/>
-<polygon fill="#385723" stroke="#385723" stroke-width="2" points="252.73,-167.54 258.47,-158.63 248.43,-162.01 252.73,-167.54"/>
+<path fill="none" stroke="#385723" stroke-width="2" d="M219.84,-205.41C223.97,-196.38 229.83,-185.44 237,-177 240.56,-172.81 244.7,-168.82 249.01,-165.12"/>
+<polygon fill="#385723" stroke="#385723" stroke-width="2" points="251.27,-167.8 256.88,-158.81 246.89,-162.33 251.27,-167.8"/>
 <text text-anchor="middle" x="252" y="-179.8" font-family="Fira Sans" font-size="9.00" fill="#818281">sboms</text>
 </g>
 <!-- add_index&#45;&gt;index_sqlite -->
-<g id="edge11" class="edge">
+<g id="edge12" class="edge">
 <title>add_index&#45;&gt;index_sqlite</title>
 <path fill="none" stroke="#385723" stroke-width="2" d="M285.7,-122.32C286.75,-111.69 288.12,-97.81 289.31,-85.7"/>
 <polygon fill="#385723" stroke="#385723" stroke-width="2" points="292.81,-85.95 290.31,-75.65 285.84,-85.26 292.81,-85.95"/>
 <text text-anchor="middle" x="315" y="-96.8" font-family="Fira Sans" font-size="9.00" fill="#818281">index_sqlite</text>
 </g>
 <!-- generate_api&#45;&gt;api -->
-<g id="edge12" class="edge">
+<g id="edge13" class="edge">
 <title>generate_api&#45;&gt;api</title>
 <path fill="none" stroke="#385723" stroke-width="2" d="M396.46,-122.32C394.88,-111.69 392.82,-97.81 391.03,-85.7"/>
 <polygon fill="#385723" stroke="#385723" stroke-width="2" points="394.47,-85.03 389.54,-75.65 387.54,-86.06 394.47,-85.03"/>
@@ -174,7 +181,7 @@
 <text text-anchor="middle" x="443" y="-221" font-family="Fira Sans" font-size="10.00">api</text>
 </g>
 <!-- generate_api_output&#45;&gt;generate_api -->
-<g id="edge9" class="edge">
+<g id="edge10" class="edge">
 <title>generate_api_output&#45;&gt;generate_api</title>
 <path fill="none" stroke="#385723" stroke-width="2" stroke-dasharray="5,2" d="M438.29,-213.83C432.32,-202.85 421.77,-183.42 413.1,-167.46"/>
 <polygon fill="#385723" stroke="#385723" stroke-width="2" points="416.12,-165.68 408.27,-158.56 409.97,-169.02 416.12,-165.68"/>

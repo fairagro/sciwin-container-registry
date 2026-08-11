@@ -18,6 +18,9 @@ outputs:
 - id: output
   type: File?
   outputSource: syft/output
+- id: config
+  type: File?
+  outputSource: inspect_config/config_json
 
 steps:
 - id: inspect
@@ -56,3 +59,15 @@ steps:
   run: syft.cwl
   out:
   - output
+- id: inspect_config
+  in:
+  - id: digest
+    source: digest/digest
+  - id: image
+    source: image
+  - id: skip
+    source: check_index/exists
+  when: $(!inputs.skip)
+  run: inspect_config.cwl
+  out:
+  - config_json

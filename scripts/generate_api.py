@@ -13,42 +13,50 @@ def write_json(path: Path, data):
         f.write("\n")
 
 
+def image_to_dict(image):
+    data = dict(image)
+    entrypoint = data.get("entrypoint")
+    data["entrypoint"] = json.loads(entrypoint) if entrypoint else None
+    return data
+
+
 def build_api(db_path: Path, output: Path):
     db = sqlite3.connect(db_path)
     db.row_factory = sqlite3.Row
 
     images = db.execute("""
         SELECT
-            digest, 
+            digest,
             registry,
             repository,
-            tag, 
+            tag,
             architecture,
             os,
-            size 
+            size,
+            entrypoint
         FROM images
         ORDER BY repository, tag
     """).fetchall()
 
     write_json(
         output / "images.json",
-        {"images": [dict(image) for image in images]},
+        {"images": [image_to_dict(image) for image in images]},
     )
 
     for image in images:
         digest = image["digest"]
 
         packages = db.execute(
-            """ 
-            SELECT ecosystem, name, version 
-            FROM packages 
-            WHERE image_digest = ? 
-            ORDER BY ecosystem, name 
+            """
+            SELECT ecosystem, name, version
+            FROM packages
+            WHERE image_digest = ?
+            ORDER BY ecosystem, name
         """,
             (digest,),
         ).fetchall()
 
-        data = dict(image)
+        data = image_to_dict(image)
         data["packages"] = [dict(package) for package in packages]
         write_json(
             output / "images" / f"{urllib.parse.quote_plus(digest)}.json",

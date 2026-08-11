@@ -10,6 +10,8 @@ requirements:
 inputs:
 - id: sboms
   type: File[]
+- id: configs
+  type: File[]
 
 outputs:
 - id: index
@@ -20,5 +22,14 @@ outputs:
 baseCommand: []
 arguments:
 - valueFrom: |-
-    mkdir -p sbom/sha256$(inputs.sboms.length ? " && cp " + inputs.sboms.map(function(f){return "\"" + f.path + "\""}).join(" ") + " sbom/sha256/ && gzip -9 -f sbom/sha256/*.json" : "")
+    ${
+      var cmd = "mkdir -p sbom/sha256";
+      if (inputs.sboms.length) {
+        cmd += " && cp " + inputs.sboms.map(function(f){return "\"" + f.path + "\"";}).join(" ") + " sbom/sha256/ && gzip -9 -f sbom/sha256/*.json";
+      }
+      if (inputs.configs.length) {
+        cmd += " && cp " + inputs.configs.map(function(f){return "\"" + f.path + "\"";}).join(" ") + " sbom/sha256/ && gzip -9 -f sbom/sha256/*.config.json";
+      }
+      return cmd;
+    }
   shellQuote: false

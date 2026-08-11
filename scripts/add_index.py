@@ -33,6 +33,20 @@ columns = {row[1] for row in db.execute("PRAGMA table_info(images)")}
 if "size" not in columns:
     db.execute("ALTER TABLE images ADD COLUMN size INTEGER")
     db.commit()
+if "entrypoint" not in columns:
+    db.execute("ALTER TABLE images ADD COLUMN entrypoint TEXT")
+    db.commit()
+
+
+def digest_from_filename(name):
+    if name.endswith(".gz"):
+        name = name[: -len(".gz")]
+    if name.endswith(".config.json"):
+        return name[: -len(".config.json")]
+    if name.endswith(".json"):
+        return name[: -len(".json")]
+    return name
+
 
 items = [
     os.path.join(root, f)
@@ -41,9 +55,21 @@ items = [
     if f.endswith(".json") or f.endswith(".json.gz")
 ]
 
+sbom_items = []
+configs_by_digest = {}
+
+for path in items:
+    name = os.path.basename(path)
+    opener = gzip.open if path.endswith(".gz") else open
+    if name.endswith(".config.json") or name.endswith(".config.json.gz"):
+        with opener(path, "rt", encoding="utf-8") as f:
+            configs_by_digest[digest_from_filename(name)] = json.load(f)
+    else:
+        sbom_items.append(path)
+
 scanned_at = datetime.now(timezone.utc).isoformat()
 
-for sbom_path in items:
+for sbom_path in sbom_items:
     opener = gzip.open if sbom_path.endswith(".gz") else open
     with opener(sbom_path, "rt", encoding="utf-8") as f:
         sbom = json.load(f)
@@ -66,11 +92,18 @@ for sbom_path in items:
     os_name = metadata.get("os") or None
     size = metadata.get("imageSize") or None
 
+    config = configs_by_digest.get(digest)
+    entrypoint = None
+    if config:
+        entrypoint_list = (config.get("config") or {}).get("Entrypoint")
+        if entrypoint_list:
+            entrypoint = json.dumps(entrypoint_list)
+
     db.execute(
         """
         INSERT INTO images
-            (digest, registry, repository, tag, architecture, os, size, sbom_path, scanned_at)
-        VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)
+            (digest, registry, repository, tag, architecture, os, size, entrypoint, sbom_path, scanned_at)
+        VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
         ON CONFLICT(digest) DO UPDATE SET
             registry=excluded.registry,
             repository=excluded.repository,
@@ -78,6 +111,7 @@ for sbom_path in items:
             architecture=excluded.architecture,
             os=excluded.os,
             size=excluded.size,
+            entrypoint=excluded.entrypoint,
             sbom_path=excluded.sbom_path,
             scanned_at=excluded.scanned_at
         """,
@@ -89,6 +123,7 @@ for sbom_path in items:
             architecture,
             os_name,
             size,
+            entrypoint,
             sbom_path,
             scanned_at,
         ),
