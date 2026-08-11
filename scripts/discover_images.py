@@ -19,7 +19,7 @@ def read_page(url):
 def latest_tag(namespace, repo):
     endpoint = (
         f"https://hub.docker.com/v2/repositories/{namespace}/{repo}/tags/"
-        "?page_size=1&ordering=-last_updated"
+        "?page_size=1&ordering=last_updated"
     )
     results = read_page(endpoint)
     return results[0]["name"] if results else None
@@ -28,7 +28,7 @@ def latest_tag(namespace, repo):
 images = []
 
 for namespace in args.namespaces:
-    endpoint = f"https://hub.docker.com/v2/repositories/{namespace}/?page_size=30&ordering=-last_updated"
+    endpoint = f"https://hub.docker.com/v2/repositories/{namespace}/?page_size=30&ordering=last_updated"
     results = read_page(endpoint)
     repos = [r["name"] for r in results if r["status"] == 1]
 
