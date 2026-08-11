@@ -30,7 +30,7 @@ outputs:
   type: File
   outputSource: add_index/index_sqlite
 - id: api
-  type: File
+  type: Directory
   outputSource: generate_api/api
 
 steps:
