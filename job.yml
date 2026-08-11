@@ -8,3 +8,6 @@ sql_scheme:
   class: File
   format: http://edamontology.org/format_3788
   location: index.sql
+sboms:
+  class: Directory
+  location: index/sbom

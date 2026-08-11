@@ -11,6 +11,9 @@ requirements:
   - entryname: scripts/add_index.py
     entry:
       $include: ../../scripts/add_index.py
+  - entryname: index.sqlite
+    writable: true
+    entry: $(inputs.index)
 - class: DockerRequirement
   dockerPull: python:3.12-slim
 - class: InlineJavascriptRequirement
@@ -18,22 +21,15 @@ requirements:
 inputs:
 - id: sboms
   type: Directory
-  default:
-    class: Directory
-    location: ../../sbom
   inputBinding:
     prefix: --sboms
 - id: scheme
   type: File
   format: edam:format_3788
-  default:
-    class: File
-    location: ../../index.sql
   inputBinding:
     prefix: --scheme
 - id: index
-  type: File
-  default: index.sqlite
+  type: File?
   inputBinding:
     prefix: --index
 
@@ -42,7 +38,7 @@ outputs:
   type: File
   format: edam:format_1926
   outputBinding:
-    glob: $(inputs.index)
+    glob: index.sqlite
 
 baseCommand:
 - python3

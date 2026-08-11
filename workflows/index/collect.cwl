@@ -5,13 +5,7 @@ class: CommandLineTool
 
 requirements:
 - class: InlineJavascriptRequirement
-- class: InitialWorkDirRequirement
-  listing: |
-    $([{
-      class: "Directory",
-      basename: "sbom/sha256",
-      listing: inputs.sboms
-    }])
+- class: ShellCommandRequirement
 
 inputs:
 - id: sboms
@@ -23,4 +17,8 @@ outputs:
   outputBinding:
     glob: sbom
 
-baseCommand: 'true'
+baseCommand: []
+arguments:
+- valueFrom: |-
+    mkdir -p sbom/sha256$(inputs.sboms.length ? " && cp " + inputs.sboms.map(function(f){return "\"" + f.path + "\""}).join(" ") + " sbom/sha256/" : "")
+  shellQuote: false

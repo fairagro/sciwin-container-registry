@@ -5,14 +5,18 @@ class: Workflow
 
 requirements:
 - class: SubworkflowFeatureRequirement
+- class: InlineJavascriptRequirement
+- class: StepInputExpressionRequirement
 
 inputs:
 - id: image
   type: string
+- id: old_index
+  type: File?
 
 outputs:
 - id: output
-  type: File
+  type: File?
   outputSource: syft/output
 
 steps:
@@ -23,15 +27,6 @@ steps:
   run: inspect.cwl
   out:
   - inspect_json
-- id: syft
-  in:
-  - id: digest
-    source: digest/digest
-  - id: image
-    source: image
-  run: syft.cwl
-  out:
-  - output
 - id: digest
   in:
   - id: inspect_json
@@ -39,3 +34,25 @@ steps:
   run: digest.cwl
   out:
   - digest
+- id: check_index
+  in:
+  - id: index
+    source: old_index
+  - id: digest
+    source: digest/digest
+    valueFrom: $(self.split(":").pop())
+  run: check_index.cwl
+  out:
+  - exists
+- id: syft
+  in:
+  - id: digest
+    source: digest/digest
+  - id: image
+    source: image
+  - id: skip
+    source: check_index/exists
+  when: $(!inputs.skip)
+  run: syft.cwl
+  out:
+  - output

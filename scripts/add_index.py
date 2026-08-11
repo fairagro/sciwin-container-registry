@@ -14,7 +14,11 @@ args = parser.parse_args()
 if not args.scheme and not args.index:
     raise Exception("Needs either scheme or index")
 
-db = sqlite3.connect(args.index)
+index = "index.sqlite"
+if args.index:
+    index = args.index
+
+db = sqlite3.connect(index)
 check = db.execute(
     "SELECT name FROM sqlite_master WHERE type='table' AND name='packages'"
 )
@@ -68,7 +72,16 @@ for sbom_path in items:
             sbom_path=excluded.sbom_path,
             scanned_at=excluded.scanned_at
         """,
-        (digest, registry, repository, tag, architecture, os_name, sbom_path, scanned_at),
+        (
+            digest,
+            registry,
+            repository,
+            tag,
+            architecture,
+            os_name,
+            sbom_path,
+            scanned_at,
+        ),
     )
 
     packages = [
