@@ -12,16 +12,8 @@ def read_page(url):
     res = requests.get(url)
     body = res.json()
 
-    if "results" not in body:
-        print(f"warning: stopping pagination at {url}: {body}", file=sys.stderr)
-        return []
-
-    results = body["results"]
-
-    if body.get("next"):
-        results += read_page(body["next"])
-
-    return results
+    # pagination is only allowed if login, we dont care as we build index incrementally
+    return body["results"]
 
 
 images = []
