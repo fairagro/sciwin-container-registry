@@ -2,19 +2,25 @@
   "Microsoft.PowerShell.PSReadLine": {
     "2.4.3": [
       "194a7fa006bd2f75af4193a32fc0b97456d307ce9502de9e5a3a86601e9deac8",
-      "d2c2fdb89df373750af387c96465b34a4aa77e26c278dc4f384a67ee9a8affcf"
+      "d2c2fdb89df373750af387c96465b34a4aa77e26c278dc4f384a67ee9a8affcf",
+      "51fad1dcec4a0d0db648c735bf840d49c5910403d2e82058f02220b79f9e390b",
+      "314bb6b672589b2ca153d5bdf1bf1d1eca7581040e27d5d9c66d0c81776dd1c1"
     ]
   },
   "Microsoft.PowerShell.PSReadLine.Polyfiller": {
     "1.0.0": [
       "194a7fa006bd2f75af4193a32fc0b97456d307ce9502de9e5a3a86601e9deac8",
-      "d2c2fdb89df373750af387c96465b34a4aa77e26c278dc4f384a67ee9a8affcf"
+      "d2c2fdb89df373750af387c96465b34a4aa77e26c278dc4f384a67ee9a8affcf",
+      "51fad1dcec4a0d0db648c735bf840d49c5910403d2e82058f02220b79f9e390b",
+      "314bb6b672589b2ca153d5bdf1bf1d1eca7581040e27d5d9c66d0c81776dd1c1"
     ]
   },
   "Microsoft.PowerShell.Pager": {
     "1.0.0": [
       "194a7fa006bd2f75af4193a32fc0b97456d307ce9502de9e5a3a86601e9deac8",
-      "d2c2fdb89df373750af387c96465b34a4aa77e26c278dc4f384a67ee9a8affcf"
+      "d2c2fdb89df373750af387c96465b34a4aa77e26c278dc4f384a67ee9a8affcf",
+      "51fad1dcec4a0d0db648c735bf840d49c5910403d2e82058f02220b79f9e390b",
+      "314bb6b672589b2ca153d5bdf1bf1d1eca7581040e27d5d9c66d0c81776dd1c1"
     ]
   }
 }
