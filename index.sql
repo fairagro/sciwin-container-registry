@@ -5,6 +5,7 @@ CREATE TABLE IF NOT EXISTS images (
     tag TEXT,
     architecture TEXT,
     os TEXT,
+    size INTEGER,
     sbom_path TEXT NOT NULL,
     scanned_at TEXT NOT NULL
 );

@@ -28,6 +28,11 @@ if not check.fetchone():
         cursor.executescript(f.read())
         db.commit()
 
+columns = {row[1] for row in db.execute("PRAGMA table_info(images)")}
+if "size" not in columns:
+    db.execute("ALTER TABLE images ADD COLUMN size INTEGER")
+    db.commit()
+
 items = [
     os.path.join(root, f)
     for root, _, files in os.walk(args.sboms)
@@ -57,18 +62,20 @@ for sbom_path in items:
     tag = tags[0] if tags else None
     architecture = metadata.get("architecture") or None
     os_name = metadata.get("os") or None
+    size = metadata.get("imageSize") or None
 
     db.execute(
         """
         INSERT INTO images
-            (digest, registry, repository, tag, architecture, os, sbom_path, scanned_at)
-        VALUES (?, ?, ?, ?, ?, ?, ?, ?)
+            (digest, registry, repository, tag, architecture, os, size, sbom_path, scanned_at)
+        VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)
         ON CONFLICT(digest) DO UPDATE SET
             registry=excluded.registry,
             repository=excluded.repository,
             tag=excluded.tag,
             architecture=excluded.architecture,
             os=excluded.os,
+            size=excluded.size,
             sbom_path=excluded.sbom_path,
             scanned_at=excluded.scanned_at
         """,
@@ -79,6 +86,7 @@ for sbom_path in items:
             tag,
             architecture,
             os_name,
+            size,
             sbom_path,
             scanned_at,
         ),
