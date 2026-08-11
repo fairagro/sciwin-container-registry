@@ -20,7 +20,11 @@ CREATE TABLE IF NOT EXISTS packages (
         image_digest,
         ecosystem,
         name
+        version
     )
+
+    FOREIGN KEY (image_digest)
+        REFERENCES images(digest)
 );
 
 CREATE INDEX IF NOT EXISTS packages_name
