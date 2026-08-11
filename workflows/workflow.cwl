@@ -80,7 +80,7 @@ steps:
 - id: generate_api
   in:
   - id: db
-    source: old_index
+    source: add_index/index_sqlite
   run: index/generate_api.cwl
   out:
   - api
