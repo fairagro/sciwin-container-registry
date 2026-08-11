@@ -1,3 +1,4 @@
+import gzip
 import json
 import sqlite3
 import os
@@ -37,13 +38,14 @@ items = [
     os.path.join(root, f)
     for root, _, files in os.walk(args.sboms)
     for f in files
-    if f.endswith(".json")
+    if f.endswith(".json") or f.endswith(".json.gz")
 ]
 
 scanned_at = datetime.now(timezone.utc).isoformat()
 
 for sbom_path in items:
-    with open(sbom_path, "r", encoding="utf-8") as f:
+    opener = gzip.open if sbom_path.endswith(".gz") else open
+    with opener(sbom_path, "rt", encoding="utf-8") as f:
         sbom = json.load(f)
 
     source = sbom["source"]

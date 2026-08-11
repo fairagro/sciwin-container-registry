@@ -20,5 +20,5 @@ outputs:
 baseCommand: []
 arguments:
 - valueFrom: |-
-    mkdir -p sbom/sha256$(inputs.sboms.length ? " && cp " + inputs.sboms.map(function(f){return "\"" + f.path + "\""}).join(" ") + " sbom/sha256/" : "")
+    mkdir -p sbom/sha256$(inputs.sboms.length ? " && cp " + inputs.sboms.map(function(f){return "\"" + f.path + "\""}).join(" ") + " sbom/sha256/ && gzip -9 -f sbom/sha256/*.json" : "")
   shellQuote: false
