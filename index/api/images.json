@@ -11,11 +11,83 @@
     },
     {
       "architecture": null,
+      "digest": "ab5e68068ff56baf59b79f995b5425edba9f61cc86a5476357db87ec2670899d",
+      "os": null,
+      "registry": "docker.io",
+      "repository": "biocontainers/bcftools",
+      "size": 178983556,
+      "tag": null
+    },
+    {
+      "architecture": null,
+      "digest": "c042e405f356bb44cc0d7a87b4528d793afb581f0961db1d6da6e0a7e1fd3467",
+      "os": null,
+      "registry": "docker.io",
+      "repository": "biocontainers/bedtools",
+      "size": 119424021,
+      "tag": null
+    },
+    {
+      "architecture": "amd64",
+      "digest": "5212f412778ac903098c4cff50f70a47200816dae81abd2ce5ed38cd7eb38b94",
+      "os": "linux",
+      "registry": "docker.io",
+      "repository": "biocontainers/biocontainers",
+      "size": 167361689,
+      "tag": null
+    },
+    {
+      "architecture": null,
+      "digest": "238717ec69830ec62a19fc05c6f70183f218a13f7678864060f0157dc63dc54f",
+      "os": null,
+      "registry": "docker.io",
+      "repository": "biocontainers/blast",
+      "size": 2032213484,
+      "tag": null
+    },
+    {
+      "architecture": null,
+      "digest": "47148858f55463c2432564eff631726c77a7d0e598f35e806a1cbcd6ce30be1a",
+      "os": null,
+      "registry": "docker.io",
+      "repository": "biocontainers/bowtie2",
+      "size": 862189444,
+      "tag": null
+    },
+    {
+      "architecture": null,
+      "digest": "9479b73e108ded3c12cb88bb4e918a5bf720d7861d6d8cdbb46d78a972b6ff1b",
+      "os": null,
+      "registry": "docker.io",
+      "repository": "biocontainers/bwa",
+      "size": 956429196,
+      "tag": null
+    },
+    {
+      "architecture": null,
+      "digest": "7a226e76850a35184b3d08d2fc68c6d3656657c181ba0680c272b5024a30c18e",
+      "os": null,
+      "registry": "docker.io",
+      "repository": "biocontainers/comet",
+      "size": 1145270398,
+      "tag": null
+    },
+    {
+      "architecture": null,
       "digest": "363766d7f9dd4da2877330ef4fd779b3f2a2c3be50ba4387df6d01cc9c78b345",
       "os": null,
       "registry": "docker.io",
       "repository": "biocontainers/container-mtbls-dwnld",
       "size": 610976482,
+      "tag": null
+    },
+    {
+      "architecture": null,
+      "digest": "39426d212e396e16e3d5659701d764e02aaf8b4455466c488f51d7bc00f47b9f",
+      "os": null,
+      "registry": "docker.io",
+      "repository": "biocontainers/control-freec",
+      "size": 1805893365,
       "tag": null
     },
     {
@@ -29,11 +101,47 @@
     },
     {
       "architecture": null,
+      "digest": "20ff95cc6f95a39ff85118a1451e0bce1482a92adf5fb50bdc15eeba547ad39d",
+      "os": null,
+      "registry": "docker.io",
+      "repository": "biocontainers/diann",
+      "size": 1517811888,
+      "tag": null
+    },
+    {
+      "architecture": null,
+      "digest": "45f7de44bcc525f4b02bb48a27df0c6e4d713c57c2a022cd9164ffbd02e1670b",
+      "os": null,
+      "registry": "docker.io",
+      "repository": "biocontainers/emboss",
+      "size": 638229463,
+      "tag": null
+    },
+    {
+      "architecture": null,
+      "digest": "82e5fa413d275a72c3de76e400a3d12a93ebdb4e1ef5391d7f7e9ce686671d8d",
+      "os": null,
+      "registry": "docker.io",
+      "repository": "biocontainers/fastqc",
+      "size": 838615564,
+      "tag": null
+    },
+    {
+      "architecture": null,
       "digest": "a15c32f456822ce6e94489aabf081b4b10a91a2322623becabad62170bc98487",
       "os": null,
       "registry": "docker.io",
       "repository": "biocontainers/galaxy-rna-seq-training",
       "size": 11255898753,
+      "tag": null
+    },
+    {
+      "architecture": null,
+      "digest": "252221e7dfb942c8df8f3526944b7470bc4e7448ade7921180a248468de8522b",
+      "os": null,
+      "registry": "docker.io",
+      "repository": "biocontainers/guidance2",
+      "size": 664765101,
       "tag": null
     },
     {
@@ -110,6 +218,33 @@
     },
     {
       "architecture": null,
+      "digest": "05a6dd401d47c930191fa8c017b2cf60c099c4da236f134586a2f3610e426229",
+      "os": null,
+      "registry": "docker.io",
+      "repository": "biocontainers/picard",
+      "size": 1258154443,
+      "tag": null
+    },
+    {
+      "architecture": null,
+      "digest": "55513f9b0bda5403e31dec41142447045650e28a2accf3d0dd7e548b301c3a88",
+      "os": null,
+      "registry": "docker.io",
+      "repository": "biocontainers/picard-tools",
+      "size": 975413533,
+      "tag": null
+    },
+    {
+      "architecture": null,
+      "digest": "17e280b12dd9101afa2f9a49e8dcf2b1bd2ac34380c21d8e4e677ffbc5dbbe27",
+      "os": null,
+      "registry": "docker.io",
+      "repository": "biocontainers/plink1.9",
+      "size": 138195872,
+      "tag": null
+    },
+    {
+      "architecture": null,
       "digest": "14a5d446d19dfe53216793d79b045f8f7f6f31edcb8d073fe1118f710c6bd794",
       "os": null,
       "registry": "docker.io",
@@ -128,6 +263,15 @@
     },
     {
       "architecture": null,
+      "digest": "da61624fda230e94867c9429ca1112e1e77c24e500b52dfc84eaf2f5820b4a2a",
+      "os": null,
+      "registry": "docker.io",
+      "repository": "biocontainers/samtools",
+      "size": 665556606,
+      "tag": null
+    },
+    {
+      "architecture": null,
       "digest": "b42b97e08804772c6f778a10714ddfb0664c31468ae2a969c6f453f07c1f86b1",
       "os": null,
       "registry": "docker.io",
@@ -142,6 +286,33 @@
       "registry": "docker.io",
       "repository": "biocontainers/soap-nmr",
       "size": 1000947829,
+      "tag": null
+    },
+    {
+      "architecture": null,
+      "digest": "7e093436d00c01cf6ad7b285680bf1657f9fcb692cc083c972e5df5a7e951f49",
+      "os": null,
+      "registry": "docker.io",
+      "repository": "biocontainers/tabix",
+      "size": 131461218,
+      "tag": null
+    },
+    {
+      "architecture": null,
+      "digest": "05748cad5faceab2a1a9ab072d2cbee20d1c95d587ac6ba2dbdf913c7f6849f4",
+      "os": null,
+      "registry": "docker.io",
+      "repository": "biocontainers/talon",
+      "size": 703058085,
+      "tag": null
+    },
+    {
+      "architecture": null,
+      "digest": "caa02f1a00f18e1509ff3097cabaebb37b3ab884082ca983b3d7b7b7d13c6744",
+      "os": null,
+      "registry": "docker.io",
+      "repository": "biocontainers/vcftools",
+      "size": 178756475,
       "tag": null
     },
     {
