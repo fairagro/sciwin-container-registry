@@ -1,0 +1,63 @@
+---
+import Layout from "../layouts/Layout.astro";
+import { getImages, formatBytes, shortDigest } from "../lib/api";
+
+const base = import.meta.env.BASE_URL;
+const images = getImages();
+---
+
+<Layout title="Images" active="images">
+  <div class="toolbar">
+    <input
+      type="search"
+      data-filter="images-table"
+      data-count-target="images-count"
+      placeholder="Filter by repository, tag, registry or digest…"
+    />
+    <span class="count" id="images-count">{images.length} of {images.length}</span>
+  </div>
+  <table id="images-table" data-sortable>
+    <thead>
+      <tr>
+        <th data-key="repository">Repository</th>
+        <th data-key="tag">Tag</th>
+        <th data-key="registry">Registry</th>
+        <th>Arch / OS</th>
+        <th data-key="size">Size</th>
+        <th data-key="digest">Digest</th>
+      </tr>
+    </thead>
+    <tbody>
+      {
+        images.map((img) => (
+          <tr
+            data-search={`${img.repository} ${img.tag ?? ""} ${img.registry} ${img.digest}`.toLowerCase()}
+            data-repository={img.repository}
+            data-tag={img.tag ?? ""}
+            data-registry={img.registry}
+            data-size={img.size ?? ""}
+            data-digest={img.digest}
+          >
+            <td>{img.repository}</td>
+            <td>{img.tag ? img.tag : <span class="muted">–</span>}</td>
+            <td>{img.registry}</td>
+            <td class="muted">
+              {img.architecture ?? "–"} / {img.os ?? "–"}
+            </td>
+            <td>{formatBytes(img.size)}</td>
+            <td>
+              <a class="digest-link" href={`${base}images/${img.digest}/`}>
+                {shortDigest(img.digest)}
+              </a>
+            </td>
+          </tr>
+        ))
+      }
+    </tbody>
+  </table>
+  {images.length === 0 && <div class="state">No images found.</div>}
+
+  <script>
+    import "../scripts/interactive-table.js";
+  </script>
+</Layout>

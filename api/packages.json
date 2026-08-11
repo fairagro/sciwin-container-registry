@@ -1,0 +1,15 @@
+{
+  "ecosystems": [
+    "R-package",
+    "apk",
+    "binary",
+    "deb",
+    "dotnet",
+    "gem",
+    "go-module",
+    "java-archive",
+    "npm",
+    "python",
+    "rust-crate"
+  ]
+}

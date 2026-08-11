@@ -1,0 +1,79 @@
+---
+import Layout from "../../layouts/Layout.astro";
+import { getEcosystems, getEcosystemPackages, shortDigest } from "../../lib/api";
+
+interface Row {
+  name: string;
+  version: string;
+  digests: string[];
+}
+
+export function getStaticPaths() {
+  return getEcosystems().map((ecosystem) => {
+    const data = getEcosystemPackages(ecosystem);
+    const rows: Row[] = [];
+    for (const [name, versions] of Object.entries(data)) {
+      for (const [version, digests] of Object.entries(versions)) {
+        rows.push({ name, version, digests });
+      }
+    }
+    return { params: { ecosystem }, props: { ecosystem, rows } };
+  });
+}
+
+const { ecosystem, rows } = Astro.props as { ecosystem: string; rows: Row[] };
+const base = import.meta.env.BASE_URL;
+---
+
+<Layout title={ecosystem} active="packages">
+  <a class="back" href={`${base}packages/`}>&larr; Back to packages</a>
+  <h1 class="section-title"><span class="badge">{ecosystem}</span></h1>
+  <p class="raw-link">
+    <a href={`${base}api/packages/${ecosystem}.json`}>View raw JSON ↗</a>
+  </p>
+
+  <div class="toolbar">
+    <input
+      type="search"
+      data-filter="ecosystem-table"
+      data-count-target="ecosystem-count"
+      placeholder="Filter by package name or version…"
+    />
+    <span class="count" id="ecosystem-count">{rows.length} of {rows.length}</span>
+  </div>
+  <table id="ecosystem-table" data-sortable>
+    <thead>
+      <tr>
+        <th data-key="name">Name</th>
+        <th data-key="version">Version</th>
+        <th>Images</th>
+      </tr>
+    </thead>
+    <tbody>
+      {
+        rows.map((row) => (
+          <tr
+            data-search={`${row.name} ${row.version}`.toLowerCase()}
+            data-name={row.name}
+            data-version={row.version}
+          >
+            <td class="mono">{row.name}</td>
+            <td class="mono muted">{row.version}</td>
+            <td>
+              {row.digests.map((digest) => (
+                <a class="digest-pill" href={`${base}images/${digest}/`}>
+                  {shortDigest(digest)}
+                </a>
+              ))}
+            </td>
+          </tr>
+        ))
+      }
+    </tbody>
+  </table>
+  {rows.length === 0 && <div class="state">No packages found for this ecosystem.</div>}
+
+  <script>
+    import "../../scripts/interactive-table.js";
+  </script>
+</Layout>

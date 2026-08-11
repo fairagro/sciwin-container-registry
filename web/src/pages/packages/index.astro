@@ -1,0 +1,21 @@
+---
+import Layout from "../../layouts/Layout.astro";
+import { getEcosystems } from "../../lib/api";
+
+const base = import.meta.env.BASE_URL;
+const ecosystems = getEcosystems();
+---
+
+<Layout title="Packages" active="packages">
+  <h1 class="section-title">Package Ecosystems</h1>
+  <div class="chip-grid">
+    {
+      ecosystems.map((eco) => (
+        <a class="chip" href={`${base}packages/${eco}/`}>
+          <span class="name">{eco}</span>
+        </a>
+      ))
+    }
+  </div>
+  {ecosystems.length === 0 && <div class="state">No package ecosystems found.</div>}
+</Layout>

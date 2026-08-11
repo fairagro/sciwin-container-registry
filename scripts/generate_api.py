@@ -87,6 +87,11 @@ def build_api(db_path: Path, output: Path):
             packages_for_ecosystem,
         )
 
+    write_json(
+        output / "packages.json",
+        {"ecosystems": sorted(ecosystem_index.keys())},
+    )
+
     db.close()
 
 

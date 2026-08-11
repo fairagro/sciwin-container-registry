@@ -1,0 +1,97 @@
+---
+import Layout from "../../layouts/Layout.astro";
+import { getImages, getImageDetail, formatBytes } from "../../lib/api";
+
+export function getStaticPaths() {
+  return getImages().map((img) => ({
+    params: { digest: img.digest },
+    props: { detail: getImageDetail(img.digest) },
+  }));
+}
+
+const { detail } = Astro.props;
+const base = import.meta.env.BASE_URL;
+const title = detail.tag ? `${detail.repository}:${detail.tag}` : detail.repository;
+---
+
+<Layout title={title} active="images">
+  <a class="back" href={base}>&larr; Back to images</a>
+  <div class="detail-card">
+    <h1 class="detail-title">{title}</h1>
+    <dl class="kv-grid">
+      <div>
+        <dt>Registry</dt>
+        <dd>{detail.registry}</dd>
+      </div>
+      <div>
+        <dt>Digest</dt>
+        <dd>{detail.digest}</dd>
+      </div>
+      <div>
+        <dt>Architecture</dt>
+        <dd>{detail.architecture ?? "–"}</dd>
+      </div>
+      <div>
+        <dt>OS</dt>
+        <dd>{detail.os ?? "–"}</dd>
+      </div>
+      <div>
+        <dt>Size</dt>
+        <dd>{formatBytes(detail.size)}</dd>
+      </div>
+      <div>
+        <dt>Packages</dt>
+        <dd>{detail.packages.length}</dd>
+      </div>
+    </dl>
+    <p class="raw-link">
+      <a href={`${base}api/images/${detail.digest}.json`}>View raw JSON ↗</a>
+    </p>
+  </div>
+
+  <div class="toolbar">
+    <input
+      type="search"
+      data-filter="packages-table"
+      data-count-target="packages-count"
+      placeholder="Filter packages by ecosystem, name or version…"
+    />
+    <span class="count" id="packages-count">
+      {detail.packages.length} of {detail.packages.length}
+    </span>
+  </div>
+  <table id="packages-table" data-sortable>
+    <thead>
+      <tr>
+        <th data-key="ecosystem">Ecosystem</th>
+        <th data-key="name">Name</th>
+        <th data-key="version">Version</th>
+      </tr>
+    </thead>
+    <tbody>
+      {
+        detail.packages.map((pkg) => (
+          <tr
+            data-search={`${pkg.ecosystem} ${pkg.name} ${pkg.version}`.toLowerCase()}
+            data-ecosystem={pkg.ecosystem}
+            data-name={pkg.name}
+            data-version={pkg.version}
+          >
+            <td>
+              <a href={`${base}packages/${pkg.ecosystem}/`}>
+                <span class="badge">{pkg.ecosystem}</span>
+              </a>
+            </td>
+            <td class="mono">{pkg.name}</td>
+            <td class="mono muted">{pkg.version}</td>
+          </tr>
+        ))
+      }
+    </tbody>
+  </table>
+  {detail.packages.length === 0 && <div class="state">No packages recorded for this image.</div>}
+
+  <script>
+    import "../../scripts/interactive-table.js";
+  </script>
+</Layout>

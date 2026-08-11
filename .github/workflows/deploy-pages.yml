@@ -1,4 +1,4 @@
-name: 📚 Deploy API to Pages
+name: 📚 Deploy Site to Pages
 
 on:
     workflow_run:
@@ -29,8 +29,18 @@ jobs:
               with:
                   ref: main
             - uses: actions/configure-pages@v5
+            - uses: actions/setup-node@v4
+              with:
+                  node-version: "22"
+                  cache: "npm"
+                  cache-dependency-path: web/package-lock.json
+            - working-directory: web
+              run: npm ci
+            - working-directory: web
+              run: npm run build
             - run: |
-                  mkdir -p _site/api
+                  mkdir -p _site
+                  cp -r web/dist/. _site/
                   cp -r api/. _site/api/
             - uses: actions/upload-pages-artifact@v3
               with:
