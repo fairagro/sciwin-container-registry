@@ -1,6 +1,11 @@
+namespaces:
+  - sciwin
+  - biocontainers
 images:
-  - sciwin/python-datascience
-  - sciwin/r-datascience
+  - python:3.14-slim
+  - python:3.13-slim
+  - python:3.12-slim
+  - python:3.11-slim
 old_index:
   class: File
   location: index/index.sqlite
