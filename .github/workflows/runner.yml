@@ -1,0 +1,26 @@
+name: 🚀 Generate Data
+
+on:
+    push:
+        branches: ["master"] # runs on push to master
+    schedule:
+        - cron: "0 0 * * *" # runs every day
+
+jobs:
+    run:
+        runs-on: ubuntu-latest
+        permissions:
+            contents: write
+        steps:
+            - uses: actions/checkout@v4
+            - uses: actions/setup-python@v5
+              with:
+                  python-version: "3.11"
+            - run: pip install cwltool
+
+            - run: cwltool --quiet workflows/workflow.cwl job.yml
+            - uses: stefanzweifel/git-auto-commit-action@v7
+              with:
+                  commit_message: |
+                      Updated Metrics data
+                  commit_author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
