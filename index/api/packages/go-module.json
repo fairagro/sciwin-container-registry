@@ -1,0 +1,1557 @@
+{
+  "aead.dev/minisign": {
+    "v0.3.0": [
+      "4421ea7d63b408f6893d368e3ea0f3738efa5997ae9bd26e572c654fe31dfbe5"
+    ]
+  },
+  "charm.land/bubbles/v2": {
+    "v2.1.1": [
+      "194a7fa006bd2f75af4193a32fc0b97456d307ce9502de9e5a3a86601e9deac8",
+      "d2c2fdb89df373750af387c96465b34a4aa77e26c278dc4f384a67ee9a8affcf"
+    ]
+  },
+  "charm.land/bubbletea/v2": {
+    "v2.0.8": [
+      "194a7fa006bd2f75af4193a32fc0b97456d307ce9502de9e5a3a86601e9deac8",
+      "d2c2fdb89df373750af387c96465b34a4aa77e26c278dc4f384a67ee9a8affcf"
+    ]
+  },
+  "charm.land/huh/v2": {
+    "v2.0.3": [
+      "194a7fa006bd2f75af4193a32fc0b97456d307ce9502de9e5a3a86601e9deac8",
+      "d2c2fdb89df373750af387c96465b34a4aa77e26c278dc4f384a67ee9a8affcf"
+    ]
+  },
+  "charm.land/lipgloss/v2": {
+    "v2.0.5": [
+      "194a7fa006bd2f75af4193a32fc0b97456d307ce9502de9e5a3a86601e9deac8",
+      "d2c2fdb89df373750af387c96465b34a4aa77e26c278dc4f384a67ee9a8affcf"
+    ]
+  },
+  "dario.cat/mergo": {
+    "v1.0.2": [
+      "194a7fa006bd2f75af4193a32fc0b97456d307ce9502de9e5a3a86601e9deac8",
+      "d2c2fdb89df373750af387c96465b34a4aa77e26c278dc4f384a67ee9a8affcf"
+    ]
+  },
+  "github.com/AlecAivazis/survey/v2": {
+    "v2.3.7": [
+      "194a7fa006bd2f75af4193a32fc0b97456d307ce9502de9e5a3a86601e9deac8",
+      "d2c2fdb89df373750af387c96465b34a4aa77e26c278dc4f384a67ee9a8affcf"
+    ]
+  },
+  "github.com/GehirnInc/crypt": {
+    "v0.0.0-20230320061759-8cc1b52080c5": [
+      "5dce84d9d79eaa937c1478455915c09bf27c159a10b90f2a5968cfd604f7b8d3",
+      "fbf62b6ca344dbedba46e3eb5dec4eb5e0dbd6e2554e8774d6ca8f6f68c60a52"
+    ]
+  },
+  "github.com/MakeNowJust/heredoc": {
+    "v1.0.0": [
+      "194a7fa006bd2f75af4193a32fc0b97456d307ce9502de9e5a3a86601e9deac8",
+      "d2c2fdb89df373750af387c96465b34a4aa77e26c278dc4f384a67ee9a8affcf"
+    ]
+  },
+  "github.com/Masterminds/goutils": {
+    "v1.1.1": [
+      "194a7fa006bd2f75af4193a32fc0b97456d307ce9502de9e5a3a86601e9deac8",
+      "d2c2fdb89df373750af387c96465b34a4aa77e26c278dc4f384a67ee9a8affcf"
+    ]
+  },
+  "github.com/Masterminds/semver/v3": {
+    "v3.4.0": [
+      "194a7fa006bd2f75af4193a32fc0b97456d307ce9502de9e5a3a86601e9deac8",
+      "d2c2fdb89df373750af387c96465b34a4aa77e26c278dc4f384a67ee9a8affcf"
+    ]
+  },
+  "github.com/Masterminds/sprig/v3": {
+    "v3.3.0": [
+      "194a7fa006bd2f75af4193a32fc0b97456d307ce9502de9e5a3a86601e9deac8",
+      "d2c2fdb89df373750af387c96465b34a4aa77e26c278dc4f384a67ee9a8affcf"
+    ]
+  },
+  "github.com/VividCortex/ewma": {
+    "v1.2.0": [
+      "4421ea7d63b408f6893d368e3ea0f3738efa5997ae9bd26e572c654fe31dfbe5"
+    ]
+  },
+  "github.com/acarl005/stripansi": {
+    "v0.0.0-20180116102854-5a71ef0e047d": [
+      "4421ea7d63b408f6893d368e3ea0f3738efa5997ae9bd26e572c654fe31dfbe5"
+    ]
+  },
+  "github.com/alecthomas/chroma/v2": {
+    "v2.19.0": [
+      "194a7fa006bd2f75af4193a32fc0b97456d307ce9502de9e5a3a86601e9deac8",
+      "d2c2fdb89df373750af387c96465b34a4aa77e26c278dc4f384a67ee9a8affcf"
+    ]
+  },
+  "github.com/asaskevich/govalidator": {
+    "v0.0.0-20230301143203-a9d515a09cc2": [
+      "194a7fa006bd2f75af4193a32fc0b97456d307ce9502de9e5a3a86601e9deac8",
+      "d2c2fdb89df373750af387c96465b34a4aa77e26c278dc4f384a67ee9a8affcf"
+    ]
+  },
+  "github.com/atotto/clipboard": {
+    "v0.1.4": [
+      "194a7fa006bd2f75af4193a32fc0b97456d307ce9502de9e5a3a86601e9deac8",
+      "d2c2fdb89df373750af387c96465b34a4aa77e26c278dc4f384a67ee9a8affcf"
+    ]
+  },
+  "github.com/aymanbagabas/go-osc52/v2": {
+    "v2.0.1": [
+      "194a7fa006bd2f75af4193a32fc0b97456d307ce9502de9e5a3a86601e9deac8",
+      "4421ea7d63b408f6893d368e3ea0f3738efa5997ae9bd26e572c654fe31dfbe5",
+      "d2c2fdb89df373750af387c96465b34a4aa77e26c278dc4f384a67ee9a8affcf"
+    ]
+  },
+  "github.com/aymerick/douceur": {
+    "v0.2.0": [
+      "194a7fa006bd2f75af4193a32fc0b97456d307ce9502de9e5a3a86601e9deac8",
+      "d2c2fdb89df373750af387c96465b34a4aa77e26c278dc4f384a67ee9a8affcf"
+    ]
+  },
+  "github.com/beorn7/perks": {
+    "v1.0.1": [
+      "4421ea7d63b408f6893d368e3ea0f3738efa5997ae9bd26e572c654fe31dfbe5"
+    ]
+  },
+  "github.com/blang/semver": {
+    "v3.5.1+incompatible": [
+      "194a7fa006bd2f75af4193a32fc0b97456d307ce9502de9e5a3a86601e9deac8",
+      "d2c2fdb89df373750af387c96465b34a4aa77e26c278dc4f384a67ee9a8affcf"
+    ]
+  },
+  "github.com/briandowns/spinner": {
+    "v1.23.2": [
+      "194a7fa006bd2f75af4193a32fc0b97456d307ce9502de9e5a3a86601e9deac8",
+      "d2c2fdb89df373750af387c96465b34a4aa77e26c278dc4f384a67ee9a8affcf"
+    ]
+  },
+  "github.com/canonical/go-flags": {
+    "v0.0.0-20230403090104-105d09a091b8": [
+      "5dce84d9d79eaa937c1478455915c09bf27c159a10b90f2a5968cfd604f7b8d3",
+      "fbf62b6ca344dbedba46e3eb5dec4eb5e0dbd6e2554e8774d6ca8f6f68c60a52"
+    ]
+  },
+  "github.com/canonical/pebble": {
+    "v1.32.1-0.20260630051629-e583e44ebd02": [
+      "5dce84d9d79eaa937c1478455915c09bf27c159a10b90f2a5968cfd604f7b8d3"
+    ],
+    "v1.32.2-0.20260721212935-faa1696b477d": [
+      "fbf62b6ca344dbedba46e3eb5dec4eb5e0dbd6e2554e8774d6ca8f6f68c60a52"
+    ]
+  },
+  "github.com/canonical/x-go": {
+    "v0.0.0-20230522092633-7947a7587f5b": [
+      "5dce84d9d79eaa937c1478455915c09bf27c159a10b90f2a5968cfd604f7b8d3",
+      "fbf62b6ca344dbedba46e3eb5dec4eb5e0dbd6e2554e8774d6ca8f6f68c60a52"
+    ]
+  },
+  "github.com/catppuccin/go": {
+    "v0.3.0": [
+      "194a7fa006bd2f75af4193a32fc0b97456d307ce9502de9e5a3a86601e9deac8",
+      "d2c2fdb89df373750af387c96465b34a4aa77e26c278dc4f384a67ee9a8affcf"
+    ]
+  },
+  "github.com/cenkalti/backoff/v4": {
+    "v4.3.0": [
+      "194a7fa006bd2f75af4193a32fc0b97456d307ce9502de9e5a3a86601e9deac8",
+      "d2c2fdb89df373750af387c96465b34a4aa77e26c278dc4f384a67ee9a8affcf"
+    ]
+  },
+  "github.com/cenkalti/backoff/v5": {
+    "v5.0.3": [
+      "194a7fa006bd2f75af4193a32fc0b97456d307ce9502de9e5a3a86601e9deac8",
+      "d2c2fdb89df373750af387c96465b34a4aa77e26c278dc4f384a67ee9a8affcf"
+    ]
+  },
+  "github.com/cespare/xxhash/v2": {
+    "v2.3.0": [
+      "194a7fa006bd2f75af4193a32fc0b97456d307ce9502de9e5a3a86601e9deac8",
+      "4421ea7d63b408f6893d368e3ea0f3738efa5997ae9bd26e572c654fe31dfbe5",
+      "d2c2fdb89df373750af387c96465b34a4aa77e26c278dc4f384a67ee9a8affcf"
+    ]
+  },
+  "github.com/charmbracelet/bubbles": {
+    "v0.20.0": [
+      "4421ea7d63b408f6893d368e3ea0f3738efa5997ae9bd26e572c654fe31dfbe5"
+    ]
+  },
+  "github.com/charmbracelet/bubbletea": {
+    "v1.3.4": [
+      "4421ea7d63b408f6893d368e3ea0f3738efa5997ae9bd26e572c654fe31dfbe5"
+    ]
+  },
+  "github.com/charmbracelet/colorprofile": {
+    "v0.4.3": [
+      "194a7fa006bd2f75af4193a32fc0b97456d307ce9502de9e5a3a86601e9deac8",
+      "d2c2fdb89df373750af387c96465b34a4aa77e26c278dc4f384a67ee9a8affcf"
+    ]
+  },
+  "github.com/charmbracelet/glamour": {
+    "v0.10.0": [
+      "194a7fa006bd2f75af4193a32fc0b97456d307ce9502de9e5a3a86601e9deac8",
+      "d2c2fdb89df373750af387c96465b34a4aa77e26c278dc4f384a67ee9a8affcf"
+    ]
+  },
+  "github.com/charmbracelet/lipgloss": {
+    "v1.0.0": [
+      "4421ea7d63b408f6893d368e3ea0f3738efa5997ae9bd26e572c654fe31dfbe5"
+    ],
+    "v1.1.1-0.20250404203927-76690c660834": [
+      "194a7fa006bd2f75af4193a32fc0b97456d307ce9502de9e5a3a86601e9deac8",
+      "d2c2fdb89df373750af387c96465b34a4aa77e26c278dc4f384a67ee9a8affcf"
+    ]
+  },
+  "github.com/charmbracelet/ultraviolet": {
+    "v0.0.0-20260703014108-f5a850f9c2b7": [
+      "194a7fa006bd2f75af4193a32fc0b97456d307ce9502de9e5a3a86601e9deac8",
+      "d2c2fdb89df373750af387c96465b34a4aa77e26c278dc4f384a67ee9a8affcf"
+    ]
+  },
+  "github.com/charmbracelet/x/ansi": {
+    "v0.11.7": [
+      "194a7fa006bd2f75af4193a32fc0b97456d307ce9502de9e5a3a86601e9deac8",
+      "d2c2fdb89df373750af387c96465b34a4aa77e26c278dc4f384a67ee9a8affcf"
+    ],
+    "v0.8.0": [
+      "4421ea7d63b408f6893d368e3ea0f3738efa5997ae9bd26e572c654fe31dfbe5"
+    ]
+  },
+  "github.com/charmbracelet/x/cellbuf": {
+    "v0.0.15": [
+      "194a7fa006bd2f75af4193a32fc0b97456d307ce9502de9e5a3a86601e9deac8",
+      "d2c2fdb89df373750af387c96465b34a4aa77e26c278dc4f384a67ee9a8affcf"
+    ]
+  },
+  "github.com/charmbracelet/x/exp/ordered": {
+    "v0.1.0": [
+      "194a7fa006bd2f75af4193a32fc0b97456d307ce9502de9e5a3a86601e9deac8",
+      "d2c2fdb89df373750af387c96465b34a4aa77e26c278dc4f384a67ee9a8affcf"
+    ]
+  },
+  "github.com/charmbracelet/x/exp/slice": {
+    "v0.0.0-20250630141444-821143405392": [
+      "194a7fa006bd2f75af4193a32fc0b97456d307ce9502de9e5a3a86601e9deac8",
+      "d2c2fdb89df373750af387c96465b34a4aa77e26c278dc4f384a67ee9a8affcf"
+    ]
+  },
+  "github.com/charmbracelet/x/exp/strings": {
+    "v0.0.0-20250630141444-821143405392": [
+      "194a7fa006bd2f75af4193a32fc0b97456d307ce9502de9e5a3a86601e9deac8",
+      "d2c2fdb89df373750af387c96465b34a4aa77e26c278dc4f384a67ee9a8affcf"
+    ]
+  },
+  "github.com/charmbracelet/x/term": {
+    "v0.2.1": [
+      "4421ea7d63b408f6893d368e3ea0f3738efa5997ae9bd26e572c654fe31dfbe5"
+    ],
+    "v0.2.2": [
+      "194a7fa006bd2f75af4193a32fc0b97456d307ce9502de9e5a3a86601e9deac8",
+      "d2c2fdb89df373750af387c96465b34a4aa77e26c278dc4f384a67ee9a8affcf"
+    ]
+  },
+  "github.com/charmbracelet/x/termios": {
+    "v0.1.1": [
+      "194a7fa006bd2f75af4193a32fc0b97456d307ce9502de9e5a3a86601e9deac8",
+      "d2c2fdb89df373750af387c96465b34a4aa77e26c278dc4f384a67ee9a8affcf"
+    ]
+  },
+  "github.com/charmbracelet/x/windows": {
+    "v0.2.2": [
+      "194a7fa006bd2f75af4193a32fc0b97456d307ce9502de9e5a3a86601e9deac8",
+      "d2c2fdb89df373750af387c96465b34a4aa77e26c278dc4f384a67ee9a8affcf"
+    ]
+  },
+  "github.com/cheggaaa/pb": {
+    "v1.0.29": [
+      "4421ea7d63b408f6893d368e3ea0f3738efa5997ae9bd26e572c654fe31dfbe5"
+    ]
+  },
+  "github.com/cli/browser": {
+    "v1.3.0": [
+      "194a7fa006bd2f75af4193a32fc0b97456d307ce9502de9e5a3a86601e9deac8",
+      "d2c2fdb89df373750af387c96465b34a4aa77e26c278dc4f384a67ee9a8affcf"
+    ]
+  },
+  "github.com/cli/cli/v2": {
+    "v2.97.0": [
+      "194a7fa006bd2f75af4193a32fc0b97456d307ce9502de9e5a3a86601e9deac8",
+      "d2c2fdb89df373750af387c96465b34a4aa77e26c278dc4f384a67ee9a8affcf"
+    ]
+  },
+  "github.com/cli/go-gh/v2": {
+    "v2.13.0": [
+      "194a7fa006bd2f75af4193a32fc0b97456d307ce9502de9e5a3a86601e9deac8",
+      "d2c2fdb89df373750af387c96465b34a4aa77e26c278dc4f384a67ee9a8affcf"
+    ]
+  },
+  "github.com/cli/oauth": {
+    "v1.2.2": [
+      "194a7fa006bd2f75af4193a32fc0b97456d307ce9502de9e5a3a86601e9deac8",
+      "d2c2fdb89df373750af387c96465b34a4aa77e26c278dc4f384a67ee9a8affcf"
+    ]
+  },
+  "github.com/cli/safeexec": {
+    "v1.0.1": [
+      "194a7fa006bd2f75af4193a32fc0b97456d307ce9502de9e5a3a86601e9deac8",
+      "d2c2fdb89df373750af387c96465b34a4aa77e26c278dc4f384a67ee9a8affcf"
+    ]
+  },
+  "github.com/cli/shurcooL-graphql": {
+    "v0.0.4": [
+      "194a7fa006bd2f75af4193a32fc0b97456d307ce9502de9e5a3a86601e9deac8",
+      "d2c2fdb89df373750af387c96465b34a4aa77e26c278dc4f384a67ee9a8affcf"
+    ]
+  },
+  "github.com/clipperhouse/displaywidth": {
+    "v0.11.0": [
+      "194a7fa006bd2f75af4193a32fc0b97456d307ce9502de9e5a3a86601e9deac8",
+      "d2c2fdb89df373750af387c96465b34a4aa77e26c278dc4f384a67ee9a8affcf"
+    ]
+  },
+  "github.com/clipperhouse/uax29/v2": {
+    "v2.7.0": [
+      "194a7fa006bd2f75af4193a32fc0b97456d307ce9502de9e5a3a86601e9deac8",
+      "d2c2fdb89df373750af387c96465b34a4aa77e26c278dc4f384a67ee9a8affcf"
+    ]
+  },
+  "github.com/coreos/go-semver": {
+    "v0.3.1": [
+      "4421ea7d63b408f6893d368e3ea0f3738efa5997ae9bd26e572c654fe31dfbe5"
+    ]
+  },
+  "github.com/coreos/go-systemd/v22": {
+    "v22.5.0": [
+      "4421ea7d63b408f6893d368e3ea0f3738efa5997ae9bd26e572c654fe31dfbe5"
+    ]
+  },
+  "github.com/cyberphone/json-canonicalization": {
+    "v0.0.0-20241213102144-19d51d7fe467": [
+      "194a7fa006bd2f75af4193a32fc0b97456d307ce9502de9e5a3a86601e9deac8",
+      "d2c2fdb89df373750af387c96465b34a4aa77e26c278dc4f384a67ee9a8affcf"
+    ]
+  },
+  "github.com/davecgh/go-spew": {
+    "v1.1.2-0.20180830191138-d8f796af33cc": [
+      "194a7fa006bd2f75af4193a32fc0b97456d307ce9502de9e5a3a86601e9deac8",
+      "d2c2fdb89df373750af387c96465b34a4aa77e26c278dc4f384a67ee9a8affcf"
+    ]
+  },
+  "github.com/digitorus/pkcs7": {
+    "v0.0.0-20230818184609-3a137a874352": [
+      "194a7fa006bd2f75af4193a32fc0b97456d307ce9502de9e5a3a86601e9deac8",
+      "d2c2fdb89df373750af387c96465b34a4aa77e26c278dc4f384a67ee9a8affcf"
+    ]
+  },
+  "github.com/digitorus/timestamp": {
+    "v0.0.0-20250524132541-c45532741eea": [
+      "194a7fa006bd2f75af4193a32fc0b97456d307ce9502de9e5a3a86601e9deac8",
+      "d2c2fdb89df373750af387c96465b34a4aa77e26c278dc4f384a67ee9a8affcf"
+    ]
+  },
+  "github.com/distribution/reference": {
+    "v0.6.0": [
+      "194a7fa006bd2f75af4193a32fc0b97456d307ce9502de9e5a3a86601e9deac8",
+      "d2c2fdb89df373750af387c96465b34a4aa77e26c278dc4f384a67ee9a8affcf"
+    ]
+  },
+  "github.com/dlclark/regexp2": {
+    "v1.11.5": [
+      "194a7fa006bd2f75af4193a32fc0b97456d307ce9502de9e5a3a86601e9deac8",
+      "d2c2fdb89df373750af387c96465b34a4aa77e26c278dc4f384a67ee9a8affcf"
+    ]
+  },
+  "github.com/docker/cli": {
+    "v29.5.3+incompatible": [
+      "194a7fa006bd2f75af4193a32fc0b97456d307ce9502de9e5a3a86601e9deac8",
+      "d2c2fdb89df373750af387c96465b34a4aa77e26c278dc4f384a67ee9a8affcf"
+    ]
+  },
+  "github.com/docker/docker-credential-helpers": {
+    "v0.9.3": [
+      "194a7fa006bd2f75af4193a32fc0b97456d307ce9502de9e5a3a86601e9deac8",
+      "d2c2fdb89df373750af387c96465b34a4aa77e26c278dc4f384a67ee9a8affcf"
+    ]
+  },
+  "github.com/dustin/go-humanize": {
+    "v1.0.1": [
+      "194a7fa006bd2f75af4193a32fc0b97456d307ce9502de9e5a3a86601e9deac8",
+      "4421ea7d63b408f6893d368e3ea0f3738efa5997ae9bd26e572c654fe31dfbe5",
+      "d2c2fdb89df373750af387c96465b34a4aa77e26c278dc4f384a67ee9a8affcf"
+    ]
+  },
+  "github.com/evanw/esbuild": {
+    "v0.0.0-20231017050922-a7fcc43fdb6b": [
+      "827ca22fc2919f47d9bef670e8e756bb542c1f582fa2b1257d92117b8ddd0ffa"
+    ],
+    "v0.0.0-20240123173857-d7fd1ad35715": [
+      "d0a071ad94cfec6b336d84da20e6331bdf6d2576ec31e5d4e37f6de41250d78a",
+      "4421ea7d63b408f6893d368e3ea0f3738efa5997ae9bd26e572c654fe31dfbe5"
+    ],
+    "v0.0.0-20250917161616-d6b668f96fb0": [
+      "194a7fa006bd2f75af4193a32fc0b97456d307ce9502de9e5a3a86601e9deac8",
+      "e85bb2427dabfd255181ddd1bb0729baecaadfe25c8204fabcd5cadb3ff3b958",
+      "4537a8727031ab76d6fd27c2223fb68fc2e7b7ae00071b334b84ed9fff7297cd",
+      "4c6ff6ae1f66fa1ce129ede5b645a5e1c42d8adbaf452fd4bc90756987456454",
+      "ced12c05e51a862e9cf8cd579d76a82a430c963b0aeb56da1480afbe5e2f9a70",
+      "d2c2fdb89df373750af387c96465b34a4aa77e26c278dc4f384a67ee9a8affcf"
+    ]
+  },
+  "github.com/fatih/color": {
+    "v1.18.0": [
+      "194a7fa006bd2f75af4193a32fc0b97456d307ce9502de9e5a3a86601e9deac8",
+      "4421ea7d63b408f6893d368e3ea0f3738efa5997ae9bd26e572c654fe31dfbe5",
+      "d2c2fdb89df373750af387c96465b34a4aa77e26c278dc4f384a67ee9a8affcf"
+    ]
+  },
+  "github.com/fatih/structs": {
+    "v1.1.0": [
+      "4421ea7d63b408f6893d368e3ea0f3738efa5997ae9bd26e572c654fe31dfbe5"
+    ]
+  },
+  "github.com/gabriel-vasile/mimetype": {
+    "v1.4.15": [
+      "194a7fa006bd2f75af4193a32fc0b97456d307ce9502de9e5a3a86601e9deac8",
+      "d2c2fdb89df373750af387c96465b34a4aa77e26c278dc4f384a67ee9a8affcf"
+    ]
+  },
+  "github.com/gdamore/encoding": {
+    "v1.0.1": [
+      "194a7fa006bd2f75af4193a32fc0b97456d307ce9502de9e5a3a86601e9deac8",
+      "d2c2fdb89df373750af387c96465b34a4aa77e26c278dc4f384a67ee9a8affcf"
+    ]
+  },
+  "github.com/gdamore/tcell/v2": {
+    "v2.13.10": [
+      "194a7fa006bd2f75af4193a32fc0b97456d307ce9502de9e5a3a86601e9deac8",
+      "d2c2fdb89df373750af387c96465b34a4aa77e26c278dc4f384a67ee9a8affcf"
+    ]
+  },
+  "github.com/git-lfs/git-lfs": {
+    "UNKNOWN": [
+      "194a7fa006bd2f75af4193a32fc0b97456d307ce9502de9e5a3a86601e9deac8",
+      "4421ea7d63b408f6893d368e3ea0f3738efa5997ae9bd26e572c654fe31dfbe5",
+      "d2c2fdb89df373750af387c96465b34a4aa77e26c278dc4f384a67ee9a8affcf"
+    ]
+  },
+  "github.com/go-ini/ini": {
+    "v1.67.0": [
+      "4421ea7d63b408f6893d368e3ea0f3738efa5997ae9bd26e572c654fe31dfbe5"
+    ]
+  },
+  "github.com/go-logr/logr": {
+    "v1.4.3": [
+      "194a7fa006bd2f75af4193a32fc0b97456d307ce9502de9e5a3a86601e9deac8",
+      "d2c2fdb89df373750af387c96465b34a4aa77e26c278dc4f384a67ee9a8affcf"
+    ]
+  },
+  "github.com/go-logr/stdr": {
+    "v1.2.2": [
+      "194a7fa006bd2f75af4193a32fc0b97456d307ce9502de9e5a3a86601e9deac8",
+      "d2c2fdb89df373750af387c96465b34a4aa77e26c278dc4f384a67ee9a8affcf"
+    ]
+  },
+  "github.com/go-openapi/analysis": {
+    "v0.25.2": [
+      "194a7fa006bd2f75af4193a32fc0b97456d307ce9502de9e5a3a86601e9deac8",
+      "d2c2fdb89df373750af387c96465b34a4aa77e26c278dc4f384a67ee9a8affcf"
+    ]
+  },
+  "github.com/go-openapi/errors": {
+    "v0.22.8": [
+      "194a7fa006bd2f75af4193a32fc0b97456d307ce9502de9e5a3a86601e9deac8",
+      "d2c2fdb89df373750af387c96465b34a4aa77e26c278dc4f384a67ee9a8affcf"
+    ]
+  },
+  "github.com/go-openapi/jsonpointer": {
+    "v0.23.1": [
+      "194a7fa006bd2f75af4193a32fc0b97456d307ce9502de9e5a3a86601e9deac8",
+      "d2c2fdb89df373750af387c96465b34a4aa77e26c278dc4f384a67ee9a8affcf"
+    ]
+  },
+  "github.com/go-openapi/jsonreference": {
+    "v0.21.6": [
+      "194a7fa006bd2f75af4193a32fc0b97456d307ce9502de9e5a3a86601e9deac8",
+      "d2c2fdb89df373750af387c96465b34a4aa77e26c278dc4f384a67ee9a8affcf"
+    ]
+  },
+  "github.com/go-openapi/loads": {
+    "v0.24.0": [
+      "194a7fa006bd2f75af4193a32fc0b97456d307ce9502de9e5a3a86601e9deac8",
+      "d2c2fdb89df373750af387c96465b34a4aa77e26c278dc4f384a67ee9a8affcf"
+    ]
+  },
+  "github.com/go-openapi/runtime": {
+    "v0.32.4": [
+      "194a7fa006bd2f75af4193a32fc0b97456d307ce9502de9e5a3a86601e9deac8",
+      "d2c2fdb89df373750af387c96465b34a4aa77e26c278dc4f384a67ee9a8affcf"
+    ]
+  },
+  "github.com/go-openapi/runtime/server-middleware": {
+    "v0.30.0": [
+      "194a7fa006bd2f75af4193a32fc0b97456d307ce9502de9e5a3a86601e9deac8",
+      "d2c2fdb89df373750af387c96465b34a4aa77e26c278dc4f384a67ee9a8affcf"
+    ]
+  },
+  "github.com/go-openapi/spec": {
+    "v0.22.6": [
+      "194a7fa006bd2f75af4193a32fc0b97456d307ce9502de9e5a3a86601e9deac8",
+      "d2c2fdb89df373750af387c96465b34a4aa77e26c278dc4f384a67ee9a8affcf"
+    ]
+  },
+  "github.com/go-openapi/strfmt": {
+    "v0.26.4": [
+      "194a7fa006bd2f75af4193a32fc0b97456d307ce9502de9e5a3a86601e9deac8",
+      "d2c2fdb89df373750af387c96465b34a4aa77e26c278dc4f384a67ee9a8affcf"
+    ]
+  },
+  "github.com/go-openapi/swag": {
+    "v0.26.1": [
+      "194a7fa006bd2f75af4193a32fc0b97456d307ce9502de9e5a3a86601e9deac8",
+      "d2c2fdb89df373750af387c96465b34a4aa77e26c278dc4f384a67ee9a8affcf"
+    ]
+  },
+  "github.com/go-openapi/swag/cmdutils": {
+    "v0.26.1": [
+      "194a7fa006bd2f75af4193a32fc0b97456d307ce9502de9e5a3a86601e9deac8",
+      "d2c2fdb89df373750af387c96465b34a4aa77e26c278dc4f384a67ee9a8affcf"
+    ]
+  },
+  "github.com/go-openapi/swag/conv": {
+    "v0.27.0": [
+      "194a7fa006bd2f75af4193a32fc0b97456d307ce9502de9e5a3a86601e9deac8",
+      "d2c2fdb89df373750af387c96465b34a4aa77e26c278dc4f384a67ee9a8affcf"
+    ]
+  },
+  "github.com/go-openapi/swag/fileutils": {
+    "v0.26.1": [
+      "194a7fa006bd2f75af4193a32fc0b97456d307ce9502de9e5a3a86601e9deac8",
+      "d2c2fdb89df373750af387c96465b34a4aa77e26c278dc4f384a67ee9a8affcf"
+    ]
+  },
+  "github.com/go-openapi/swag/jsonname": {
+    "v0.26.1": [
+      "194a7fa006bd2f75af4193a32fc0b97456d307ce9502de9e5a3a86601e9deac8",
+      "d2c2fdb89df373750af387c96465b34a4aa77e26c278dc4f384a67ee9a8affcf"
+    ]
+  },
+  "github.com/go-openapi/swag/jsonutils": {
+    "v0.26.1": [
+      "194a7fa006bd2f75af4193a32fc0b97456d307ce9502de9e5a3a86601e9deac8",
+      "d2c2fdb89df373750af387c96465b34a4aa77e26c278dc4f384a67ee9a8affcf"
+    ]
+  },
+  "github.com/go-openapi/swag/loading": {
+    "v0.26.1": [
+      "194a7fa006bd2f75af4193a32fc0b97456d307ce9502de9e5a3a86601e9deac8",
+      "d2c2fdb89df373750af387c96465b34a4aa77e26c278dc4f384a67ee9a8affcf"
+    ]
+  },
+  "github.com/go-openapi/swag/mangling": {
+    "v0.26.1": [
+      "194a7fa006bd2f75af4193a32fc0b97456d307ce9502de9e5a3a86601e9deac8",
+      "d2c2fdb89df373750af387c96465b34a4aa77e26c278dc4f384a67ee9a8affcf"
+    ]
+  },
+  "github.com/go-openapi/swag/netutils": {
+    "v0.26.1": [
+      "194a7fa006bd2f75af4193a32fc0b97456d307ce9502de9e5a3a86601e9deac8",
+      "d2c2fdb89df373750af387c96465b34a4aa77e26c278dc4f384a67ee9a8affcf"
+    ]
+  },
+  "github.com/go-openapi/swag/stringutils": {
+    "v0.26.1": [
+      "194a7fa006bd2f75af4193a32fc0b97456d307ce9502de9e5a3a86601e9deac8",
+      "d2c2fdb89df373750af387c96465b34a4aa77e26c278dc4f384a67ee9a8affcf"
+    ]
+  },
+  "github.com/go-openapi/swag/typeutils": {
+    "v0.27.0": [
+      "194a7fa006bd2f75af4193a32fc0b97456d307ce9502de9e5a3a86601e9deac8",
+      "d2c2fdb89df373750af387c96465b34a4aa77e26c278dc4f384a67ee9a8affcf"
+    ]
+  },
+  "github.com/go-openapi/swag/yamlutils": {
+    "v0.26.1": [
+      "194a7fa006bd2f75af4193a32fc0b97456d307ce9502de9e5a3a86601e9deac8",
+      "d2c2fdb89df373750af387c96465b34a4aa77e26c278dc4f384a67ee9a8affcf"
+    ]
+  },
+  "github.com/go-openapi/validate": {
+    "v0.26.0": [
+      "194a7fa006bd2f75af4193a32fc0b97456d307ce9502de9e5a3a86601e9deac8",
+      "d2c2fdb89df373750af387c96465b34a4aa77e26c278dc4f384a67ee9a8affcf"
+    ]
+  },
+  "github.com/go-viper/mapstructure/v2": {
+    "v2.5.0": [
+      "194a7fa006bd2f75af4193a32fc0b97456d307ce9502de9e5a3a86601e9deac8",
+      "d2c2fdb89df373750af387c96465b34a4aa77e26c278dc4f384a67ee9a8affcf"
+    ]
+  },
+  "github.com/goccy/go-json": {
+    "v0.10.5": [
+      "4421ea7d63b408f6893d368e3ea0f3738efa5997ae9bd26e572c654fe31dfbe5"
+    ]
+  },
+  "github.com/godbus/dbus/v5": {
+    "v5.2.2": [
+      "194a7fa006bd2f75af4193a32fc0b97456d307ce9502de9e5a3a86601e9deac8",
+      "d2c2fdb89df373750af387c96465b34a4aa77e26c278dc4f384a67ee9a8affcf"
+    ]
+  },
+  "github.com/gogo/protobuf": {
+    "v1.3.2": [
+      "4421ea7d63b408f6893d368e3ea0f3738efa5997ae9bd26e572c654fe31dfbe5"
+    ]
+  },
+  "github.com/gohugoio/hugo": {
+    "UNKNOWN": [
+      "d0a071ad94cfec6b336d84da20e6331bdf6d2576ec31e5d4e37f6de41250d78a",
+      "4c6ff6ae1f66fa1ce129ede5b645a5e1c42d8adbaf452fd4bc90756987456454",
+      "ced12c05e51a862e9cf8cd579d76a82a430c963b0aeb56da1480afbe5e2f9a70",
+      "827ca22fc2919f47d9bef670e8e756bb542c1f582fa2b1257d92117b8ddd0ffa"
+    ]
+  },
+  "github.com/golang-jwt/jwt/v4": {
+    "v4.5.2": [
+      "4421ea7d63b408f6893d368e3ea0f3738efa5997ae9bd26e572c654fe31dfbe5"
+    ]
+  },
+  "github.com/golang/protobuf": {
+    "v1.5.4": [
+      "4421ea7d63b408f6893d368e3ea0f3738efa5997ae9bd26e572c654fe31dfbe5"
+    ]
+  },
+  "github.com/google/certificate-transparency-go": {
+    "v1.3.3": [
+      "194a7fa006bd2f75af4193a32fc0b97456d307ce9502de9e5a3a86601e9deac8",
+      "d2c2fdb89df373750af387c96465b34a4aa77e26c278dc4f384a67ee9a8affcf"
+    ]
+  },
+  "github.com/google/go-containerregistry": {
+    "v0.21.7": [
+      "194a7fa006bd2f75af4193a32fc0b97456d307ce9502de9e5a3a86601e9deac8",
+      "d2c2fdb89df373750af387c96465b34a4aa77e26c278dc4f384a67ee9a8affcf"
+    ]
+  },
+  "github.com/google/shlex": {
+    "v0.0.0-20191202100458-e7afc7fbc510": [
+      "194a7fa006bd2f75af4193a32fc0b97456d307ce9502de9e5a3a86601e9deac8",
+      "4421ea7d63b408f6893d368e3ea0f3738efa5997ae9bd26e572c654fe31dfbe5",
+      "d2c2fdb89df373750af387c96465b34a4aa77e26c278dc4f384a67ee9a8affcf"
+    ]
+  },
+  "github.com/google/uuid": {
+    "v1.6.0": [
+      "194a7fa006bd2f75af4193a32fc0b97456d307ce9502de9e5a3a86601e9deac8",
+      "4421ea7d63b408f6893d368e3ea0f3738efa5997ae9bd26e572c654fe31dfbe5",
+      "d2c2fdb89df373750af387c96465b34a4aa77e26c278dc4f384a67ee9a8affcf"
+    ]
+  },
+  "github.com/gorilla/css": {
+    "v1.0.1": [
+      "194a7fa006bd2f75af4193a32fc0b97456d307ce9502de9e5a3a86601e9deac8",
+      "d2c2fdb89df373750af387c96465b34a4aa77e26c278dc4f384a67ee9a8affcf"
+    ]
+  },
+  "github.com/gorilla/mux": {
+    "v1.8.1": [
+      "5dce84d9d79eaa937c1478455915c09bf27c159a10b90f2a5968cfd604f7b8d3",
+      "fbf62b6ca344dbedba46e3eb5dec4eb5e0dbd6e2554e8774d6ca8f6f68c60a52"
+    ]
+  },
+  "github.com/gorilla/websocket": {
+    "v1.5.1": [
+      "5dce84d9d79eaa937c1478455915c09bf27c159a10b90f2a5968cfd604f7b8d3"
+    ],
+    "v1.5.3": [
+      "194a7fa006bd2f75af4193a32fc0b97456d307ce9502de9e5a3a86601e9deac8",
+      "fbf62b6ca344dbedba46e3eb5dec4eb5e0dbd6e2554e8774d6ca8f6f68c60a52",
+      "d2c2fdb89df373750af387c96465b34a4aa77e26c278dc4f384a67ee9a8affcf"
+    ]
+  },
+  "github.com/grpc-ecosystem/grpc-gateway/v2": {
+    "v2.29.0": [
+      "194a7fa006bd2f75af4193a32fc0b97456d307ce9502de9e5a3a86601e9deac8",
+      "d2c2fdb89df373750af387c96465b34a4aa77e26c278dc4f384a67ee9a8affcf"
+    ]
+  },
+  "github.com/hashicorp/errwrap": {
+    "v1.1.0": [
+      "4421ea7d63b408f6893d368e3ea0f3738efa5997ae9bd26e572c654fe31dfbe5"
+    ]
+  },
+  "github.com/hashicorp/go-multierror": {
+    "v1.1.1": [
+      "4421ea7d63b408f6893d368e3ea0f3738efa5997ae9bd26e572c654fe31dfbe5"
+    ]
+  },
+  "github.com/hashicorp/go-version": {
+    "v1.9.0": [
+      "194a7fa006bd2f75af4193a32fc0b97456d307ce9502de9e5a3a86601e9deac8",
+      "d2c2fdb89df373750af387c96465b34a4aa77e26c278dc4f384a67ee9a8affcf"
+    ]
+  },
+  "github.com/henvic/httpretty": {
+    "v0.1.4": [
+      "194a7fa006bd2f75af4193a32fc0b97456d307ce9502de9e5a3a86601e9deac8",
+      "d2c2fdb89df373750af387c96465b34a4aa77e26c278dc4f384a67ee9a8affcf"
+    ]
+  },
+  "github.com/huandu/xstrings": {
+    "v1.5.0": [
+      "194a7fa006bd2f75af4193a32fc0b97456d307ce9502de9e5a3a86601e9deac8",
+      "d2c2fdb89df373750af387c96465b34a4aa77e26c278dc4f384a67ee9a8affcf"
+    ]
+  },
+  "github.com/in-toto/attestation": {
+    "v1.2.0": [
+      "194a7fa006bd2f75af4193a32fc0b97456d307ce9502de9e5a3a86601e9deac8",
+      "d2c2fdb89df373750af387c96465b34a4aa77e26c278dc4f384a67ee9a8affcf"
+    ]
+  },
+  "github.com/in-toto/in-toto-golang": {
+    "v0.11.0": [
+      "194a7fa006bd2f75af4193a32fc0b97456d307ce9502de9e5a3a86601e9deac8",
+      "d2c2fdb89df373750af387c96465b34a4aa77e26c278dc4f384a67ee9a8affcf"
+    ]
+  },
+  "github.com/inconshreveable/mousetrap": {
+    "v1.1.0": [
+      "4421ea7d63b408f6893d368e3ea0f3738efa5997ae9bd26e572c654fe31dfbe5"
+    ]
+  },
+  "github.com/itchyny/gojq": {
+    "v0.12.17": [
+      "194a7fa006bd2f75af4193a32fc0b97456d307ce9502de9e5a3a86601e9deac8",
+      "d2c2fdb89df373750af387c96465b34a4aa77e26c278dc4f384a67ee9a8affcf"
+    ]
+  },
+  "github.com/itchyny/timefmt-go": {
+    "v0.1.6": [
+      "194a7fa006bd2f75af4193a32fc0b97456d307ce9502de9e5a3a86601e9deac8",
+      "d2c2fdb89df373750af387c96465b34a4aa77e26c278dc4f384a67ee9a8affcf"
+    ]
+  },
+  "github.com/jedib0t/go-pretty/v6": {
+    "v6.6.7": [
+      "4421ea7d63b408f6893d368e3ea0f3738efa5997ae9bd26e572c654fe31dfbe5"
+    ]
+  },
+  "github.com/joho/godotenv": {
+    "v1.5.1": [
+      "194a7fa006bd2f75af4193a32fc0b97456d307ce9502de9e5a3a86601e9deac8",
+      "d2c2fdb89df373750af387c96465b34a4aa77e26c278dc4f384a67ee9a8affcf"
+    ]
+  },
+  "github.com/juju/ratelimit": {
+    "v1.0.2": [
+      "4421ea7d63b408f6893d368e3ea0f3738efa5997ae9bd26e572c654fe31dfbe5"
+    ]
+  },
+  "github.com/kballard/go-shellquote": {
+    "v0.0.0-20180428030007-95032a82bc51": [
+      "194a7fa006bd2f75af4193a32fc0b97456d307ce9502de9e5a3a86601e9deac8",
+      "d2c2fdb89df373750af387c96465b34a4aa77e26c278dc4f384a67ee9a8affcf"
+    ]
+  },
+  "github.com/klauspost/compress": {
+    "v1.18.0": [
+      "4421ea7d63b408f6893d368e3ea0f3738efa5997ae9bd26e572c654fe31dfbe5"
+    ],
+    "v1.19.1": [
+      "194a7fa006bd2f75af4193a32fc0b97456d307ce9502de9e5a3a86601e9deac8",
+      "d2c2fdb89df373750af387c96465b34a4aa77e26c278dc4f384a67ee9a8affcf"
+    ]
+  },
+  "github.com/klauspost/cpuid/v2": {
+    "v2.2.10": [
+      "4421ea7d63b408f6893d368e3ea0f3738efa5997ae9bd26e572c654fe31dfbe5"
+    ]
+  },
+  "github.com/lestrrat-go/blackmagic": {
+    "v1.0.2": [
+      "4421ea7d63b408f6893d368e3ea0f3738efa5997ae9bd26e572c654fe31dfbe5"
+    ]
+  },
+  "github.com/lestrrat-go/httpcc": {
+    "v1.0.1": [
+      "4421ea7d63b408f6893d368e3ea0f3738efa5997ae9bd26e572c654fe31dfbe5"
+    ]
+  },
+  "github.com/lestrrat-go/httprc": {
+    "v1.0.6": [
+      "4421ea7d63b408f6893d368e3ea0f3738efa5997ae9bd26e572c654fe31dfbe5"
+    ]
+  },
+  "github.com/lestrrat-go/iter": {
+    "v1.0.2": [
+      "4421ea7d63b408f6893d368e3ea0f3738efa5997ae9bd26e572c654fe31dfbe5"
+    ]
+  },
+  "github.com/lestrrat-go/jwx/v2": {
+    "v2.1.4": [
+      "4421ea7d63b408f6893d368e3ea0f3738efa5997ae9bd26e572c654fe31dfbe5"
+    ]
+  },
+  "github.com/lestrrat-go/option": {
+    "v1.0.1": [
+      "4421ea7d63b408f6893d368e3ea0f3738efa5997ae9bd26e572c654fe31dfbe5"
+    ]
+  },
+  "github.com/lucasb-eyer/go-colorful": {
+    "v1.2.0": [
+      "4421ea7d63b408f6893d368e3ea0f3738efa5997ae9bd26e572c654fe31dfbe5"
+    ],
+    "v1.4.0": [
+      "194a7fa006bd2f75af4193a32fc0b97456d307ce9502de9e5a3a86601e9deac8",
+      "d2c2fdb89df373750af387c96465b34a4aa77e26c278dc4f384a67ee9a8affcf"
+    ]
+  },
+  "github.com/mattn/go-colorable": {
+    "v0.1.14": [
+      "4421ea7d63b408f6893d368e3ea0f3738efa5997ae9bd26e572c654fe31dfbe5"
+    ],
+    "v0.1.15": [
+      "194a7fa006bd2f75af4193a32fc0b97456d307ce9502de9e5a3a86601e9deac8",
+      "d2c2fdb89df373750af387c96465b34a4aa77e26c278dc4f384a67ee9a8affcf"
+    ]
+  },
+  "github.com/mattn/go-ieproxy": {
+    "v0.0.12": [
+      "4421ea7d63b408f6893d368e3ea0f3738efa5997ae9bd26e572c654fe31dfbe5"
+    ]
+  },
+  "github.com/mattn/go-isatty": {
+    "v0.0.20": [
+      "4421ea7d63b408f6893d368e3ea0f3738efa5997ae9bd26e572c654fe31dfbe5"
+    ],
+    "v0.0.24": [
+      "194a7fa006bd2f75af4193a32fc0b97456d307ce9502de9e5a3a86601e9deac8",
+      "d2c2fdb89df373750af387c96465b34a4aa77e26c278dc4f384a67ee9a8affcf"
+    ]
+  },
+  "github.com/mattn/go-runewidth": {
+    "v0.0.16": [
+      "4421ea7d63b408f6893d368e3ea0f3738efa5997ae9bd26e572c654fe31dfbe5"
+    ],
+    "v0.0.24": [
+      "194a7fa006bd2f75af4193a32fc0b97456d307ce9502de9e5a3a86601e9deac8",
+      "d2c2fdb89df373750af387c96465b34a4aa77e26c278dc4f384a67ee9a8affcf"
+    ]
+  },
+  "github.com/matttproud/golang_protobuf_extensions": {
+    "v1.0.4": [
+      "4421ea7d63b408f6893d368e3ea0f3738efa5997ae9bd26e572c654fe31dfbe5"
+    ]
+  },
+  "github.com/mgutz/ansi": {
+    "v0.0.0-20200706080929-d51e80ef957d": [
+      "194a7fa006bd2f75af4193a32fc0b97456d307ce9502de9e5a3a86601e9deac8",
+      "d2c2fdb89df373750af387c96465b34a4aa77e26c278dc4f384a67ee9a8affcf"
+    ]
+  },
+  "github.com/microcosm-cc/bluemonday": {
+    "v1.0.27": [
+      "194a7fa006bd2f75af4193a32fc0b97456d307ce9502de9e5a3a86601e9deac8",
+      "d2c2fdb89df373750af387c96465b34a4aa77e26c278dc4f384a67ee9a8affcf"
+    ]
+  },
+  "github.com/microsoft/dev-tunnels": {
+    "v0.1.27": [
+      "194a7fa006bd2f75af4193a32fc0b97456d307ce9502de9e5a3a86601e9deac8",
+      "d2c2fdb89df373750af387c96465b34a4aa77e26c278dc4f384a67ee9a8affcf"
+    ]
+  },
+  "github.com/minio/cli": {
+    "v1.24.2": [
+      "4421ea7d63b408f6893d368e3ea0f3738efa5997ae9bd26e572c654fe31dfbe5"
+    ]
+  },
+  "github.com/minio/colorjson": {
+    "v1.0.8": [
+      "4421ea7d63b408f6893d368e3ea0f3738efa5997ae9bd26e572c654fe31dfbe5"
+    ]
+  },
+  "github.com/minio/crc64nvme": {
+    "v1.0.1": [
+      "4421ea7d63b408f6893d368e3ea0f3738efa5997ae9bd26e572c654fe31dfbe5"
+    ]
+  },
+  "github.com/minio/filepath": {
+    "v1.0.0": [
+      "4421ea7d63b408f6893d368e3ea0f3738efa5997ae9bd26e572c654fe31dfbe5"
+    ]
+  },
+  "github.com/minio/madmin-go/v3": {
+    "v3.0.107-0.20250415152934-4b504b82db63": [
+      "4421ea7d63b408f6893d368e3ea0f3738efa5997ae9bd26e572c654fe31dfbe5"
+    ]
+  },
+  "github.com/minio/mc": {
+    "v0.0.0-20250813083541-7394ce0dd2a8+dirty": [
+      "4421ea7d63b408f6893d368e3ea0f3738efa5997ae9bd26e572c654fe31dfbe5"
+    ]
+  },
+  "github.com/minio/md5-simd": {
+    "v1.1.2": [
+      "4421ea7d63b408f6893d368e3ea0f3738efa5997ae9bd26e572c654fe31dfbe5"
+    ]
+  },
+  "github.com/minio/minio-go/v7": {
+    "v7.0.90": [
+      "4421ea7d63b408f6893d368e3ea0f3738efa5997ae9bd26e572c654fe31dfbe5"
+    ]
+  },
+  "github.com/minio/pkg/v3": {
+    "v3.1.0": [
+      "4421ea7d63b408f6893d368e3ea0f3738efa5997ae9bd26e572c654fe31dfbe5"
+    ]
+  },
+  "github.com/minio/selfupdate": {
+    "v0.6.0": [
+      "4421ea7d63b408f6893d368e3ea0f3738efa5997ae9bd26e572c654fe31dfbe5"
+    ]
+  },
+  "github.com/mitchellh/copystructure": {
+    "v1.2.0": [
+      "194a7fa006bd2f75af4193a32fc0b97456d307ce9502de9e5a3a86601e9deac8",
+      "d2c2fdb89df373750af387c96465b34a4aa77e26c278dc4f384a67ee9a8affcf"
+    ]
+  },
+  "github.com/mitchellh/go-homedir": {
+    "v1.1.0": [
+      "4421ea7d63b408f6893d368e3ea0f3738efa5997ae9bd26e572c654fe31dfbe5"
+    ]
+  },
+  "github.com/mitchellh/hashstructure/v2": {
+    "v2.0.2": [
+      "194a7fa006bd2f75af4193a32fc0b97456d307ce9502de9e5a3a86601e9deac8",
+      "d2c2fdb89df373750af387c96465b34a4aa77e26c278dc4f384a67ee9a8affcf"
+    ]
+  },
+  "github.com/mitchellh/reflectwalk": {
+    "v1.0.2": [
+      "194a7fa006bd2f75af4193a32fc0b97456d307ce9502de9e5a3a86601e9deac8",
+      "d2c2fdb89df373750af387c96465b34a4aa77e26c278dc4f384a67ee9a8affcf"
+    ]
+  },
+  "github.com/muesli/ansi": {
+    "v0.0.0-20230316100256-276c6243b2f6": [
+      "4421ea7d63b408f6893d368e3ea0f3738efa5997ae9bd26e572c654fe31dfbe5"
+    ]
+  },
+  "github.com/muesli/cancelreader": {
+    "v0.2.2": [
+      "194a7fa006bd2f75af4193a32fc0b97456d307ce9502de9e5a3a86601e9deac8",
+      "4421ea7d63b408f6893d368e3ea0f3738efa5997ae9bd26e572c654fe31dfbe5",
+      "d2c2fdb89df373750af387c96465b34a4aa77e26c278dc4f384a67ee9a8affcf"
+    ]
+  },
+  "github.com/muesli/reflow": {
+    "v0.3.0": [
+      "194a7fa006bd2f75af4193a32fc0b97456d307ce9502de9e5a3a86601e9deac8",
+      "4421ea7d63b408f6893d368e3ea0f3738efa5997ae9bd26e572c654fe31dfbe5",
+      "d2c2fdb89df373750af387c96465b34a4aa77e26c278dc4f384a67ee9a8affcf"
+    ]
+  },
+  "github.com/muesli/termenv": {
+    "v0.16.0": [
+      "194a7fa006bd2f75af4193a32fc0b97456d307ce9502de9e5a3a86601e9deac8",
+      "4421ea7d63b408f6893d368e3ea0f3738efa5997ae9bd26e572c654fe31dfbe5",
+      "d2c2fdb89df373750af387c96465b34a4aa77e26c278dc4f384a67ee9a8affcf"
+    ]
+  },
+  "github.com/muhammadmuzzammil1998/jsonc": {
+    "v1.0.0": [
+      "194a7fa006bd2f75af4193a32fc0b97456d307ce9502de9e5a3a86601e9deac8",
+      "d2c2fdb89df373750af387c96465b34a4aa77e26c278dc4f384a67ee9a8affcf"
+    ]
+  },
+  "github.com/munnerz/goautoneg": {
+    "v0.0.0-20191010083416-a7dc8b61c822": [
+      "4421ea7d63b408f6893d368e3ea0f3738efa5997ae9bd26e572c654fe31dfbe5"
+    ]
+  },
+  "github.com/oklog/ulid/v2": {
+    "v2.1.1": [
+      "194a7fa006bd2f75af4193a32fc0b97456d307ce9502de9e5a3a86601e9deac8",
+      "d2c2fdb89df373750af387c96465b34a4aa77e26c278dc4f384a67ee9a8affcf"
+    ]
+  },
+  "github.com/olekukonko/tablewriter": {
+    "v0.0.5": [
+      "4421ea7d63b408f6893d368e3ea0f3738efa5997ae9bd26e572c654fe31dfbe5"
+    ]
+  },
+  "github.com/opencontainers/go-digest": {
+    "v1.0.0": [
+      "194a7fa006bd2f75af4193a32fc0b97456d307ce9502de9e5a3a86601e9deac8",
+      "d2c2fdb89df373750af387c96465b34a4aa77e26c278dc4f384a67ee9a8affcf"
+    ]
+  },
+  "github.com/opencontainers/image-spec": {
+    "v1.1.1": [
+      "194a7fa006bd2f75af4193a32fc0b97456d307ce9502de9e5a3a86601e9deac8",
+      "d2c2fdb89df373750af387c96465b34a4aa77e26c278dc4f384a67ee9a8affcf"
+    ]
+  },
+  "github.com/opentracing/opentracing-go": {
+    "v1.2.0": [
+      "194a7fa006bd2f75af4193a32fc0b97456d307ce9502de9e5a3a86601e9deac8",
+      "d2c2fdb89df373750af387c96465b34a4aa77e26c278dc4f384a67ee9a8affcf"
+    ]
+  },
+  "github.com/philhofer/fwd": {
+    "v1.1.3-0.20240916144458-20a13a1f6b7c": [
+      "4421ea7d63b408f6893d368e3ea0f3738efa5997ae9bd26e572c654fe31dfbe5"
+    ]
+  },
+  "github.com/pkg/errors": {
+    "v0.9.1": [
+      "194a7fa006bd2f75af4193a32fc0b97456d307ce9502de9e5a3a86601e9deac8",
+      "d2c2fdb89df373750af387c96465b34a4aa77e26c278dc4f384a67ee9a8affcf"
+    ]
+  },
+  "github.com/pkg/term": {
+    "v1.1.0": [
+      "5dce84d9d79eaa937c1478455915c09bf27c159a10b90f2a5968cfd604f7b8d3",
+      "fbf62b6ca344dbedba46e3eb5dec4eb5e0dbd6e2554e8774d6ca8f6f68c60a52"
+    ]
+  },
+  "github.com/pkg/xattr": {
+    "v0.4.10": [
+      "4421ea7d63b408f6893d368e3ea0f3738efa5997ae9bd26e572c654fe31dfbe5"
+    ]
+  },
+  "github.com/pmezard/go-difflib": {
+    "v1.0.1-0.20181226105442-5d4384ee4fb2": [
+      "194a7fa006bd2f75af4193a32fc0b97456d307ce9502de9e5a3a86601e9deac8",
+      "d2c2fdb89df373750af387c96465b34a4aa77e26c278dc4f384a67ee9a8affcf"
+    ]
+  },
+  "github.com/posener/complete": {
+    "v1.2.3": [
+      "4421ea7d63b408f6893d368e3ea0f3738efa5997ae9bd26e572c654fe31dfbe5"
+    ]
+  },
+  "github.com/prometheus/client_golang": {
+    "v1.21.1": [
+      "4421ea7d63b408f6893d368e3ea0f3738efa5997ae9bd26e572c654fe31dfbe5"
+    ]
+  },
+  "github.com/prometheus/client_model": {
+    "v0.6.2": [
+      "4421ea7d63b408f6893d368e3ea0f3738efa5997ae9bd26e572c654fe31dfbe5"
+    ]
+  },
+  "github.com/prometheus/common": {
+    "v0.63.0": [
+      "4421ea7d63b408f6893d368e3ea0f3738efa5997ae9bd26e572c654fe31dfbe5"
+    ]
+  },
+  "github.com/prometheus/procfs": {
+    "v0.16.0": [
+      "4421ea7d63b408f6893d368e3ea0f3738efa5997ae9bd26e572c654fe31dfbe5"
+    ]
+  },
+  "github.com/prometheus/prom2json": {
+    "v1.4.2": [
+      "4421ea7d63b408f6893d368e3ea0f3738efa5997ae9bd26e572c654fe31dfbe5"
+    ]
+  },
+  "github.com/prometheus/prometheus": {
+    "v0.303.0": [
+      "4421ea7d63b408f6893d368e3ea0f3738efa5997ae9bd26e572c654fe31dfbe5"
+    ]
+  },
+  "github.com/rclone/rclone": {
+    "UNKNOWN": [
+      "194a7fa006bd2f75af4193a32fc0b97456d307ce9502de9e5a3a86601e9deac8",
+      "d2c2fdb89df373750af387c96465b34a4aa77e26c278dc4f384a67ee9a8affcf"
+    ]
+  },
+  "github.com/rivo/tview": {
+    "v0.42.0": [
+      "194a7fa006bd2f75af4193a32fc0b97456d307ce9502de9e5a3a86601e9deac8",
+      "d2c2fdb89df373750af387c96465b34a4aa77e26c278dc4f384a67ee9a8affcf"
+    ]
+  },
+  "github.com/rivo/uniseg": {
+    "v0.4.7": [
+      "194a7fa006bd2f75af4193a32fc0b97456d307ce9502de9e5a3a86601e9deac8",
+      "4421ea7d63b408f6893d368e3ea0f3738efa5997ae9bd26e572c654fe31dfbe5",
+      "d2c2fdb89df373750af387c96465b34a4aa77e26c278dc4f384a67ee9a8affcf"
+    ]
+  },
+  "github.com/rjeczalik/notify": {
+    "v0.9.3": [
+      "4421ea7d63b408f6893d368e3ea0f3738efa5997ae9bd26e572c654fe31dfbe5"
+    ]
+  },
+  "github.com/rodaine/table": {
+    "v1.3.0": [
+      "194a7fa006bd2f75af4193a32fc0b97456d307ce9502de9e5a3a86601e9deac8",
+      "d2c2fdb89df373750af387c96465b34a4aa77e26c278dc4f384a67ee9a8affcf"
+    ]
+  },
+  "github.com/rs/xid": {
+    "v1.6.0": [
+      "4421ea7d63b408f6893d368e3ea0f3738efa5997ae9bd26e572c654fe31dfbe5"
+    ]
+  },
+  "github.com/safchain/ethtool": {
+    "v0.5.10": [
+      "4421ea7d63b408f6893d368e3ea0f3738efa5997ae9bd26e572c654fe31dfbe5"
+    ]
+  },
+  "github.com/secure-io/sio-go": {
+    "v0.3.1": [
+      "4421ea7d63b408f6893d368e3ea0f3738efa5997ae9bd26e572c654fe31dfbe5"
+    ]
+  },
+  "github.com/secure-systems-lab/go-securesystemslib": {
+    "v0.11.0": [
+      "194a7fa006bd2f75af4193a32fc0b97456d307ce9502de9e5a3a86601e9deac8",
+      "d2c2fdb89df373750af387c96465b34a4aa77e26c278dc4f384a67ee9a8affcf"
+    ]
+  },
+  "github.com/shibumi/go-pathspec": {
+    "v1.3.0": [
+      "194a7fa006bd2f75af4193a32fc0b97456d307ce9502de9e5a3a86601e9deac8",
+      "d2c2fdb89df373750af387c96465b34a4aa77e26c278dc4f384a67ee9a8affcf"
+    ]
+  },
+  "github.com/shirou/gopsutil/v3": {
+    "v3.24.5": [
+      "4421ea7d63b408f6893d368e3ea0f3738efa5997ae9bd26e572c654fe31dfbe5"
+    ]
+  },
+  "github.com/shopspring/decimal": {
+    "v1.4.0": [
+      "194a7fa006bd2f75af4193a32fc0b97456d307ce9502de9e5a3a86601e9deac8",
+      "d2c2fdb89df373750af387c96465b34a4aa77e26c278dc4f384a67ee9a8affcf"
+    ]
+  },
+  "github.com/shurcooL/githubv4": {
+    "v0.0.0-20240727222349-48295856cce7": [
+      "194a7fa006bd2f75af4193a32fc0b97456d307ce9502de9e5a3a86601e9deac8",
+      "d2c2fdb89df373750af387c96465b34a4aa77e26c278dc4f384a67ee9a8affcf"
+    ]
+  },
+  "github.com/shurcooL/graphql": {
+    "v0.0.0-20230722043721-ed46e5a46466": [
+      "194a7fa006bd2f75af4193a32fc0b97456d307ce9502de9e5a3a86601e9deac8",
+      "d2c2fdb89df373750af387c96465b34a4aa77e26c278dc4f384a67ee9a8affcf"
+    ]
+  },
+  "github.com/sigstore/protobuf-specs": {
+    "v0.5.1": [
+      "194a7fa006bd2f75af4193a32fc0b97456d307ce9502de9e5a3a86601e9deac8",
+      "d2c2fdb89df373750af387c96465b34a4aa77e26c278dc4f384a67ee9a8affcf"
+    ]
+  },
+  "github.com/sigstore/rekor": {
+    "v1.5.3": [
+      "194a7fa006bd2f75af4193a32fc0b97456d307ce9502de9e5a3a86601e9deac8",
+      "d2c2fdb89df373750af387c96465b34a4aa77e26c278dc4f384a67ee9a8affcf"
+    ]
+  },
+  "github.com/sigstore/rekor-tiles/v2": {
+    "v2.3.0": [
+      "194a7fa006bd2f75af4193a32fc0b97456d307ce9502de9e5a3a86601e9deac8",
+      "d2c2fdb89df373750af387c96465b34a4aa77e26c278dc4f384a67ee9a8affcf"
+    ]
+  },
+  "github.com/sigstore/sigstore": {
+    "v1.10.8": [
+      "194a7fa006bd2f75af4193a32fc0b97456d307ce9502de9e5a3a86601e9deac8",
+      "d2c2fdb89df373750af387c96465b34a4aa77e26c278dc4f384a67ee9a8affcf"
+    ]
+  },
+  "github.com/sigstore/sigstore-go": {
+    "v1.2.2": [
+      "194a7fa006bd2f75af4193a32fc0b97456d307ce9502de9e5a3a86601e9deac8",
+      "d2c2fdb89df373750af387c96465b34a4aa77e26c278dc4f384a67ee9a8affcf"
+    ]
+  },
+  "github.com/sigstore/timestamp-authority/v2": {
+    "v2.1.2": [
+      "194a7fa006bd2f75af4193a32fc0b97456d307ce9502de9e5a3a86601e9deac8",
+      "d2c2fdb89df373750af387c96465b34a4aa77e26c278dc4f384a67ee9a8affcf"
+    ]
+  },
+  "github.com/sirupsen/logrus": {
+    "v1.9.4": [
+      "194a7fa006bd2f75af4193a32fc0b97456d307ce9502de9e5a3a86601e9deac8",
+      "d2c2fdb89df373750af387c96465b34a4aa77e26c278dc4f384a67ee9a8affcf"
+    ]
+  },
+  "github.com/spf13/cast": {
+    "v1.10.0": [
+      "194a7fa006bd2f75af4193a32fc0b97456d307ce9502de9e5a3a86601e9deac8",
+      "d2c2fdb89df373750af387c96465b34a4aa77e26c278dc4f384a67ee9a8affcf"
+    ]
+  },
+  "github.com/spf13/cobra": {
+    "v1.10.2": [
+      "194a7fa006bd2f75af4193a32fc0b97456d307ce9502de9e5a3a86601e9deac8",
+      "d2c2fdb89df373750af387c96465b34a4aa77e26c278dc4f384a67ee9a8affcf"
+    ]
+  },
+  "github.com/spf13/pflag": {
+    "v1.0.10": [
+      "194a7fa006bd2f75af4193a32fc0b97456d307ce9502de9e5a3a86601e9deac8",
+      "d2c2fdb89df373750af387c96465b34a4aa77e26c278dc4f384a67ee9a8affcf"
+    ]
+  },
+  "github.com/stretchr/objx": {
+    "v0.5.2": [
+      "194a7fa006bd2f75af4193a32fc0b97456d307ce9502de9e5a3a86601e9deac8",
+      "d2c2fdb89df373750af387c96465b34a4aa77e26c278dc4f384a67ee9a8affcf"
+    ]
+  },
+  "github.com/stretchr/testify": {
+    "v1.11.1": [
+      "194a7fa006bd2f75af4193a32fc0b97456d307ce9502de9e5a3a86601e9deac8",
+      "d2c2fdb89df373750af387c96465b34a4aa77e26c278dc4f384a67ee9a8affcf"
+    ]
+  },
+  "github.com/theupdateframework/go-tuf/v2": {
+    "v2.4.2": [
+      "194a7fa006bd2f75af4193a32fc0b97456d307ce9502de9e5a3a86601e9deac8",
+      "d2c2fdb89df373750af387c96465b34a4aa77e26c278dc4f384a67ee9a8affcf"
+    ]
+  },
+  "github.com/thlib/go-timezone-local": {
+    "v0.0.6": [
+      "194a7fa006bd2f75af4193a32fc0b97456d307ce9502de9e5a3a86601e9deac8",
+      "d2c2fdb89df373750af387c96465b34a4aa77e26c278dc4f384a67ee9a8affcf"
+    ]
+  },
+  "github.com/tidwall/gjson": {
+    "v1.18.0": [
+      "4421ea7d63b408f6893d368e3ea0f3738efa5997ae9bd26e572c654fe31dfbe5"
+    ]
+  },
+  "github.com/tidwall/match": {
+    "v1.1.1": [
+      "4421ea7d63b408f6893d368e3ea0f3738efa5997ae9bd26e572c654fe31dfbe5"
+    ]
+  },
+  "github.com/tidwall/pretty": {
+    "v1.2.1": [
+      "4421ea7d63b408f6893d368e3ea0f3738efa5997ae9bd26e572c654fe31dfbe5"
+    ]
+  },
+  "github.com/tinylib/msgp": {
+    "v1.2.5": [
+      "4421ea7d63b408f6893d368e3ea0f3738efa5997ae9bd26e572c654fe31dfbe5"
+    ]
+  },
+  "github.com/tklauser/go-sysconf": {
+    "v0.3.15": [
+      "4421ea7d63b408f6893d368e3ea0f3738efa5997ae9bd26e572c654fe31dfbe5"
+    ]
+  },
+  "github.com/tklauser/numcpus": {
+    "v0.10.0": [
+      "4421ea7d63b408f6893d368e3ea0f3738efa5997ae9bd26e572c654fe31dfbe5"
+    ]
+  },
+  "github.com/transparency-dev/formats": {
+    "v0.1.1": [
+      "194a7fa006bd2f75af4193a32fc0b97456d307ce9502de9e5a3a86601e9deac8",
+      "d2c2fdb89df373750af387c96465b34a4aa77e26c278dc4f384a67ee9a8affcf"
+    ]
+  },
+  "github.com/transparency-dev/merkle": {
+    "v0.0.2": [
+      "194a7fa006bd2f75af4193a32fc0b97456d307ce9502de9e5a3a86601e9deac8",
+      "d2c2fdb89df373750af387c96465b34a4aa77e26c278dc4f384a67ee9a8affcf"
+    ]
+  },
+  "github.com/twitchtv/twirp": {
+    "v8.1.3+incompatible": [
+      "194a7fa006bd2f75af4193a32fc0b97456d307ce9502de9e5a3a86601e9deac8",
+      "d2c2fdb89df373750af387c96465b34a4aa77e26c278dc4f384a67ee9a8affcf"
+    ]
+  },
+  "github.com/vbauerster/mpb/v8": {
+    "v8.9.3": [
+      "4421ea7d63b408f6893d368e3ea0f3738efa5997ae9bd26e572c654fe31dfbe5"
+    ]
+  },
+  "github.com/vmihailenco/msgpack/v5": {
+    "v5.4.1": [
+      "194a7fa006bd2f75af4193a32fc0b97456d307ce9502de9e5a3a86601e9deac8",
+      "d2c2fdb89df373750af387c96465b34a4aa77e26c278dc4f384a67ee9a8affcf"
+    ]
+  },
+  "github.com/vmihailenco/tagparser/v2": {
+    "v2.0.0": [
+      "194a7fa006bd2f75af4193a32fc0b97456d307ce9502de9e5a3a86601e9deac8",
+      "d2c2fdb89df373750af387c96465b34a4aa77e26c278dc4f384a67ee9a8affcf"
+    ]
+  },
+  "github.com/xo/terminfo": {
+    "v0.0.0-20220910002029-abceb7e1c41e": [
+      "194a7fa006bd2f75af4193a32fc0b97456d307ce9502de9e5a3a86601e9deac8",
+      "d2c2fdb89df373750af387c96465b34a4aa77e26c278dc4f384a67ee9a8affcf"
+    ]
+  },
+  "github.com/youmark/pkcs8": {
+    "v0.0.0-20240726163527-a2c0da244d78": [
+      "194a7fa006bd2f75af4193a32fc0b97456d307ce9502de9e5a3a86601e9deac8",
+      "d2c2fdb89df373750af387c96465b34a4aa77e26c278dc4f384a67ee9a8affcf"
+    ]
+  },
+  "github.com/yuin/goldmark": {
+    "v1.8.4": [
+      "194a7fa006bd2f75af4193a32fc0b97456d307ce9502de9e5a3a86601e9deac8",
+      "d2c2fdb89df373750af387c96465b34a4aa77e26c278dc4f384a67ee9a8affcf"
+    ]
+  },
+  "github.com/yuin/goldmark-emoji": {
+    "v1.0.6": [
+      "194a7fa006bd2f75af4193a32fc0b97456d307ce9502de9e5a3a86601e9deac8",
+      "d2c2fdb89df373750af387c96465b34a4aa77e26c278dc4f384a67ee9a8affcf"
+    ]
+  },
+  "github.com/zalando/go-keyring": {
+    "v0.2.8": [
+      "194a7fa006bd2f75af4193a32fc0b97456d307ce9502de9e5a3a86601e9deac8",
+      "d2c2fdb89df373750af387c96465b34a4aa77e26c278dc4f384a67ee9a8affcf"
+    ]
+  },
+  "go.etcd.io/etcd/api/v3": {
+    "v3.5.19": [
+      "4421ea7d63b408f6893d368e3ea0f3738efa5997ae9bd26e572c654fe31dfbe5"
+    ]
+  },
+  "go.etcd.io/etcd/client/pkg/v3": {
+    "v3.5.19": [
+      "4421ea7d63b408f6893d368e3ea0f3738efa5997ae9bd26e572c654fe31dfbe5"
+    ]
+  },
+  "go.etcd.io/etcd/client/v3": {
+    "v3.5.19": [
+      "4421ea7d63b408f6893d368e3ea0f3738efa5997ae9bd26e572c654fe31dfbe5"
+    ]
+  },
+  "go.opentelemetry.io/auto/sdk": {
+    "v1.2.1": [
+      "194a7fa006bd2f75af4193a32fc0b97456d307ce9502de9e5a3a86601e9deac8",
+      "d2c2fdb89df373750af387c96465b34a4aa77e26c278dc4f384a67ee9a8affcf"
+    ]
+  },
+  "go.opentelemetry.io/otel": {
+    "v1.44.0": [
+      "194a7fa006bd2f75af4193a32fc0b97456d307ce9502de9e5a3a86601e9deac8",
+      "d2c2fdb89df373750af387c96465b34a4aa77e26c278dc4f384a67ee9a8affcf"
+    ]
+  },
+  "go.opentelemetry.io/otel/metric": {
+    "v1.44.0": [
+      "194a7fa006bd2f75af4193a32fc0b97456d307ce9502de9e5a3a86601e9deac8",
+      "d2c2fdb89df373750af387c96465b34a4aa77e26c278dc4f384a67ee9a8affcf"
+    ]
+  },
+  "go.opentelemetry.io/otel/trace": {
+    "v1.44.0": [
+      "194a7fa006bd2f75af4193a32fc0b97456d307ce9502de9e5a3a86601e9deac8",
+      "d2c2fdb89df373750af387c96465b34a4aa77e26c278dc4f384a67ee9a8affcf"
+    ]
+  },
+  "go.uber.org/multierr": {
+    "v1.11.0": [
+      "4421ea7d63b408f6893d368e3ea0f3738efa5997ae9bd26e572c654fe31dfbe5"
+    ]
+  },
+  "go.uber.org/zap": {
+    "v1.27.0": [
+      "4421ea7d63b408f6893d368e3ea0f3738efa5997ae9bd26e572c654fe31dfbe5"
+    ]
+  },
+  "go.yaml.in/yaml/v3": {
+    "v3.0.4": [
+      "194a7fa006bd2f75af4193a32fc0b97456d307ce9502de9e5a3a86601e9deac8",
+      "d2c2fdb89df373750af387c96465b34a4aa77e26c278dc4f384a67ee9a8affcf"
+    ]
+  },
+  "golang.org/x/crypto": {
+    "v0.40.0": [
+      "4421ea7d63b408f6893d368e3ea0f3738efa5997ae9bd26e572c654fe31dfbe5"
+    ],
+    "v0.54.0": [
+      "194a7fa006bd2f75af4193a32fc0b97456d307ce9502de9e5a3a86601e9deac8",
+      "d2c2fdb89df373750af387c96465b34a4aa77e26c278dc4f384a67ee9a8affcf"
+    ]
+  },
+  "golang.org/x/mod": {
+    "v0.37.0": [
+      "194a7fa006bd2f75af4193a32fc0b97456d307ce9502de9e5a3a86601e9deac8",
+      "d2c2fdb89df373750af387c96465b34a4aa77e26c278dc4f384a67ee9a8affcf"
+    ]
+  },
+  "golang.org/x/net": {
+    "v0.40.0": [
+      "5dce84d9d79eaa937c1478455915c09bf27c159a10b90f2a5968cfd604f7b8d3"
+    ],
+    "v0.42.0": [
+      "4421ea7d63b408f6893d368e3ea0f3738efa5997ae9bd26e572c654fe31dfbe5"
+    ],
+    "v0.56.0": [
+      "194a7fa006bd2f75af4193a32fc0b97456d307ce9502de9e5a3a86601e9deac8",
+      "d2c2fdb89df373750af387c96465b34a4aa77e26c278dc4f384a67ee9a8affcf"
+    ]
+  },
+  "golang.org/x/sync": {
+    "v0.16.0": [
+      "4421ea7d63b408f6893d368e3ea0f3738efa5997ae9bd26e572c654fe31dfbe5"
+    ],
+    "v0.22.0": [
+      "194a7fa006bd2f75af4193a32fc0b97456d307ce9502de9e5a3a86601e9deac8",
+      "d2c2fdb89df373750af387c96465b34a4aa77e26c278dc4f384a67ee9a8affcf"
+    ]
+  },
+  "golang.org/x/sys": {
+    "v0.0.0-20220715151400-c0bba94af5f8": [
+      "d0a071ad94cfec6b336d84da20e6331bdf6d2576ec31e5d4e37f6de41250d78a",
+      "e85bb2427dabfd255181ddd1bb0729baecaadfe25c8204fabcd5cadb3ff3b958",
+      "4537a8727031ab76d6fd27c2223fb68fc2e7b7ae00071b334b84ed9fff7297cd",
+      "4c6ff6ae1f66fa1ce129ede5b645a5e1c42d8adbaf452fd4bc90756987456454",
+      "ced12c05e51a862e9cf8cd579d76a82a430c963b0aeb56da1480afbe5e2f9a70",
+      "827ca22fc2919f47d9bef670e8e756bb542c1f582fa2b1257d92117b8ddd0ffa"
+    ],
+    "v0.33.0": [
+      "5dce84d9d79eaa937c1478455915c09bf27c159a10b90f2a5968cfd604f7b8d3"
+    ],
+    "v0.34.0": [
+      "4421ea7d63b408f6893d368e3ea0f3738efa5997ae9bd26e572c654fe31dfbe5"
+    ],
+    "v0.46.0": [
+      "fbf62b6ca344dbedba46e3eb5dec4eb5e0dbd6e2554e8774d6ca8f6f68c60a52"
+    ],
+    "v0.47.0": [
+      "194a7fa006bd2f75af4193a32fc0b97456d307ce9502de9e5a3a86601e9deac8",
+      "d2c2fdb89df373750af387c96465b34a4aa77e26c278dc4f384a67ee9a8affcf"
+    ]
+  },
+  "golang.org/x/term": {
+    "v0.32.0": [
+      "5dce84d9d79eaa937c1478455915c09bf27c159a10b90f2a5968cfd604f7b8d3"
+    ],
+    "v0.33.0": [
+      "4421ea7d63b408f6893d368e3ea0f3738efa5997ae9bd26e572c654fe31dfbe5"
+    ],
+    "v0.44.0": [
+      "fbf62b6ca344dbedba46e3eb5dec4eb5e0dbd6e2554e8774d6ca8f6f68c60a52"
+    ],
+    "v0.45.0": [
+      "194a7fa006bd2f75af4193a32fc0b97456d307ce9502de9e5a3a86601e9deac8",
+      "d2c2fdb89df373750af387c96465b34a4aa77e26c278dc4f384a67ee9a8affcf"
+    ]
+  },
+  "golang.org/x/text": {
+    "v0.27.0": [
+      "4421ea7d63b408f6893d368e3ea0f3738efa5997ae9bd26e572c654fe31dfbe5"
+    ],
+    "v0.40.0": [
+      "194a7fa006bd2f75af4193a32fc0b97456d307ce9502de9e5a3a86601e9deac8",
+      "d2c2fdb89df373750af387c96465b34a4aa77e26c278dc4f384a67ee9a8affcf"
+    ]
+  },
+  "google.golang.org/genproto/googleapis/api": {
+    "v0.0.0-20250311173030-29e43e6258d7": [
+      "4421ea7d63b408f6893d368e3ea0f3738efa5997ae9bd26e572c654fe31dfbe5"
+    ],
+    "v0.0.0-20260526163538-3dc84a4a5aaa": [
+      "194a7fa006bd2f75af4193a32fc0b97456d307ce9502de9e5a3a86601e9deac8",
+      "d2c2fdb89df373750af387c96465b34a4aa77e26c278dc4f384a67ee9a8affcf"
+    ]
+  },
+  "google.golang.org/genproto/googleapis/rpc": {
+    "v0.0.0-20250303144028-a0af3efb3deb": [
+      "4421ea7d63b408f6893d368e3ea0f3738efa5997ae9bd26e572c654fe31dfbe5"
+    ],
+    "v0.0.0-20260523011958-0a33c5d7ca68": [
+      "194a7fa006bd2f75af4193a32fc0b97456d307ce9502de9e5a3a86601e9deac8",
+      "d2c2fdb89df373750af387c96465b34a4aa77e26c278dc4f384a67ee9a8affcf"
+    ]
+  },
+  "google.golang.org/grpc": {
+    "v1.71.0": [
+      "4421ea7d63b408f6893d368e3ea0f3738efa5997ae9bd26e572c654fe31dfbe5"
+    ],
+    "v1.82.1": [
+      "194a7fa006bd2f75af4193a32fc0b97456d307ce9502de9e5a3a86601e9deac8",
+      "d2c2fdb89df373750af387c96465b34a4aa77e26c278dc4f384a67ee9a8affcf"
+    ]
+  },
+  "google.golang.org/protobuf": {
+    "v1.36.11": [
+      "194a7fa006bd2f75af4193a32fc0b97456d307ce9502de9e5a3a86601e9deac8",
+      "d2c2fdb89df373750af387c96465b34a4aa77e26c278dc4f384a67ee9a8affcf"
+    ],
+    "v1.36.6": [
+      "4421ea7d63b408f6893d368e3ea0f3738efa5997ae9bd26e572c654fe31dfbe5"
+    ]
+  },
+  "gopkg.in/tomb.v2": {
+    "v2.0.0-20161208151619-d5d1b5820637": [
+      "5dce84d9d79eaa937c1478455915c09bf27c159a10b90f2a5968cfd604f7b8d3",
+      "fbf62b6ca344dbedba46e3eb5dec4eb5e0dbd6e2554e8774d6ca8f6f68c60a52"
+    ]
+  },
+  "gopkg.in/yaml.v2": {
+    "v2.4.0": [
+      "4421ea7d63b408f6893d368e3ea0f3738efa5997ae9bd26e572c654fe31dfbe5",
+      "5dce84d9d79eaa937c1478455915c09bf27c159a10b90f2a5968cfd604f7b8d3",
+      "fbf62b6ca344dbedba46e3eb5dec4eb5e0dbd6e2554e8774d6ca8f6f68c60a52"
+    ]
+  },
+  "gopkg.in/yaml.v3": {
+    "v3.0.1": [
+      "194a7fa006bd2f75af4193a32fc0b97456d307ce9502de9e5a3a86601e9deac8",
+      "4421ea7d63b408f6893d368e3ea0f3738efa5997ae9bd26e572c654fe31dfbe5",
+      "5dce84d9d79eaa937c1478455915c09bf27c159a10b90f2a5968cfd604f7b8d3",
+      "fbf62b6ca344dbedba46e3eb5dec4eb5e0dbd6e2554e8774d6ca8f6f68c60a52",
+      "d2c2fdb89df373750af387c96465b34a4aa77e26c278dc4f384a67ee9a8affcf"
+    ]
+  },
+  "k8s.io/klog/v2": {
+    "v2.140.0": [
+      "194a7fa006bd2f75af4193a32fc0b97456d307ce9502de9e5a3a86601e9deac8",
+      "d2c2fdb89df373750af387c96465b34a4aa77e26c278dc4f384a67ee9a8affcf"
+    ]
+  },
+  "stdlib": {
+    "go1.20.10": [
+      "827ca22fc2919f47d9bef670e8e756bb542c1f582fa2b1257d92117b8ddd0ffa"
+    ],
+    "go1.22.2": [
+      "d0a071ad94cfec6b336d84da20e6331bdf6d2576ec31e5d4e37f6de41250d78a"
+    ],
+    "go1.23.12": [
+      "e85bb2427dabfd255181ddd1bb0729baecaadfe25c8204fabcd5cadb3ff3b958",
+      "4537a8727031ab76d6fd27c2223fb68fc2e7b7ae00071b334b84ed9fff7297cd",
+      "4c6ff6ae1f66fa1ce129ede5b645a5e1c42d8adbaf452fd4bc90756987456454",
+      "ced12c05e51a862e9cf8cd579d76a82a430c963b0aeb56da1480afbe5e2f9a70"
+    ],
+    "go1.24.6": [
+      "4421ea7d63b408f6893d368e3ea0f3738efa5997ae9bd26e572c654fe31dfbe5"
+    ],
+    "go1.26.4": [
+      "5dce84d9d79eaa937c1478455915c09bf27c159a10b90f2a5968cfd604f7b8d3"
+    ],
+    "go1.26.5": [
+      "194a7fa006bd2f75af4193a32fc0b97456d307ce9502de9e5a3a86601e9deac8",
+      "fbf62b6ca344dbedba46e3eb5dec4eb5e0dbd6e2554e8774d6ca8f6f68c60a52",
+      "d2c2fdb89df373750af387c96465b34a4aa77e26c278dc4f384a67ee9a8affcf"
+    ]
+  }
+}

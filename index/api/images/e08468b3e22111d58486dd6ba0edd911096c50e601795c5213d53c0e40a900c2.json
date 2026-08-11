@@ -1,0 +1,321 @@
+{
+  "architecture": null,
+  "digest": "e08468b3e22111d58486dd6ba0edd911096c50e601795c5213d53c0e40a900c2",
+  "os": null,
+  "packages": [
+    {
+      "ecosystem": "apk",
+      "name": ".python-rundeps",
+      "version": "0"
+    },
+    {
+      "ecosystem": "apk",
+      "name": "alpine-baselayout",
+      "version": "3.0.3-r0"
+    },
+    {
+      "ecosystem": "apk",
+      "name": "alpine-keys",
+      "version": "1.1-r0"
+    },
+    {
+      "ecosystem": "apk",
+      "name": "apk-tools",
+      "version": "2.6.9-r0"
+    },
+    {
+      "ecosystem": "apk",
+      "name": "busybox",
+      "version": "1.24.2-r13"
+    },
+    {
+      "ecosystem": "apk",
+      "name": "ca-certificates",
+      "version": "20161130-r0"
+    },
+    {
+      "ecosystem": "apk",
+      "name": "expat",
+      "version": "2.2.0-r1"
+    },
+    {
+      "ecosystem": "apk",
+      "name": "fontconfig",
+      "version": "2.12.1-r0"
+    },
+    {
+      "ecosystem": "apk",
+      "name": "freetype",
+      "version": "2.6.3-r1"
+    },
+    {
+      "ecosystem": "apk",
+      "name": "gdbm",
+      "version": "1.11-r1"
+    },
+    {
+      "ecosystem": "apk",
+      "name": "libbz2",
+      "version": "1.0.6-r5"
+    },
+    {
+      "ecosystem": "apk",
+      "name": "libc-utils",
+      "version": "0.7-r0"
+    },
+    {
+      "ecosystem": "apk",
+      "name": "libcrypto1.0",
+      "version": "1.0.2k-r0"
+    },
+    {
+      "ecosystem": "apk",
+      "name": "libffi",
+      "version": "3.2.1-r2"
+    },
+    {
+      "ecosystem": "apk",
+      "name": "libpng",
+      "version": "1.6.21-r0"
+    },
+    {
+      "ecosystem": "apk",
+      "name": "libssl1.0",
+      "version": "1.0.2k-r0"
+    },
+    {
+      "ecosystem": "apk",
+      "name": "libx11",
+      "version": "1.6.4-r0"
+    },
+    {
+      "ecosystem": "apk",
+      "name": "libxau",
+      "version": "1.0.8-r1"
+    },
+    {
+      "ecosystem": "apk",
+      "name": "libxcb",
+      "version": "1.11.1-r0"
+    },
+    {
+      "ecosystem": "apk",
+      "name": "libxdmcp",
+      "version": "1.1.2-r1"
+    },
+    {
+      "ecosystem": "apk",
+      "name": "libxft",
+      "version": "2.3.2-r0"
+    },
+    {
+      "ecosystem": "apk",
+      "name": "libxrender",
+      "version": "0.9.10-r0"
+    },
+    {
+      "ecosystem": "apk",
+      "name": "musl",
+      "version": "1.1.14-r15"
+    },
+    {
+      "ecosystem": "apk",
+      "name": "musl-utils",
+      "version": "1.1.14-r15"
+    },
+    {
+      "ecosystem": "apk",
+      "name": "ncurses-libs",
+      "version": "6.0-r7"
+    },
+    {
+      "ecosystem": "apk",
+      "name": "ncurses-terminfo",
+      "version": "6.0-r7"
+    },
+    {
+      "ecosystem": "apk",
+      "name": "ncurses-terminfo-base",
+      "version": "6.0-r7"
+    },
+    {
+      "ecosystem": "apk",
+      "name": "readline",
+      "version": "6.3.008-r4"
+    },
+    {
+      "ecosystem": "apk",
+      "name": "scanelf",
+      "version": "1.1.6-r0"
+    },
+    {
+      "ecosystem": "apk",
+      "name": "sqlite-libs",
+      "version": "3.13.0-r0"
+    },
+    {
+      "ecosystem": "apk",
+      "name": "tcl",
+      "version": "8.6.5-r0"
+    },
+    {
+      "ecosystem": "apk",
+      "name": "tk",
+      "version": "8.6.5-r0"
+    },
+    {
+      "ecosystem": "apk",
+      "name": "xz-libs",
+      "version": "5.2.2-r1"
+    },
+    {
+      "ecosystem": "apk",
+      "name": "zlib",
+      "version": "1.2.11-r0"
+    },
+    {
+      "ecosystem": "binary",
+      "name": "cli",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "binary",
+      "name": "cli-32",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "binary",
+      "name": "cli-64",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "binary",
+      "name": "gui",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "binary",
+      "name": "gui-32",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "binary",
+      "name": "gui-64",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "binary",
+      "name": "python",
+      "version": "3.6.1"
+    },
+    {
+      "ecosystem": "binary",
+      "name": "t32",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "binary",
+      "name": "t64",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "binary",
+      "name": "w32",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "binary",
+      "name": "w64",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "binary",
+      "name": "wininst-10.0",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "binary",
+      "name": "wininst-10.0-amd64",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "binary",
+      "name": "wininst-14.0",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "binary",
+      "name": "wininst-14.0-amd64",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "binary",
+      "name": "wininst-6.0",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "binary",
+      "name": "wininst-7.1",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "binary",
+      "name": "wininst-8.0",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "binary",
+      "name": "wininst-9.0",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "binary",
+      "name": "wininst-9.0-amd64",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "python",
+      "name": "docutils",
+      "version": "0.13.1"
+    },
+    {
+      "ecosystem": "python",
+      "name": "lockfile",
+      "version": "0.12.2"
+    },
+    {
+      "ecosystem": "python",
+      "name": "luigi",
+      "version": "2.6.0"
+    },
+    {
+      "ecosystem": "python",
+      "name": "pip",
+      "version": "9.0.1"
+    },
+    {
+      "ecosystem": "python",
+      "name": "python-daemon",
+      "version": "2.1.2"
+    },
+    {
+      "ecosystem": "python",
+      "name": "setuptools",
+      "version": "36.0.1"
+    },
+    {
+      "ecosystem": "python",
+      "name": "tornado",
+      "version": "4.5.1"
+    },
+    {
+      "ecosystem": "python",
+      "name": "wheel",
+      "version": "0.29.0"
+    }
+  ],
+  "registry": "docker.io",
+  "repository": "biocontainers/luigi",
+  "size": 107474517,
+  "tag": null
+}

@@ -1,0 +1,4601 @@
+{
+  "architecture": null,
+  "digest": "da89087ed0d80323f14e30d287457d7d8a953855b270c733f8955d7067551ff1",
+  "os": null,
+  "packages": [
+    {
+      "ecosystem": "deb",
+      "name": "acl",
+      "version": "2.2.52-2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "adduser",
+      "version": "3.113+nmu3"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "ant",
+      "version": "1.9.4-3"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "ant-optional",
+      "version": "1.9.4-3"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "apt",
+      "version": "1.0.9.8.3"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "aspectj",
+      "version": "1.8.3-2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "base-files",
+      "version": "8+deb8u6"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "base-passwd",
+      "version": "3.5.37"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "bash",
+      "version": "4.3-11+b1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "bsdutils",
+      "version": "1:2.25.2-6"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "bsh",
+      "version": "2.0b4-15+deb8u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "bzip2",
+      "version": "1.0.6-7+b3"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "ca-certificates",
+      "version": "20141019+deb8u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "ca-certificates-java",
+      "version": "20140324"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "coreutils",
+      "version": "8.23-4"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "curl",
+      "version": "7.38.0-4+deb8u4"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "dash",
+      "version": "0.5.7-4+b1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "dbus",
+      "version": "1.8.20-0+deb8u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "dbus-x11",
+      "version": "1.8.20-0+deb8u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "debconf",
+      "version": "1.5.56"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "debconf-i18n",
+      "version": "1.5.56"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "debian-archive-keyring",
+      "version": "2014.3"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "debianutils",
+      "version": "4.4+b1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "default-jre",
+      "version": "2:1.7-52"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "default-jre-headless",
+      "version": "2:1.7-52"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "diffutils",
+      "version": "1:3.3-1+b1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "dmsetup",
+      "version": "2:1.02.90-2.2+deb8u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "dpkg",
+      "version": "1.17.27"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "e2fslibs",
+      "version": "1.42.12-2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "e2fsprogs",
+      "version": "1.42.12-2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "file",
+      "version": "1:5.22+15-2+deb8u2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "findutils",
+      "version": "4.4.2-9+b1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "fontconfig",
+      "version": "2.11.0-6.3+deb8u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "fontconfig-config",
+      "version": "2.11.0-6.3+deb8u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "fonts-dejavu-core",
+      "version": "2.34-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "fonts-dejavu-extra",
+      "version": "2.34-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "fop",
+      "version": "1:1.1.dfsg2-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "gcc-4.8-base",
+      "version": "4.8.4-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "gcc-4.9-base",
+      "version": "4.9.2-10"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "gconf-service",
+      "version": "3.2.6-3"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "gconf2",
+      "version": "3.2.6-3"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "gconf2-common",
+      "version": "3.2.6-3"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "gnome-mime-data",
+      "version": "2.18.0-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "gnupg",
+      "version": "1.4.18-7+deb8u3"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "gpgv",
+      "version": "1.4.18-7+deb8u3"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "grep",
+      "version": "2.20-4.1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "gzip",
+      "version": "1.6-4"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "hicolor-icon-theme",
+      "version": "0.13-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "hostname",
+      "version": "3.15"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "icc-profiles-free",
+      "version": "2.0.1+dfsg-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "inetutils-ping",
+      "version": "2:1.9.2.39.3a460-3"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "init",
+      "version": "1.22"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "initscripts",
+      "version": "2.88dsf-59"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "insserv",
+      "version": "1.14.0-5"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "iproute2",
+      "version": "3.16.0-2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "java-common",
+      "version": "0.52"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "java-wrappers",
+      "version": "0.1.28"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "junit",
+      "version": "3.8.2-8"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "junit4",
+      "version": "4.11-3"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libacl1",
+      "version": "2.2.52-2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libaether-java",
+      "version": "1.13.1-2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libalgorithm-c3-perl",
+      "version": "0.09-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libaopalliance-java",
+      "version": "20070526-5"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libapache-pom-java",
+      "version": "10-2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libapr1",
+      "version": "1.5.1-3"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libapt-pkg4.12",
+      "version": "1.0.9.8.3"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libarchive-extract-perl",
+      "version": "0.72-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libasm3-java",
+      "version": "3.3.2-2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libasm4-java",
+      "version": "5.0.3-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libasound2",
+      "version": "1.0.28-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libasound2-data",
+      "version": "1.0.28-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libaspectj-java",
+      "version": "1.8.3-2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libasync-http-client-java",
+      "version": "1.6.5-3"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libasyncns0",
+      "version": "0.8-5"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libatinject-jsr330-api-java",
+      "version": "1.0+ds1-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libatk-wrapper-java",
+      "version": "0.30.5-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libatk-wrapper-java-jni",
+      "version": "0.30.5-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libatk1.0-0",
+      "version": "2.14.0-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libatk1.0-data",
+      "version": "2.14.0-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libattr1",
+      "version": "1:2.4.47-2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libaudit-common",
+      "version": "1:2.4-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libaudit1",
+      "version": "1:2.4-1+b1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libavahi-client3",
+      "version": "0.6.31-5"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libavahi-common-data",
+      "version": "0.6.31-5"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libavahi-common3",
+      "version": "0.6.31-5"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libavahi-glib1",
+      "version": "0.6.31-5"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libavalon-framework-java",
+      "version": "4.2.0-9"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libbatik-java",
+      "version": "1.7+dfsg-5"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libblkid1",
+      "version": "2.25.2-6"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libbonobo2-0",
+      "version": "2.32.1-3"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libbonobo2-common",
+      "version": "2.32.1-3"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libbsd0",
+      "version": "0.7.0-2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libbsf-java",
+      "version": "1:2.4.0-5"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libbsh-java",
+      "version": "2.0b4-15+deb8u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libbz2-1.0",
+      "version": "1.0.6-7+b3"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libc-bin",
+      "version": "2.19-18+deb8u6"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libc6",
+      "version": "2.19-18+deb8u6"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libcairo2",
+      "version": "1.14.0-2.1+deb8u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libcanberra0",
+      "version": "0.30-2.1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libcap-ng0",
+      "version": "0.7.4-2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libcap2",
+      "version": "1:2.24-8"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libcap2-bin",
+      "version": "1:2.24-8"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libcdi-api-java",
+      "version": "1.0-2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libcgi-fast-perl",
+      "version": "1:2.04-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libcgi-pm-perl",
+      "version": "4.09-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libcglib3-java",
+      "version": "3.1+dfsg-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libclass-c3-perl",
+      "version": "0.26-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libclass-c3-xs-perl",
+      "version": "0.13-2+b1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libclassworlds-java",
+      "version": "1.1-final-5"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libcomerr2",
+      "version": "1.42.12-2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libcommons-beanutils-java",
+      "version": "1.9.2-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libcommons-cli-java",
+      "version": "1.2-3"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libcommons-codec-java",
+      "version": "1.9-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libcommons-collections3-java",
+      "version": "3.2.1-7+deb8u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libcommons-configuration-java",
+      "version": "1.10-2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libcommons-digester-java",
+      "version": "1.8.1-4"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libcommons-httpclient-java",
+      "version": "3.1-11+deb8u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libcommons-io-java",
+      "version": "2.4-2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libcommons-jexl2-java",
+      "version": "2.1.1-2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libcommons-jxpath-java",
+      "version": "1.3-6"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libcommons-lang-java",
+      "version": "2.6-4"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libcommons-logging-java",
+      "version": "1.2-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libcommons-net2-java",
+      "version": "2.2-2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libcommons-parent-java",
+      "version": "22-2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libcommons-vfs-java",
+      "version": "2.0-3"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libcpan-meta-perl",
+      "version": "2.142690-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libcryptsetup4",
+      "version": "2:1.6.6-5"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libcups2",
+      "version": "1.7.5-11+deb8u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libcurl3",
+      "version": "7.38.0-4+deb8u4"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libdata-optlist-perl",
+      "version": "0.109-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libdata-section-perl",
+      "version": "0.200006-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libdatrie1",
+      "version": "0.2.8-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libdb5.3",
+      "version": "5.3.28-9"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libdbus-1-3",
+      "version": "1.8.20-0+deb8u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libdbus-glib-1-2",
+      "version": "0.102-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libdebconfclient0",
+      "version": "0.192"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libdevmapper1.02.1",
+      "version": "2:1.02.90-2.2+deb8u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libdom4j-java",
+      "version": "1.6.1+dfsg.3-2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libdoxia-java",
+      "version": "1.1.4-2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libdrm-intel1",
+      "version": "2.4.58-2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libdrm-nouveau2",
+      "version": "2.4.58-2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libdrm-radeon1",
+      "version": "2.4.58-2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libdrm2",
+      "version": "2.4.58-2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libeasymock-java",
+      "version": "3.2+ds-4"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libedit2",
+      "version": "3.1-20140620-2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libelf1",
+      "version": "0.159-4.2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libexpat1",
+      "version": "2.1.0-6+deb8u3"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libfcgi-perl",
+      "version": "0.77-1+b1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libffi6",
+      "version": "3.1-2+b2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libflac8",
+      "version": "1.3.0-3"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libfontconfig1",
+      "version": "2.11.0-6.3+deb8u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libfop-java",
+      "version": "1:1.1.dfsg2-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libfreetype6",
+      "version": "2.5.2-3+deb8u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libganymed-ssh2-java",
+      "version": "250-2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libgcc1",
+      "version": "1:4.9.2-10"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libgconf-2-4",
+      "version": "3.2.6-3"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libgconf2-4",
+      "version": "3.2.6-3"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libgcrypt20",
+      "version": "1.6.3-2+deb8u2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libgdbm3",
+      "version": "1.8.3-13.1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libgdk-pixbuf2.0-0",
+      "version": "2.31.1-2+deb8u5"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libgdk-pixbuf2.0-common",
+      "version": "2.31.1-2+deb8u5"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libgeronimo-interceptor-3.0-spec-java",
+      "version": "1.0.1-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libgeronimo-jpa-2.0-spec-java",
+      "version": "1.1-2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libgeronimo-osgi-support-java",
+      "version": "1.0-2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libgif4",
+      "version": "4.1.6-11+deb8u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libgl1-mesa-dri",
+      "version": "10.3.2-1+deb8u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libgl1-mesa-glx",
+      "version": "10.3.2-1+deb8u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libglapi-mesa",
+      "version": "10.3.2-1+deb8u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libglib2.0-0",
+      "version": "2.42.1-1+b1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libglib2.0-data",
+      "version": "2.42.1-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libgmp10",
+      "version": "2:6.0.0+dfsg-6"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libgnome-2-0",
+      "version": "2.32.1-5"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libgnome2-0",
+      "version": "2.32.1-5"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libgnome2-bin",
+      "version": "2.32.1-5"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libgnome2-common",
+      "version": "2.32.1-5"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libgnomevfs2-0",
+      "version": "1:2.24.4-6+b1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libgnomevfs2-common",
+      "version": "1:2.24.4-6"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libgnomevfs2-extra",
+      "version": "1:2.24.4-6+b1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libgnutls-deb0-28",
+      "version": "3.3.8-6+deb8u3"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libgpg-error0",
+      "version": "1.17-3"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libgraphite2-3",
+      "version": "1.3.6-1~deb8u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libgssapi-krb5-2",
+      "version": "1.12.1+dfsg-19+deb8u2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libgtk2.0-0",
+      "version": "2.24.25-3+deb8u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libgtk2.0-bin",
+      "version": "2.24.25-3+deb8u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libgtk2.0-common",
+      "version": "2.24.25-3+deb8u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libguava-java",
+      "version": "17.0-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libhamcrest-java",
+      "version": "1.3-5"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libharfbuzz0b",
+      "version": "0.9.35-2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libhogweed2",
+      "version": "2.7.1-5+deb8u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libhttpclient-java",
+      "version": "4.3.5-2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libhttpcore-java",
+      "version": "4.3.3-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libice-dev",
+      "version": "2:1.0.9-1+b1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libice6",
+      "version": "2:1.0.9-1+b1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libicu52",
+      "version": "52.1-8+deb8u3"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libidn11",
+      "version": "1.29-1+deb8u2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libisorelax-java",
+      "version": "20041111-8"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libitext1-java",
+      "version": "1.4-6"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libjackrabbit-java",
+      "version": "2.3.6-1+deb8u2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libjasper1",
+      "version": "1.900.1-debian1-2.4+deb8u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libjaxen-java",
+      "version": "1.1.6-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libjaxp1.3-java",
+      "version": "1.3.05-2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libjbig0",
+      "version": "2.1-3.1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libjcommander-java",
+      "version": "1.35-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libjdom1-java",
+      "version": "1.1.3-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libjetty-java",
+      "version": "6.1.26-4"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libjline-java",
+      "version": "1.0-2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libjpeg62-turbo",
+      "version": "1:1.3.1-12"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libjsch-agent-proxy-java",
+      "version": "0.0.7-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libjsch-java",
+      "version": "0.1.51-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libjson-c2",
+      "version": "0.11-4"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libjsoup-java",
+      "version": "1.8.1-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libjsr305-java",
+      "version": "0.1~+svn49-4"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libjzlib-java",
+      "version": "1.1.3-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libk5crypto3",
+      "version": "1.12.1+dfsg-19+deb8u2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libkeyutils1",
+      "version": "1.5.9-5+b1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libkmod2",
+      "version": "18-3"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libkrb5-3",
+      "version": "1.12.1+dfsg-19+deb8u2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libkrb5support0",
+      "version": "1.12.1+dfsg-19+deb8u2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "liblcms2-2",
+      "version": "2.6-3+b3"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libldap-2.4-2",
+      "version": "2.4.40+dfsg-1+deb8u2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libllvm3.5",
+      "version": "1:3.5-10"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "liblocale-gettext-perl",
+      "version": "1.05-8+b1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "liblog-message-perl",
+      "version": "0.8-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "liblog-message-simple-perl",
+      "version": "0.10-2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "liblog4j1.2-java",
+      "version": "1.2.17-5"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libltdl7",
+      "version": "2.4.2-1.11+b1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "liblzma5",
+      "version": "5.1.1alpha+20120614-2+b3"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libmagic1",
+      "version": "1:5.22+15-2+deb8u2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libmaven-parent-java",
+      "version": "21-2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libmaven-scm-java",
+      "version": "1.3-5"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libmaven2-core-java",
+      "version": "2.2.1-17"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libmodello-java",
+      "version": "1.1-3"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libmodule-build-perl",
+      "version": "0.421000-2+deb8u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libmodule-pluggable-perl",
+      "version": "5.1-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libmodule-signature-perl",
+      "version": "0.73-1+deb8u2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libmount1",
+      "version": "2.25.2-6"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libmro-compat-perl",
+      "version": "0.12-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libmsv-java",
+      "version": "2009.1+dfsg1-4"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libncurses5",
+      "version": "5.9+20140913-1+b1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libncursesw5",
+      "version": "5.9+20140913-1+b1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libnetbeans-cvsclient-java",
+      "version": "6.5-2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libnettle4",
+      "version": "2.7.1-5+deb8u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libnetty-java",
+      "version": "1:3.2.6.Final-2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libnspr4",
+      "version": "2:4.12-1+debu8u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libnss3",
+      "version": "2:3.26-1+debu8u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libobjenesis-java",
+      "version": "1.2+full-3"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libogg0",
+      "version": "1.3.2-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "liborbit-2-0",
+      "version": "1:2.14.19-0.3"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libosgi-compendium-java",
+      "version": "4.3.0-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libosgi-core-java",
+      "version": "4.3.1-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libosgi-foundation-ee-java",
+      "version": "4.2.0-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libp11-kit0",
+      "version": "0.20.7-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libpackage-constants-perl",
+      "version": "0.04-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libpam-modules",
+      "version": "1.1.8-3.1+deb8u1+b1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libpam-modules-bin",
+      "version": "1.1.8-3.1+deb8u1+b1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libpam-runtime",
+      "version": "1.1.8-3.1+deb8u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libpam0g",
+      "version": "1.1.8-3.1+deb8u1+b1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libpango-1.0-0",
+      "version": "1.36.8-3"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libpangocairo-1.0-0",
+      "version": "1.36.8-3"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libpangoft2-1.0-0",
+      "version": "1.36.8-3"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libparams-util-perl",
+      "version": "1.07-2+b1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libpciaccess0",
+      "version": "0.13.2-3+b1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libpcre3",
+      "version": "2:8.35-3.3+deb8u4"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libpcsclite1",
+      "version": "1.8.13-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libpixman-1-0",
+      "version": "0.32.6-3"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libplexus-ant-factory-java",
+      "version": "1.0~alpha2.1-3"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libplexus-archiver-java",
+      "version": "1.2-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libplexus-bsh-factory-java",
+      "version": "1.0~alpha7-3"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libplexus-build-api-java",
+      "version": "0.0.7-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libplexus-cipher-java",
+      "version": "1.5-4"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libplexus-classworlds-java",
+      "version": "1.5.0-5"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libplexus-classworlds2-java",
+      "version": "2.5.2-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libplexus-cli-java",
+      "version": "1.2-5"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libplexus-container-default-java",
+      "version": "1.0-alpha-9-stable-1-7"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libplexus-containers-java",
+      "version": "1.0~beta3.0.7-7"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libplexus-containers1.5-java",
+      "version": "1.5.5-6"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libplexus-i18n-java",
+      "version": "1.0-beta-10-3"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libplexus-interactivity-api-java",
+      "version": "1.0-alpha-6-7"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libplexus-interpolation-java",
+      "version": "1.19-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libplexus-io-java",
+      "version": "1.0~alpha5-2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libplexus-sec-dispatcher-java",
+      "version": "1.3.1-6"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libplexus-utils-java",
+      "version": "1:1.5.15-4"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libplexus-utils2-java",
+      "version": "3.0.15-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libpng12-0",
+      "version": "1.2.50-2+deb8u2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libpod-latex-perl",
+      "version": "0.61-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libpod-readme-perl",
+      "version": "0.11-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libpopt0",
+      "version": "1.16-10"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libprocps3",
+      "version": "2:3.3.9-9"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libpsl0",
+      "version": "0.5.1-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libpthread-stubs0-dev",
+      "version": "0.3-4"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libpulse0",
+      "version": "5.0-13"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libpython-stdlib",
+      "version": "2.7.9-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libpython2.7-minimal",
+      "version": "2.7.9-2+deb8u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libpython2.7-stdlib",
+      "version": "2.7.9-2+deb8u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libqdox-java",
+      "version": "1.12-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libreadline6",
+      "version": "6.3-8+b3"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libregexp-common-perl",
+      "version": "2013031301-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libregexp-java",
+      "version": "1.5-3"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "librelaxng-datatype-java",
+      "version": "1.0+ds1-3"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "librhino-java",
+      "version": "1.7R4-3"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "librtmp1",
+      "version": "2.4+20150115.gita107cef-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libsasl2-2",
+      "version": "2.1.26.dfsg1-13+deb8u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libsasl2-modules-db",
+      "version": "2.1.26.dfsg1-13+deb8u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libsaxon-java",
+      "version": "1:6.5.5-10"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libsctp1",
+      "version": "1.0.16+dfsg-2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libselinux1",
+      "version": "2.3-2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libsemanage-common",
+      "version": "2.3-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libsemanage1",
+      "version": "2.3-1+b1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libsepol1",
+      "version": "2.3-2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libservlet2.5-java",
+      "version": "6.0.45+dfsg-1~deb8u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libservlet3.1-java",
+      "version": "8.0.14-1+deb8u3"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libsisu-guice-java",
+      "version": "3.2.4-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libsisu-ioc-java",
+      "version": "2.3.0-5"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libslang2",
+      "version": "2.3.0-2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libslf4j-java",
+      "version": "1.7.7-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libsm-dev",
+      "version": "2:1.2.2-1+b1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libsm6",
+      "version": "2:1.2.2-1+b1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libsmartcols1",
+      "version": "2.25.2-6"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libsndfile1",
+      "version": "1.0.25-9.1+deb8u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libsoftware-license-perl",
+      "version": "0.103010-3"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libsqlite3-0",
+      "version": "3.8.7.1-1+deb8u2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libss2",
+      "version": "1.42.12-2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libssh2-1",
+      "version": "1.4.3-4.1+deb8u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libssl1.0.0",
+      "version": "1.0.1t-1+deb8u5"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libssl1.0.2",
+      "version": "1.0.2j-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libstdc++6",
+      "version": "4.9.2-10"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libsub-exporter-perl",
+      "version": "0.986-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libsub-install-perl",
+      "version": "0.928-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libsystemd0",
+      "version": "215-17+deb8u5"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libtasn1-6",
+      "version": "4.2-3+deb8u2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libtdb1",
+      "version": "1.3.6-0+deb8u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libterm-ui-perl",
+      "version": "0.42-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libtext-charwidth-perl",
+      "version": "0.04-7+b3"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libtext-iconv-perl",
+      "version": "1.7-5+b2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libtext-soundex-perl",
+      "version": "3.4-1+b2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libtext-template-perl",
+      "version": "1.46-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libtext-wrapi18n-perl",
+      "version": "0.06-7"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libthai-data",
+      "version": "0.1.21-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libthai0",
+      "version": "0.1.21-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libtiff5",
+      "version": "4.0.3-12.3+deb8u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libtinfo5",
+      "version": "5.9+20140913-1+b1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libtxc-dxtn-s2tc0",
+      "version": "0~git20131104-1.1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libudev1",
+      "version": "215-17+deb8u5"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libusb-0.1-4",
+      "version": "2:0.1.12-25"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libustr-1.0-1",
+      "version": "1.0.4-3+b2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libuuid1",
+      "version": "2.25.2-6"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libvorbis0a",
+      "version": "1.3.4-2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libvorbisenc2",
+      "version": "1.3.4-2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libvorbisfile3",
+      "version": "1.3.4-2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libwagon-java",
+      "version": "1.0.0-5"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libwagon2-java",
+      "version": "2.7-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libwrap0",
+      "version": "7.6.q-25"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libx11-6",
+      "version": "2:1.6.2-3"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libx11-data",
+      "version": "2:1.6.2-3"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libx11-dev",
+      "version": "2:1.6.2-3"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libx11-doc",
+      "version": "2:1.6.2-3"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libx11-xcb1",
+      "version": "2:1.6.2-3"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libxalan2-java",
+      "version": "2.7.1-9"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libxau-dev",
+      "version": "1:1.0.8-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libxau6",
+      "version": "1:1.0.8-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libxbean-java",
+      "version": "4.0-2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libxcb-dri2-0",
+      "version": "1.10-3+b1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libxcb-dri3-0",
+      "version": "1.10-3+b1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libxcb-glx0",
+      "version": "1.10-3+b1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libxcb-present0",
+      "version": "1.10-3+b1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libxcb-render0",
+      "version": "1.10-3+b1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libxcb-shm0",
+      "version": "1.10-3+b1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libxcb-sync1",
+      "version": "1.10-3+b1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libxcb1",
+      "version": "1.10-3+b1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libxcb1-dev",
+      "version": "1.10-3+b1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libxcomposite1",
+      "version": "1:0.4.4-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libxcursor1",
+      "version": "1:1.1.14-1+b1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libxdamage1",
+      "version": "1:1.1.4-2+b1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libxdmcp-dev",
+      "version": "1:1.1.1-1+b1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libxdmcp6",
+      "version": "1:1.1.1-1+b1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libxerces2-java",
+      "version": "2.11.0-7"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libxext6",
+      "version": "2:1.3.3-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libxfixes3",
+      "version": "1:5.0.1-2+b2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libxi6",
+      "version": "2:1.7.4-1+b2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libxinerama1",
+      "version": "2:1.1.3-1+b1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libxml-commons-external-java",
+      "version": "1.4.01-2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libxml-commons-resolver1.1-java",
+      "version": "1.2-7"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libxml2",
+      "version": "2.9.1+dfsg1-5+deb8u3"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libxmlgraphics-commons-java",
+      "version": "1.5-4"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libxom-java",
+      "version": "1.2.10-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libxpp2-java",
+      "version": "2.1.10-7"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libxpp3-java",
+      "version": "1.1.4c-2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libxrandr2",
+      "version": "2:1.4.2-1+b1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libxrender1",
+      "version": "1:0.9.8-1+b1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libxshmfence1",
+      "version": "1.1-4"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libxt-dev",
+      "version": "1:1.1.4-1+b1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libxt6",
+      "version": "1:1.1.4-1+b1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libxtst6",
+      "version": "2:1.2.2-1+b1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libxxf86vm1",
+      "version": "1:1.1.3-1+b1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libyaml-snake-java",
+      "version": "1.12-2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "lksctp-tools",
+      "version": "1.0.16+dfsg-2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "login",
+      "version": "1:4.2-3+deb8u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "lsb-base",
+      "version": "4.1+Debian13+nmu1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "maven",
+      "version": "3.0.5-3"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "mawk",
+      "version": "1.3.3-17"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "mime-support",
+      "version": "3.58"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "mount",
+      "version": "2.25.2-6"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "multiarch-support",
+      "version": "2.19-18+deb8u6"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "ncurses-base",
+      "version": "5.9+20140913-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "ncurses-bin",
+      "version": "5.9+20140913-1+b1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "netbase",
+      "version": "5.3"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "openjdk-7-jre",
+      "version": "7u111-2.6.7-1~deb8u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "openjdk-7-jre-headless",
+      "version": "7u111-2.6.7-1~deb8u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "openjdk-8-jdk",
+      "version": "8u102-b14.1-1~bpo8+1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "openjdk-8-jdk-headless",
+      "version": "8u102-b14.1-1~bpo8+1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "openjdk-8-jre",
+      "version": "8u102-b14.1-1~bpo8+1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "openjdk-8-jre-headless",
+      "version": "8u102-b14.1-1~bpo8+1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "openssl",
+      "version": "1.0.2j-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "passwd",
+      "version": "1:4.2-3+deb8u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "perl",
+      "version": "5.20.2-3+deb8u6"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "perl-base",
+      "version": "5.20.2-3+deb8u6"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "perl-modules",
+      "version": "5.20.2-3+deb8u6"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "procps",
+      "version": "2:3.3.9-9"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "psmisc",
+      "version": "22.21-2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "python",
+      "version": "2.7.9-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "python-minimal",
+      "version": "2.7.9-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "python2.7",
+      "version": "2.7.9-2+deb8u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "python2.7-minimal",
+      "version": "2.7.9-2+deb8u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "readline-common",
+      "version": "6.3-8"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "rename",
+      "version": "0.20-3"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "rhino",
+      "version": "1.7R4-3"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "sed",
+      "version": "4.2.2-4+b1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "sensible-utils",
+      "version": "0.0.9"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "sgml-base",
+      "version": "1.26+nmu4"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "shared-mime-info",
+      "version": "1.3-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "startpar",
+      "version": "0.59-3"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "systemd",
+      "version": "215-17+deb8u5"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "systemd-sysv",
+      "version": "215-17+deb8u5"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "sysv-rc",
+      "version": "2.88dsf-59"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "sysvinit-utils",
+      "version": "2.88dsf-59"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "tar",
+      "version": "1.27.1-2+b1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "tcpd",
+      "version": "7.6.q-25"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "testng",
+      "version": "6.8.8-4"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "tzdata",
+      "version": "2016h-0+deb8u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "tzdata-java",
+      "version": "2016h-0+deb8u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "ucf",
+      "version": "3.0030"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "udev",
+      "version": "215-17+deb8u5"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "unzip",
+      "version": "6.0-16+deb8u2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "util-linux",
+      "version": "2.25.2-6"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "wget",
+      "version": "1.16-1+deb8u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "x11-common",
+      "version": "1:7.7+7"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "x11proto-core-dev",
+      "version": "7.0.26-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "x11proto-input-dev",
+      "version": "2.3.1-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "x11proto-kb-dev",
+      "version": "1.0.6-2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "xdg-user-dirs",
+      "version": "0.15-2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "xml-core",
+      "version": "0.13+nmu2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "xorg-sgml-doctools",
+      "version": "1:1.11-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "xtrans-dev",
+      "version": "1.3.4-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "xz-utils",
+      "version": "5.1.1alpha+20120614-2+b3"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "zlib1g",
+      "version": "1:1.2.8.dfsg-2+b1"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "US_export_policy",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "aether-api",
+      "version": "1.13.1"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "aether-connector-asynchttpclient",
+      "version": "1.13.1"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "aether-connector-file",
+      "version": "1.13.1"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "aether-connector-wagon",
+      "version": "1.13.1"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "aether-impl",
+      "version": "1.13.1"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "aether-spi",
+      "version": "1.13.1"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "aether-test-util",
+      "version": "1.13.1"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "aether-util",
+      "version": "1.13.1"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "annotations-api",
+      "version": "3.0.EDR-b01"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "ant",
+      "version": "1.9.4"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "ant-antlr",
+      "version": "1.9.4"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "ant-apache-bcel",
+      "version": "1.9.4"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "ant-apache-bsf",
+      "version": "1.9.4"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "ant-apache-log4j",
+      "version": "1.9.4"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "ant-apache-oro",
+      "version": "1.9.4"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "ant-apache-regexp",
+      "version": "1.9.4"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "ant-apache-resolver",
+      "version": "1.9.4"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "ant-apache-xalan2",
+      "version": "1.9.4"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "ant-bootstrap",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "ant-commons-logging",
+      "version": "1.9.4"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "ant-commons-net",
+      "version": "1.9.4"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "ant-javamail",
+      "version": "1.9.4"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "ant-jdepend",
+      "version": "1.9.4"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "ant-jmf",
+      "version": "1.9.4"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "ant-jsch",
+      "version": "1.9.4"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "ant-junit",
+      "version": "1.9.4"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "ant-junit4",
+      "version": "1.9.4"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "ant-launcher",
+      "version": "1.9.4"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "ant-swing",
+      "version": "1.9.4"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "ant-testutil",
+      "version": "1.9.4"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "aopalliance",
+      "version": "1.0"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "asm",
+      "version": "3.0"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "asm3",
+      "version": "3.3.2"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "asm3-all",
+      "version": "3.3.2"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "asm3-analysis",
+      "version": "3.3.2"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "asm3-commons",
+      "version": "3.3.2"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "asm3-debug-all",
+      "version": "3.3.2"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "asm3-tree",
+      "version": "3.3.2"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "asm3-util",
+      "version": "3.3.2"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "asm3-xml",
+      "version": "3.3.2"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "asm4",
+      "version": "5.0.3"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "asm4-all",
+      "version": "5.0.3"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "asm4-analysis",
+      "version": "5.0.3"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "asm4-commons",
+      "version": "5.0.3"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "asm4-debug-all",
+      "version": "5.0.3"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "asm4-tree",
+      "version": "5.0.3"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "asm4-util",
+      "version": "5.0.3"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "asm4-xml",
+      "version": "5.0.3"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "aspectjrt",
+      "version": "1.8.3"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "aspectjtools",
+      "version": "1.8.3"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "aspectjweaver",
+      "version": "1.8.3"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "async-http-client",
+      "version": "1.6.5"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "atinject-jsr330-api",
+      "version": "1.0"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "atinject-jsr330-tck",
+      "version": "1.0"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "avalon-framework",
+      "version": "4.2.0"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "batik-all",
+      "version": "1.7"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "batik-anim",
+      "version": "1.7"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "batik-awt-util",
+      "version": "1.7"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "batik-bridge",
+      "version": "1.7"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "batik-codec",
+      "version": "1.7"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "batik-css",
+      "version": "1.7"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "batik-dom",
+      "version": "1.7"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "batik-ext",
+      "version": "1.7"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "batik-extension",
+      "version": "1.7"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "batik-gui-util",
+      "version": "1.7"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "batik-gvt",
+      "version": "1.7"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "batik-libs",
+      "version": "1.7"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "batik-parser",
+      "version": "1.7"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "batik-rasterizer",
+      "version": "1.7"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "batik-rasterizer-ext",
+      "version": "1.7"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "batik-script",
+      "version": "1.7"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "batik-slideshow",
+      "version": "1.7"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "batik-squiggle",
+      "version": "1.7"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "batik-squiggle-ext",
+      "version": "1.7"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "batik-svg-dom",
+      "version": "1.7"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "batik-svggen",
+      "version": "1.7"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "batik-svgpp",
+      "version": "1.7"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "batik-swing",
+      "version": "1.7"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "batik-transcoder",
+      "version": "1.7"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "batik-ttf2svg",
+      "version": "1.7"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "batik-util",
+      "version": "1.7"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "batik-xml",
+      "version": "1.7"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "bootstrap",
+      "version": "9.0.0.M11"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "bsf",
+      "version": "2.4.0"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "bsh",
+      "version": "2.0b4"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "ca-certificates-java",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "catalina",
+      "version": "9.0.0.M11"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "catalina-ant",
+      "version": "9.0.0.M11"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "catalina-ha",
+      "version": "9.0.0.M11"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "catalina-storeconfig",
+      "version": "9.0.0.M11"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "catalina-tribes",
+      "version": "9.0.0.M11"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "cdi-api",
+      "version": "1.0"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "cglib3",
+      "version": "3.1"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "cglib3-nodep",
+      "version": "3.1"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "charsets",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "classworlds",
+      "version": "1.1"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "cldrdata",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "common-junit3",
+      "version": "2.10"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "commons-beanutils",
+      "version": "1.9.2"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "commons-cli",
+      "version": "1.2"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "commons-codec",
+      "version": "1.9"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "commons-collections",
+      "version": "2.1"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "commons-collections3",
+      "version": "3.2.1"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "commons-collections3-testframework",
+      "version": "3.2.1"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "commons-compress",
+      "version": "1.5"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "commons-configuration",
+      "version": "1.10"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "commons-daemon",
+      "version": "1.0.15"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "commons-digester",
+      "version": "1.8.1"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "commons-httpclient",
+      "version": "3.1"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "commons-io",
+      "version": "2.4"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "commons-jexl",
+      "version": "2.1.1"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "commons-jexl2",
+      "version": "2.1.1"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "commons-jxpath",
+      "version": "1.3"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "commons-lang",
+      "version": "2.6"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "commons-logging",
+      "version": "1.2"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "commons-logging-api",
+      "version": "1.1"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "commons-net",
+      "version": "2.2"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "commons-net2",
+      "version": "2.2"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "commons-validator",
+      "version": "1.2.0"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "commons-vfs2",
+      "version": "2.0"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "compendium",
+      "version": "4.3.0.201109081654"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "compilefontconfig",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "core",
+      "version": "4.3.1"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "cvsclient",
+      "version": "6.5"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "ddi-web-app",
+      "version": "1.0.0"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "dnsns",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "dom4j",
+      "version": "1.6.1"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "doxia-book",
+      "version": "1.1.4"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "doxia-core",
+      "version": "1.1.4"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "doxia-decoration-model",
+      "version": "1.0-alpha-7"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "doxia-logging-api",
+      "version": "1.1.4"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "doxia-module-apt",
+      "version": "1.1.4"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "doxia-module-confluence",
+      "version": "1.1.4"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "doxia-module-docbook-simple",
+      "version": "1.1.4"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "doxia-module-fml",
+      "version": "1.1.4"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "doxia-module-fo",
+      "version": "1.1.4"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "doxia-module-itext",
+      "version": "1.1.4"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "doxia-module-latex",
+      "version": "1.1.4"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "doxia-module-rtf",
+      "version": "1.1.4"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "doxia-module-twiki",
+      "version": "1.1.4"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "doxia-module-xdoc",
+      "version": "1.1.4"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "doxia-module-xhtml",
+      "version": "1.1.4"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "doxia-sink-api",
+      "version": "1.1.4"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "doxia-site-renderer",
+      "version": "1.0-alpha-7"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "doxia-test-docs",
+      "version": "1.1.4"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "dt",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "easymock",
+      "version": "3.2+ds"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "ecj",
+      "version": "4.5.1"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "el-api",
+      "version": "3.0.FR"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "file-management",
+      "version": "1.1"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "fop",
+      "version": "1.0"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "fop-hyph",
+      "version": "1.1"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "foundation",
+      "version": "4.2.0"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "ganymed-ssh2",
+      "version": "250"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "geronimo-interceptor",
+      "version": "3.0-spec-1.0.1"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "geronimo-jpa_2.0_spec",
+      "version": "1.1"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "geronimo-osgi-locator",
+      "version": "1.0"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "geronimo-osgi-registry",
+      "version": "1.0"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "google-collections",
+      "version": "1.0"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "guava",
+      "version": "17.0"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "guice-bean-binders",
+      "version": "2.3.0"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "guice-bean-containers",
+      "version": "2.3.0"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "guice-bean-converters",
+      "version": "2.3.0"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "guice-bean-inject",
+      "version": "2.3.0"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "guice-bean-locators",
+      "version": "2.3.0"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "guice-bean-reflect",
+      "version": "2.3.0"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "guice-bean-scanners",
+      "version": "2.3.0"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "guice-plexus-binders",
+      "version": "2.3.0"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "guice-plexus-converters",
+      "version": "2.3.0"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "guice-plexus-lifecycles",
+      "version": "2.3.0"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "guice-plexus-locators",
+      "version": "2.3.0"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "guice-plexus-metadata",
+      "version": "2.3.0"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "guice-plexus-scanners",
+      "version": "2.3.0"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "guice-plexus-shim",
+      "version": "2.3.0"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "guice-testlib",
+      "version": "3.2.4"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "hamcrest-all",
+      "version": "1.3"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "hamcrest-core",
+      "version": "1.3"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "hamcrest-generator",
+      "version": "1.3"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "hamcrest-integration",
+      "version": "1.3"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "hamcrest-library",
+      "version": "1.3"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "hamcrest-unit-test",
+      "version": "1.3"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "httpclient",
+      "version": "4.3.5"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "httpcore",
+      "version": "4.3.3"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "httpcore-nio",
+      "version": "4.3.3"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "icedtea-sound",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "isorelax",
+      "version": "20041111"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "itext1",
+      "version": "1.4"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "jaccess",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "jackrabbit-webdav",
+      "version": "2.3.6"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "jackson-annotations",
+      "version": "2.7.0"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "jackson-core",
+      "version": "2.7.5"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "jackson-databind",
+      "version": "2.7.5"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "jasper",
+      "version": "9.0.0.M11"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "jasper-el",
+      "version": "9.0.0.M11"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "jaspic-api",
+      "version": "1.1.FR"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "java-atk-wrapper",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "javax.servlet-api",
+      "version": "3.1.0"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "javazic",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "jaxen",
+      "version": "1.1.6"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "jaxp-api",
+      "version": "1.3"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "jce",
+      "version": "1.8.0_102"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "jcl-over-slf4j",
+      "version": "1.7.7"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "jcommander",
+      "version": "1.35"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "jconsole",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "jdom1",
+      "version": "1.1.3"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "jetty",
+      "version": "6.1.26"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "jetty-sslengine",
+      "version": "6.1.26"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "jetty-start",
+      "version": "6.1.26"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "jetty-start-daemon",
+      "version": "6.1.26"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "jetty-util",
+      "version": "6.1.26"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "jetty-util5",
+      "version": "6.1.26"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "jline",
+      "version": "1.0"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "js",
+      "version": "1.7R4"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "jsch",
+      "version": "0.1.51"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "jsch.agentproxy.connector-factory",
+      "version": "0.0.7"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "jsch.agentproxy.core",
+      "version": "0.0.7"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "jsch.agentproxy.jsch",
+      "version": "0.0.7"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "jsch.agentproxy.sshagent",
+      "version": "0.0.7"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "jsch.agentproxy.usocket-nc",
+      "version": "0.0.7"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "json",
+      "version": "20160810"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "jsoup",
+      "version": "1.8.1"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "jsp-api",
+      "version": "2.3.FR"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "jsr305",
+      "version": "2.0.1"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "jsse",
+      "version": "1.8.0_102"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "jstl",
+      "version": "1.2"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "jul-to-slf4j",
+      "version": "1.7.7"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "junit",
+      "version": "3.8.2"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "junit4",
+      "version": "4.11"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "jzlib",
+      "version": "1.1.3"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "local_policy",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "localedata",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "log4j",
+      "version": "1.2.12"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "log4j-over-slf4j",
+      "version": "1.7.7"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "logging",
+      "version": "1.2"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "management-agent",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "maven-aether-provider",
+      "version": "3.0.5"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "maven-antrun-plugin",
+      "version": "1.3"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "maven-archiver",
+      "version": "2.5"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "maven-artifact",
+      "version": "3.0.5"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "maven-artifact-manager",
+      "version": "2.2.1"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "maven-artifact-test",
+      "version": "2.2.1"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "maven-assembly-plugin",
+      "version": "2.2-beta-5"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "maven-clean-plugin",
+      "version": "2.5"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "maven-common-artifact-filters",
+      "version": "1.3"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "maven-compat",
+      "version": "3.0.5"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "maven-compiler-plugin",
+      "version": "3.2"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "maven-core",
+      "version": "3.0.5"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "maven-dependency-analyzer",
+      "version": "1.1"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "maven-dependency-plugin",
+      "version": "2.1"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "maven-dependency-tree",
+      "version": "1.2"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "maven-deploy-plugin",
+      "version": "2.7"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "maven-embedder",
+      "version": "3.0.5"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "maven-error-diagnostics",
+      "version": "2.2.1"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "maven-filtering",
+      "version": "1.1"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "maven-install-plugin",
+      "version": "2.4"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "maven-model",
+      "version": "3.0.5"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "maven-model-builder",
+      "version": "3.0.5"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "maven-monitor",
+      "version": "2.2.1"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "maven-plugin-api",
+      "version": "3.0.5"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "maven-plugin-descriptor",
+      "version": "2.2.1"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "maven-plugin-parameter-documenter",
+      "version": "2.2.1"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "maven-plugin-registry",
+      "version": "2.2.1"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "maven-plugin-testing-harness",
+      "version": "1.1"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "maven-profile",
+      "version": "2.2.1"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "maven-project",
+      "version": "2.2.1"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "maven-reporting-api",
+      "version": "2.2.1"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "maven-reporting-impl",
+      "version": "2.0.4"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "maven-repository-metadata",
+      "version": "3.0.5"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "maven-resources-plugin",
+      "version": "2.3"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "maven-scm-api",
+      "version": "1.3"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "maven-scm-client",
+      "version": "1.3"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "maven-scm-manager-plexus",
+      "version": "1.3"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "maven-scm-plugin",
+      "version": "1.3"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "maven-scm-provider-accurev",
+      "version": "1.3"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "maven-scm-provider-bazaar",
+      "version": "1.3"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "maven-scm-provider-clearcase",
+      "version": "1.3"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "maven-scm-provider-cvs-commons",
+      "version": "1.3"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "maven-scm-provider-cvsexe",
+      "version": "1.3"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "maven-scm-provider-cvsjava",
+      "version": "1.3"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "maven-scm-provider-cvstest",
+      "version": "1.3"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "maven-scm-provider-git-commons",
+      "version": "1.3"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "maven-scm-provider-gitexe",
+      "version": "1.3"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "maven-scm-provider-gittest",
+      "version": "1.3"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "maven-scm-provider-hg",
+      "version": "1.3"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "maven-scm-provider-local",
+      "version": "1.3"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "maven-scm-provider-perforce",
+      "version": "1.3"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "maven-scm-provider-starteam",
+      "version": "1.3"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "maven-scm-provider-svn-commons",
+      "version": "1.3"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "maven-scm-provider-svnexe",
+      "version": "1.3"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "maven-scm-provider-svntest",
+      "version": "1.3"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "maven-scm-provider-synergy",
+      "version": "1.3"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "maven-scm-provider-tfs",
+      "version": "1.3"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "maven-scm-test",
+      "version": "1.3"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "maven-script-ant",
+      "version": "2.2.1"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "maven-script-beanshell",
+      "version": "2.2.1"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "maven-settings",
+      "version": "3.0.5"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "maven-settings-builder",
+      "version": "3.0.5"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "maven-shared-incremental",
+      "version": "1.1"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "maven-shared-io",
+      "version": "1.0"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "maven-shared-utils",
+      "version": "0.1"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "maven-site-plugin",
+      "version": "3.0"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "maven-surefire-common",
+      "version": "2.10"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "maven-surefire-plugin",
+      "version": "2.10"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "maven-toolchain",
+      "version": "2.2.1"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "maven-war-plugin",
+      "version": "2.4"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "maven-xbean-plugin",
+      "version": "4.0"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "maven3-aether-provider",
+      "version": "3.0.5"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "maven3-artifact",
+      "version": "3.0.5"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "maven3-compat",
+      "version": "3.0.5"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "maven3-core",
+      "version": "3.0.5"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "maven3-embedder",
+      "version": "3.0.5"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "maven3-model",
+      "version": "3.0.5"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "maven3-model-builder",
+      "version": "3.0.5"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "maven3-plugin-api",
+      "version": "3.0.5"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "maven3-repository-metadata",
+      "version": "3.0.5"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "maven3-settings",
+      "version": "3.0.5"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "maven3-settings-builder",
+      "version": "3.0.5"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "modello-core",
+      "version": "1.1"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "modello-plugin-converters",
+      "version": "1.1"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "modello-plugin-dom4j",
+      "version": "1.1"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "modello-plugin-java",
+      "version": "1.1"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "modello-plugin-jdom",
+      "version": "1.1"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "modello-plugin-stax",
+      "version": "1.1"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "modello-plugin-xdoc",
+      "version": "1.1"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "modello-plugin-xml",
+      "version": "1.1"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "modello-plugin-xpp3",
+      "version": "1.1"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "modello-plugin-xsd",
+      "version": "1.1"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "msv-core",
+      "version": "2009.1"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "msv-rngconverter",
+      "version": "2009.1"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "msv-testharness",
+      "version": "2009.1"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "nashorn",
+      "version": "1.8.0_102-8u102-b14.1-1~bpo8+1-b14"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "netty",
+      "version": "3.2.6.Final"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "objenesis",
+      "version": "1.2"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "oro",
+      "version": "2.0.7"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "plexus-ant-factory",
+      "version": "1.0-alpha-2.1"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "plexus-archiver",
+      "version": "2.4.1"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "plexus-bsh-factory",
+      "version": "1.0-alpha-7"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "plexus-build-api",
+      "version": "0.0.7"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "plexus-cipher",
+      "version": "1.5"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "plexus-classworlds",
+      "version": "2.5.2"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "plexus-classworlds2",
+      "version": "2.5.2"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "plexus-cli",
+      "version": "1.2"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "plexus-compiler-api",
+      "version": "2.4"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "plexus-compiler-javac",
+      "version": "2.4"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "plexus-compiler-manager",
+      "version": "2.4"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "plexus-component-annotations",
+      "version": "1.5.5"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "plexus-component-javadoc",
+      "version": "1.5.5"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "plexus-component-metadata",
+      "version": "1.5.5"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "plexus-container-default",
+      "version": "1.5.5"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "plexus-container-default-alpha",
+      "version": "1.0-alpha-9-stable-1"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "plexus-i18n",
+      "version": "1.0-beta-6"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "plexus-interactivity-api",
+      "version": "1.0-alpha-6"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "plexus-interpolation",
+      "version": "1.6"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "plexus-io",
+      "version": "2.0.7"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "plexus-sec-dispatcher",
+      "version": "1.3.1"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "plexus-utils",
+      "version": "3.0.15"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "plexus-utils2",
+      "version": "3.0.15"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "plexus-velocity",
+      "version": "1.1.2"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "qdox",
+      "version": "1.12"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "regexp",
+      "version": "1.5"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "relaxngDatatype",
+      "version": "1.0"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "resources",
+      "version": "1.8.0_102"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "resources-ant",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "rhino",
+      "version": "1.7R4"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "rt",
+      "version": "1.8.0_102"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "sa-jdi",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "saxon",
+      "version": "6.5.5"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "serializer",
+      "version": "2.7.1"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "servlet-api",
+      "version": "4.0.EDR-b01"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "sisu-guice",
+      "version": "3.2.4"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "sisu-guice-assistedinject",
+      "version": "3.2.4"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "sisu-inject-bean",
+      "version": "2.3.0"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "sisu-inject-plexus",
+      "version": "2.3.0"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "sisu-osgi-registry",
+      "version": "2.3.0"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "sisu-spi-registry",
+      "version": "2.3.0"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "slf4j-api",
+      "version": "1.7.7"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "slf4j-jcl",
+      "version": "1.7.7"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "slf4j-jdk14",
+      "version": "1.7.7"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "slf4j-log4j12",
+      "version": "1.7.7"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "slf4j-migrator",
+      "version": "1.7.7"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "slf4j-nop",
+      "version": "1.7.7"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "slf4j-simple",
+      "version": "1.7.7"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "snakeyaml",
+      "version": "1.12"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "spring-aop",
+      "version": "4.3.1.RELEASE"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "spring-beans",
+      "version": "4.3.1.RELEASE"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "spring-context",
+      "version": "4.3.1.RELEASE"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "spring-core",
+      "version": "4.3.1.RELEASE"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "spring-expression",
+      "version": "4.3.1.RELEASE"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "spring-web",
+      "version": "4.3.1.RELEASE"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "spring-webmvc",
+      "version": "4.3.1.RELEASE"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "sunec",
+      "version": "1.8.0_102"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "sunjce_provider",
+      "version": "1.8.0_102"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "sunpkcs11",
+      "version": "1.8.0_102"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "surefire-api",
+      "version": "2.10"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "surefire-booter",
+      "version": "2.10"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "surefire-junit3",
+      "version": "2.10"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "testng",
+      "version": "6.8.8"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "tomcat-api",
+      "version": "9.0.0.M11"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "tomcat-coyote",
+      "version": "9.0.0.M11"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "tomcat-dbcp",
+      "version": "9.0.0.M11"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "tomcat-i18n-es",
+      "version": "9.0.0.M11"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "tomcat-i18n-fr",
+      "version": "9.0.0.M11"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "tomcat-i18n-ja",
+      "version": "9.0.0.M11"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "tomcat-jdbc",
+      "version": "9.0.0.M11"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "tomcat-jni",
+      "version": "9.0.0.M11"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "tomcat-juli",
+      "version": "9.0.0.M11"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "tomcat-util",
+      "version": "9.0.0.M11"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "tomcat-util-scan",
+      "version": "9.0.0.M11"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "tomcat-websocket",
+      "version": "9.0.0.M11"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "tools",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "velocity",
+      "version": "1.4"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "velocity-dep",
+      "version": "1.4"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "wagon-file",
+      "version": "2.7"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "wagon-ftp",
+      "version": "2.7"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "wagon-http",
+      "version": "2.7"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "wagon-http-lightweight",
+      "version": "2.7"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "wagon-http-shaded",
+      "version": "2.x"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "wagon-http-shared",
+      "version": "2.7"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "wagon-provider-api",
+      "version": "2.7"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "wagon-provider-test",
+      "version": "2.7"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "wagon-scm",
+      "version": "2.7"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "wagon-ssh",
+      "version": "2.7"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "wagon-ssh-common",
+      "version": "2.7"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "wagon-ssh-common-test",
+      "version": "1.0"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "wagon-ssh-external",
+      "version": "2.7"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "wagon-tck-http",
+      "version": "2.7"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "wagon-webdav-jackrabbit",
+      "version": "2.7"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "websocket-api",
+      "version": "1.1.FR"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "xalan2",
+      "version": "2.7.1"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "xbean-asm-util",
+      "version": "4.0"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "xbean-asm5-shaded",
+      "version": "4.0"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "xbean-bundleutils",
+      "version": "4.0"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "xbean-classloader",
+      "version": "4.0"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "xbean-classpath",
+      "version": "4.0"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "xbean-finder",
+      "version": "4.0"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "xbean-finder-shaded",
+      "version": "4.0"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "xbean-naming",
+      "version": "4.0"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "xbean-reflect",
+      "version": "4.0"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "xbean-spring",
+      "version": "4.0"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "xbean-telnet",
+      "version": "4.0"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "xercesImpl",
+      "version": "2.11.0"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "xercesSamples",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "xml-apis",
+      "version": "1.4.01"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "xml-apis-ext",
+      "version": "1.4.01"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "xml-resolver",
+      "version": "1.2"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "xmlgraphics-commons",
+      "version": "1.5"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "xmlpull",
+      "version": "1.1.3.1"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "xom",
+      "version": "1.2.10"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "xpp2",
+      "version": "2.1.10"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "xpp3",
+      "version": "1.1.4c"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "xpp3-min",
+      "version": "1.1.4c"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "xpp3-xpath",
+      "version": "1.1.4c"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "xpp3_min",
+      "version": "1.1.4c"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "xsdlib",
+      "version": "2009.1"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "xstream",
+      "version": "1.4.2"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "xz",
+      "version": "1.2"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "zipfs",
+      "version": "1.8.0_102"
+    },
+    {
+      "ecosystem": "npm",
+      "name": "angular",
+      "version": "1.4.1"
+    },
+    {
+      "ecosystem": "npm",
+      "name": "angular-route",
+      "version": "1.4.1"
+    },
+    {
+      "ecosystem": "npm",
+      "name": "slick-carousel",
+      "version": "1.4.1"
+    },
+    {
+      "ecosystem": "python",
+      "name": "argparse",
+      "version": "1.2.1"
+    },
+    {
+      "ecosystem": "python",
+      "name": "wsgiref",
+      "version": "0.1.2"
+    }
+  ],
+  "registry": "docker.io",
+  "repository": "biocontainers/ddi-web-app",
+  "size": 871119697,
+  "tag": null
+}

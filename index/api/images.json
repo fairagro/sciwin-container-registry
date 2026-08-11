@@ -1,0 +1,589 @@
+{
+  "images": [
+    {
+      "architecture": null,
+      "digest": "f4d09088c29e87931732749433b436ded78ee86510a737b4c68e547516fceb63",
+      "os": null,
+      "registry": "docker.io",
+      "repository": "biocontainers/batchcorrection",
+      "size": 571771444,
+      "tag": null
+    },
+    {
+      "architecture": null,
+      "digest": "363766d7f9dd4da2877330ef4fd779b3f2a2c3be50ba4387df6d01cc9c78b345",
+      "os": null,
+      "registry": "docker.io",
+      "repository": "biocontainers/container-mtbls-dwnld",
+      "size": 610976482,
+      "tag": null
+    },
+    {
+      "architecture": null,
+      "digest": "da89087ed0d80323f14e30d287457d7d8a953855b270c733f8955d7067551ff1",
+      "os": null,
+      "registry": "docker.io",
+      "repository": "biocontainers/ddi-web-app",
+      "size": 871119697,
+      "tag": null
+    },
+    {
+      "architecture": null,
+      "digest": "a15c32f456822ce6e94489aabf081b4b10a91a2322623becabad62170bc98487",
+      "os": null,
+      "registry": "docker.io",
+      "repository": "biocontainers/galaxy-rna-seq-training",
+      "size": 11255898753,
+      "tag": null
+    },
+    {
+      "architecture": null,
+      "digest": "fc23e0874c347f621a786b4ecc796ee6dd15a0ddfe1394f905fbe3cf397b8ad3",
+      "os": null,
+      "registry": "docker.io",
+      "repository": "biocontainers/isa2w4m",
+      "size": 632390235,
+      "tag": null
+    },
+    {
+      "architecture": null,
+      "digest": "e5b8c207dedeaa02a7d5bf763ec98d576ad2a6bc5475c4f822f3a0d3e2baa9da",
+      "os": null,
+      "registry": "docker.io",
+      "repository": "biocontainers/isajson-validator",
+      "size": 481246746,
+      "tag": null
+    },
+    {
+      "architecture": null,
+      "digest": "6f755d2df889ae852a14c287605e2ec9a77ec19626bdec2daaafded9d9693422",
+      "os": null,
+      "registry": "docker.io",
+      "repository": "biocontainers/json2isatab",
+      "size": 481246915,
+      "tag": null
+    },
+    {
+      "architecture": null,
+      "digest": "e08468b3e22111d58486dd6ba0edd911096c50e601795c5213d53c0e40a900c2",
+      "os": null,
+      "registry": "docker.io",
+      "repository": "biocontainers/luigi",
+      "size": 107474517,
+      "tag": null
+    },
+    {
+      "architecture": null,
+      "digest": "66fa1e266029df92e91eded0ad326c8a3a5c94ae9e4191a0fd3332d28349b3a6",
+      "os": null,
+      "registry": "docker.io",
+      "repository": "biocontainers/metabolab",
+      "size": 3131306111,
+      "tag": null
+    },
+    {
+      "architecture": null,
+      "digest": "8369e3da60643293ef3d1eb1c830d23ba74e308b9ecd98c2bbeb981a2e96b78c",
+      "os": null,
+      "registry": "docker.io",
+      "repository": "biocontainers/nmrglue",
+      "size": 1717090871,
+      "tag": null
+    },
+    {
+      "architecture": null,
+      "digest": "92953ad88d46a020ef2f66d24856375b92517ac78c92ffb34cbbaf92ca2292ab",
+      "os": null,
+      "registry": "docker.io",
+      "repository": "biocontainers/nmrpro",
+      "size": 1951787092,
+      "tag": null
+    },
+    {
+      "architecture": null,
+      "digest": "51164829a0d7e3eb8210bba41bac18f8e98f8417034aed76d00d66427d460473",
+      "os": null,
+      "registry": "docker.io",
+      "repository": "biocontainers/phnml-jupyter",
+      "size": 5293383933,
+      "tag": null
+    },
+    {
+      "architecture": null,
+      "digest": "14a5d446d19dfe53216793d79b045f8f7f6f31edcb8d073fe1118f710c6bd794",
+      "os": null,
+      "registry": "docker.io",
+      "repository": "biocontainers/rbase",
+      "size": 267049286,
+      "tag": null
+    },
+    {
+      "architecture": null,
+      "digest": "686460430c220773d1f1b563625a1150473c2b28335e83ebfef986bbc3bb332d",
+      "os": null,
+      "registry": "docker.io",
+      "repository": "biocontainers/rnmr",
+      "size": 3156293329,
+      "tag": null
+    },
+    {
+      "architecture": null,
+      "digest": "b42b97e08804772c6f778a10714ddfb0664c31468ae2a969c6f453f07c1f86b1",
+      "os": null,
+      "registry": "docker.io",
+      "repository": "biocontainers/sbml2metexplorejsongraph",
+      "size": 666159177,
+      "tag": null
+    },
+    {
+      "architecture": null,
+      "digest": "d6565bdd373ef1cbcc73920f53f4cdef838aa9620bfbb4e2fab2045f2479d355",
+      "os": null,
+      "registry": "docker.io",
+      "repository": "biocontainers/soap-nmr",
+      "size": 1000947829,
+      "tag": null
+    },
+    {
+      "architecture": null,
+      "digest": "ae53cd793a0dbeb648c8ccfd5883ab528ea31ad58c20fa9a99d04c999e9caefd",
+      "os": null,
+      "registry": "docker.io",
+      "repository": "biocontainers/velvet-tests",
+      "size": 166126665,
+      "tag": null
+    },
+    {
+      "architecture": null,
+      "digest": "55dec53a2f70cdbb58846b3564c8e4e0804c5574ac50851d4256e71d06fd6ec1",
+      "os": null,
+      "registry": "docker.io",
+      "repository": "biocontainers/vg",
+      "size": 299839597,
+      "tag": null
+    },
+    {
+      "architecture": null,
+      "digest": "6519e2051e441c94a141f28167ac6e30bacdab449a64004fa75250437387cc26",
+      "os": null,
+      "registry": "docker.io",
+      "repository": "biocontainers/visionegg",
+      "size": 239627407,
+      "tag": null
+    },
+    {
+      "architecture": null,
+      "digest": "2972d39e2038b74ccb778f4ae5b56588e05b62ebecabb820b69eedb9dd39f0f4",
+      "os": null,
+      "registry": "docker.io",
+      "repository": "biocontainers/vsearch",
+      "size": 118013527,
+      "tag": null
+    },
+    {
+      "architecture": null,
+      "digest": "53e290e68de96006f6c3d845ed1b407a7646fc5324e59cf0758a25a29e93324b",
+      "os": null,
+      "registry": "docker.io",
+      "repository": "biocontainers/vtk-dicom",
+      "size": 1250279986,
+      "tag": null
+    },
+    {
+      "architecture": null,
+      "digest": "131f914884d77a4dfa2a6fd816dbe3ab3ab542b1a7ea10d31460fd1b0e36cf40",
+      "os": null,
+      "registry": "docker.io",
+      "repository": "biocontainers/vtk-dicom-tools",
+      "size": 956273445,
+      "tag": null
+    },
+    {
+      "architecture": null,
+      "digest": "f26b129a4024dfac1cebf34faa339723ff05e71f2c75692f71f904c52540d934",
+      "os": null,
+      "registry": "docker.io",
+      "repository": "biocontainers/vtkgdcm",
+      "size": 966463433,
+      "tag": null
+    },
+    {
+      "architecture": null,
+      "digest": "b37985e954c499ba6783989ec6944f716e136ef7e36ac3f1ed66c6b613ed5fb4",
+      "os": null,
+      "registry": "docker.io",
+      "repository": "biocontainers/wgerman-medical",
+      "size": 120257272,
+      "tag": null
+    },
+    {
+      "architecture": null,
+      "digest": "049f28ed6304deee7c90171601349c7c49c3510257bb18033fa16f6236cedca9",
+      "os": null,
+      "registry": "docker.io",
+      "repository": "biocontainers/wigeon",
+      "size": 170848113,
+      "tag": null
+    },
+    {
+      "architecture": null,
+      "digest": "d3aadc55cfc5939694da584aefbcec872cc813fb3dcae9708f2ba207f6facd49",
+      "os": null,
+      "registry": "docker.io",
+      "repository": "biocontainers/wise",
+      "size": 181592014,
+      "tag": null
+    },
+    {
+      "architecture": null,
+      "digest": "842cf34ea079b32e3e1338b4b331193bccfb3665909a0044ec1f27fe9fe41ab7",
+      "os": null,
+      "registry": "docker.io",
+      "repository": "biocontainers/wise-data",
+      "size": 181592014,
+      "tag": null
+    },
+    {
+      "architecture": null,
+      "digest": "5c01d9f03567f0cb8b414fb48f3210b4d32c981de766b276c876cd8f9540cc0a",
+      "os": null,
+      "registry": "docker.io",
+      "repository": "biocontainers/xcms",
+      "size": 607381604,
+      "tag": null
+    },
+    {
+      "architecture": null,
+      "digest": "788e8780c901d4531990e71396af38c7936eb22329961a2da8f1adf0daa87fe7",
+      "os": null,
+      "registry": "docker.io",
+      "repository": "biocontainers/xcms",
+      "size": 754536005,
+      "tag": null
+    },
+    {
+      "architecture": null,
+      "digest": "a1215789f430d5d83ab6c357873cbf17ac9f83507438224d95cd1f9f43a112d7",
+      "os": null,
+      "registry": "docker.io",
+      "repository": "biocontainers/xmedcon",
+      "size": 265446207,
+      "tag": null
+    },
+    {
+      "architecture": null,
+      "digest": "d191f09026a62aa6dea19dd178d19c5614a93ec7d4a0964f53ad59722429cb66",
+      "os": null,
+      "registry": "docker.io",
+      "repository": "biocontainers/xopen",
+      "size": 157263319,
+      "tag": null
+    },
+    {
+      "architecture": null,
+      "digest": "bb4221f8f0d263335e71e123a864510f7828493800fdd8ac974a10ec3a0cb42d",
+      "os": null,
+      "registry": "docker.io",
+      "repository": "biocontainers/xtandem",
+      "size": 1093552516,
+      "tag": null
+    },
+    {
+      "architecture": null,
+      "digest": "ebb1b0b1cccfab1991df866918c9d5fd939045c4d3be39cc8606a61af947e3f5",
+      "os": null,
+      "registry": "docker.io",
+      "repository": "biocontainers/yaggo",
+      "size": 156940584,
+      "tag": null
+    },
+    {
+      "architecture": null,
+      "digest": "8232b4c11cdc96bb1715bba9be87790e2b0df937694200d3eb6165a173ca1612",
+      "os": null,
+      "registry": "docker.io",
+      "repository": "biocontainers/yaha",
+      "size": 117573205,
+      "tag": null
+    },
+    {
+      "architecture": null,
+      "digest": "29031b2fbac42a5266bb4b91d4d9303f2c3a334998866dce1139f17724dda3c5",
+      "os": null,
+      "registry": "docker.io",
+      "repository": "biocontainers/zalign",
+      "size": 418935724,
+      "tag": null
+    },
+    {
+      "architecture": null,
+      "digest": "98e3aceda95c490cb302f67bcd8b965a7984f1e7f2de4d67a94116fdc2e2c22e",
+      "os": null,
+      "registry": "docker.io",
+      "repository": "biocontainers/zorro",
+      "size": 1110732913,
+      "tag": null
+    },
+    {
+      "architecture": null,
+      "digest": "41833b80b5947424f319931a2c02baa46410d3a11e84f5d63512491097ed586f",
+      "os": null,
+      "registry": "docker.io",
+      "repository": "biocontainers/zstd",
+      "size": 118907791,
+      "tag": null
+    },
+    {
+      "architecture": "amd64",
+      "digest": "d657ab0ade19f404a6ccc883ab399540de667aff751748ce23c07330c5a89e64",
+      "os": "linux",
+      "registry": "docker.io",
+      "repository": "python",
+      "size": 119190633,
+      "tag": null
+    },
+    {
+      "architecture": "amd64",
+      "digest": "78b39ef14d8e2b4d71f8dc304f1328c37df95fe0ef99477c2ae6bd3d03784553",
+      "os": "linux",
+      "registry": "docker.io",
+      "repository": "python",
+      "size": 124817523,
+      "tag": null
+    },
+    {
+      "architecture": "amd64",
+      "digest": "d6e0850f13fda0e2305d4c3c1c2f7930fe1042d34ddd958e49bba6ef685d0bb2",
+      "os": "linux",
+      "registry": "docker.io",
+      "repository": "python",
+      "size": 119443019,
+      "tag": null
+    },
+    {
+      "architecture": "amd64",
+      "digest": "8fef26df932191825664e4957ff488c96dfe64918327634a357a55facbc994d3",
+      "os": "linux",
+      "registry": "docker.io",
+      "repository": "python",
+      "size": 118039608,
+      "tag": null
+    },
+    {
+      "architecture": "amd64",
+      "digest": "4421ea7d63b408f6893d368e3ea0f3738efa5997ae9bd26e572c654fe31dfbe5",
+      "os": "linux",
+      "registry": "docker.io",
+      "repository": "rocker/binder",
+      "size": 6879016533,
+      "tag": null
+    },
+    {
+      "architecture": "amd64",
+      "digest": "d2c2fdb89df373750af387c96465b34a4aa77e26c278dc4f384a67ee9a8affcf",
+      "os": "linux",
+      "registry": "docker.io",
+      "repository": "rocker/cuda",
+      "size": 17885980861,
+      "tag": null
+    },
+    {
+      "architecture": "amd64",
+      "digest": "c59fd02629f614178dac105c3095f4ac06ef7a9353bd06c9e68d59d92616579c",
+      "os": "linux",
+      "registry": "docker.io",
+      "repository": "rocker/drp",
+      "size": 1646760549,
+      "tag": null
+    },
+    {
+      "architecture": "amd64",
+      "digest": "ced12c05e51a862e9cf8cd579d76a82a430c963b0aeb56da1480afbe5e2f9a70",
+      "os": "linux",
+      "registry": "docker.io",
+      "repository": "rocker/geospatial",
+      "size": 6575361086,
+      "tag": null
+    },
+    {
+      "architecture": "amd64",
+      "digest": "194a7fa006bd2f75af4193a32fc0b97456d307ce9502de9e5a3a86601e9deac8",
+      "os": "linux",
+      "registry": "docker.io",
+      "repository": "rocker/ml",
+      "size": 7524766358,
+      "tag": null
+    },
+    {
+      "architecture": "amd64",
+      "digest": "827ca22fc2919f47d9bef670e8e756bb542c1f582fa2b1257d92117b8ddd0ffa",
+      "os": "linux",
+      "registry": "docker.io",
+      "repository": "rocker/ml-verse",
+      "size": 14414762332,
+      "tag": null
+    },
+    {
+      "architecture": null,
+      "digest": "4d33ca3b8a17d1b861ae9c78dc7c71bac9d7cd9838708a1c8954f07a96e1c012",
+      "os": null,
+      "registry": "docker.io",
+      "repository": "rocker/r-apt",
+      "size": 600273973,
+      "tag": null
+    },
+    {
+      "architecture": null,
+      "digest": "d7efed9aba879bcbb39fd422d638e745fb3124ee175ffce6dadb80cba30b5f12",
+      "os": null,
+      "registry": "docker.io",
+      "repository": "rocker/r-base",
+      "size": 943929356,
+      "tag": null
+    },
+    {
+      "architecture": null,
+      "digest": "dfde72d518950e7fef86f6fba9b9fbf56a4b35b8137657e8537c8adc89e1f796",
+      "os": null,
+      "registry": "docker.io",
+      "repository": "rocker/r-edge",
+      "size": 1454445336,
+      "tag": null
+    },
+    {
+      "architecture": null,
+      "digest": "d883fc0deb520c2f0f34ea5d58a56ede83b6876b7672613a32e57b6612f0978b",
+      "os": null,
+      "registry": "docker.io",
+      "repository": "rocker/r-parallel",
+      "size": 999751682,
+      "tag": null
+    },
+    {
+      "architecture": "amd64",
+      "digest": "c41a814ea1983e7368cf8d11f3339f77e8ce2cb19c4ec9cab064fd6c3dce4a97",
+      "os": "linux",
+      "registry": "docker.io",
+      "repository": "rocker/r-ubuntu",
+      "size": 775977631,
+      "tag": null
+    },
+    {
+      "architecture": "amd64",
+      "digest": "fbf62b6ca344dbedba46e3eb5dec4eb5e0dbd6e2554e8774d6ca8f6f68c60a52",
+      "os": "linux",
+      "registry": "docker.io",
+      "repository": "rocker/r-ver",
+      "size": 1067163275,
+      "tag": null
+    },
+    {
+      "architecture": "amd64",
+      "digest": "5dce84d9d79eaa937c1478455915c09bf27c159a10b90f2a5968cfd604f7b8d3",
+      "os": "linux",
+      "registry": "docker.io",
+      "repository": "rocker/r2u",
+      "size": 874778044,
+      "tag": null
+    },
+    {
+      "architecture": null,
+      "digest": "a40b3be9b68e4c9eefec19a93f6235c2f143b93e1ddf0fa6c5b3f22e5d7cf224",
+      "os": null,
+      "registry": "docker.io",
+      "repository": "rocker/ropensci",
+      "size": 4506615129,
+      "tag": null
+    },
+    {
+      "architecture": "amd64",
+      "digest": "4537a8727031ab76d6fd27c2223fb68fc2e7b7ae00071b334b84ed9fff7297cd",
+      "os": "linux",
+      "registry": "docker.io",
+      "repository": "rocker/rstudio",
+      "size": 2820924315,
+      "tag": null
+    },
+    {
+      "architecture": null,
+      "digest": "f0b72f08912b96b5126c42872e7bf38ae80ba1c1808807191852ab8bebd6707a",
+      "os": null,
+      "registry": "docker.io",
+      "repository": "rocker/rstudio-stable",
+      "size": 1114410482,
+      "tag": null
+    },
+    {
+      "architecture": "amd64",
+      "digest": "7f3b79c595ff9c97652f0cecdf9a3d2290ce672c40060c08d42c92ea58a0aae9",
+      "os": "linux",
+      "registry": "docker.io",
+      "repository": "rocker/shiny",
+      "size": 1662652164,
+      "tag": null
+    },
+    {
+      "architecture": "amd64",
+      "digest": "d187c77c5479ecc46e5f93890695d1708fedc00df686519c9fa93ef5bde4e660",
+      "os": "linux",
+      "registry": "docker.io",
+      "repository": "rocker/shiny-verse",
+      "size": 2158404511,
+      "tag": null
+    },
+    {
+      "architecture": "amd64",
+      "digest": "e85bb2427dabfd255181ddd1bb0729baecaadfe25c8204fabcd5cadb3ff3b958",
+      "os": "linux",
+      "registry": "docker.io",
+      "repository": "rocker/tidyverse",
+      "size": 3266011427,
+      "tag": null
+    },
+    {
+      "architecture": "amd64",
+      "digest": "4c6ff6ae1f66fa1ce129ede5b645a5e1c42d8adbaf452fd4bc90756987456454",
+      "os": "linux",
+      "registry": "docker.io",
+      "repository": "rocker/verse",
+      "size": 4413695954,
+      "tag": null
+    },
+    {
+      "architecture": null,
+      "digest": "3cb1d57f1c21df316e42441331e71ea4eb6272c0b4f699e35ede75b4b8dd027d",
+      "os": null,
+      "registry": "docker.io",
+      "repository": "sciwin/python-datascience",
+      "size": 650790477,
+      "tag": null
+    },
+    {
+      "architecture": null,
+      "digest": "ac21c7f48c5c46fcfd61bc0eb37c4f55719d12c5059d672c22aafe41977738a3",
+      "os": null,
+      "registry": "docker.io",
+      "repository": "sciwin/python-geospatial",
+      "size": 1472950120,
+      "tag": null
+    },
+    {
+      "architecture": null,
+      "digest": "033c4dc20ef93b294c45d6b97e126b5a306e6fcc89e294ecf291a6fc92ec058a",
+      "os": null,
+      "registry": "docker.io",
+      "repository": "sciwin/r-datascience",
+      "size": 1143945301,
+      "tag": null
+    },
+    {
+      "architecture": null,
+      "digest": "d0a071ad94cfec6b336d84da20e6331bdf6d2576ec31e5d4e37f6de41250d78a",
+      "os": null,
+      "registry": "docker.io",
+      "repository": "sciwin/r-geospatial",
+      "size": 4946700047,
+      "tag": null
+    }
+  ]
+}
