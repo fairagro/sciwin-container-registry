@@ -1,5 +1,10 @@
 #!/usr/bin/env cwl-runner
 
+$namespaces:
+  edam: http://edamontology.org/
+
+$schemas:
+- https://edamontology.org/EDAM.owl
 
 baseCommand:
 - python3
@@ -24,7 +29,13 @@ inputs:
     position: 3
   type: string
 
-outputs: []
+outputs:
+- format: edam:format_3464
+  id: images_json
+  outputBinding:
+    glob: images.json
+  type: File
+
 requirements:
 - class: InitialWorkDirRequirement
   listing:
