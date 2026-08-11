@@ -2,7 +2,7 @@ name: 🚀 Generate Data
 
 on:
     push:
-        branches: ["master"] # runs on push to master
+        branches: ["main"] # runs on push to main
     schedule:
         - cron: "0 0 * * *" # runs every day
 
