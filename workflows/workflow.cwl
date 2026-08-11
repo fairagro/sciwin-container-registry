@@ -6,9 +6,14 @@ class: Workflow
 requirements:
 - class: SubworkflowFeatureRequirement
 - class: ScatterFeatureRequirement
+- class: MultipleInputFeatureRequirement
 
 inputs:
 - id: images
+  type:
+    type: array
+    items: string
+- id: namespaces
   type:
     type: array
     items: string
@@ -26,10 +31,20 @@ outputs:
   outputSource: add_index/index_sqlite
 
 steps:
+- id: discover_images
+  in:
+  - id: namespaces
+    source: namespaces
+  run: index/discover_images.cwl
+  out:
+  - images
 - id: scan_image
   in:
   - id: image
-    source: images
+    source:
+    - images
+    - discover_images/images
+    linkMerge: merge_flattened
   - id: old_index
     source: old_index
   scatter: image
