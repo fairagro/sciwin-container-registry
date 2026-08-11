@@ -10,6 +10,7 @@ images:
 old_index:
   class: File
   location: index/index.sqlite
+  format: http://edamontology.org/format_1926
 sql_scheme:
   class: File
   format: http://edamontology.org/format_3788
