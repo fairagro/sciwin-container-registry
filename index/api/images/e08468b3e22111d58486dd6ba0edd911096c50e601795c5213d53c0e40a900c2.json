@@ -1,6 +1,9 @@
 {
   "architecture": null,
   "digest": "e08468b3e22111d58486dd6ba0edd911096c50e601795c5213d53c0e40a900c2",
+  "entrypoint": [
+    "luigid"
+  ],
   "os": null,
   "packages": [
     {

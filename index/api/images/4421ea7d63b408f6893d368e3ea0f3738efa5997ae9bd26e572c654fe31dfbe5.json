@@ -1,6 +1,12 @@
 {
   "architecture": "amd64",
   "digest": "4421ea7d63b408f6893d368e3ea0f3738efa5997ae9bd26e572c654fe31dfbe5",
+  "entrypoint": [
+    "tini",
+    "-g",
+    "--",
+    "start.sh"
+  ],
   "os": "linux",
   "packages": [
     {

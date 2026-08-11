@@ -1,6 +1,16 @@
 {
   "architecture": null,
   "digest": "8369e3da60643293ef3d1eb1c830d23ba74e308b9ecd98c2bbeb981a2e96b78c",
+  "entrypoint": [
+    "/bin/sh",
+    "nosetests",
+    "-v",
+    "--with-cov",
+    "--cov",
+    "nmrglue",
+    "--exe",
+    "nmrglue"
+  ],
   "os": null,
   "packages": [
     {

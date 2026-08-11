@@ -1,6 +1,9 @@
 {
   "architecture": null,
   "digest": "6f755d2df889ae852a14c287605e2ec9a77ec19626bdec2daaafded9d9693422",
+  "entrypoint": [
+    "run_json2tab.py"
+  ],
   "os": null,
   "packages": [
     {

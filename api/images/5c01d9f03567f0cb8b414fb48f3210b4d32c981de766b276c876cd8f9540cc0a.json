@@ -1,6 +1,9 @@
 {
   "architecture": null,
   "digest": "5c01d9f03567f0cb8b414fb48f3210b4d32c981de766b276c876cd8f9540cc0a",
+  "entrypoint": [
+    "R"
+  ],
   "os": null,
   "packages": [
     {

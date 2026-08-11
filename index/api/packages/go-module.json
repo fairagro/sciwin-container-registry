@@ -108,6 +108,14 @@
       "314bb6b672589b2ca153d5bdf1bf1d1eca7581040e27d5d9c66d0c81776dd1c1"
     ]
   },
+  "github.com/alexbrainman/sspi": {
+    "v0.0.0-20180125232955-4729b3d4d858": [
+      "0c84435e74d417c4a322c1d89cc0d504781f3cd4e5f30d278b61f2c728dc44c0"
+    ],
+    "v0.0.0-20210105120005-909beea2cc74": [
+      "e0f74338161cdf093ebe82d7b32704577fae8076d257c3826df15c7f9bbea6a5"
+    ]
+  },
   "github.com/asaskevich/govalidator": {
     "v0.0.0-20230301143203-a9d515a09cc2": [
       "194a7fa006bd2f75af4193a32fc0b97456d307ce9502de9e5a3a86601e9deac8",
@@ -122,6 +130,12 @@
       "d2c2fdb89df373750af387c96465b34a4aa77e26c278dc4f384a67ee9a8affcf",
       "51fad1dcec4a0d0db648c735bf840d49c5910403d2e82058f02220b79f9e390b",
       "314bb6b672589b2ca153d5bdf1bf1d1eca7581040e27d5d9c66d0c81776dd1c1"
+    ]
+  },
+  "github.com/avast/retry-go": {
+    "v2.4.2+incompatible": [
+      "0c84435e74d417c4a322c1d89cc0d504781f3cd4e5f30d278b61f2c728dc44c0",
+      "e0f74338161cdf093ebe82d7b32704577fae8076d257c3826df15c7f9bbea6a5"
     ]
   },
   "github.com/aymanbagabas/go-osc52/v2": {
@@ -473,6 +487,14 @@
       "314bb6b672589b2ca153d5bdf1bf1d1eca7581040e27d5d9c66d0c81776dd1c1"
     ]
   },
+  "github.com/dpotapov/go-spnego": {
+    "v0.0.0-20190506202455-c2c609116ad0": [
+      "0c84435e74d417c4a322c1d89cc0d504781f3cd4e5f30d278b61f2c728dc44c0"
+    ],
+    "v0.0.0-20210315154721-298b63a54430": [
+      "e0f74338161cdf093ebe82d7b32704577fae8076d257c3826df15c7f9bbea6a5"
+    ]
+  },
   "github.com/dustin/go-humanize": {
     "v1.0.1": [
       "194a7fa006bd2f75af4193a32fc0b97456d307ce9502de9e5a3a86601e9deac8",
@@ -545,7 +567,49 @@
       "4421ea7d63b408f6893d368e3ea0f3738efa5997ae9bd26e572c654fe31dfbe5",
       "d2c2fdb89df373750af387c96465b34a4aa77e26c278dc4f384a67ee9a8affcf",
       "51fad1dcec4a0d0db648c735bf840d49c5910403d2e82058f02220b79f9e390b",
-      "314bb6b672589b2ca153d5bdf1bf1d1eca7581040e27d5d9c66d0c81776dd1c1"
+      "314bb6b672589b2ca153d5bdf1bf1d1eca7581040e27d5d9c66d0c81776dd1c1",
+      "0c84435e74d417c4a322c1d89cc0d504781f3cd4e5f30d278b61f2c728dc44c0"
+    ]
+  },
+  "github.com/git-lfs/git-lfs/v3": {
+    "v0.0.0-20221130152644-77deabdf9a18": [
+      "e0f74338161cdf093ebe82d7b32704577fae8076d257c3826df15c7f9bbea6a5"
+    ]
+  },
+  "github.com/git-lfs/gitobj/v2": {
+    "v2.0.0": [
+      "0c84435e74d417c4a322c1d89cc0d504781f3cd4e5f30d278b61f2c728dc44c0"
+    ],
+    "v2.1.1": [
+      "e0f74338161cdf093ebe82d7b32704577fae8076d257c3826df15c7f9bbea6a5"
+    ]
+  },
+  "github.com/git-lfs/go-netrc": {
+    "v0.0.0-20180525200031-e0e9ca483a18": [
+      "0c84435e74d417c4a322c1d89cc0d504781f3cd4e5f30d278b61f2c728dc44c0"
+    ],
+    "v0.0.0-20210914205454-f0c862dd687a": [
+      "e0f74338161cdf093ebe82d7b32704577fae8076d257c3826df15c7f9bbea6a5"
+    ]
+  },
+  "github.com/git-lfs/go-ntlm": {
+    "v0.0.0-20190401175752-c5056e7fa066": [
+      "0c84435e74d417c4a322c1d89cc0d504781f3cd4e5f30d278b61f2c728dc44c0"
+    ]
+  },
+  "github.com/git-lfs/pktline": {
+    "v0.0.0-20210330133718-06e9096e2825": [
+      "e0f74338161cdf093ebe82d7b32704577fae8076d257c3826df15c7f9bbea6a5"
+    ]
+  },
+  "github.com/git-lfs/wildmatch": {
+    "v1.0.4": [
+      "0c84435e74d417c4a322c1d89cc0d504781f3cd4e5f30d278b61f2c728dc44c0"
+    ]
+  },
+  "github.com/git-lfs/wildmatch/v2": {
+    "v2.0.1": [
+      "e0f74338161cdf093ebe82d7b32704577fae8076d257c3826df15c7f9bbea6a5"
     ]
   },
   "github.com/go-ini/ini": {
@@ -908,6 +972,10 @@
     ]
   },
   "github.com/inconshreveable/mousetrap": {
+    "v1.0.0": [
+      "0c84435e74d417c4a322c1d89cc0d504781f3cd4e5f30d278b61f2c728dc44c0",
+      "e0f74338161cdf093ebe82d7b32704577fae8076d257c3826df15c7f9bbea6a5"
+    ],
     "v1.1.0": [
       "4421ea7d63b408f6893d368e3ea0f3738efa5997ae9bd26e572c654fe31dfbe5"
     ]
@@ -968,6 +1036,11 @@
   "github.com/klauspost/cpuid/v2": {
     "v2.2.10": [
       "4421ea7d63b408f6893d368e3ea0f3738efa5997ae9bd26e572c654fe31dfbe5"
+    ]
+  },
+  "github.com/leonelquinteros/gotext": {
+    "v1.5.0": [
+      "e0f74338161cdf093ebe82d7b32704577fae8076d257c3826df15c7f9bbea6a5"
     ]
   },
   "github.com/lestrrat-go/blackmagic": {
@@ -1036,6 +1109,10 @@
       "d2c2fdb89df373750af387c96465b34a4aa77e26c278dc4f384a67ee9a8affcf",
       "51fad1dcec4a0d0db648c735bf840d49c5910403d2e82058f02220b79f9e390b",
       "314bb6b672589b2ca153d5bdf1bf1d1eca7581040e27d5d9c66d0c81776dd1c1"
+    ],
+    "v0.0.4": [
+      "0c84435e74d417c4a322c1d89cc0d504781f3cd4e5f30d278b61f2c728dc44c0",
+      "e0f74338161cdf093ebe82d7b32704577fae8076d257c3826df15c7f9bbea6a5"
     ]
   },
   "github.com/mattn/go-runewidth": {
@@ -1215,6 +1292,12 @@
       "4421ea7d63b408f6893d368e3ea0f3738efa5997ae9bd26e572c654fe31dfbe5"
     ]
   },
+  "github.com/olekukonko/ts": {
+    "v0.0.0-20171002115256-78ecb04241c0": [
+      "0c84435e74d417c4a322c1d89cc0d504781f3cd4e5f30d278b61f2c728dc44c0",
+      "e0f74338161cdf093ebe82d7b32704577fae8076d257c3826df15c7f9bbea6a5"
+    ]
+  },
   "github.com/opencontainers/go-digest": {
     "v1.0.0": [
       "194a7fa006bd2f75af4193a32fc0b97456d307ce9502de9e5a3a86601e9deac8",
@@ -1245,6 +1328,10 @@
     ]
   },
   "github.com/pkg/errors": {
+    "v0.0.0-20170505043639-c605e284fe17": [
+      "0c84435e74d417c4a322c1d89cc0d504781f3cd4e5f30d278b61f2c728dc44c0",
+      "e0f74338161cdf093ebe82d7b32704577fae8076d257c3826df15c7f9bbea6a5"
+    ],
     "v0.9.1": [
       "194a7fa006bd2f75af4193a32fc0b97456d307ce9502de9e5a3a86601e9deac8",
       "d2c2fdb89df373750af387c96465b34a4aa77e26c278dc4f384a67ee9a8affcf",
@@ -1347,6 +1434,12 @@
   "github.com/rs/xid": {
     "v1.6.0": [
       "4421ea7d63b408f6893d368e3ea0f3738efa5997ae9bd26e572c654fe31dfbe5"
+    ]
+  },
+  "github.com/rubyist/tracerx": {
+    "v0.0.0-20170927163412-787959303086": [
+      "0c84435e74d417c4a322c1d89cc0d504781f3cd4e5f30d278b61f2c728dc44c0",
+      "e0f74338161cdf093ebe82d7b32704577fae8076d257c3826df15c7f9bbea6a5"
     ]
   },
   "github.com/safchain/ethtool": {
@@ -1469,6 +1562,10 @@
     ]
   },
   "github.com/spf13/cobra": {
+    "v0.0.3": [
+      "0c84435e74d417c4a322c1d89cc0d504781f3cd4e5f30d278b61f2c728dc44c0",
+      "e0f74338161cdf093ebe82d7b32704577fae8076d257c3826df15c7f9bbea6a5"
+    ],
     "v1.10.2": [
       "194a7fa006bd2f75af4193a32fc0b97456d307ce9502de9e5a3a86601e9deac8",
       "d2c2fdb89df373750af387c96465b34a4aa77e26c278dc4f384a67ee9a8affcf",
@@ -1482,6 +1579,16 @@
       "d2c2fdb89df373750af387c96465b34a4aa77e26c278dc4f384a67ee9a8affcf",
       "51fad1dcec4a0d0db648c735bf840d49c5910403d2e82058f02220b79f9e390b",
       "314bb6b672589b2ca153d5bdf1bf1d1eca7581040e27d5d9c66d0c81776dd1c1"
+    ],
+    "v1.0.3": [
+      "0c84435e74d417c4a322c1d89cc0d504781f3cd4e5f30d278b61f2c728dc44c0",
+      "e0f74338161cdf093ebe82d7b32704577fae8076d257c3826df15c7f9bbea6a5"
+    ]
+  },
+  "github.com/ssgelm/cookiejarparser": {
+    "v1.0.1": [
+      "0c84435e74d417c4a322c1d89cc0d504781f3cd4e5f30d278b61f2c728dc44c0",
+      "e0f74338161cdf093ebe82d7b32704577fae8076d257c3826df15c7f9bbea6a5"
     ]
   },
   "github.com/stretchr/objx": {
@@ -1716,6 +1823,12 @@
     ]
   },
   "golang.org/x/net": {
+    "v0.0.0-20191027093000-83d349e8ac1a": [
+      "0c84435e74d417c4a322c1d89cc0d504781f3cd4e5f30d278b61f2c728dc44c0"
+    ],
+    "v0.0.0-20211112202133-69e39bad7dc2": [
+      "e0f74338161cdf093ebe82d7b32704577fae8076d257c3826df15c7f9bbea6a5"
+    ],
     "v0.40.0": [
       "5dce84d9d79eaa937c1478455915c09bf27c159a10b90f2a5968cfd604f7b8d3"
     ],
@@ -1730,6 +1843,12 @@
     ]
   },
   "golang.org/x/sync": {
+    "v0.0.0-20181221193216-37e7f081c4d4": [
+      "0c84435e74d417c4a322c1d89cc0d504781f3cd4e5f30d278b61f2c728dc44c0"
+    ],
+    "v0.0.0-20210220032951-036812b2e83c": [
+      "e0f74338161cdf093ebe82d7b32704577fae8076d257c3826df15c7f9bbea6a5"
+    ],
     "v0.16.0": [
       "4421ea7d63b408f6893d368e3ea0f3738efa5997ae9bd26e572c654fe31dfbe5"
     ],
@@ -1741,6 +1860,12 @@
     ]
   },
   "golang.org/x/sys": {
+    "v0.0.0-20200922070232-aee5d888a860": [
+      "0c84435e74d417c4a322c1d89cc0d504781f3cd4e5f30d278b61f2c728dc44c0"
+    ],
+    "v0.0.0-20210615035016-665e8c7367d1": [
+      "e0f74338161cdf093ebe82d7b32704577fae8076d257c3826df15c7f9bbea6a5"
+    ],
     "v0.0.0-20220715151400-c0bba94af5f8": [
       "d0a071ad94cfec6b336d84da20e6331bdf6d2576ec31e5d4e37f6de41250d78a",
       "e85bb2427dabfd255181ddd1bb0729baecaadfe25c8204fabcd5cadb3ff3b958",
@@ -1785,6 +1910,12 @@
   "golang.org/x/text": {
     "v0.27.0": [
       "4421ea7d63b408f6893d368e3ea0f3738efa5997ae9bd26e572c654fe31dfbe5"
+    ],
+    "v0.3.0": [
+      "0c84435e74d417c4a322c1d89cc0d504781f3cd4e5f30d278b61f2c728dc44c0"
+    ],
+    "v0.3.7": [
+      "e0f74338161cdf093ebe82d7b32704577fae8076d257c3826df15c7f9bbea6a5"
     ],
     "v0.40.0": [
       "194a7fa006bd2f75af4193a32fc0b97456d307ce9502de9e5a3a86601e9deac8",
@@ -1870,6 +2001,12 @@
     ]
   },
   "stdlib": {
+    "go1.14.13": [
+      "0c84435e74d417c4a322c1d89cc0d504781f3cd4e5f30d278b61f2c728dc44c0"
+    ],
+    "go1.19.3": [
+      "e0f74338161cdf093ebe82d7b32704577fae8076d257c3826df15c7f9bbea6a5"
+    ],
     "go1.20.10": [
       "827ca22fc2919f47d9bef670e8e756bb542c1f582fa2b1257d92117b8ddd0ffa"
     ],

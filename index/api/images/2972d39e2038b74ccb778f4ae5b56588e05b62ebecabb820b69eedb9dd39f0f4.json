@@ -1,6 +1,7 @@
 {
   "architecture": null,
   "digest": "2972d39e2038b74ccb778f4ae5b56588e05b62ebecabb820b69eedb9dd39f0f4",
+  "entrypoint": null,
   "os": null,
   "packages": [
     {

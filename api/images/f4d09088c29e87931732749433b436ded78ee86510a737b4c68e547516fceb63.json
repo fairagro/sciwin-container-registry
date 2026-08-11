@@ -1,6 +1,9 @@
 {
   "architecture": null,
   "digest": "f4d09088c29e87931732749433b436ded78ee86510a737b4c68e547516fceb63",
+  "entrypoint": [
+    "/files/batch_correction/batch_correction_docker_wrapper.R"
+  ],
   "os": null,
   "packages": [
     {

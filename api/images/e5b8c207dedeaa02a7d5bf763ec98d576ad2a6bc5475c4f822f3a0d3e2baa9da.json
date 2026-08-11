@@ -1,6 +1,9 @@
 {
   "architecture": null,
   "digest": "e5b8c207dedeaa02a7d5bf763ec98d576ad2a6bc5475c4f822f3a0d3e2baa9da",
+  "entrypoint": [
+    "run_validator.py"
+  ],
   "os": null,
   "packages": [
     {

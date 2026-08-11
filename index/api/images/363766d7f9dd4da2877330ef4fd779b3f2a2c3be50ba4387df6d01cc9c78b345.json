@@ -1,6 +1,9 @@
 {
   "architecture": null,
   "digest": "363766d7f9dd4da2877330ef4fd779b3f2a2c3be50ba4387df6d01cc9c78b345",
+  "entrypoint": [
+    "/files/mtbls-dwnld/mtbls-dwnld"
+  ],
   "os": null,
   "packages": [
     {

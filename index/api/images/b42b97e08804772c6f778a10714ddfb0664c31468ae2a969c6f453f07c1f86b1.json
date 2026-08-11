@@ -1,6 +1,11 @@
 {
   "architecture": null,
   "digest": "b42b97e08804772c6f778a10714ddfb0664c31468ae2a969c6f453f07c1f86b1",
+  "entrypoint": [
+    "java",
+    "-jar",
+    "SBML2MetexploreJsonGraph.jar"
+  ],
   "os": null,
   "packages": [
     {

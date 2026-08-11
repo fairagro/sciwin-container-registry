@@ -1,6 +1,9 @@
 {
   "architecture": null,
   "digest": "fc23e0874c347f621a786b4ecc796ee6dd15a0ddfe1394f905fbe3cf397b8ad3",
+  "entrypoint": [
+    "/files/isa2w4m/isa2w4m.py"
+  ],
   "os": null,
   "packages": [
     {

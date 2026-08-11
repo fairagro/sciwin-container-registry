@@ -1,0 +1,1142 @@
+{
+  "architecture": null,
+  "digest": "32e1e58521ffb2ffe2edc342732f51424c80ff037216461abf3a25d456aa25e7",
+  "entrypoint": null,
+  "os": null,
+  "packages": [
+    {
+      "ecosystem": "deb",
+      "name": "adduser",
+      "version": "3.118"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "adwaita-icon-theme",
+      "version": "3.30.1-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "aghermann",
+      "version": "1.1.2-2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "apt",
+      "version": "1.8.2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "at-spi2-core",
+      "version": "2.30.0-7"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "base-files",
+      "version": "10.3"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "base-passwd",
+      "version": "3.5.46"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "bash",
+      "version": "5.0-4"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "bsdutils",
+      "version": "1:2.33.1-0.1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "coreutils",
+      "version": "8.30-3"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "dash",
+      "version": "0.5.10.2-5"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "dbus",
+      "version": "1.12.16-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "dbus-user-session",
+      "version": "1.12.16-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "dconf-gsettings-backend",
+      "version": "0.30.1-2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "dconf-service",
+      "version": "0.30.1-2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "debconf",
+      "version": "1.5.71"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "debian-archive-keyring",
+      "version": "2019.1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "debianutils",
+      "version": "4.8.6.1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "diffutils",
+      "version": "1:3.7-3"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "dmsetup",
+      "version": "2:1.02.155-3"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "dpkg",
+      "version": "1.19.7"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "e2fsprogs",
+      "version": "1.44.5-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "fdisk",
+      "version": "2.33.1-0.1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "findutils",
+      "version": "4.6.0+git+20190209-2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "fontconfig",
+      "version": "2.13.1-2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "fontconfig-config",
+      "version": "2.13.1-2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "fonts-dejavu-core",
+      "version": "2.37-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "gcc-8-base",
+      "version": "8.3.0-6"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "glib-networking",
+      "version": "2.58.0-2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "glib-networking-common",
+      "version": "2.58.0-2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "glib-networking-services",
+      "version": "2.58.0-2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "gpgv",
+      "version": "2.2.12-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "grep",
+      "version": "3.3-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "gsettings-desktop-schemas",
+      "version": "3.28.1-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "gtk-update-icon-cache",
+      "version": "3.24.5-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "gzip",
+      "version": "1.9-3"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "hicolor-icon-theme",
+      "version": "0.17-2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "hostname",
+      "version": "3.21"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "init-system-helpers",
+      "version": "1.56+nmu1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "iproute2",
+      "version": "4.20.0-2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "iputils-ping",
+      "version": "3:20180629-2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "krb5-locales",
+      "version": "1.17-3"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libacl1",
+      "version": "2.2.53-4"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libapparmor1",
+      "version": "2.13.2-10"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libapt-pkg5.0",
+      "version": "1.8.2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libargon2-1",
+      "version": "0~20171227-0.2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libatk-bridge2.0-0",
+      "version": "2.30.0-5"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libatk1.0-0",
+      "version": "2.30.0-2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libatk1.0-data",
+      "version": "2.30.0-2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libatspi2.0-0",
+      "version": "2.30.0-7"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libattr1",
+      "version": "1:2.4.48-4"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libaudit-common",
+      "version": "1:2.8.4-3"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libaudit1",
+      "version": "1:2.8.4-3"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libavahi-client3",
+      "version": "0.7-4+b1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libavahi-common-data",
+      "version": "0.7-4+b1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libavahi-common3",
+      "version": "0.7-4+b1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libblas3",
+      "version": "3.8.0-2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libblkid1",
+      "version": "2.33.1-0.1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libbsd0",
+      "version": "0.9.1-2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libbz2-1.0",
+      "version": "1.0.6-9.1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libc-bin",
+      "version": "2.28-10"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libc6",
+      "version": "2.28-10"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libcairo-gobject2",
+      "version": "1.16.0-4"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libcairo2",
+      "version": "1.16.0-4"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libcap-ng0",
+      "version": "0.7.9-2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libcap2",
+      "version": "1:2.25-2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libcap2-bin",
+      "version": "1:2.25-2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libcolord2",
+      "version": "1.4.3-4"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libcom-err2",
+      "version": "1.44.5-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libconfig++9v5",
+      "version": "1.5-0.4"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libcroco3",
+      "version": "0.6.12-3"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libcryptsetup12",
+      "version": "2:2.1.0-5"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libcups2",
+      "version": "2.2.10-6"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libdatrie1",
+      "version": "0.2.12-2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libdb5.3",
+      "version": "5.3.28+dfsg1-0.5"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libdbus-1-3",
+      "version": "1.12.16-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libdconf1",
+      "version": "0.30.1-2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libdebconfclient0",
+      "version": "0.249"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libdevmapper1.02.1",
+      "version": "2:1.02.155-3"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libelf1",
+      "version": "0.176-1.1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libepoxy0",
+      "version": "1.5.3-0.1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libexpat1",
+      "version": "2.2.6-2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libext2fs2",
+      "version": "1.44.5-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libfdisk1",
+      "version": "2.33.1-0.1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libffi6",
+      "version": "3.2.1-9"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libfftw3-double3",
+      "version": "3.3.8-2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libfontconfig1",
+      "version": "2.13.1-2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libfreetype6",
+      "version": "2.9.1-3"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libfribidi0",
+      "version": "1.0.5-3.1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libgcc1",
+      "version": "1:8.3.0-6"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libgcrypt20",
+      "version": "1.8.4-5"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libgdk-pixbuf2.0-0",
+      "version": "2.38.1+dfsg-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libgdk-pixbuf2.0-bin",
+      "version": "2.38.1+dfsg-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libgdk-pixbuf2.0-common",
+      "version": "2.38.1+dfsg-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libgfortran5",
+      "version": "8.3.0-6"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libglib2.0-0",
+      "version": "2.58.3-2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libglib2.0-data",
+      "version": "2.58.3-2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libgmp10",
+      "version": "2:6.1.2+dfsg-4"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libgnutls30",
+      "version": "3.6.7-4"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libgomp1",
+      "version": "8.3.0-6"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libgpg-error0",
+      "version": "1.35-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libgraphite2-3",
+      "version": "1.3.13-7"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libgsl23",
+      "version": "2.5+dfsg-6"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libgslcblas0",
+      "version": "2.5+dfsg-6"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libgssapi-krb5-2",
+      "version": "1.17-3"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libgtk-3-0",
+      "version": "3.24.5-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libgtk-3-bin",
+      "version": "3.24.5-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libgtk-3-common",
+      "version": "3.24.5-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libharfbuzz0b",
+      "version": "2.3.1-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libhogweed4",
+      "version": "3.4.1-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libicu63",
+      "version": "63.1-6"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libidn11",
+      "version": "1.33-2.2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libidn2-0",
+      "version": "2.0.5-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libip4tc0",
+      "version": "1.8.2-4"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libitpp8v5",
+      "version": "4.3.1-9"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libjbig0",
+      "version": "2.1-3.1+b2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libjpeg62-turbo",
+      "version": "1:1.5.2-2+b1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libjson-c3",
+      "version": "0.12.1+ds-2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libjson-glib-1.0-0",
+      "version": "1.4.4-2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libjson-glib-1.0-common",
+      "version": "1.4.4-2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libk5crypto3",
+      "version": "1.17-3"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libkeyutils1",
+      "version": "1.6-6"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libkmod2",
+      "version": "26-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libkrb5-3",
+      "version": "1.17-3"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libkrb5support0",
+      "version": "1.17-3"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "liblapack3",
+      "version": "3.8.0-2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "liblcms2-2",
+      "version": "2.9-3"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "liblua5.2-0",
+      "version": "5.2.4-1.1+b2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "liblz4-1",
+      "version": "1.8.3-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "liblzma5",
+      "version": "5.2.4-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libmnl0",
+      "version": "1.0.4-2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libmount1",
+      "version": "2.33.1-0.1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libncursesw6",
+      "version": "6.1+20181013-2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libnettle6",
+      "version": "3.4.1-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libnss-systemd",
+      "version": "241-5"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libp11-kit0",
+      "version": "0.23.15-2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libpam-modules",
+      "version": "1.3.1-5"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libpam-modules-bin",
+      "version": "1.3.1-5"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libpam-runtime",
+      "version": "1.3.1-5"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libpam-systemd",
+      "version": "241-5"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libpam0g",
+      "version": "1.3.1-5"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libpango-1.0-0",
+      "version": "1.42.4-6"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libpangocairo-1.0-0",
+      "version": "1.42.4-6"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libpangoft2-1.0-0",
+      "version": "1.42.4-6"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libpcre2-8-0",
+      "version": "10.32-5"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libpcre3",
+      "version": "2:8.39-12"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libpixman-1-0",
+      "version": "0.36.0-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libpng16-16",
+      "version": "1.6.36-6"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libproxy1v5",
+      "version": "0.4.15-5"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libpsl5",
+      "version": "0.20.2-2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libquadmath0",
+      "version": "8.3.0-6"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "librest-0.7-0",
+      "version": "0.8.1-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "librsvg2-2",
+      "version": "2.44.10-2.1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "librsvg2-common",
+      "version": "2.44.10-2.1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libsamplerate0",
+      "version": "0.1.9-2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libseccomp2",
+      "version": "2.3.3-4"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libselinux1",
+      "version": "2.8-1+b1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libsemanage-common",
+      "version": "2.8-2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libsemanage1",
+      "version": "2.8-2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libsepol1",
+      "version": "2.8-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libsmartcols1",
+      "version": "2.33.1-0.1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libsoup-gnome2.4-1",
+      "version": "2.64.2-2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libsoup2.4-1",
+      "version": "2.64.2-2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libsqlite3-0",
+      "version": "3.27.2-3"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libss2",
+      "version": "1.44.5-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libssl1.1",
+      "version": "1.1.1c-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libstdc++6",
+      "version": "8.3.0-6"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libsystemd0",
+      "version": "241-5"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libtasn1-6",
+      "version": "4.13-3"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libthai-data",
+      "version": "0.1.28-2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libthai0",
+      "version": "0.1.28-2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libtiff5",
+      "version": "4.0.10-4"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libtinfo6",
+      "version": "6.1+20181013-2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libudev1",
+      "version": "241-5"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libunistring2",
+      "version": "0.9.10-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libuuid1",
+      "version": "2.33.1-0.1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libvte-2.91-0",
+      "version": "0.54.2-2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libvte-2.91-common",
+      "version": "0.54.2-2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libwayland-client0",
+      "version": "1.16.0-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libwayland-cursor0",
+      "version": "1.16.0-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libwayland-egl1",
+      "version": "1.16.0-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libwebp6",
+      "version": "0.6.1-2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libx11-6",
+      "version": "2:1.6.7-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libx11-data",
+      "version": "2:1.6.7-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libxau6",
+      "version": "1:1.0.8-1+b2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libxcb-render0",
+      "version": "1.13.1-2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libxcb-shm0",
+      "version": "1.13.1-2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libxcb1",
+      "version": "1.13.1-2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libxcomposite1",
+      "version": "1:0.4.4-2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libxcursor1",
+      "version": "1:1.1.15-2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libxdamage1",
+      "version": "1:1.1.4-3+b3"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libxdmcp6",
+      "version": "1:1.1.2-3"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libxext6",
+      "version": "2:1.3.3-1+b2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libxfixes3",
+      "version": "1:5.0.3-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libxi6",
+      "version": "2:1.7.9-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libxinerama1",
+      "version": "2:1.1.4-2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libxkbcommon0",
+      "version": "0.8.2-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libxml2",
+      "version": "2.9.4+dfsg1-7+b3"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libxrandr2",
+      "version": "2:1.5.1-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libxrender1",
+      "version": "1:0.9.10-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libxtables12",
+      "version": "1.8.2-4"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libxtst6",
+      "version": "2:1.2.3-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libzstd1",
+      "version": "1.3.8+dfsg-3"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "login",
+      "version": "1:4.5-1.1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "lsb-base",
+      "version": "10.2019051400"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "mawk",
+      "version": "1.3.3-17+b3"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "mount",
+      "version": "2.33.1-0.1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "ncurses-base",
+      "version": "6.1+20181013-2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "ncurses-bin",
+      "version": "6.1+20181013-2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "passwd",
+      "version": "1:4.5-1.1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "perl-base",
+      "version": "5.28.1-6"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "publicsuffix",
+      "version": "20190415.1030-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "sed",
+      "version": "4.7-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "sensible-utils",
+      "version": "0.0.12"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "shared-mime-info",
+      "version": "1.10-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "systemd",
+      "version": "241-5"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "systemd-sysv",
+      "version": "241-5"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "sysvinit-utils",
+      "version": "2.93-8"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "tar",
+      "version": "1.30+dfsg-6"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "tzdata",
+      "version": "2019a-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "ucf",
+      "version": "3.0038+nmu1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "util-linux",
+      "version": "2.33.1-0.1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "x11-common",
+      "version": "1:7.7+19"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "xdg-user-dirs",
+      "version": "0.17-2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "xkb-data",
+      "version": "2.26-2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "zlib1g",
+      "version": "1:1.2.11.dfsg-1"
+    }
+  ],
+  "registry": "docker.io",
+  "repository": "biocontainers/aghermann",
+  "size": 332019607,
+  "tag": null
+}

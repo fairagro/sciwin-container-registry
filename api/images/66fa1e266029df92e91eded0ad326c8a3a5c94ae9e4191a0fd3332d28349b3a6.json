@@ -1,6 +1,9 @@
 {
   "architecture": null,
   "digest": "66fa1e266029df92e91eded0ad326c8a3a5c94ae9e4191a0fd3332d28349b3a6",
+  "entrypoint": [
+    "/usr/local/bin/runMetabolab.sh"
+  ],
   "os": null,
   "packages": [
     {

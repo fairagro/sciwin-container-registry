@@ -1,5 +1,8 @@
 {
   "bigdecimal": {
+    "1.2.8": [
+      "252221e7dfb942c8df8f3526944b7470bc4e7448ade7921180a248468de8522b"
+    ],
     "1.3.4": [
       "ebb1b0b1cccfab1991df866918c9d5fd939045c4d3be39cc8606a61af947e3f5"
     ]
@@ -25,6 +28,9 @@
     ]
   },
   "did_you_mean": {
+    "1.0.0": [
+      "252221e7dfb942c8df8f3526944b7470bc4e7448ade7921180a248468de8522b"
+    ],
     "1.2.1": [
       "ebb1b0b1cccfab1991df866918c9d5fd939045c4d3be39cc8606a61af947e3f5"
     ]
@@ -55,6 +61,9 @@
     ]
   },
   "io-console": {
+    "0.4.5": [
+      "252221e7dfb942c8df8f3526944b7470bc4e7448ade7921180a248468de8522b"
+    ],
     "0.4.6": [
       "ebb1b0b1cccfab1991df866918c9d5fd939045c4d3be39cc8606a61af947e3f5"
     ]
@@ -65,6 +74,9 @@
     ]
   },
   "json": {
+    "1.8.3": [
+      "252221e7dfb942c8df8f3526944b7470bc4e7448ade7921180a248468de8522b"
+    ],
     "2.1.0": [
       "ebb1b0b1cccfab1991df866918c9d5fd939045c4d3be39cc8606a61af947e3f5"
     ]
@@ -72,11 +84,15 @@
   "minitest": {
     "5.11.3": [
       "ebb1b0b1cccfab1991df866918c9d5fd939045c4d3be39cc8606a61af947e3f5"
+    ],
+    "5.9.0": [
+      "252221e7dfb942c8df8f3526944b7470bc4e7448ade7921180a248468de8522b"
     ]
   },
   "net-telnet": {
     "0.1.1": [
-      "ebb1b0b1cccfab1991df866918c9d5fd939045c4d3be39cc8606a61af947e3f5"
+      "ebb1b0b1cccfab1991df866918c9d5fd939045c4d3be39cc8606a61af947e3f5",
+      "252221e7dfb942c8df8f3526944b7470bc4e7448ade7921180a248468de8522b"
     ]
   },
   "openssl": {
@@ -85,21 +101,33 @@
     ]
   },
   "power_assert": {
+    "0.2.7": [
+      "252221e7dfb942c8df8f3526944b7470bc4e7448ade7921180a248468de8522b"
+    ],
     "1.1.1": [
       "ebb1b0b1cccfab1991df866918c9d5fd939045c4d3be39cc8606a61af947e3f5"
     ]
   },
   "psych": {
+    "2.1.0": [
+      "252221e7dfb942c8df8f3526944b7470bc4e7448ade7921180a248468de8522b"
+    ],
     "3.0.2": [
       "ebb1b0b1cccfab1991df866918c9d5fd939045c4d3be39cc8606a61af947e3f5"
     ]
   },
   "rake": {
+    "10.5.0": [
+      "252221e7dfb942c8df8f3526944b7470bc4e7448ade7921180a248468de8522b"
+    ],
     "12.3.1": [
       "ebb1b0b1cccfab1991df866918c9d5fd939045c4d3be39cc8606a61af947e3f5"
     ]
   },
   "rdoc": {
+    "4.2.1": [
+      "252221e7dfb942c8df8f3526944b7470bc4e7448ade7921180a248468de8522b"
+    ],
     "6.0.1": [
       "ebb1b0b1cccfab1991df866918c9d5fd939045c4d3be39cc8606a61af947e3f5"
     ]
@@ -125,6 +153,9 @@
     ]
   },
   "test-unit": {
+    "3.1.7": [
+      "252221e7dfb942c8df8f3526944b7470bc4e7448ade7921180a248468de8522b"
+    ],
     "3.2.8": [
       "ebb1b0b1cccfab1991df866918c9d5fd939045c4d3be39cc8606a61af947e3f5"
     ]

@@ -1,6 +1,10 @@
 {
   "architecture": null,
   "digest": "51164829a0d7e3eb8210bba41bac18f8e98f8417034aed76d00d66427d460473",
+  "entrypoint": [
+    "tini",
+    "--"
+  ],
   "os": null,
   "packages": [
     {

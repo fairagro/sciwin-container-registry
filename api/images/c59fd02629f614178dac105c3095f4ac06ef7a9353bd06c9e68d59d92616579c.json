@@ -1,6 +1,7 @@
 {
   "architecture": "amd64",
   "digest": "c59fd02629f614178dac105c3095f4ac06ef7a9353bd06c9e68d59d92616579c",
+  "entrypoint": null,
   "os": "linux",
   "packages": [
     {

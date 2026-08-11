@@ -1,6 +1,9 @@
 {
   "architecture": null,
   "digest": "92953ad88d46a020ef2f66d24856375b92517ac78c92ffb34cbbaf92ca2292ab",
+  "entrypoint": [
+    "/bin/sh"
+  ],
   "os": null,
   "packages": [
     {
