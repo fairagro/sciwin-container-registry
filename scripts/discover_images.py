@@ -30,5 +30,5 @@ for namespace in args.namespaces:
     names = [f"{r['namespace']}/{r['name']}" for r in results if r["status"] == 1]
     images += names
 
-with open("images.json", "w") as f
+with open("images.json", "w") as f:
     json.dump(images, f, indent=4)
