@@ -29,8 +29,11 @@ jobs:
               with:
                   ref: main
             - uses: actions/configure-pages@v5
+            - run: |
+                  mkdir -p _site/api
+                  cp -r api/. _site/api/
             - uses: actions/upload-pages-artifact@v3
               with:
-                  path: api
+                  path: _site
             - id: deployment
               uses: actions/deploy-pages@v4
