@@ -16,13 +16,26 @@ def read_page(url):
     return body["results"]
 
 
+def latest_tag(namespace, repo):
+    endpoint = (
+        f"https://hub.docker.com/v2/repositories/{namespace}/{repo}/tags/"
+        "?page_size=1&ordering=-last_updated"
+    )
+    results = read_page(endpoint)
+    return results[0]["name"] if results else None
+
+
 images = []
 
 for namespace in args.namespaces:
-    endpoint = f"https://hub.docker.com/v2/repositories/{namespace}/?page_size=100&ordering=last_updated"
+    endpoint = f"https://hub.docker.com/v2/repositories/{namespace}/?page_size=100&ordering=-last_updated"
     results = read_page(endpoint)
-    names = [f"{r['namespace']}/{r['name']}" for r in results if r["status"] == 1]
-    images += names
+    repos = [r["name"] for r in results if r["status"] == 1]
+
+    for repo in repos:
+        tag = latest_tag(namespace, repo)
+        if tag:
+            images.append(f"{namespace}/{repo}:{tag}")
 
 with open("images.json", "w") as f:
     json.dump(images, f, indent=4)
