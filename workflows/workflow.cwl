@@ -29,6 +29,9 @@ outputs:
 - id: index_sqlite
   type: File
   outputSource: add_index/index_sqlite
+- id: api
+  type: File
+  outputSource: generate_api/api
 
 steps:
 - id: discover_images
@@ -70,3 +73,10 @@ steps:
   run: index/add_index.cwl
   out:
   - index_sqlite
+- id: generate_api
+  in:
+  - id: db
+    source: old_index
+  run: index/generate_api.cwl
+  out:
+  - api
