@@ -18,7 +18,7 @@ jobs:
                   python-version: "3.11"
             - run: pip install cwltool
 
-            - run: cwltool --quiet workflows/workflow.cwl job.yml
+            - run: cwltool --quiet --outdir index workflows/workflow.cwl job.yml
             - uses: stefanzweifel/git-auto-commit-action@v7
               with:
                   commit_message: |
