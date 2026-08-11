@@ -1,4 +1,5 @@
 import json
+import random
 import sys
 import requests
 from argparse import ArgumentParser
@@ -16,6 +17,16 @@ def read_page(url):
     return body["results"]
 
 
+order_choices = [
+    "name",
+    "-name",
+    "last_updated",
+    "-last_updated",
+    "pull_count",
+    "-pull_count",
+]
+
+
 def latest_tag(namespace, repo):
     endpoint = (
         f"https://hub.docker.com/v2/repositories/{namespace}/{repo}/tags/"
@@ -28,7 +39,8 @@ def latest_tag(namespace, repo):
 images = []
 
 for namespace in args.namespaces:
-    endpoint = f"https://hub.docker.com/v2/repositories/{namespace}/?page_size=30&ordering=last_updated"
+    ordering = random.choice(order_choices)
+    endpoint = f"https://hub.docker.com/v2/repositories/{namespace}/?page_size=20&ordering={ordering}"
     results = read_page(endpoint)
     repos = [r["name"] for r in results if r["status"] == 1]
 
