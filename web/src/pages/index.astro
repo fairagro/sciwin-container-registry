@@ -24,6 +24,7 @@ const images = getImages();
         <th data-key="registry">Registry</th>
         <th>Arch / OS</th>
         <th data-key="size">Size</th>
+        <th>Entrypoint</th>
         <th data-key="digest">Digest</th>
       </tr>
     </thead>
@@ -45,6 +46,7 @@ const images = getImages();
               {img.architecture ?? "–"} / {img.os ?? "–"}
             </td>
             <td>{formatBytes(img.size)}</td>
+            <td class="mono muted">{img.entrypoint ? img.entrypoint.join(" ") : "–"}</td>
             <td>
               <a class="digest-link" href={`${base}images/${img.digest}/`}>
                 {shortDigest(img.digest)}

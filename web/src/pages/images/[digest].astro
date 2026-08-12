@@ -40,6 +40,10 @@ const title = detail.tag ? `${detail.repository}:${detail.tag}` : detail.reposit
         <dd>{formatBytes(detail.size)}</dd>
       </div>
       <div>
+        <dt>Entrypoint</dt>
+        <dd class="mono">{detail.entrypoint ? detail.entrypoint.join(" ") : "–"}</dd>
+      </div>
+      <div>
         <dt>Packages</dt>
         <dd>{detail.packages.length}</dd>
       </div>

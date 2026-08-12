@@ -14,6 +14,7 @@ export interface ImageSummary {
   architecture: string | null;
   os: string | null;
   size: number | null;
+  entrypoint: string[] | null;
 }
 
 export interface PackageEntry {
