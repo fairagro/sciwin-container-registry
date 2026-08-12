@@ -35,6 +35,7 @@ stdout: $(inputs.digest.split(":")[1]).json
 successCodes:
 - 0
 - 1
+- 137 # ignore mem
 
 baseCommand: []
 $schemas:

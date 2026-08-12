@@ -17,17 +17,17 @@ The pipeline is defined as CWL workflows in [`workflows/`](workflows/) and drive
 
 [`workflows/workflow.cwl`](workflows/workflow.cwl) ties the whole pipeline together:
 
-1. **`discover_images`** ([`scripts/discover_images.py`](scripts/discover_images.py)) — queries
+1. **`discover_images`** ([`scripts/discover_images.py`](scripts/discover_images.py)) - queries
    the Docker Hub API for each configured namespace and picks the most recently updated tag for
    every repository, in addition to any images listed explicitly in `job.yml`.
-2. **`scan_image`** — runs the scan-image sub-workflow (below) for every discovered image,
+2. **`scan_image`** - runs the scan-image sub-workflow (below) for every discovered image,
    scattered in parallel.
-3. **`collect`** — gathers all newly produced SBOMs into an `index/sbom/sha256/` directory and
+3. **`collect`** - gathers all newly produced SBOMs into an `index/sbom/sha256/` directory and
    gzips them.
-4. **`add_index`** ([`scripts/add_index.py`](scripts/add_index.py)) — loads the new SBOMs into
+4. **`add_index`** ([`scripts/add_index.py`](scripts/add_index.py)) - loads the new SBOMs into
    the SQLite index (`index.sqlite`), applying the schema from `index.sql` and skipping images
    that are already indexed.
-5. **`generate_api`** ([`scripts/generate_api.py`](scripts/generate_api.py)) — exports the
+5. **`generate_api`** ([`scripts/generate_api.py`](scripts/generate_api.py)) - exports the
    contents of the SQLite index as a tree of static JSON files under `api/`.
 
 ### Scan-image sub-workflow
@@ -37,12 +37,13 @@ The pipeline is defined as CWL workflows in [`workflows/`](workflows/) and drive
 [`workflows/scan-image/workflow.cwl`](workflows/scan-image/workflow.cwl) processes a single
 image:
 
-1. **`inspect`** — runs `skopeo inspect` to resolve the image's digest and metadata.
-2. **`digest`** — extracts the digest from the inspect output via `jq`.
-3. **`check_index`** ([`scripts/check_index.py`](scripts/check_index.py)) — checks whether the
+1. **`inspect`** - runs `skopeo inspect` to resolve the image's digest and metadata.
+2. **`digest`** - extracts the digest from the inspect output via `jq`.
+3. **`check_index`** ([`scripts/check_index.py`](scripts/check_index.py)) - checks whether the
    digest already exists in the previous index; if so, the image is skipped to avoid re-scanning
    unchanged images.
-4. **`syft`** — if not already indexed, generates a full SBOM for the image in JSON format.
+4. **`syft`** - if not already indexed, generates a full SBOM for the image in JSON format.
+5. **`inspect_config`** - collects information about the image's entrypoint
 ## API
 
 The generated index is exposed as a set of static, pre-rendered JSON files under
@@ -58,9 +59,9 @@ The generated index is exposed as a set of static, pre-rendered JSON files under
 The underlying data model is a SQLite database (`index/index.sqlite`, schema in
 [`index.sql`](index.sql)) with two tables:
 
-- `images` — one row per scanned image (`digest`, `registry`, `repository`, `tag`,
+- `images` - one row per scanned image (`digest`, `registry`, `repository`, `tag`,
   `architecture`, `os`, `size`, `sbom_path`, `scanned_at`).
-- `packages` — one row per package found in an image's SBOM (`image_digest`, `ecosystem`,
+- `packages` - one row per package found in an image's SBOM (`image_digest`, `ecosystem`,
   `name`, `version`), indexed for fast lookups by ecosystem/name/version.
 
 Raw, gzip-compressed Syft SBOMs (full CycloneDX/Syft JSON output) are kept under
@@ -72,15 +73,15 @@ provides.
 [`web/`](web/) is a static site built with [Astro](https://astro.build/) that browses the
 generated API. It reads directly from the repo-root `api/` directory at build time (see
 [`web/src/lib/api.ts`](web/src/lib/api.ts)) and pre-renders one page per image and per package
-ecosystem — no client-side fetching or backend required.
+ecosystem - no client-side fetching or backend required.
 
 Pages:
 
-- **Images** (`/`) — a sortable, filterable table of all indexed images.
-- **Image detail** (`/images/<digest>/`) — registry, tag, architecture/OS, size, and the full
+- **Images** (`/`) - a sortable, filterable table of all indexed images.
+- **Image detail** (`/images/<digest>/`) - registry, tag, architecture/OS, size, and the full
   package list for one image.
-- **Packages** (`/packages/`) — a grid of package ecosystems.
-- **Ecosystem detail** (`/packages/<ecosystem>/`) — packages and versions for one ecosystem,
+- **Packages** (`/packages/`) - a grid of package ecosystems.
+- **Ecosystem detail** (`/packages/<ecosystem>/`) - packages and versions for one ecosystem,
   linking back to the images that contain them.
 
 ### Local development
