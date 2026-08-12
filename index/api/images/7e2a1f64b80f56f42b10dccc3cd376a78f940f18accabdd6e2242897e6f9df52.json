@@ -1,0 +1,2399 @@
+{
+  "architecture": null,
+  "digest": "7e2a1f64b80f56f42b10dccc3cd376a78f940f18accabdd6e2242897e6f9df52",
+  "entrypoint": [
+    "/usr/local/bin/runTest1.sh"
+  ],
+  "os": null,
+  "packages": [
+    {
+      "ecosystem": "binary",
+      "name": "jdk",
+      "version": "1.7.0"
+    },
+    {
+      "ecosystem": "binary",
+      "name": "qtbase",
+      "version": "5.3.0"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "adduser",
+      "version": "3.113+nmu3ubuntu4"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "apt",
+      "version": "1.2.24"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "base-files",
+      "version": "9.4ubuntu4.5"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "base-passwd",
+      "version": "3.5.39"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "bash",
+      "version": "4.3-14ubuntu1.2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "bsdutils",
+      "version": "1:2.27.1-6ubuntu3.3"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "coreutils",
+      "version": "8.25-2ubuntu3~16.04"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "dash",
+      "version": "0.5.8-2.1ubuntu2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "debconf",
+      "version": "1.5.58ubuntu1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "debianutils",
+      "version": "4.7"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "diffutils",
+      "version": "1:3.3-3"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "dpkg",
+      "version": "1.18.4ubuntu1.3"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "e2fslibs",
+      "version": "1.42.13-1ubuntu1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "e2fsprogs",
+      "version": "1.42.13-1ubuntu1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "findutils",
+      "version": "4.6.0+git+20160126-2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "gcc-5-base",
+      "version": "5.4.0-6ubuntu1~16.04.5"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "gcc-6-base",
+      "version": "6.0.1-0ubuntu1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "gnupg",
+      "version": "1.4.20-1ubuntu3.1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "gpgv",
+      "version": "1.4.20-1ubuntu3.1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "grep",
+      "version": "2.25-1~16.04.1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "gzip",
+      "version": "1.6-4ubuntu1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "hostname",
+      "version": "3.16ubuntu2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "init",
+      "version": "1.29ubuntu4"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "init-system-helpers",
+      "version": "1.29ubuntu4"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "initscripts",
+      "version": "2.88dsf-59.3ubuntu2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "insserv",
+      "version": "1.14.0-5ubuntu3"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libacl1",
+      "version": "2.2.52-3"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libapparmor1",
+      "version": "2.10.95-0ubuntu2.7"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libapt-pkg5.0",
+      "version": "1.2.24"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libattr1",
+      "version": "1:2.4.47-2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libaudit-common",
+      "version": "1:2.4.5-1ubuntu2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libaudit1",
+      "version": "1:2.4.5-1ubuntu2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libblkid1",
+      "version": "2.27.1-6ubuntu3.3"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libbz2-1.0",
+      "version": "1.0.6-8"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libc-bin",
+      "version": "2.23-0ubuntu9"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libc6",
+      "version": "2.23-0ubuntu9"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libcap2",
+      "version": "1:2.24-12"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libcap2-bin",
+      "version": "1:2.24-12"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libcomerr2",
+      "version": "1.42.13-1ubuntu1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libcryptsetup4",
+      "version": "2:1.6.6-5ubuntu2.1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libdb5.3",
+      "version": "5.3.28-11ubuntu0.1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libdebconfclient0",
+      "version": "0.198ubuntu1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libdevmapper1.02.1",
+      "version": "2:1.02.110-1ubuntu10"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libfdisk1",
+      "version": "2.27.1-6ubuntu3.3"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libgcc1",
+      "version": "1:6.0.1-0ubuntu1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libgcrypt20",
+      "version": "1.6.5-2ubuntu0.3"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libgpg-error0",
+      "version": "1.21-2ubuntu1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libice6",
+      "version": "2:1.0.9-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libidn11",
+      "version": "1.32-3ubuntu1.2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libkmod2",
+      "version": "22-1ubuntu5"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "liblz4-1",
+      "version": "0.0~r131-2ubuntu2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "liblzma5",
+      "version": "5.1.1alpha+20120614-2ubuntu2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libmount1",
+      "version": "2.27.1-6ubuntu3.3"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libncurses5",
+      "version": "6.0+20160213-1ubuntu1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libncursesw5",
+      "version": "6.0+20160213-1ubuntu1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libpam-modules",
+      "version": "1.1.8-3.2ubuntu2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libpam-modules-bin",
+      "version": "1.1.8-3.2ubuntu2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libpam-runtime",
+      "version": "1.1.8-3.2ubuntu2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libpam0g",
+      "version": "1.1.8-3.2ubuntu2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libpcre3",
+      "version": "2:8.38-3.1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libprocps4",
+      "version": "2:3.3.10-4ubuntu2.3"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libreadline6",
+      "version": "6.3-8ubuntu2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libseccomp2",
+      "version": "2.3.1-2.1ubuntu2~16.04.1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libselinux1",
+      "version": "2.4-3build2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libsemanage-common",
+      "version": "2.3-1build3"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libsemanage1",
+      "version": "2.3-1build3"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libsepol1",
+      "version": "2.4-2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libsm6",
+      "version": "2:1.2.2-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libsmartcols1",
+      "version": "2.27.1-6ubuntu3.3"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libss2",
+      "version": "1.42.13-1ubuntu1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libssl1.0.0",
+      "version": "1.0.2g-1ubuntu4.10"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libstdc++6",
+      "version": "5.4.0-6ubuntu1~16.04.5"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libsystemd0",
+      "version": "229-4ubuntu21"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libtinfo5",
+      "version": "6.0+20160213-1ubuntu1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libudev1",
+      "version": "229-4ubuntu21"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libusb-0.1-4",
+      "version": "2:0.1.12-28"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libustr-1.0-1",
+      "version": "1.0.4-5"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libuuid1",
+      "version": "2.27.1-6ubuntu3.3"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libx11-6",
+      "version": "2:1.6.3-1ubuntu2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libx11-data",
+      "version": "2:1.6.3-1ubuntu2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libxau6",
+      "version": "1:1.0.8-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libxcb1",
+      "version": "1.11.1-1ubuntu1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libxdmcp6",
+      "version": "1:1.1.2-1.1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libxext6",
+      "version": "2:1.3.3-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libxrandr2",
+      "version": "2:1.5.0-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libxrender1",
+      "version": "1:0.9.9-0ubuntu1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libxt6",
+      "version": "1:1.1.5-0ubuntu1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libxtst6",
+      "version": "2:1.2.2-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "login",
+      "version": "1:4.2-3.1ubuntu5.3"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "lsb-base",
+      "version": "9.20160110ubuntu0.2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "makedev",
+      "version": "2.3.1-93ubuntu2~ubuntu16.04.1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "mawk",
+      "version": "1.3.3-17ubuntu2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "mount",
+      "version": "2.27.1-6ubuntu3.3"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "multiarch-support",
+      "version": "2.23-0ubuntu9"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "ncurses-base",
+      "version": "6.0+20160213-1ubuntu1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "ncurses-bin",
+      "version": "6.0+20160213-1ubuntu1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "passwd",
+      "version": "1:4.2-3.1ubuntu5.3"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "perl-base",
+      "version": "5.22.1-9ubuntu0.2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "procps",
+      "version": "2:3.3.10-4ubuntu2.3"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "readline-common",
+      "version": "6.3-8ubuntu2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "sed",
+      "version": "4.2.2-7"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "sensible-utils",
+      "version": "0.0.9"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "systemd",
+      "version": "229-4ubuntu21"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "systemd-sysv",
+      "version": "229-4ubuntu21"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "sysv-rc",
+      "version": "2.88dsf-59.3ubuntu2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "sysvinit-utils",
+      "version": "2.88dsf-59.3ubuntu2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "tar",
+      "version": "1.28-2.1ubuntu0.1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "ubuntu-keyring",
+      "version": "2012.05.19"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "unzip",
+      "version": "6.0-20ubuntu1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "util-linux",
+      "version": "2.27.1-6ubuntu3.3"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "wget",
+      "version": "1.17.1-1ubuntu1.3"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "x11-common",
+      "version": "1:7.7+13ubuntu3"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "zip",
+      "version": "3.0-11"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "zlib1g",
+      "version": "1:1.2.8.dfsg-2ubuntu4.1"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "MWMapReduceDriver",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "MxArrayWritable",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "RXTXcomm",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "TimingFramework",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "US_export_policy",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "XmlSchema",
+      "version": "1.4.3"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "activation",
+      "version": "1.1"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "addons_common",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "addons_import_api",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "addressbar_api",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "alt-rt",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "annotations",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "ant",
+      "version": "1.8.4"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "ant-launcher",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "antlr",
+      "version": "3.3"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "antlr-runtime",
+      "version": "3.3"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "aopalliance",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "api",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "appdesigner",
+      "version": "1.0.0"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "appdesigner_java_res",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "appmanagement",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "appmanagement_res",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "authenticationws_client",
+      "version": "2.0.1"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "authority-api-common",
+      "version": "16.1.1"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "avalon-framework-api",
+      "version": "4.3.1"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "avalon-framework-impl",
+      "version": "4.3.1"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "axiom-api",
+      "version": "1.2.10"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "axiom-impl",
+      "version": "1.2.10"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "axis2-adb",
+      "version": "1.5.4"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "axis2-kernel",
+      "version": "1.5.4"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "axis2-transport-http",
+      "version": "1.5.4"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "axis2-transport-local",
+      "version": "1.5.4"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "batik-anim",
+      "version": "svn-trunk"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "batik-awt-util",
+      "version": "svn-trunk"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "batik-bridge",
+      "version": "svn-trunk"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "batik-codec",
+      "version": "svn-trunk"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "batik-css",
+      "version": "svn-trunk"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "batik-dom",
+      "version": "svn-trunk"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "batik-ext",
+      "version": "svn-trunk"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "batik-extension",
+      "version": "svn-trunk"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "batik-gui-util",
+      "version": "svn-trunk"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "batik-gvt",
+      "version": "svn-trunk"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "batik-parser",
+      "version": "svn-trunk"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "batik-script",
+      "version": "svn-trunk"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "batik-svg-dom",
+      "version": "svn-trunk"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "batik-svggen",
+      "version": "svn-trunk"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "batik-swing",
+      "version": "svn-trunk"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "batik-transcoder",
+      "version": "svn-trunk"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "batik-util",
+      "version": "svn-trunk"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "batik-xml",
+      "version": "svn-trunk"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "bayeux-api",
+      "version": "2.5.1"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "beans",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "bluecove",
+      "version": "2.1.1-SNAPSHOT"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "bluecove-emu",
+      "version": "2.1.1-SNAPSHOT"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "browser",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "browser-dl",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "charsets",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "client",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "cloud-center-client",
+      "version": "1.18.1"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "cloud-console-client",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "cloud-mjs-model-client",
+      "version": "1.11.0-rc-1"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "coder",
+      "version": "1.0.0"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "coder_java_res",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "cometd-java-client",
+      "version": "2.5.1"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "cometd-java-common",
+      "version": "2.5.1"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "cometd-java-server",
+      "version": "2.5.1"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "cometd-websocket-jetty",
+      "version": "2.5.1"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "common",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "common_res",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "commons-beanutils",
+      "version": "1.9.2"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "commons-cli",
+      "version": "1.1"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "commons-codec",
+      "version": "1.3"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "commons-collections",
+      "version": "3.2.1"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "commons-collections-generic",
+      "version": "4.01"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "commons-compress",
+      "version": "1.8.1"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "commons-fileupload",
+      "version": "1.2"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "commons-httpclient",
+      "version": "3.1"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "commons-io",
+      "version": "2.4"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "commons-lang",
+      "version": "2.6"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "commons-lang3",
+      "version": "3.1"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "commons-logging",
+      "version": "1.1.1"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "commons-net",
+      "version": "2.0"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "comp_utils_res",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "comparisons",
+      "version": "1.0.0"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "comparisons_res",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "computils",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "connector-bundle",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "connector_interface",
+      "version": "16.1"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "control",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "controllib",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "cosg_impl",
+      "version": "2.1.1"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "cosg_java_api",
+      "version": "2.1.1"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "dastudio",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "data-exporter",
+      "version": "1.0.4"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "deploy",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "deployedworkers",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "desktop",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "destroy",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "distcomp",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "distcomp_jar_res",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "dnsns",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "dom4j",
+      "version": "1.6.1"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "dws_client",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "editor",
+      "version": "1.0.0"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "editor_data_service",
+      "version": "16.1.1"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "fatalexit",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "fiddler",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "fiddler-dl",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "file_service",
+      "version": "4.2.2"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "file_service_java_api",
+      "version": "1.1.2"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "filesystem_adapter",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "filesystem_adapter_res",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "find_files_api",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "fixedpoint_java_util_res",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "fontbox",
+      "version": "1.8.11"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "fop",
+      "version": "2.2.0-SNAPSHOT"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "foundation_libraries",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "foxtrot-core",
+      "version": "4.0"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "gds-core-client-jar",
+      "version": "1.11.0-sprint-66"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "gds-jobs-client",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "geronimo-stax-api_1.0_spec",
+      "version": "1.0.1"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "glazedlists_java15",
+      "version": "1.7.1.alpha20070420"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "gluegen-rt",
+      "version": "2.3.2-rc-20160516"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "group",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "group-dl",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "gson",
+      "version": "2.2.4"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "guava",
+      "version": "18.0"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "guice",
+      "version": "4.0.0"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "guice-assistedinject",
+      "version": "4.0.0"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "guide",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "gunit",
+      "version": "3.3"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "h2",
+      "version": "1.0.76"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "hadoop",
+      "version": "2"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "hadoopjob",
+      "version": "2"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "hadooplink",
+      "version": "2"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "hadooppoolmanager",
+      "version": "2"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "hadoopserializer",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "hdfs",
+      "version": "2"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "helpsearch",
+      "version": "2.2-SNAPSHOT"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "helpui",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "hg",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "html",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "httpcore",
+      "version": "4.0"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "ib6core",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "ib6extra",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "ib6http",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "ib6https",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "ib6js",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "ib6swing",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "ib6util",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "ib6xalan",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "ice",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "icessl",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "ide",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "impl",
+      "version": "1.0.0"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "install",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "install_api_res",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "install_core_res",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "installagent",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "installservicehandler",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "installwizard",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "instrument",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "instrument_java_res",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "instutil",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "internal-connector",
+      "version": "16.1.1"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "internalservices",
+      "version": "16.1.1"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "javabuilder",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "javaws",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "jce",
+      "version": "1.7.0_51"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "jdom",
+      "version": "1.0"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "jempbox",
+      "version": "1.8.11"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "jetty-client",
+      "version": "8.1.9.v20130131"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "jetty-continuation",
+      "version": "8.1.9.v20130131"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "jetty-http",
+      "version": "8.1.9.v20130131"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "jetty-io",
+      "version": "8.1.9.v20130131"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "jetty-jmx",
+      "version": "7.6.8.v20121106"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "jetty-security",
+      "version": "8.1.9.v20130131"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "jetty-server",
+      "version": "8.1.9.v20130131"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "jetty-servlet",
+      "version": "8.1.9.v20130131"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "jetty-servlets",
+      "version": "8.1.9.v20130131"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "jetty-util",
+      "version": "8.1.9.v20130131"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "jetty-webapp",
+      "version": "8.1.9.v20130131"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "jetty-websocket",
+      "version": "8.1.9.v20130131"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "jetty-xml",
+      "version": "8.1.9.v20130131"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "jfr",
+      "version": "1.7.0_60"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "jfxrt",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "jgoodies-forms",
+      "version": "1.3.0 2009-12-21 07:55:18"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "jgoodies-looks",
+      "version": "2.0.3 2006-06-10 10:33:14"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "jide-action",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "jide-charts",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "jide-common",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "jide-components",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "jide-dialogs",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "jide-dock",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "jide-grids",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "jide-properties",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "jide-shortcut",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "jini-core",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "jini-ext",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "jmi",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "joda-time",
+      "version": "2.7"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "jogl-all",
+      "version": "2.3.2-rc-20160516"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "jsch",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "jsk-platform",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "jsk-policy",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "jsk-resources",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "jsonconverter",
+      "version": "16.1.1"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "jsse",
+      "version": "1.7.0_60"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "jxbrowser-chromium",
+      "version": "5.4.2"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "jxbrowser-linux64",
+      "version": "5.4.2"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "lmlogin",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "lmlogin_res",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "local_policy",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "localedata",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "log4j",
+      "version": "1.2.17"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "login",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "loginws_client",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "lucene-analyzers-common",
+      "version": "4.6.1 1560866 - mark - 2014-01-23 20:11:38"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "lucene-core",
+      "version": "4.6.1 1560866 - mark - 2014-01-23 20:11:13"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "lucene-highlighter",
+      "version": "4.6.1 1560866 - mark - 2014-01-23 20:11:50"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "lucene-memory",
+      "version": "4.6.1 1560866 - mark - 2014-01-23 20:11:52"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "lucene-queries",
+      "version": "4.6.1 1560866 - mark - 2014-01-23 20:11:53"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "lucene-queryparser",
+      "version": "4.6.1 1560866 - mark - 2014-01-23 20:11:54"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "lucene-sandbox",
+      "version": "4.6.1 1560866 - mark - 2014-01-23 20:11:55"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "mahalo",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "mahalo-dl",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "mail",
+      "version": "1.4"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "main",
+      "version": "1.8.0"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "management-agent",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "mapreduce",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "matlab",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "matlab_desktop_res",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "matlab_graphics_java_res",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "matlab_graphics_java_widgets_res",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "matlab_java_core_res",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "matlab_java_project_impl_res",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "matlab_java_widgets_res",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "matlab_subscriber",
+      "version": "16.1.1"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "mcr_dws_client",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "mcrdws-client",
+      "version": "1.0"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "mde",
+      "version": "1.0.0"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "message_service",
+      "version": "16.1.1"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "message_service_interface",
+      "version": "16.1.1"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "mgg_server",
+      "version": "2.18.5"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "mlconnector_bridge",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "mlservices",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "mlspark",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "mlwebservices",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "mlwidgets",
+      "version": "1.0.0"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "msscommon",
+      "version": "1.0.0"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "mvm",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "mw-cloud-mjs-client",
+      "version": "1.11.0-rc-1"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "mw-license-server-client",
+      "version": "1.7.0"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "mw-service-client-core",
+      "version": "1.5"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "mw_java_foundation_res",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "mw_java_help_ui_res",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "mw_java_html_res",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "mwaws_client",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "mwmapreduce",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "mwswing",
+      "version": "1.0.0"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "mwt",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "neethi",
+      "version": "2.0.4"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "nekohtml",
+      "version": "0.9.5"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "net",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "netbeans",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "norm",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "norm-dl",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "openide",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "openxml4j",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "org.apache.felix.framework",
+      "version": "1.8.0"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "org.apache.felix.main",
+      "version": "1.8.0"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "org.apache.felix.scr",
+      "version": "1.0.8"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "page",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "parallel_res",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "pathlist",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "pctutil",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "pdfbox",
+      "version": "1.8.11"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "peer_model_impl",
+      "version": "2.5.0"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "peer_model_java_api",
+      "version": "2.6.0"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "peer_synchronizer",
+      "version": "2.3.1"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "phoenix",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "phoenix-dl",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "phoenix-group",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "phoenix-init",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "plugin",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "product",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "provider",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "publishparser",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "reggie",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "reggie-dl",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "resource_core",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "resources",
+      "version": "1.7.0_60"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "rest-client-common",
+      "version": "16.1.1"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "rt",
+      "version": "1.7.0_60"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "saxon",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "saxon9",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "saxon9-ant",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "saxon9-dom",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "saxon9-dom4j",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "saxon9-jdom",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "saxon9-s9api",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "saxon9-sql",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "saxon9-xom",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "saxon9-xpath",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "saxon9-xqj",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "scr",
+      "version": "1.0.8"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "sdm-dl",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "search",
+      "version": "2.1-SNAPSHOT"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "seqkeyvalue",
+      "version": "2"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "server",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "service-registry",
+      "version": "16.1.1"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "service_request_client",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "services",
+      "version": "1.0.0"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "shared_controllib_general_res",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "shared_dastudio_res",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "shared_install_res",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "sharedvm",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "slf4j-api",
+      "version": "1.7.2"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "slf4j-log4j12",
+      "version": "1.7.2"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "slobserver",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "sparkinteg",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "start",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "stringtemplate",
+      "version": "3.2.1"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "sun-util",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "sunec",
+      "version": "1.7.0_45"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "sunjce_provider",
+      "version": "1.7.0_51"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "sunpkcs11",
+      "version": "1.7.0_51"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "system_editor_res",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "tablelayout",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "testmeas",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "timer",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "timeseries",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "timeseries_res",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "toolstrip",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "udc-client",
+      "version": "1.6"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "udc_client",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "universal_login_framework_res",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "urlmanager",
+      "version": "2.1.9"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "util",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "web_connectivity_res",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "webproxy",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "webwindow",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "widgets",
+      "version": "1.0.0"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "wizard",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "worker_config_management",
+      "version": "16.1.1"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "worker_internal_interface",
+      "version": "16.1.1"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "worker_service_breakpoint_14b",
+      "version": "16.1.1"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "worker_service_codeanalyzer_13a",
+      "version": "16.1.1"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "worker_service_eval_13b",
+      "version": "16.1.1"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "worker_service_syntaxhighlighting_11b",
+      "version": "16.1.1"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "worker_service_variableeditor_13b",
+      "version": "16.1.1"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "wsdl4j",
+      "version": "1.6"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "wstx-asl",
+      "version": "3.2.9"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "xercesImpl",
+      "version": "2.9.0"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "xml",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "xml-apis",
+      "version": "1.3.05"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "xml-apis-ext",
+      "version": "1.3"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "xmlgraphics-commons",
+      "version": "2.1"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "zipfs",
+      "version": "1.7.0_60"
+    },
+    {
+      "ecosystem": "npm",
+      "name": "inspector",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "npm",
+      "name": "variableeditor",
+      "version": "UNKNOWN"
+    }
+  ],
+  "registry": "docker.io",
+  "repository": "biocontainers/metabolab",
+  "size": 3660302817,
+  "tag": null
+}

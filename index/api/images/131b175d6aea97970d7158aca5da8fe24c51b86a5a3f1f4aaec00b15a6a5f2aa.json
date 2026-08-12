@@ -1,0 +1,324 @@
+{
+  "architecture": null,
+  "digest": "131b175d6aea97970d7158aca5da8fe24c51b86a5a3f1f4aaec00b15a6a5f2aa",
+  "entrypoint": [
+    "run_validator.py"
+  ],
+  "os": null,
+  "packages": [
+    {
+      "ecosystem": "apk",
+      "name": "alpine-baselayout",
+      "version": "3.0.4-r0"
+    },
+    {
+      "ecosystem": "apk",
+      "name": "alpine-keys",
+      "version": "2.1-r1"
+    },
+    {
+      "ecosystem": "apk",
+      "name": "apk-tools",
+      "version": "2.7.5-r0"
+    },
+    {
+      "ecosystem": "apk",
+      "name": "bash",
+      "version": "4.3.48-r1"
+    },
+    {
+      "ecosystem": "apk",
+      "name": "busybox",
+      "version": "1.26.2-r9"
+    },
+    {
+      "ecosystem": "apk",
+      "name": "expat",
+      "version": "2.2.0-r1"
+    },
+    {
+      "ecosystem": "apk",
+      "name": "gdbm",
+      "version": "1.12-r0"
+    },
+    {
+      "ecosystem": "apk",
+      "name": "libbz2",
+      "version": "1.0.6-r5"
+    },
+    {
+      "ecosystem": "apk",
+      "name": "libc-utils",
+      "version": "0.7.1-r0"
+    },
+    {
+      "ecosystem": "apk",
+      "name": "libffi",
+      "version": "3.2.1-r3"
+    },
+    {
+      "ecosystem": "apk",
+      "name": "libgcrypt",
+      "version": "1.7.9-r0"
+    },
+    {
+      "ecosystem": "apk",
+      "name": "libgpg-error",
+      "version": "1.27-r0"
+    },
+    {
+      "ecosystem": "apk",
+      "name": "libressl2.5-libcrypto",
+      "version": "2.5.5-r0"
+    },
+    {
+      "ecosystem": "apk",
+      "name": "libressl2.5-libssl",
+      "version": "2.5.5-r0"
+    },
+    {
+      "ecosystem": "apk",
+      "name": "libxml2",
+      "version": "2.9.4-r4"
+    },
+    {
+      "ecosystem": "apk",
+      "name": "libxml2-dev",
+      "version": "2.9.4-r4"
+    },
+    {
+      "ecosystem": "apk",
+      "name": "libxslt",
+      "version": "1.1.29-r3"
+    },
+    {
+      "ecosystem": "apk",
+      "name": "libxslt-dev",
+      "version": "1.1.29-r3"
+    },
+    {
+      "ecosystem": "apk",
+      "name": "musl",
+      "version": "1.1.16-r14"
+    },
+    {
+      "ecosystem": "apk",
+      "name": "musl-utils",
+      "version": "1.1.16-r14"
+    },
+    {
+      "ecosystem": "apk",
+      "name": "ncurses-libs",
+      "version": "6.0_p20170930-r0"
+    },
+    {
+      "ecosystem": "apk",
+      "name": "ncurses-terminfo",
+      "version": "6.0_p20170930-r0"
+    },
+    {
+      "ecosystem": "apk",
+      "name": "ncurses-terminfo-base",
+      "version": "6.0_p20170930-r0"
+    },
+    {
+      "ecosystem": "apk",
+      "name": "pkgconf",
+      "version": "1.3.7-r0"
+    },
+    {
+      "ecosystem": "apk",
+      "name": "python3",
+      "version": "3.6.1-r3"
+    },
+    {
+      "ecosystem": "apk",
+      "name": "readline",
+      "version": "6.3.008-r5"
+    },
+    {
+      "ecosystem": "apk",
+      "name": "scanelf",
+      "version": "1.2.2-r0"
+    },
+    {
+      "ecosystem": "apk",
+      "name": "sqlite-libs",
+      "version": "3.20.1-r0"
+    },
+    {
+      "ecosystem": "apk",
+      "name": "xz-libs",
+      "version": "5.2.3-r0"
+    },
+    {
+      "ecosystem": "apk",
+      "name": "zlib",
+      "version": "1.2.11-r0"
+    },
+    {
+      "ecosystem": "apk",
+      "name": "zlib-dev",
+      "version": "1.2.11-r0"
+    },
+    {
+      "ecosystem": "python",
+      "name": "beautifulsoup4",
+      "version": "4.6.0"
+    },
+    {
+      "ecosystem": "python",
+      "name": "biopython",
+      "version": "1.70"
+    },
+    {
+      "ecosystem": "python",
+      "name": "certifi",
+      "version": "2017.11.5"
+    },
+    {
+      "ecosystem": "python",
+      "name": "chardet",
+      "version": "3.0.4"
+    },
+    {
+      "ecosystem": "python",
+      "name": "decorator",
+      "version": "4.1.2"
+    },
+    {
+      "ecosystem": "python",
+      "name": "deepdiff",
+      "version": "3.3.0"
+    },
+    {
+      "ecosystem": "python",
+      "name": "et-xmlfile",
+      "version": "1.0.1"
+    },
+    {
+      "ecosystem": "python",
+      "name": "idna",
+      "version": "2.6"
+    },
+    {
+      "ecosystem": "python",
+      "name": "isatools",
+      "version": "0.9.4"
+    },
+    {
+      "ecosystem": "python",
+      "name": "iso8601",
+      "version": "0.1.12"
+    },
+    {
+      "ecosystem": "python",
+      "name": "jdcal",
+      "version": "1.3"
+    },
+    {
+      "ecosystem": "python",
+      "name": "jinja2",
+      "version": "2.10"
+    },
+    {
+      "ecosystem": "python",
+      "name": "jsonpickle",
+      "version": "0.9.5"
+    },
+    {
+      "ecosystem": "python",
+      "name": "jsonschema",
+      "version": "2.6.0"
+    },
+    {
+      "ecosystem": "python",
+      "name": "lxml",
+      "version": "4.1.1"
+    },
+    {
+      "ecosystem": "python",
+      "name": "markupsafe",
+      "version": "1.0"
+    },
+    {
+      "ecosystem": "python",
+      "name": "mzml2isa",
+      "version": "0.5.1"
+    },
+    {
+      "ecosystem": "python",
+      "name": "networkx",
+      "version": "2.0"
+    },
+    {
+      "ecosystem": "python",
+      "name": "numpy",
+      "version": "1.14.0"
+    },
+    {
+      "ecosystem": "python",
+      "name": "openpyxl",
+      "version": "2.4.9"
+    },
+    {
+      "ecosystem": "python",
+      "name": "pandas",
+      "version": "0.22.0"
+    },
+    {
+      "ecosystem": "python",
+      "name": "pip",
+      "version": "9.0.1"
+    },
+    {
+      "ecosystem": "python",
+      "name": "progressbar2",
+      "version": "3.34.3"
+    },
+    {
+      "ecosystem": "python",
+      "name": "pronto",
+      "version": "0.10.2"
+    },
+    {
+      "ecosystem": "python",
+      "name": "python-dateutil",
+      "version": "2.6.1"
+    },
+    {
+      "ecosystem": "python",
+      "name": "python-utils",
+      "version": "2.2.0"
+    },
+    {
+      "ecosystem": "python",
+      "name": "pytz",
+      "version": "2017.3"
+    },
+    {
+      "ecosystem": "python",
+      "name": "requests",
+      "version": "2.18.4"
+    },
+    {
+      "ecosystem": "python",
+      "name": "setuptools",
+      "version": "28.8.0"
+    },
+    {
+      "ecosystem": "python",
+      "name": "six",
+      "version": "1.11.0"
+    },
+    {
+      "ecosystem": "python",
+      "name": "urllib3",
+      "version": "1.22"
+    }
+  ],
+  "registry": "docker.io",
+  "repository": "biocontainers/isajson-validator",
+  "size": 273445039,
+  "tag": null
+}

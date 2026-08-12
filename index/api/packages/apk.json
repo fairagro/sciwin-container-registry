@@ -7,21 +7,43 @@
   "alpine-baselayout": {
     "3.0.3-r0": [
       "e08468b3e22111d58486dd6ba0edd911096c50e601795c5213d53c0e40a900c2"
+    ],
+    "3.0.4-r0": [
+      "131b175d6aea97970d7158aca5da8fe24c51b86a5a3f1f4aaec00b15a6a5f2aa",
+      "bc213521d06a16fecd4be3065ca78d9a729e5336eff3af21b06dcdfaeddeb12b"
     ]
   },
   "alpine-keys": {
     "1.1-r0": [
       "e08468b3e22111d58486dd6ba0edd911096c50e601795c5213d53c0e40a900c2"
+    ],
+    "2.1-r1": [
+      "131b175d6aea97970d7158aca5da8fe24c51b86a5a3f1f4aaec00b15a6a5f2aa",
+      "bc213521d06a16fecd4be3065ca78d9a729e5336eff3af21b06dcdfaeddeb12b"
     ]
   },
   "apk-tools": {
     "2.6.9-r0": [
       "e08468b3e22111d58486dd6ba0edd911096c50e601795c5213d53c0e40a900c2"
+    ],
+    "2.7.5-r0": [
+      "131b175d6aea97970d7158aca5da8fe24c51b86a5a3f1f4aaec00b15a6a5f2aa",
+      "bc213521d06a16fecd4be3065ca78d9a729e5336eff3af21b06dcdfaeddeb12b"
+    ]
+  },
+  "bash": {
+    "4.3.48-r1": [
+      "131b175d6aea97970d7158aca5da8fe24c51b86a5a3f1f4aaec00b15a6a5f2aa",
+      "bc213521d06a16fecd4be3065ca78d9a729e5336eff3af21b06dcdfaeddeb12b"
     ]
   },
   "busybox": {
     "1.24.2-r13": [
       "e08468b3e22111d58486dd6ba0edd911096c50e601795c5213d53c0e40a900c2"
+    ],
+    "1.26.2-r9": [
+      "131b175d6aea97970d7158aca5da8fe24c51b86a5a3f1f4aaec00b15a6a5f2aa",
+      "bc213521d06a16fecd4be3065ca78d9a729e5336eff3af21b06dcdfaeddeb12b"
     ]
   },
   "ca-certificates": {
@@ -31,7 +53,9 @@
   },
   "expat": {
     "2.2.0-r1": [
-      "e08468b3e22111d58486dd6ba0edd911096c50e601795c5213d53c0e40a900c2"
+      "e08468b3e22111d58486dd6ba0edd911096c50e601795c5213d53c0e40a900c2",
+      "131b175d6aea97970d7158aca5da8fe24c51b86a5a3f1f4aaec00b15a6a5f2aa",
+      "bc213521d06a16fecd4be3065ca78d9a729e5336eff3af21b06dcdfaeddeb12b"
     ]
   },
   "fontconfig": {
@@ -47,16 +71,26 @@
   "gdbm": {
     "1.11-r1": [
       "e08468b3e22111d58486dd6ba0edd911096c50e601795c5213d53c0e40a900c2"
+    ],
+    "1.12-r0": [
+      "131b175d6aea97970d7158aca5da8fe24c51b86a5a3f1f4aaec00b15a6a5f2aa",
+      "bc213521d06a16fecd4be3065ca78d9a729e5336eff3af21b06dcdfaeddeb12b"
     ]
   },
   "libbz2": {
     "1.0.6-r5": [
-      "e08468b3e22111d58486dd6ba0edd911096c50e601795c5213d53c0e40a900c2"
+      "e08468b3e22111d58486dd6ba0edd911096c50e601795c5213d53c0e40a900c2",
+      "131b175d6aea97970d7158aca5da8fe24c51b86a5a3f1f4aaec00b15a6a5f2aa",
+      "bc213521d06a16fecd4be3065ca78d9a729e5336eff3af21b06dcdfaeddeb12b"
     ]
   },
   "libc-utils": {
     "0.7-r0": [
       "e08468b3e22111d58486dd6ba0edd911096c50e601795c5213d53c0e40a900c2"
+    ],
+    "0.7.1-r0": [
+      "131b175d6aea97970d7158aca5da8fe24c51b86a5a3f1f4aaec00b15a6a5f2aa",
+      "bc213521d06a16fecd4be3065ca78d9a729e5336eff3af21b06dcdfaeddeb12b"
     ]
   },
   "libcrypto1.0": {
@@ -67,11 +101,39 @@
   "libffi": {
     "3.2.1-r2": [
       "e08468b3e22111d58486dd6ba0edd911096c50e601795c5213d53c0e40a900c2"
+    ],
+    "3.2.1-r3": [
+      "131b175d6aea97970d7158aca5da8fe24c51b86a5a3f1f4aaec00b15a6a5f2aa",
+      "bc213521d06a16fecd4be3065ca78d9a729e5336eff3af21b06dcdfaeddeb12b"
+    ]
+  },
+  "libgcrypt": {
+    "1.7.9-r0": [
+      "131b175d6aea97970d7158aca5da8fe24c51b86a5a3f1f4aaec00b15a6a5f2aa",
+      "bc213521d06a16fecd4be3065ca78d9a729e5336eff3af21b06dcdfaeddeb12b"
+    ]
+  },
+  "libgpg-error": {
+    "1.27-r0": [
+      "131b175d6aea97970d7158aca5da8fe24c51b86a5a3f1f4aaec00b15a6a5f2aa",
+      "bc213521d06a16fecd4be3065ca78d9a729e5336eff3af21b06dcdfaeddeb12b"
     ]
   },
   "libpng": {
     "1.6.21-r0": [
       "e08468b3e22111d58486dd6ba0edd911096c50e601795c5213d53c0e40a900c2"
+    ]
+  },
+  "libressl2.5-libcrypto": {
+    "2.5.5-r0": [
+      "131b175d6aea97970d7158aca5da8fe24c51b86a5a3f1f4aaec00b15a6a5f2aa",
+      "bc213521d06a16fecd4be3065ca78d9a729e5336eff3af21b06dcdfaeddeb12b"
+    ]
+  },
+  "libressl2.5-libssl": {
+    "2.5.5-r0": [
+      "131b175d6aea97970d7158aca5da8fe24c51b86a5a3f1f4aaec00b15a6a5f2aa",
+      "bc213521d06a16fecd4be3065ca78d9a729e5336eff3af21b06dcdfaeddeb12b"
     ]
   },
   "libssl1.0": {
@@ -104,49 +166,117 @@
       "e08468b3e22111d58486dd6ba0edd911096c50e601795c5213d53c0e40a900c2"
     ]
   },
+  "libxml2": {
+    "2.9.4-r4": [
+      "131b175d6aea97970d7158aca5da8fe24c51b86a5a3f1f4aaec00b15a6a5f2aa",
+      "bc213521d06a16fecd4be3065ca78d9a729e5336eff3af21b06dcdfaeddeb12b"
+    ]
+  },
+  "libxml2-dev": {
+    "2.9.4-r4": [
+      "131b175d6aea97970d7158aca5da8fe24c51b86a5a3f1f4aaec00b15a6a5f2aa",
+      "bc213521d06a16fecd4be3065ca78d9a729e5336eff3af21b06dcdfaeddeb12b"
+    ]
+  },
   "libxrender": {
     "0.9.10-r0": [
       "e08468b3e22111d58486dd6ba0edd911096c50e601795c5213d53c0e40a900c2"
     ]
   },
+  "libxslt": {
+    "1.1.29-r3": [
+      "131b175d6aea97970d7158aca5da8fe24c51b86a5a3f1f4aaec00b15a6a5f2aa",
+      "bc213521d06a16fecd4be3065ca78d9a729e5336eff3af21b06dcdfaeddeb12b"
+    ]
+  },
+  "libxslt-dev": {
+    "1.1.29-r3": [
+      "131b175d6aea97970d7158aca5da8fe24c51b86a5a3f1f4aaec00b15a6a5f2aa",
+      "bc213521d06a16fecd4be3065ca78d9a729e5336eff3af21b06dcdfaeddeb12b"
+    ]
+  },
   "musl": {
     "1.1.14-r15": [
       "e08468b3e22111d58486dd6ba0edd911096c50e601795c5213d53c0e40a900c2"
+    ],
+    "1.1.16-r14": [
+      "131b175d6aea97970d7158aca5da8fe24c51b86a5a3f1f4aaec00b15a6a5f2aa",
+      "bc213521d06a16fecd4be3065ca78d9a729e5336eff3af21b06dcdfaeddeb12b"
     ]
   },
   "musl-utils": {
     "1.1.14-r15": [
       "e08468b3e22111d58486dd6ba0edd911096c50e601795c5213d53c0e40a900c2"
+    ],
+    "1.1.16-r14": [
+      "131b175d6aea97970d7158aca5da8fe24c51b86a5a3f1f4aaec00b15a6a5f2aa",
+      "bc213521d06a16fecd4be3065ca78d9a729e5336eff3af21b06dcdfaeddeb12b"
     ]
   },
   "ncurses-libs": {
     "6.0-r7": [
       "e08468b3e22111d58486dd6ba0edd911096c50e601795c5213d53c0e40a900c2"
+    ],
+    "6.0_p20170930-r0": [
+      "131b175d6aea97970d7158aca5da8fe24c51b86a5a3f1f4aaec00b15a6a5f2aa",
+      "bc213521d06a16fecd4be3065ca78d9a729e5336eff3af21b06dcdfaeddeb12b"
     ]
   },
   "ncurses-terminfo": {
     "6.0-r7": [
       "e08468b3e22111d58486dd6ba0edd911096c50e601795c5213d53c0e40a900c2"
+    ],
+    "6.0_p20170930-r0": [
+      "131b175d6aea97970d7158aca5da8fe24c51b86a5a3f1f4aaec00b15a6a5f2aa",
+      "bc213521d06a16fecd4be3065ca78d9a729e5336eff3af21b06dcdfaeddeb12b"
     ]
   },
   "ncurses-terminfo-base": {
     "6.0-r7": [
       "e08468b3e22111d58486dd6ba0edd911096c50e601795c5213d53c0e40a900c2"
+    ],
+    "6.0_p20170930-r0": [
+      "131b175d6aea97970d7158aca5da8fe24c51b86a5a3f1f4aaec00b15a6a5f2aa",
+      "bc213521d06a16fecd4be3065ca78d9a729e5336eff3af21b06dcdfaeddeb12b"
+    ]
+  },
+  "pkgconf": {
+    "1.3.7-r0": [
+      "131b175d6aea97970d7158aca5da8fe24c51b86a5a3f1f4aaec00b15a6a5f2aa",
+      "bc213521d06a16fecd4be3065ca78d9a729e5336eff3af21b06dcdfaeddeb12b"
+    ]
+  },
+  "python3": {
+    "3.6.1-r3": [
+      "131b175d6aea97970d7158aca5da8fe24c51b86a5a3f1f4aaec00b15a6a5f2aa",
+      "bc213521d06a16fecd4be3065ca78d9a729e5336eff3af21b06dcdfaeddeb12b"
     ]
   },
   "readline": {
     "6.3.008-r4": [
       "e08468b3e22111d58486dd6ba0edd911096c50e601795c5213d53c0e40a900c2"
+    ],
+    "6.3.008-r5": [
+      "131b175d6aea97970d7158aca5da8fe24c51b86a5a3f1f4aaec00b15a6a5f2aa",
+      "bc213521d06a16fecd4be3065ca78d9a729e5336eff3af21b06dcdfaeddeb12b"
     ]
   },
   "scanelf": {
     "1.1.6-r0": [
       "e08468b3e22111d58486dd6ba0edd911096c50e601795c5213d53c0e40a900c2"
+    ],
+    "1.2.2-r0": [
+      "131b175d6aea97970d7158aca5da8fe24c51b86a5a3f1f4aaec00b15a6a5f2aa",
+      "bc213521d06a16fecd4be3065ca78d9a729e5336eff3af21b06dcdfaeddeb12b"
     ]
   },
   "sqlite-libs": {
     "3.13.0-r0": [
       "e08468b3e22111d58486dd6ba0edd911096c50e601795c5213d53c0e40a900c2"
+    ],
+    "3.20.1-r0": [
+      "131b175d6aea97970d7158aca5da8fe24c51b86a5a3f1f4aaec00b15a6a5f2aa",
+      "bc213521d06a16fecd4be3065ca78d9a729e5336eff3af21b06dcdfaeddeb12b"
     ]
   },
   "tcl": {
@@ -162,11 +292,23 @@
   "xz-libs": {
     "5.2.2-r1": [
       "e08468b3e22111d58486dd6ba0edd911096c50e601795c5213d53c0e40a900c2"
+    ],
+    "5.2.3-r0": [
+      "131b175d6aea97970d7158aca5da8fe24c51b86a5a3f1f4aaec00b15a6a5f2aa",
+      "bc213521d06a16fecd4be3065ca78d9a729e5336eff3af21b06dcdfaeddeb12b"
     ]
   },
   "zlib": {
     "1.2.11-r0": [
-      "e08468b3e22111d58486dd6ba0edd911096c50e601795c5213d53c0e40a900c2"
+      "e08468b3e22111d58486dd6ba0edd911096c50e601795c5213d53c0e40a900c2",
+      "131b175d6aea97970d7158aca5da8fe24c51b86a5a3f1f4aaec00b15a6a5f2aa",
+      "bc213521d06a16fecd4be3065ca78d9a729e5336eff3af21b06dcdfaeddeb12b"
+    ]
+  },
+  "zlib-dev": {
+    "1.2.11-r0": [
+      "131b175d6aea97970d7158aca5da8fe24c51b86a5a3f1f4aaec00b15a6a5f2aa",
+      "bc213521d06a16fecd4be3065ca78d9a729e5336eff3af21b06dcdfaeddeb12b"
     ]
   }
 }

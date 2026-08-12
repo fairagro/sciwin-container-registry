@@ -1,9 +1,7 @@
 {
   "architecture": "amd64",
   "digest": "827ca22fc2919f47d9bef670e8e756bb542c1f582fa2b1257d92117b8ddd0ffa",
-  "entrypoint": [
-    "/opt/nvidia/nvidia_entrypoint.sh"
-  ],
+  "entrypoint": null,
   "os": "linux",
   "packages": [
     {
