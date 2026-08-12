@@ -27,10 +27,14 @@ inputs:
 
 outputs:
 - id: output
-  type: File
+  type: File?
   outputBinding:
     glob: $(inputs.digest.split(":")[1]).json
 stdout: $(inputs.digest.split(":")[1]).json
+
+successCodes:
+- 0
+- 1
 
 baseCommand: []
 $schemas:
