@@ -1,0 +1,9 @@
+{
+  "pre-commit-package": {
+    "dev-1": [
+      "2aa900f1a937d61a3ebd03596b6fe79a0063fc1ff6132bac4454998528498d3d",
+      "17a4732e2868a5b2bcfa84b978dcb5d14c84b70f26ee4197a9910bfc0d051854",
+      "fb21a5f5ad8b2f8e9a451a08a5d13cc06a67456a5fff44ccce0708b1de1e2339"
+    ]
+  }
+}

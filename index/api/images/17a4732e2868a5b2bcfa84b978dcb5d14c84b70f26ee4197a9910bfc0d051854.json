@@ -1,0 +1,2400 @@
+{
+  "architecture": null,
+  "digest": "17a4732e2868a5b2bcfa84b978dcb5d14c84b70f26ee4197a9910bfc0d051854",
+  "entrypoint": [
+    "tini",
+    "--"
+  ],
+  "os": null,
+  "packages": [
+    {
+      "ecosystem": "binary",
+      "name": "Simple Launcher",
+      "version": "1.1.0.14"
+    },
+    {
+      "ecosystem": "binary",
+      "name": "cli",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "binary",
+      "name": "cli-32",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "binary",
+      "name": "cli-64",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "binary",
+      "name": "cli-arm64",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "binary",
+      "name": "csharpexec-test",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "binary",
+      "name": "gcc",
+      "version": "4.4.7"
+    },
+    {
+      "ecosystem": "binary",
+      "name": "gui",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "binary",
+      "name": "gui-32",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "binary",
+      "name": "gui-64",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "binary",
+      "name": "gui-arm64",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "binary",
+      "name": "krb5",
+      "version": "1.19.3"
+    },
+    {
+      "ecosystem": "binary",
+      "name": "openssl",
+      "version": "3.0.7"
+    },
+    {
+      "ecosystem": "binary",
+      "name": "postgresql",
+      "version": "14.5"
+    },
+    {
+      "ecosystem": "binary",
+      "name": "python",
+      "version": "3.8.15"
+    },
+    {
+      "ecosystem": "binary",
+      "name": "xz",
+      "version": "5.2.6"
+    },
+    {
+      "ecosystem": "binary",
+      "name": "zstd",
+      "version": "1.5.2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "adduser",
+      "version": "3.118ubuntu2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "apt",
+      "version": "2.0.9"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "base-files",
+      "version": "11ubuntu5.6"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "base-passwd",
+      "version": "3.5.47"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "bash",
+      "version": "5.0-6ubuntu1.2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "bsdutils",
+      "version": "1:2.34-0.1ubuntu9.3"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "bzip2",
+      "version": "1.0.8-2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "ca-certificates",
+      "version": "20211016~20.04.1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "coreutils",
+      "version": "8.30-3ubuntu2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "dash",
+      "version": "0.5.10.2-6"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "debconf",
+      "version": "1.5.73"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "debianutils",
+      "version": "4.9.1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "diffutils",
+      "version": "1:3.7-3"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "dpkg",
+      "version": "1.19.7ubuntu3.2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "e2fsprogs",
+      "version": "1.45.5-2ubuntu1.1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "fdisk",
+      "version": "2.34-0.1ubuntu9.3"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "findutils",
+      "version": "4.7.0-1ubuntu1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "gcc-10-base",
+      "version": "10.3.0-1ubuntu1~20.04"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "git",
+      "version": "1:2.25.1-1ubuntu3.6"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "git-man",
+      "version": "1:2.25.1-1ubuntu3.6"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "gpgv",
+      "version": "2.2.19-3ubuntu2.2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "grep",
+      "version": "3.4-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "gzip",
+      "version": "1.10-0ubuntu4.1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "hostname",
+      "version": "3.23"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "init-system-helpers",
+      "version": "1.57"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libacl1",
+      "version": "2.2.53-6"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libapt-pkg6.0",
+      "version": "2.0.9"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libasn1-8-heimdal",
+      "version": "7.7.0+dfsg-1ubuntu1.1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libattr1",
+      "version": "1:2.4.48-5"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libaudit-common",
+      "version": "1:2.8.5-2ubuntu6"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libaudit1",
+      "version": "1:2.8.5-2ubuntu6"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libblkid1",
+      "version": "2.34-0.1ubuntu9.3"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libbrotli1",
+      "version": "1.0.7-6ubuntu0.1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libbz2-1.0",
+      "version": "1.0.8-2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libc-bin",
+      "version": "2.31-0ubuntu9.9"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libc6",
+      "version": "2.31-0ubuntu9.9"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libcap-ng0",
+      "version": "0.7.9-2.1build1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libcom-err2",
+      "version": "1.45.5-2ubuntu1.1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libcrypt1",
+      "version": "1:4.4.10-10ubuntu4"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libcurl3-gnutls",
+      "version": "7.68.0-1ubuntu2.14"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libdb5.3",
+      "version": "5.3.28+dfsg1-0.6ubuntu2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libdebconfclient0",
+      "version": "0.251ubuntu1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "liberror-perl",
+      "version": "0.17029-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libexpat1",
+      "version": "2.2.9-1ubuntu0.6"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libext2fs2",
+      "version": "1.45.5-2ubuntu1.1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libfdisk1",
+      "version": "2.34-0.1ubuntu9.3"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libffi7",
+      "version": "3.3-4"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libgcc-s1",
+      "version": "10.3.0-1ubuntu1~20.04"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libgcrypt20",
+      "version": "1.8.5-5ubuntu1.1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libgdbm-compat4",
+      "version": "1.18.1-5"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libgdbm6",
+      "version": "1.18.1-5"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libgmp10",
+      "version": "2:6.2.0+dfsg-4ubuntu0.1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libgnutls30",
+      "version": "3.6.13-2ubuntu1.7"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libgpg-error0",
+      "version": "1.37-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libgssapi-krb5-2",
+      "version": "1.17-6ubuntu4.1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libgssapi3-heimdal",
+      "version": "7.7.0+dfsg-1ubuntu1.1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libhcrypto4-heimdal",
+      "version": "7.7.0+dfsg-1ubuntu1.1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libheimbase1-heimdal",
+      "version": "7.7.0+dfsg-1ubuntu1.1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libheimntlm0-heimdal",
+      "version": "7.7.0+dfsg-1ubuntu1.1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libhogweed5",
+      "version": "3.5.1+really3.5.1-2ubuntu0.2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libhx509-5-heimdal",
+      "version": "7.7.0+dfsg-1ubuntu1.1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libidn2-0",
+      "version": "2.2.0-2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libk5crypto3",
+      "version": "1.17-6ubuntu4.1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libkeyutils1",
+      "version": "1.6-6ubuntu1.1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libkrb5-26-heimdal",
+      "version": "7.7.0+dfsg-1ubuntu1.1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libkrb5-3",
+      "version": "1.17-6ubuntu4.1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libkrb5support0",
+      "version": "1.17-6ubuntu4.1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libldap-2.4-2",
+      "version": "2.4.49+dfsg-2ubuntu1.9"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libldap-common",
+      "version": "2.4.49+dfsg-2ubuntu1.9"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "liblz4-1",
+      "version": "1.9.2-2ubuntu0.20.04.1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "liblzma5",
+      "version": "5.2.4-1ubuntu1.1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libmount1",
+      "version": "2.34-0.1ubuntu9.3"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libncurses6",
+      "version": "6.2-0ubuntu2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libncursesw6",
+      "version": "6.2-0ubuntu2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libnettle7",
+      "version": "3.5.1+really3.5.1-2ubuntu0.2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libnghttp2-14",
+      "version": "1.40.0-1build1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libp11-kit0",
+      "version": "0.23.20-1ubuntu0.1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libpam-modules",
+      "version": "1.3.1-5ubuntu4.3"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libpam-modules-bin",
+      "version": "1.3.1-5ubuntu4.3"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libpam-runtime",
+      "version": "1.3.1-5ubuntu4.3"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libpam0g",
+      "version": "1.3.1-5ubuntu4.3"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libpcre2-8-0",
+      "version": "10.34-7ubuntu0.1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libpcre3",
+      "version": "2:8.39-12ubuntu0.1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libperl5.30",
+      "version": "5.30.0-9ubuntu0.3"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libprocps8",
+      "version": "2:3.3.16-1ubuntu2.3"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libpsl5",
+      "version": "0.21.0-1ubuntu1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libroken18-heimdal",
+      "version": "7.7.0+dfsg-1ubuntu1.1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "librtmp1",
+      "version": "2.4+20151223.gitfa8646d.1-2build1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libsasl2-2",
+      "version": "2.1.27+dfsg-2ubuntu0.1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libsasl2-modules-db",
+      "version": "2.1.27+dfsg-2ubuntu0.1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libseccomp2",
+      "version": "2.5.1-1ubuntu1~20.04.2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libselinux1",
+      "version": "3.0-1build2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libsemanage-common",
+      "version": "3.0-1build2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libsemanage1",
+      "version": "3.0-1build2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libsepol1",
+      "version": "3.0-1ubuntu0.1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libsmartcols1",
+      "version": "2.34-0.1ubuntu9.3"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libsqlite3-0",
+      "version": "3.31.1-4ubuntu0.5"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libss2",
+      "version": "1.45.5-2ubuntu1.1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libssh-4",
+      "version": "0.9.3-2ubuntu2.2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libssl1.1",
+      "version": "1.1.1f-1ubuntu2.16"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libstdc++6",
+      "version": "10.3.0-1ubuntu1~20.04"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libsystemd0",
+      "version": "245.4-4ubuntu3.19"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libtasn1-6",
+      "version": "4.16.0-2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libtinfo6",
+      "version": "6.2-0ubuntu2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libudev1",
+      "version": "245.4-4ubuntu3.19"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libunistring2",
+      "version": "0.9.10-2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libuuid1",
+      "version": "2.34-0.1ubuntu9.3"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libwind0-heimdal",
+      "version": "7.7.0+dfsg-1ubuntu1.1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libzstd1",
+      "version": "1.4.4+dfsg-3ubuntu0.1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "login",
+      "version": "1:4.8.1-1ubuntu5.20.04.4"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "logsave",
+      "version": "1.45.5-2ubuntu1.1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "lsb-base",
+      "version": "11.1.0ubuntu2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "mawk",
+      "version": "1.3.4.20200120-2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "mount",
+      "version": "2.34-0.1ubuntu9.3"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "ncurses-base",
+      "version": "6.2-0ubuntu2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "ncurses-bin",
+      "version": "6.2-0ubuntu2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "openssl",
+      "version": "1.1.1f-1ubuntu2.16"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "passwd",
+      "version": "1:4.8.1-1ubuntu5.20.04.4"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "perl",
+      "version": "5.30.0-9ubuntu0.3"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "perl-base",
+      "version": "5.30.0-9ubuntu0.3"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "perl-modules-5.30",
+      "version": "5.30.0-9ubuntu0.3"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "procps",
+      "version": "2:3.3.16-1ubuntu2.3"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "sed",
+      "version": "4.7-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "sensible-utils",
+      "version": "0.0.12+nmu1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "sysvinit-utils",
+      "version": "2.96-2.1ubuntu1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "tar",
+      "version": "1.30+dfsg-7ubuntu0.20.04.2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "tini",
+      "version": "0.18.0-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "tzdata",
+      "version": "2022f-0ubuntu0.20.04.1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "ubuntu-keyring",
+      "version": "2020.02.11.4"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "util-linux",
+      "version": "2.34-0.1ubuntu9.3"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "wget",
+      "version": "1.20.3-1ubuntu2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "zlib1g",
+      "version": "1:1.2.11.dfsg-2ubuntu1.5"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "gradle-wrapper",
+      "version": "2.10"
+    },
+    {
+      "ecosystem": "lua-rocks",
+      "name": "pre-commit-package",
+      "version": "dev-1"
+    },
+    {
+      "ecosystem": "npm",
+      "name": "@jupyter-widgets/jupyterlab-manager",
+      "version": "5.0.3"
+    },
+    {
+      "ecosystem": "npm",
+      "name": "debug",
+      "version": "3.2.6"
+    },
+    {
+      "ecosystem": "npm",
+      "name": "grpc-examples",
+      "version": "0.1.0"
+    },
+    {
+      "ecosystem": "npm",
+      "name": "grpc-examples-xds",
+      "version": "0.1.0"
+    },
+    {
+      "ecosystem": "npm",
+      "name": "jupyterlab_pygments",
+      "version": "0.2.2"
+    },
+    {
+      "ecosystem": "npm",
+      "name": "license-checker",
+      "version": "25.0.1"
+    },
+    {
+      "ecosystem": "npm",
+      "name": "nopt",
+      "version": "4.0.1"
+    },
+    {
+      "ecosystem": "npm",
+      "name": "spdx-license-ids",
+      "version": "3.0.5"
+    },
+    {
+      "ecosystem": "npm",
+      "name": "validate-npm-package-license",
+      "version": "3.0.4"
+    },
+    {
+      "ecosystem": "python",
+      "name": "aiobotocore",
+      "version": "1.4.1"
+    },
+    {
+      "ecosystem": "python",
+      "name": "aiohttp",
+      "version": "3.8.3"
+    },
+    {
+      "ecosystem": "python",
+      "name": "aioitertools",
+      "version": "0.11.0"
+    },
+    {
+      "ecosystem": "python",
+      "name": "aiosignal",
+      "version": "1.3.1"
+    },
+    {
+      "ecosystem": "python",
+      "name": "alabaster",
+      "version": "0.7.12"
+    },
+    {
+      "ecosystem": "python",
+      "name": "anyio",
+      "version": "3.6.2"
+    },
+    {
+      "ecosystem": "python",
+      "name": "apipkg",
+      "version": "2.0.0"
+    },
+    {
+      "ecosystem": "python",
+      "name": "argon2-cffi",
+      "version": "21.3.0"
+    },
+    {
+      "ecosystem": "python",
+      "name": "argon2-cffi-bindings",
+      "version": "21.2.0"
+    },
+    {
+      "ecosystem": "python",
+      "name": "asttokens",
+      "version": "2.2.0"
+    },
+    {
+      "ecosystem": "python",
+      "name": "asv",
+      "version": "0.5.1"
+    },
+    {
+      "ecosystem": "python",
+      "name": "async-timeout",
+      "version": "4.0.2"
+    },
+    {
+      "ecosystem": "python",
+      "name": "attrs",
+      "version": "22.1.0"
+    },
+    {
+      "ecosystem": "python",
+      "name": "aws-sam-translator",
+      "version": "1.55.0"
+    },
+    {
+      "ecosystem": "python",
+      "name": "aws-xray-sdk",
+      "version": "2.11.0"
+    },
+    {
+      "ecosystem": "python",
+      "name": "babel",
+      "version": "2.11.0"
+    },
+    {
+      "ecosystem": "python",
+      "name": "backcall",
+      "version": "0.2.0"
+    },
+    {
+      "ecosystem": "python",
+      "name": "backports-functools-lru-cache",
+      "version": "1.6.4"
+    },
+    {
+      "ecosystem": "python",
+      "name": "backports-zoneinfo",
+      "version": "0.2.1"
+    },
+    {
+      "ecosystem": "python",
+      "name": "bcrypt",
+      "version": "3.2.2"
+    },
+    {
+      "ecosystem": "python",
+      "name": "beautifulsoup4",
+      "version": "4.11.1"
+    },
+    {
+      "ecosystem": "python",
+      "name": "black",
+      "version": "22.10.0"
+    },
+    {
+      "ecosystem": "python",
+      "name": "bleach",
+      "version": "5.0.1"
+    },
+    {
+      "ecosystem": "python",
+      "name": "blinker",
+      "version": "1.5"
+    },
+    {
+      "ecosystem": "python",
+      "name": "bokeh",
+      "version": "2.4.3"
+    },
+    {
+      "ecosystem": "python",
+      "name": "boto3",
+      "version": "1.17.106"
+    },
+    {
+      "ecosystem": "python",
+      "name": "botocore",
+      "version": "1.20.106"
+    },
+    {
+      "ecosystem": "python",
+      "name": "bottleneck",
+      "version": "1.3.5"
+    },
+    {
+      "ecosystem": "python",
+      "name": "branca",
+      "version": "0.6.0"
+    },
+    {
+      "ecosystem": "python",
+      "name": "brotlipy",
+      "version": "0.7.0"
+    },
+    {
+      "ecosystem": "python",
+      "name": "bytecode",
+      "version": "0.13.0.dev0"
+    },
+    {
+      "ecosystem": "python",
+      "name": "cachetools",
+      "version": "5.2.0"
+    },
+    {
+      "ecosystem": "python",
+      "name": "certifi",
+      "version": "2022.9.24"
+    },
+    {
+      "ecosystem": "python",
+      "name": "cffi",
+      "version": "1.15.1"
+    },
+    {
+      "ecosystem": "python",
+      "name": "cfgv",
+      "version": "3.3.1"
+    },
+    {
+      "ecosystem": "python",
+      "name": "cfn-lint",
+      "version": "0.72.1"
+    },
+    {
+      "ecosystem": "python",
+      "name": "cftime",
+      "version": "1.6.2"
+    },
+    {
+      "ecosystem": "python",
+      "name": "charset-normalizer",
+      "version": "2.1.1"
+    },
+    {
+      "ecosystem": "python",
+      "name": "click",
+      "version": "8.1.3"
+    },
+    {
+      "ecosystem": "python",
+      "name": "click-plugins",
+      "version": "1.1.1"
+    },
+    {
+      "ecosystem": "python",
+      "name": "cligj",
+      "version": "0.7.2"
+    },
+    {
+      "ecosystem": "python",
+      "name": "cloudpickle",
+      "version": "2.2.0"
+    },
+    {
+      "ecosystem": "python",
+      "name": "colorama",
+      "version": "0.4.6"
+    },
+    {
+      "ecosystem": "python",
+      "name": "conda",
+      "version": "22.9.0"
+    },
+    {
+      "ecosystem": "python",
+      "name": "conda-package-handling",
+      "version": "1.9.0"
+    },
+    {
+      "ecosystem": "python",
+      "name": "contourpy",
+      "version": "1.0.6"
+    },
+    {
+      "ecosystem": "python",
+      "name": "coverage",
+      "version": "6.5.0"
+    },
+    {
+      "ecosystem": "python",
+      "name": "cpplint",
+      "version": "1.6.0"
+    },
+    {
+      "ecosystem": "python",
+      "name": "cramjam",
+      "version": "2.6.2"
+    },
+    {
+      "ecosystem": "python",
+      "name": "cryptography",
+      "version": "38.0.4"
+    },
+    {
+      "ecosystem": "python",
+      "name": "cycler",
+      "version": "0.11.0"
+    },
+    {
+      "ecosystem": "python",
+      "name": "cython",
+      "version": "0.29.32"
+    },
+    {
+      "ecosystem": "python",
+      "name": "cytoolz",
+      "version": "0.12.0"
+    },
+    {
+      "ecosystem": "python",
+      "name": "dask",
+      "version": "2022.12.0"
+    },
+    {
+      "ecosystem": "python",
+      "name": "db-dtypes",
+      "version": "1.0.4"
+    },
+    {
+      "ecosystem": "python",
+      "name": "debugpy",
+      "version": "1.6.4"
+    },
+    {
+      "ecosystem": "python",
+      "name": "decorator",
+      "version": "5.1.1"
+    },
+    {
+      "ecosystem": "python",
+      "name": "defusedxml",
+      "version": "0.7.1"
+    },
+    {
+      "ecosystem": "python",
+      "name": "distlib",
+      "version": "0.3.6"
+    },
+    {
+      "ecosystem": "python",
+      "name": "distributed",
+      "version": "2022.12.0"
+    },
+    {
+      "ecosystem": "python",
+      "name": "docker",
+      "version": "6.0.0"
+    },
+    {
+      "ecosystem": "python",
+      "name": "docutils",
+      "version": "0.17.1"
+    },
+    {
+      "ecosystem": "python",
+      "name": "ecdsa",
+      "version": "0.18.0"
+    },
+    {
+      "ecosystem": "python",
+      "name": "entrypoints",
+      "version": "0.4"
+    },
+    {
+      "ecosystem": "python",
+      "name": "et-xmlfile",
+      "version": "1.0.1"
+    },
+    {
+      "ecosystem": "python",
+      "name": "exceptiongroup",
+      "version": "1.0.4"
+    },
+    {
+      "ecosystem": "python",
+      "name": "execnet",
+      "version": "1.9.0"
+    },
+    {
+      "ecosystem": "python",
+      "name": "executing",
+      "version": "1.2.0"
+    },
+    {
+      "ecosystem": "python",
+      "name": "fastavro",
+      "version": "1.7.0"
+    },
+    {
+      "ecosystem": "python",
+      "name": "fastjsonschema",
+      "version": "2.16.2"
+    },
+    {
+      "ecosystem": "python",
+      "name": "fastparquet",
+      "version": "0.0.0"
+    },
+    {
+      "ecosystem": "python",
+      "name": "feedparser",
+      "version": "6.0.10"
+    },
+    {
+      "ecosystem": "python",
+      "name": "filelock",
+      "version": "3.8.0"
+    },
+    {
+      "ecosystem": "python",
+      "name": "fiona",
+      "version": "1.8.22"
+    },
+    {
+      "ecosystem": "python",
+      "name": "flake8",
+      "version": "6.0.0"
+    },
+    {
+      "ecosystem": "python",
+      "name": "flake8-bugbear",
+      "version": "22.7.1"
+    },
+    {
+      "ecosystem": "python",
+      "name": "flask",
+      "version": "2.1.3"
+    },
+    {
+      "ecosystem": "python",
+      "name": "flask-cors",
+      "version": "3.0.10"
+    },
+    {
+      "ecosystem": "python",
+      "name": "flit-core",
+      "version": "3.8.0"
+    },
+    {
+      "ecosystem": "python",
+      "name": "folium",
+      "version": "0.13.0"
+    },
+    {
+      "ecosystem": "python",
+      "name": "fonttools",
+      "version": "4.38.0"
+    },
+    {
+      "ecosystem": "python",
+      "name": "frozenlist",
+      "version": "1.3.3"
+    },
+    {
+      "ecosystem": "python",
+      "name": "fsspec",
+      "version": "2021.11.0"
+    },
+    {
+      "ecosystem": "python",
+      "name": "gcsfs",
+      "version": "2021.11.0"
+    },
+    {
+      "ecosystem": "python",
+      "name": "gdal",
+      "version": "3.5.3"
+    },
+    {
+      "ecosystem": "python",
+      "name": "geopandas",
+      "version": "0.12.1"
+    },
+    {
+      "ecosystem": "python",
+      "name": "gitdb",
+      "version": "4.0.10"
+    },
+    {
+      "ecosystem": "python",
+      "name": "gitpython",
+      "version": "3.1.29"
+    },
+    {
+      "ecosystem": "python",
+      "name": "gmpy2",
+      "version": "2.1.2"
+    },
+    {
+      "ecosystem": "python",
+      "name": "google-api-core",
+      "version": "2.10.2"
+    },
+    {
+      "ecosystem": "python",
+      "name": "google-auth",
+      "version": "2.15.0"
+    },
+    {
+      "ecosystem": "python",
+      "name": "google-auth-oauthlib",
+      "version": "0.7.1"
+    },
+    {
+      "ecosystem": "python",
+      "name": "google-cloud-bigquery",
+      "version": "3.3.5"
+    },
+    {
+      "ecosystem": "python",
+      "name": "google-cloud-bigquery-storage",
+      "version": "2.11.0"
+    },
+    {
+      "ecosystem": "python",
+      "name": "google-cloud-core",
+      "version": "2.3.2"
+    },
+    {
+      "ecosystem": "python",
+      "name": "google-cloud-storage",
+      "version": "2.6.0"
+    },
+    {
+      "ecosystem": "python",
+      "name": "google-crc32c",
+      "version": "1.1.2"
+    },
+    {
+      "ecosystem": "python",
+      "name": "google-resumable-media",
+      "version": "2.4.0"
+    },
+    {
+      "ecosystem": "python",
+      "name": "googleapis-common-protos",
+      "version": "1.57.0"
+    },
+    {
+      "ecosystem": "python",
+      "name": "graphql-core",
+      "version": "3.2.3"
+    },
+    {
+      "ecosystem": "python",
+      "name": "greenlet",
+      "version": "2.0.1"
+    },
+    {
+      "ecosystem": "python",
+      "name": "grpcio",
+      "version": "1.49.1"
+    },
+    {
+      "ecosystem": "python",
+      "name": "grpcio-status",
+      "version": "1.49.1"
+    },
+    {
+      "ecosystem": "python",
+      "name": "heapdict",
+      "version": "1.0.1"
+    },
+    {
+      "ecosystem": "python",
+      "name": "html5lib",
+      "version": "1.1"
+    },
+    {
+      "ecosystem": "python",
+      "name": "hypothesis",
+      "version": "6.59.0"
+    },
+    {
+      "ecosystem": "python",
+      "name": "identify",
+      "version": "2.5.9"
+    },
+    {
+      "ecosystem": "python",
+      "name": "idna",
+      "version": "3.4"
+    },
+    {
+      "ecosystem": "python",
+      "name": "imagesize",
+      "version": "1.4.1"
+    },
+    {
+      "ecosystem": "python",
+      "name": "importlib-metadata",
+      "version": "5.1.0"
+    },
+    {
+      "ecosystem": "python",
+      "name": "importlib-resources",
+      "version": "3.3.1"
+    },
+    {
+      "ecosystem": "python",
+      "name": "iniconfig",
+      "version": "1.1.1"
+    },
+    {
+      "ecosystem": "python",
+      "name": "ipykernel",
+      "version": "6.17.1"
+    },
+    {
+      "ecosystem": "python",
+      "name": "ipython",
+      "version": "8.7.0"
+    },
+    {
+      "ecosystem": "python",
+      "name": "ipython-genutils",
+      "version": "0.2.0"
+    },
+    {
+      "ecosystem": "python",
+      "name": "ipywidgets",
+      "version": "8.0.2"
+    },
+    {
+      "ecosystem": "python",
+      "name": "isort",
+      "version": "5.10.1"
+    },
+    {
+      "ecosystem": "python",
+      "name": "itsdangerous",
+      "version": "2.1.2"
+    },
+    {
+      "ecosystem": "python",
+      "name": "jedi",
+      "version": "0.18.2"
+    },
+    {
+      "ecosystem": "python",
+      "name": "jinja2",
+      "version": "3.0.3"
+    },
+    {
+      "ecosystem": "python",
+      "name": "jmespath",
+      "version": "0.10.0"
+    },
+    {
+      "ecosystem": "python",
+      "name": "joblib",
+      "version": "1.2.0"
+    },
+    {
+      "ecosystem": "python",
+      "name": "jschema-to-python",
+      "version": "1.2.3"
+    },
+    {
+      "ecosystem": "python",
+      "name": "jsondiff",
+      "version": "2.0.0"
+    },
+    {
+      "ecosystem": "python",
+      "name": "jsonpatch",
+      "version": "1.32"
+    },
+    {
+      "ecosystem": "python",
+      "name": "jsonpickle",
+      "version": "2.2.0"
+    },
+    {
+      "ecosystem": "python",
+      "name": "jsonpointer",
+      "version": "2.0"
+    },
+    {
+      "ecosystem": "python",
+      "name": "jsonschema",
+      "version": "3.2.0"
+    },
+    {
+      "ecosystem": "python",
+      "name": "junit-xml",
+      "version": "1.9"
+    },
+    {
+      "ecosystem": "python",
+      "name": "jupyter-client",
+      "version": "7.4.7"
+    },
+    {
+      "ecosystem": "python",
+      "name": "jupyter-core",
+      "version": "5.1.0"
+    },
+    {
+      "ecosystem": "python",
+      "name": "jupyter-server",
+      "version": "1.23.3"
+    },
+    {
+      "ecosystem": "python",
+      "name": "jupyterlab-pygments",
+      "version": "0.2.2"
+    },
+    {
+      "ecosystem": "python",
+      "name": "jupyterlab-widgets",
+      "version": "3.0.3"
+    },
+    {
+      "ecosystem": "python",
+      "name": "kiwisolver",
+      "version": "1.4.4"
+    },
+    {
+      "ecosystem": "python",
+      "name": "libcst",
+      "version": "0.4.9"
+    },
+    {
+      "ecosystem": "python",
+      "name": "libmambapy",
+      "version": "1.0.0"
+    },
+    {
+      "ecosystem": "python",
+      "name": "llvmlite",
+      "version": "0.39.1"
+    },
+    {
+      "ecosystem": "python",
+      "name": "locket",
+      "version": "1.0.0"
+    },
+    {
+      "ecosystem": "python",
+      "name": "lxml",
+      "version": "4.9.1"
+    },
+    {
+      "ecosystem": "python",
+      "name": "lz4",
+      "version": "4.0.2"
+    },
+    {
+      "ecosystem": "python",
+      "name": "mamba",
+      "version": "1.0.0"
+    },
+    {
+      "ecosystem": "python",
+      "name": "mapclassify",
+      "version": "2.4.3"
+    },
+    {
+      "ecosystem": "python",
+      "name": "markdown",
+      "version": "3.4.1"
+    },
+    {
+      "ecosystem": "python",
+      "name": "markupsafe",
+      "version": "2.1.1"
+    },
+    {
+      "ecosystem": "python",
+      "name": "matplotlib",
+      "version": "3.6.2"
+    },
+    {
+      "ecosystem": "python",
+      "name": "matplotlib-inline",
+      "version": "0.1.6"
+    },
+    {
+      "ecosystem": "python",
+      "name": "mccabe",
+      "version": "0.7.0"
+    },
+    {
+      "ecosystem": "python",
+      "name": "mistune",
+      "version": "2.0.4"
+    },
+    {
+      "ecosystem": "python",
+      "name": "moto",
+      "version": "4.0.11"
+    },
+    {
+      "ecosystem": "python",
+      "name": "msgpack",
+      "version": "1.0.4"
+    },
+    {
+      "ecosystem": "python",
+      "name": "multidict",
+      "version": "6.0.2"
+    },
+    {
+      "ecosystem": "python",
+      "name": "munch",
+      "version": "2.5.0"
+    },
+    {
+      "ecosystem": "python",
+      "name": "munkres",
+      "version": "1.1.4"
+    },
+    {
+      "ecosystem": "python",
+      "name": "mypy",
+      "version": "0.990"
+    },
+    {
+      "ecosystem": "python",
+      "name": "mypy-extensions",
+      "version": "0.4.3"
+    },
+    {
+      "ecosystem": "python",
+      "name": "natsort",
+      "version": "8.2.0"
+    },
+    {
+      "ecosystem": "python",
+      "name": "nbclassic",
+      "version": "0.4.8"
+    },
+    {
+      "ecosystem": "python",
+      "name": "nbclient",
+      "version": "0.7.2"
+    },
+    {
+      "ecosystem": "python",
+      "name": "nbconvert",
+      "version": "7.2.5"
+    },
+    {
+      "ecosystem": "python",
+      "name": "nbformat",
+      "version": "5.7.0"
+    },
+    {
+      "ecosystem": "python",
+      "name": "nbsphinx",
+      "version": "0.8.10"
+    },
+    {
+      "ecosystem": "python",
+      "name": "nest-asyncio",
+      "version": "1.5.6"
+    },
+    {
+      "ecosystem": "python",
+      "name": "networkx",
+      "version": "2.8.8"
+    },
+    {
+      "ecosystem": "python",
+      "name": "nodeenv",
+      "version": "1.7.0"
+    },
+    {
+      "ecosystem": "python",
+      "name": "notebook",
+      "version": "6.5.2"
+    },
+    {
+      "ecosystem": "python",
+      "name": "notebook-shim",
+      "version": "0.2.2"
+    },
+    {
+      "ecosystem": "python",
+      "name": "numba",
+      "version": "0.56.4"
+    },
+    {
+      "ecosystem": "python",
+      "name": "numexpr",
+      "version": "2.8.3"
+    },
+    {
+      "ecosystem": "python",
+      "name": "numpy",
+      "version": "1.23.5"
+    },
+    {
+      "ecosystem": "python",
+      "name": "numpydoc",
+      "version": "1.5.0"
+    },
+    {
+      "ecosystem": "python",
+      "name": "oauthlib",
+      "version": "3.2.2"
+    },
+    {
+      "ecosystem": "python",
+      "name": "odfpy",
+      "version": "1.4.1"
+    },
+    {
+      "ecosystem": "python",
+      "name": "openapi-schema-validator",
+      "version": "0.2.3"
+    },
+    {
+      "ecosystem": "python",
+      "name": "openapi-spec-validator",
+      "version": "0.4.0"
+    },
+    {
+      "ecosystem": "python",
+      "name": "openpyxl",
+      "version": "3.0.10"
+    },
+    {
+      "ecosystem": "python",
+      "name": "packaging",
+      "version": "21.3"
+    },
+    {
+      "ecosystem": "python",
+      "name": "pandas",
+      "version": "1.5.2"
+    },
+    {
+      "ecosystem": "python",
+      "name": "pandas-datareader",
+      "version": "0.10.0"
+    },
+    {
+      "ecosystem": "python",
+      "name": "pandas-dev-flaker",
+      "version": "0.5.0"
+    },
+    {
+      "ecosystem": "python",
+      "name": "pandas-gbq",
+      "version": "0.17.9"
+    },
+    {
+      "ecosystem": "python",
+      "name": "pandocfilters",
+      "version": "1.5.0"
+    },
+    {
+      "ecosystem": "python",
+      "name": "paramiko",
+      "version": "2.12.0"
+    },
+    {
+      "ecosystem": "python",
+      "name": "parso",
+      "version": "0.8.3"
+    },
+    {
+      "ecosystem": "python",
+      "name": "partd",
+      "version": "1.3.0"
+    },
+    {
+      "ecosystem": "python",
+      "name": "pathspec",
+      "version": "0.10.2"
+    },
+    {
+      "ecosystem": "python",
+      "name": "patsy",
+      "version": "0.5.3"
+    },
+    {
+      "ecosystem": "python",
+      "name": "pbr",
+      "version": "5.11.0"
+    },
+    {
+      "ecosystem": "python",
+      "name": "pexpect",
+      "version": "4.8.0"
+    },
+    {
+      "ecosystem": "python",
+      "name": "pickleshare",
+      "version": "0.7.5"
+    },
+    {
+      "ecosystem": "python",
+      "name": "pillow",
+      "version": "9.2.0"
+    },
+    {
+      "ecosystem": "python",
+      "name": "pip",
+      "version": "22.3.1"
+    },
+    {
+      "ecosystem": "python",
+      "name": "platformdirs",
+      "version": "2.5.2"
+    },
+    {
+      "ecosystem": "python",
+      "name": "pluggy",
+      "version": "1.0.0"
+    },
+    {
+      "ecosystem": "python",
+      "name": "ply",
+      "version": "3.11"
+    },
+    {
+      "ecosystem": "python",
+      "name": "pre-commit",
+      "version": "2.20.0"
+    },
+    {
+      "ecosystem": "python",
+      "name": "prometheus-client",
+      "version": "0.15.0"
+    },
+    {
+      "ecosystem": "python",
+      "name": "prompt-toolkit",
+      "version": "3.0.33"
+    },
+    {
+      "ecosystem": "python",
+      "name": "proto-plus",
+      "version": "1.22.1"
+    },
+    {
+      "ecosystem": "python",
+      "name": "protobuf",
+      "version": "4.21.10"
+    },
+    {
+      "ecosystem": "python",
+      "name": "psutil",
+      "version": "5.9.4"
+    },
+    {
+      "ecosystem": "python",
+      "name": "psycopg2",
+      "version": "2.9.3"
+    },
+    {
+      "ecosystem": "python",
+      "name": "ptyprocess",
+      "version": "0.7.0"
+    },
+    {
+      "ecosystem": "python",
+      "name": "pure-eval",
+      "version": "0.2.2"
+    },
+    {
+      "ecosystem": "python",
+      "name": "py",
+      "version": "1.11.0"
+    },
+    {
+      "ecosystem": "python",
+      "name": "pyarrow",
+      "version": "9.0.0"
+    },
+    {
+      "ecosystem": "python",
+      "name": "pyasn1",
+      "version": "0.4.8"
+    },
+    {
+      "ecosystem": "python",
+      "name": "pyasn1-modules",
+      "version": "0.2.7"
+    },
+    {
+      "ecosystem": "python",
+      "name": "pycodestyle",
+      "version": "2.10.0"
+    },
+    {
+      "ecosystem": "python",
+      "name": "pycosat",
+      "version": "0.6.4"
+    },
+    {
+      "ecosystem": "python",
+      "name": "pycparser",
+      "version": "2.21"
+    },
+    {
+      "ecosystem": "python",
+      "name": "pydata-google-auth",
+      "version": "1.4.0"
+    },
+    {
+      "ecosystem": "python",
+      "name": "pydata-sphinx-theme",
+      "version": "0.10.1"
+    },
+    {
+      "ecosystem": "python",
+      "name": "pyflakes",
+      "version": "3.0.1"
+    },
+    {
+      "ecosystem": "python",
+      "name": "pygments",
+      "version": "2.13.0"
+    },
+    {
+      "ecosystem": "python",
+      "name": "pyjwt",
+      "version": "2.6.0"
+    },
+    {
+      "ecosystem": "python",
+      "name": "pymysql",
+      "version": "1.0.2"
+    },
+    {
+      "ecosystem": "python",
+      "name": "pynacl",
+      "version": "1.5.0"
+    },
+    {
+      "ecosystem": "python",
+      "name": "pyopenssl",
+      "version": "22.1.0"
+    },
+    {
+      "ecosystem": "python",
+      "name": "pyparsing",
+      "version": "3.0.9"
+    },
+    {
+      "ecosystem": "python",
+      "name": "pyproj",
+      "version": "3.4.0"
+    },
+    {
+      "ecosystem": "python",
+      "name": "pyqt5",
+      "version": "5.15.7"
+    },
+    {
+      "ecosystem": "python",
+      "name": "pyqt5-sip",
+      "version": "12.11.0"
+    },
+    {
+      "ecosystem": "python",
+      "name": "pyreadstat",
+      "version": "1.2.0"
+    },
+    {
+      "ecosystem": "python",
+      "name": "pyrsistent",
+      "version": "0.19.2"
+    },
+    {
+      "ecosystem": "python",
+      "name": "pysocks",
+      "version": "1.7.1"
+    },
+    {
+      "ecosystem": "python",
+      "name": "pytest",
+      "version": "7.2.0"
+    },
+    {
+      "ecosystem": "python",
+      "name": "pytest-asyncio",
+      "version": "0.20.2"
+    },
+    {
+      "ecosystem": "python",
+      "name": "pytest-cov",
+      "version": "4.0.0"
+    },
+    {
+      "ecosystem": "python",
+      "name": "pytest-cython",
+      "version": "0.2.0"
+    },
+    {
+      "ecosystem": "python",
+      "name": "pytest-xdist",
+      "version": "3.1.0"
+    },
+    {
+      "ecosystem": "python",
+      "name": "python-dateutil",
+      "version": "2.8.2"
+    },
+    {
+      "ecosystem": "python",
+      "name": "python-jose",
+      "version": "3.3.0"
+    },
+    {
+      "ecosystem": "python",
+      "name": "python-snappy",
+      "version": "0.6.1"
+    },
+    {
+      "ecosystem": "python",
+      "name": "pytz",
+      "version": "2022.6"
+    },
+    {
+      "ecosystem": "python",
+      "name": "pyu2f",
+      "version": "0.1.5"
+    },
+    {
+      "ecosystem": "python",
+      "name": "pyupgrade",
+      "version": "3.3.0"
+    },
+    {
+      "ecosystem": "python",
+      "name": "pyxlsb",
+      "version": "1.0.10"
+    },
+    {
+      "ecosystem": "python",
+      "name": "pyyaml",
+      "version": "6.0"
+    },
+    {
+      "ecosystem": "python",
+      "name": "pyzmq",
+      "version": "24.0.1"
+    },
+    {
+      "ecosystem": "python",
+      "name": "requests",
+      "version": "2.28.1"
+    },
+    {
+      "ecosystem": "python",
+      "name": "requests-oauthlib",
+      "version": "1.3.1"
+    },
+    {
+      "ecosystem": "python",
+      "name": "responses",
+      "version": "0.21.0"
+    },
+    {
+      "ecosystem": "python",
+      "name": "rsa",
+      "version": "4.9"
+    },
+    {
+      "ecosystem": "python",
+      "name": "rtree",
+      "version": "1.0.1"
+    },
+    {
+      "ecosystem": "python",
+      "name": "ruamel-yaml-conda",
+      "version": "0.15.80"
+    },
+    {
+      "ecosystem": "python",
+      "name": "s3fs",
+      "version": "2021.11.0"
+    },
+    {
+      "ecosystem": "python",
+      "name": "s3transfer",
+      "version": "0.4.2"
+    },
+    {
+      "ecosystem": "python",
+      "name": "sarif-om",
+      "version": "1.0.4"
+    },
+    {
+      "ecosystem": "python",
+      "name": "scikit-learn",
+      "version": "1.1.3"
+    },
+    {
+      "ecosystem": "python",
+      "name": "scipy",
+      "version": "1.9.3"
+    },
+    {
+      "ecosystem": "python",
+      "name": "seaborn",
+      "version": "0.12.1"
+    },
+    {
+      "ecosystem": "python",
+      "name": "send2trash",
+      "version": "1.8.0"
+    },
+    {
+      "ecosystem": "python",
+      "name": "setuptools",
+      "version": "65.5.1"
+    },
+    {
+      "ecosystem": "python",
+      "name": "sgmllib3k",
+      "version": "1.0.0"
+    },
+    {
+      "ecosystem": "python",
+      "name": "shapely",
+      "version": "1.8.5.post1"
+    },
+    {
+      "ecosystem": "python",
+      "name": "sip",
+      "version": "6.7.5"
+    },
+    {
+      "ecosystem": "python",
+      "name": "six",
+      "version": "1.16.0"
+    },
+    {
+      "ecosystem": "python",
+      "name": "smmap",
+      "version": "3.0.5"
+    },
+    {
+      "ecosystem": "python",
+      "name": "sniffio",
+      "version": "1.3.0"
+    },
+    {
+      "ecosystem": "python",
+      "name": "snowballstemmer",
+      "version": "2.2.0"
+    },
+    {
+      "ecosystem": "python",
+      "name": "sortedcontainers",
+      "version": "2.4.0"
+    },
+    {
+      "ecosystem": "python",
+      "name": "soupsieve",
+      "version": "2.3.2.post1"
+    },
+    {
+      "ecosystem": "python",
+      "name": "sphinx",
+      "version": "4.5.0"
+    },
+    {
+      "ecosystem": "python",
+      "name": "sphinx-copybutton",
+      "version": "0.5.0"
+    },
+    {
+      "ecosystem": "python",
+      "name": "sphinx-panels",
+      "version": "0.6.0"
+    },
+    {
+      "ecosystem": "python",
+      "name": "sphinx-toggleprompt",
+      "version": "0.2.0"
+    },
+    {
+      "ecosystem": "python",
+      "name": "sphinxcontrib-applehelp",
+      "version": "1.0.2"
+    },
+    {
+      "ecosystem": "python",
+      "name": "sphinxcontrib-devhelp",
+      "version": "1.0.2"
+    },
+    {
+      "ecosystem": "python",
+      "name": "sphinxcontrib-htmlhelp",
+      "version": "2.0.0"
+    },
+    {
+      "ecosystem": "python",
+      "name": "sphinxcontrib-jsmath",
+      "version": "1.0.1"
+    },
+    {
+      "ecosystem": "python",
+      "name": "sphinxcontrib-qthelp",
+      "version": "1.0.3"
+    },
+    {
+      "ecosystem": "python",
+      "name": "sphinxcontrib-serializinghtml",
+      "version": "1.1.5"
+    },
+    {
+      "ecosystem": "python",
+      "name": "sqlalchemy",
+      "version": "1.4.44"
+    },
+    {
+      "ecosystem": "python",
+      "name": "sshpubkeys",
+      "version": "3.3.1"
+    },
+    {
+      "ecosystem": "python",
+      "name": "stack-data",
+      "version": "0.6.2"
+    },
+    {
+      "ecosystem": "python",
+      "name": "statsmodels",
+      "version": "0.13.5"
+    },
+    {
+      "ecosystem": "python",
+      "name": "tables",
+      "version": "3.7.0"
+    },
+    {
+      "ecosystem": "python",
+      "name": "tabulate",
+      "version": "0.9.0"
+    },
+    {
+      "ecosystem": "python",
+      "name": "tblib",
+      "version": "1.7.0"
+    },
+    {
+      "ecosystem": "python",
+      "name": "terminado",
+      "version": "0.17.0"
+    },
+    {
+      "ecosystem": "python",
+      "name": "threadpoolctl",
+      "version": "3.1.0"
+    },
+    {
+      "ecosystem": "python",
+      "name": "tinycss2",
+      "version": "1.2.1"
+    },
+    {
+      "ecosystem": "python",
+      "name": "tokenize-rt",
+      "version": "5.0.0"
+    },
+    {
+      "ecosystem": "python",
+      "name": "toml",
+      "version": "0.10.2"
+    },
+    {
+      "ecosystem": "python",
+      "name": "tomli",
+      "version": "2.0.1"
+    },
+    {
+      "ecosystem": "python",
+      "name": "toolz",
+      "version": "0.12.0"
+    },
+    {
+      "ecosystem": "python",
+      "name": "tornado",
+      "version": "6.2"
+    },
+    {
+      "ecosystem": "python",
+      "name": "tqdm",
+      "version": "4.64.1"
+    },
+    {
+      "ecosystem": "python",
+      "name": "traitlets",
+      "version": "5.6.0"
+    },
+    {
+      "ecosystem": "python",
+      "name": "types-pymysql",
+      "version": "1.0.19.1"
+    },
+    {
+      "ecosystem": "python",
+      "name": "types-python-dateutil",
+      "version": "2.8.19.4"
+    },
+    {
+      "ecosystem": "python",
+      "name": "types-pytz",
+      "version": "2022.6.0.1"
+    },
+    {
+      "ecosystem": "python",
+      "name": "types-setuptools",
+      "version": "65.6.0.1"
+    },
+    {
+      "ecosystem": "python",
+      "name": "typing-extensions",
+      "version": "4.4.0"
+    },
+    {
+      "ecosystem": "python",
+      "name": "typing-inspect",
+      "version": "0.7.1"
+    },
+    {
+      "ecosystem": "python",
+      "name": "ukkonen",
+      "version": "1.0.1"
+    },
+    {
+      "ecosystem": "python",
+      "name": "unicodedata2",
+      "version": "15.0.0"
+    },
+    {
+      "ecosystem": "python",
+      "name": "urllib3",
+      "version": "1.26.13"
+    },
+    {
+      "ecosystem": "python",
+      "name": "versioneer",
+      "version": "0.28"
+    },
+    {
+      "ecosystem": "python",
+      "name": "virtualenv",
+      "version": "20.17.0"
+    },
+    {
+      "ecosystem": "python",
+      "name": "wcwidth",
+      "version": "0.2.5"
+    },
+    {
+      "ecosystem": "python",
+      "name": "webencodings",
+      "version": "0.5.1"
+    },
+    {
+      "ecosystem": "python",
+      "name": "websocket-client",
+      "version": "1.4.2"
+    },
+    {
+      "ecosystem": "python",
+      "name": "werkzeug",
+      "version": "2.1.2"
+    },
+    {
+      "ecosystem": "python",
+      "name": "wheel",
+      "version": "0.38.4"
+    },
+    {
+      "ecosystem": "python",
+      "name": "widgetsnbextension",
+      "version": "4.0.3"
+    },
+    {
+      "ecosystem": "python",
+      "name": "wrapt",
+      "version": "1.14.1"
+    },
+    {
+      "ecosystem": "python",
+      "name": "xarray",
+      "version": "2022.12.0"
+    },
+    {
+      "ecosystem": "python",
+      "name": "xlrd",
+      "version": "2.0.1"
+    },
+    {
+      "ecosystem": "python",
+      "name": "xlsxwriter",
+      "version": "3.0.3"
+    },
+    {
+      "ecosystem": "python",
+      "name": "xmltodict",
+      "version": "0.13.0"
+    },
+    {
+      "ecosystem": "python",
+      "name": "xyzservices",
+      "version": "2022.9.0"
+    },
+    {
+      "ecosystem": "python",
+      "name": "yarl",
+      "version": "1.8.1"
+    },
+    {
+      "ecosystem": "python",
+      "name": "zict",
+      "version": "2.2.0"
+    },
+    {
+      "ecosystem": "python",
+      "name": "zipp",
+      "version": "3.11.0"
+    },
+    {
+      "ecosystem": "python",
+      "name": "zstandard",
+      "version": "0.19.0"
+    }
+  ],
+  "registry": "docker.io",
+  "repository": "pandas/pandas",
+  "size": 5680392104,
+  "tag": null
+}

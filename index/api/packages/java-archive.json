@@ -50,6 +50,9 @@
   "JavaEWAH": {
     "0.3.2": [
       "51164829a0d7e3eb8210bba41bac18f8e98f8417034aed76d00d66427d460473"
+    ],
+    "1.2.3": [
+      "2498694ccc32b2d68121ca40c72c7d10ae94878f82057d2782be1fd1c20c41c0"
     ]
   },
   "KetCindyPlugin": {
@@ -106,6 +109,9 @@
   "ST4": {
     "4.0.4": [
       "51164829a0d7e3eb8210bba41bac18f8e98f8417034aed76d00d66427d460473"
+    ],
+    "4.3.4": [
+      "2498694ccc32b2d68121ca40c72c7d10ae94878f82057d2782be1fd1c20c41c0"
     ]
   },
   "TimingFramework": {
@@ -128,7 +134,8 @@
       "39426d212e396e16e3d5659701d764e02aaf8b4455466c488f51d7bc00f47b9f",
       "05a6dd401d47c930191fa8c017b2cf60c099c4da236f134586a2f3610e426229",
       "238717ec69830ec62a19fc05c6f70183f218a13f7678864060f0157dc63dc54f",
-      "4eb7d43c2bee093c48a1517fc0fef47ba138a7420e22ca20974e70abf866a94f"
+      "4eb7d43c2bee093c48a1517fc0fef47ba138a7420e22ca20974e70abf866a94f",
+      "af8dd991238e53f2c642efc0d3ecf2e10c02f327362f00471a9f453b3cec6f63"
     ]
   },
   "XmlSchema": {
@@ -443,9 +450,25 @@
     ],
     "3.4": [
       "51164829a0d7e3eb8210bba41bac18f8e98f8417034aed76d00d66427d460473"
+    ],
+    "3.5.3": [
+      "2498694ccc32b2d68121ca40c72c7d10ae94878f82057d2782be1fd1c20c41c0"
+    ]
+  },
+  "antlr4": {
+    "4.13.2.6": [
+      "2498694ccc32b2d68121ca40c72c7d10ae94878f82057d2782be1fd1c20c41c0"
+    ]
+  },
+  "antlr4-annotations": {
+    "4.13.2.6": [
+      "2498694ccc32b2d68121ca40c72c7d10ae94878f82057d2782be1fd1c20c41c0"
     ]
   },
   "antlr4-runtime": {
+    "4.13.2.6": [
+      "2498694ccc32b2d68121ca40c72c7d10ae94878f82057d2782be1fd1c20c41c0"
+    ],
     "4.5.3": [
       "51164829a0d7e3eb8210bba41bac18f8e98f8417034aed76d00d66427d460473"
     ]
@@ -511,6 +534,9 @@
     ]
   },
   "args4j": {
+    "2.0.23": [
+      "af8dd991238e53f2c642efc0d3ecf2e10c02f327362f00471a9f453b3cec6f63"
+    ],
     "2.33": [
       "b42b97e08804772c6f778a10714ddfb0664c31468ae2a969c6f453f07c1f86b1",
       "55513f9b0bda5403e31dec41142447045650e28a2accf3d0dd7e548b301c3a88",
@@ -522,9 +548,17 @@
       "51164829a0d7e3eb8210bba41bac18f8e98f8417034aed76d00d66427d460473"
     ]
   },
+  "asciidoctor-java-integration": {
+    "0.1.4": [
+      "af8dd991238e53f2c642efc0d3ecf2e10c02f327362f00471a9f453b3cec6f63"
+    ]
+  },
   "asm": {
     "3.0": [
       "da89087ed0d80323f14e30d287457d7d8a953855b270c733f8955d7067551ff1"
+    ],
+    "4.1": [
+      "af8dd991238e53f2c642efc0d3ecf2e10c02f327362f00471a9f453b3cec6f63"
     ],
     "7.0": [
       "55513f9b0bda5403e31dec41142447045650e28a2accf3d0dd7e548b301c3a88"
@@ -536,6 +570,9 @@
     ]
   },
   "asm-analysis": {
+    "4.1": [
+      "af8dd991238e53f2c642efc0d3ecf2e10c02f327362f00471a9f453b3cec6f63"
+    ],
     "7.0": [
       "55513f9b0bda5403e31dec41142447045650e28a2accf3d0dd7e548b301c3a88"
     ]
@@ -546,11 +583,17 @@
     ]
   },
   "asm-tree": {
+    "4.1": [
+      "af8dd991238e53f2c642efc0d3ecf2e10c02f327362f00471a9f453b3cec6f63"
+    ],
     "7.0": [
       "55513f9b0bda5403e31dec41142447045650e28a2accf3d0dd7e548b301c3a88"
     ]
   },
   "asm-util": {
+    "4.1": [
+      "af8dd991238e53f2c642efc0d3ecf2e10c02f327362f00471a9f453b3cec6f63"
+    ],
     "7.0": [
       "55513f9b0bda5403e31dec41142447045650e28a2accf3d0dd7e548b301c3a88"
     ]
@@ -940,9 +983,17 @@
       "66fa1e266029df92e91eded0ad326c8a3a5c94ae9e4191a0fd3332d28349b3a6"
     ]
   },
+  "bcpkix-jdk15on": {
+    "147": [
+      "af8dd991238e53f2c642efc0d3ecf2e10c02f327362f00471a9f453b3cec6f63"
+    ]
+  },
   "bcprov-jdk15on": {
     "1.51": [
       "51164829a0d7e3eb8210bba41bac18f8e98f8417034aed76d00d66427d460473"
+    ],
+    "147": [
+      "af8dd991238e53f2c642efc0d3ecf2e10c02f327362f00471a9f453b3cec6f63"
     ]
   },
   "beam-core": {
@@ -1018,6 +1069,11 @@
   "bytecode": {
     "0.92.svn.20090106": [
       "33374b086c3ba2baab5b84719253b4b865bbc48d796f98b902ed2d98d7f0a8a4"
+    ]
+  },
+  "bytelist": {
+    "1.0.10": [
+      "af8dd991238e53f2c642efc0d3ecf2e10c02f327362f00471a9f453b3cec6f63"
     ]
   },
   "ca-certificates-java": {
@@ -1400,7 +1456,8 @@
       "39426d212e396e16e3d5659701d764e02aaf8b4455466c488f51d7bc00f47b9f",
       "05a6dd401d47c930191fa8c017b2cf60c099c4da236f134586a2f3610e426229",
       "238717ec69830ec62a19fc05c6f70183f218a13f7678864060f0157dc63dc54f",
-      "4eb7d43c2bee093c48a1517fc0fef47ba138a7420e22ca20974e70abf866a94f"
+      "4eb7d43c2bee093c48a1517fc0fef47ba138a7420e22ca20974e70abf866a94f",
+      "af8dd991238e53f2c642efc0d3ecf2e10c02f327362f00471a9f453b3cec6f63"
     ]
   },
   "chill-java": {
@@ -1423,7 +1480,8 @@
   "cisd-jhdf5": {
     "UNKNOWN": [
       "a15c32f456822ce6e94489aabf081b4b10a91a2322623becabad62170bc98487",
-      "82e5fa413d275a72c3de76e400a3d12a93ebdb4e1ef5391d7f7e9ce686671d8d"
+      "82e5fa413d275a72c3de76e400a3d12a93ebdb4e1ef5391d7f7e9ce686671d8d",
+      "f768ed8f705507d810d55a5a95efb3c37435474f602725048e53b750abe68e8e"
     ]
   },
   "classworlds": {
@@ -1445,7 +1503,8 @@
       "39426d212e396e16e3d5659701d764e02aaf8b4455466c488f51d7bc00f47b9f",
       "05a6dd401d47c930191fa8c017b2cf60c099c4da236f134586a2f3610e426229",
       "238717ec69830ec62a19fc05c6f70183f218a13f7678864060f0157dc63dc54f",
-      "4eb7d43c2bee093c48a1517fc0fef47ba138a7420e22ca20974e70abf866a94f"
+      "4eb7d43c2bee093c48a1517fc0fef47ba138a7420e22ca20974e70abf866a94f",
+      "af8dd991238e53f2c642efc0d3ecf2e10c02f327362f00471a9f453b3cec6f63"
     ]
   },
   "client": {
@@ -1558,7 +1617,8 @@
     ],
     "1.2": [
       "da89087ed0d80323f14e30d287457d7d8a953855b270c733f8955d7067551ff1",
-      "51164829a0d7e3eb8210bba41bac18f8e98f8417034aed76d00d66427d460473"
+      "51164829a0d7e3eb8210bba41bac18f8e98f8417034aed76d00d66427d460473",
+      "af8dd991238e53f2c642efc0d3ecf2e10c02f327362f00471a9f453b3cec6f63"
     ],
     "1.3.1": [
       "4941a5f9e950f0894d09c58eef7e6171e06c78c2e194e3f440d2d64e4e8cee12",
@@ -1576,6 +1636,9 @@
     ],
     "1.11": [
       "55513f9b0bda5403e31dec41142447045650e28a2accf3d0dd7e548b301c3a88"
+    ],
+    "1.17.1": [
+      "2498694ccc32b2d68121ca40c72c7d10ae94878f82057d2782be1fd1c20c41c0"
     ],
     "1.3": [
       "66fa1e266029df92e91eded0ad326c8a3a5c94ae9e4191a0fd3332d28349b3a6"
@@ -1649,6 +1712,9 @@
     ],
     "1.6": [
       "51164829a0d7e3eb8210bba41bac18f8e98f8417034aed76d00d66427d460473"
+    ],
+    "1.9": [
+      "af8dd991238e53f2c642efc0d3ecf2e10c02f327362f00471a9f453b3cec6f63"
     ]
   },
   "commons-daemon": {
@@ -1685,15 +1751,20 @@
   "commons-io": {
     "1.4": [
       "a15c32f456822ce6e94489aabf081b4b10a91a2322623becabad62170bc98487",
-      "82e5fa413d275a72c3de76e400a3d12a93ebdb4e1ef5391d7f7e9ce686671d8d"
+      "82e5fa413d275a72c3de76e400a3d12a93ebdb4e1ef5391d7f7e9ce686671d8d",
+      "f768ed8f705507d810d55a5a95efb3c37435474f602725048e53b750abe68e8e"
     ],
     "2.0.1": [
       "a40b3be9b68e4c9eefec19a93f6235c2f143b93e1ddf0fa6c5b3f22e5d7cf224"
     ],
+    "2.15.1": [
+      "2498694ccc32b2d68121ca40c72c7d10ae94878f82057d2782be1fd1c20c41c0"
+    ],
     "2.4": [
       "66fa1e266029df92e91eded0ad326c8a3a5c94ae9e4191a0fd3332d28349b3a6",
       "da89087ed0d80323f14e30d287457d7d8a953855b270c733f8955d7067551ff1",
-      "51164829a0d7e3eb8210bba41bac18f8e98f8417034aed76d00d66427d460473"
+      "51164829a0d7e3eb8210bba41bac18f8e98f8417034aed76d00d66427d460473",
+      "af8dd991238e53f2c642efc0d3ecf2e10c02f327362f00471a9f453b3cec6f63"
     ],
     "2.6": [
       "55513f9b0bda5403e31dec41142447045650e28a2accf3d0dd7e548b301c3a88"
@@ -1724,12 +1795,15 @@
   "commons-lang": {
     "2.4": [
       "a15c32f456822ce6e94489aabf081b4b10a91a2322623becabad62170bc98487",
-      "82e5fa413d275a72c3de76e400a3d12a93ebdb4e1ef5391d7f7e9ce686671d8d"
+      "82e5fa413d275a72c3de76e400a3d12a93ebdb4e1ef5391d7f7e9ce686671d8d",
+      "f768ed8f705507d810d55a5a95efb3c37435474f602725048e53b750abe68e8e"
     ],
     "2.6": [
       "66fa1e266029df92e91eded0ad326c8a3a5c94ae9e4191a0fd3332d28349b3a6",
       "da89087ed0d80323f14e30d287457d7d8a953855b270c733f8955d7067551ff1",
-      "51164829a0d7e3eb8210bba41bac18f8e98f8417034aed76d00d66427d460473"
+      "51164829a0d7e3eb8210bba41bac18f8e98f8417034aed76d00d66427d460473",
+      "af8dd991238e53f2c642efc0d3ecf2e10c02f327362f00471a9f453b3cec6f63",
+      "2498694ccc32b2d68121ca40c72c7d10ae94878f82057d2782be1fd1c20c41c0"
     ]
   },
   "commons-lang3": {
@@ -1751,7 +1825,8 @@
   "commons-logging": {
     "1.1.1": [
       "66fa1e266029df92e91eded0ad326c8a3a5c94ae9e4191a0fd3332d28349b3a6",
-      "05a6dd401d47c930191fa8c017b2cf60c099c4da236f134586a2f3610e426229"
+      "05a6dd401d47c930191fa8c017b2cf60c099c4da236f134586a2f3610e426229",
+      "af8dd991238e53f2c642efc0d3ecf2e10c02f327362f00471a9f453b3cec6f63"
     ],
     "1.1.3": [
       "51164829a0d7e3eb8210bba41bac18f8e98f8417034aed76d00d66427d460473"
@@ -2003,7 +2078,8 @@
       "39426d212e396e16e3d5659701d764e02aaf8b4455466c488f51d7bc00f47b9f",
       "05a6dd401d47c930191fa8c017b2cf60c099c4da236f134586a2f3610e426229",
       "238717ec69830ec62a19fc05c6f70183f218a13f7678864060f0157dc63dc54f",
-      "4eb7d43c2bee093c48a1517fc0fef47ba138a7420e22ca20974e70abf866a94f"
+      "4eb7d43c2bee093c48a1517fc0fef47ba138a7420e22ca20974e70abf866a94f",
+      "af8dd991238e53f2c642efc0d3ecf2e10c02f327362f00471a9f453b3cec6f63"
     ]
   },
   "dom4j": {
@@ -2156,9 +2232,24 @@
       "da89087ed0d80323f14e30d287457d7d8a953855b270c733f8955d7067551ff1"
     ]
   },
+  "error_prone_annotations": {
+    "2.38.0": [
+      "2498694ccc32b2d68121ca40c72c7d10ae94878f82057d2782be1fd1c20c41c0"
+    ]
+  },
   "euclid": {
     "1.0.1": [
       "a40b3be9b68e4c9eefec19a93f6235c2f143b93e1ddf0fa6c5b3f22e5d7cf224"
+    ]
+  },
+  "failsafe": {
+    "3.1.0": [
+      "2498694ccc32b2d68121ca40c72c7d10ae94878f82057d2782be1fd1c20c41c0"
+    ]
+  },
+  "failureaccess": {
+    "1.0.2": [
+      "2498694ccc32b2d68121ca40c72c7d10ae94878f82057d2782be1fd1c20c41c0"
     ]
   },
   "fatalexit": {
@@ -2294,6 +2385,9 @@
     ]
   },
   "freemarker": {
+    "2.3.20": [
+      "af8dd991238e53f2c642efc0d3ecf2e10c02f327362f00471a9f453b3cec6f63"
+    ],
     "2.3.23": [
       "55513f9b0bda5403e31dec41142447045650e28a2accf3d0dd7e548b301c3a88"
     ]
@@ -2316,6 +2410,11 @@
   "gds-jobs-client": {
     "UNKNOWN": [
       "66fa1e266029df92e91eded0ad326c8a3a5c94ae9e4191a0fd3332d28349b3a6"
+    ]
+  },
+  "generator": {
+    "UNKNOWN": [
+      "af8dd991238e53f2c642efc0d3ecf2e10c02f327362f00471a9f453b3cec6f63"
     ]
   },
   "geronimo-annotation_1.3_spec": {
@@ -2393,6 +2492,16 @@
       "da89087ed0d80323f14e30d287457d7d8a953855b270c733f8955d7067551ff1"
     ]
   },
+  "gradle-wrapper": {
+    "2.10": [
+      "17a4732e2868a5b2bcfa84b978dcb5d14c84b70f26ee4197a9910bfc0d051854"
+    ]
+  },
+  "groovy-all": {
+    "2.3.4": [
+      "af8dd991238e53f2c642efc0d3ecf2e10c02f327362f00471a9f453b3cec6f63"
+    ]
+  },
   "group": {
     "UNKNOWN": [
       "66fa1e266029df92e91eded0ad326c8a3a5c94ae9e4191a0fd3332d28349b3a6"
@@ -2404,6 +2513,9 @@
     ]
   },
   "gson": {
+    "2.13.1": [
+      "2498694ccc32b2d68121ca40c72c7d10ae94878f82057d2782be1fd1c20c41c0"
+    ],
     "2.2.4": [
       "66fa1e266029df92e91eded0ad326c8a3a5c94ae9e4191a0fd3332d28349b3a6",
       "51164829a0d7e3eb8210bba41bac18f8e98f8417034aed76d00d66427d460473"
@@ -2436,6 +2548,9 @@
     ],
     "19.0": [
       "55513f9b0bda5403e31dec41142447045650e28a2accf3d0dd7e548b301c3a88"
+    ],
+    "33.0.0-jre": [
+      "2498694ccc32b2d68121ca40c72c7d10ae94878f82057d2782be1fd1c20c41c0"
     ]
   },
   "guice": {
@@ -2842,6 +2957,9 @@
   "htsjdk": {
     "2.18.2": [
       "55513f9b0bda5403e31dec41142447045650e28a2accf3d0dd7e548b301c3a88"
+    ],
+    "2.24.1-SNAPSHOT": [
+      "f768ed8f705507d810d55a5a95efb3c37435474f602725048e53b750abe68e8e"
     ]
   },
   "httpclient": {
@@ -3020,9 +3138,17 @@
       "66fa1e266029df92e91eded0ad326c8a3a5c94ae9e4191a0fd3332d28349b3a6"
     ]
   },
+  "invokebinder": {
+    "1.2": [
+      "af8dd991238e53f2c642efc0d3ecf2e10c02f327362f00471a9f453b3cec6f63"
+    ]
+  },
   "isorelax": {
     "20041111": [
       "da89087ed0d80323f14e30d287457d7d8a953855b270c733f8955d7067551ff1"
+    ],
+    "20090621": [
+      "2498694ccc32b2d68121ca40c72c7d10ae94878f82057d2782be1fd1c20c41c0"
     ]
   },
   "istack-commons-buildtools": {
@@ -3079,7 +3205,8 @@
       "39426d212e396e16e3d5659701d764e02aaf8b4455466c488f51d7bc00f47b9f",
       "05a6dd401d47c930191fa8c017b2cf60c099c4da236f134586a2f3610e426229",
       "238717ec69830ec62a19fc05c6f70183f218a13f7678864060f0157dc63dc54f",
-      "4eb7d43c2bee093c48a1517fc0fef47ba138a7420e22ca20974e70abf866a94f"
+      "4eb7d43c2bee093c48a1517fc0fef47ba138a7420e22ca20974e70abf866a94f",
+      "af8dd991238e53f2c642efc0d3ecf2e10c02f327362f00471a9f453b3cec6f63"
     ]
   },
   "jackrabbit-webdav": {
@@ -3088,6 +3215,9 @@
     ]
   },
   "jackson-annotations": {
+    "2.19.2": [
+      "2498694ccc32b2d68121ca40c72c7d10ae94878f82057d2782be1fd1c20c41c0"
+    ],
     "2.6.5": [
       "51164829a0d7e3eb8210bba41bac18f8e98f8417034aed76d00d66427d460473"
     ],
@@ -3096,6 +3226,9 @@
     ]
   },
   "jackson-core": {
+    "2.19.2": [
+      "2498694ccc32b2d68121ca40c72c7d10ae94878f82057d2782be1fd1c20c41c0"
+    ],
     "2.6.5": [
       "51164829a0d7e3eb8210bba41bac18f8e98f8417034aed76d00d66427d460473"
     ],
@@ -3109,11 +3242,19 @@
     ]
   },
   "jackson-databind": {
+    "2.19.2": [
+      "2498694ccc32b2d68121ca40c72c7d10ae94878f82057d2782be1fd1c20c41c0"
+    ],
     "2.6.5": [
       "51164829a0d7e3eb8210bba41bac18f8e98f8417034aed76d00d66427d460473"
     ],
     "2.7.5": [
       "da89087ed0d80323f14e30d287457d7d8a953855b270c733f8955d7067551ff1"
+    ]
+  },
+  "jackson-dataformat-yaml": {
+    "2.19.2": [
+      "2498694ccc32b2d68121ca40c72c7d10ae94878f82057d2782be1fd1c20c41c0"
     ]
   },
   "jackson-jaxrs": {
@@ -3139,6 +3280,21 @@
   "jackson-xc": {
     "1.9.13": [
       "51164829a0d7e3eb8210bba41bac18f8e98f8417034aed76d00d66427d460473"
+    ]
+  },
+  "jakarta.annotation-api": {
+    "2.1.1": [
+      "2498694ccc32b2d68121ca40c72c7d10ae94878f82057d2782be1fd1c20c41c0"
+    ]
+  },
+  "jakarta.inject-api": {
+    "2.0.1": [
+      "2498694ccc32b2d68121ca40c72c7d10ae94878f82057d2782be1fd1c20c41c0"
+    ]
+  },
+  "jakarta.validation-api": {
+    "3.1.0": [
+      "2498694ccc32b2d68121ca40c72c7d10ae94878f82057d2782be1fd1c20c41c0"
     ]
   },
   "janino": {
@@ -3186,6 +3342,11 @@
       "a15c32f456822ce6e94489aabf081b4b10a91a2322623becabad62170bc98487"
     ]
   },
+  "java-semver": {
+    "0.10.2": [
+      "2498694ccc32b2d68121ca40c72c7d10ae94878f82057d2782be1fd1c20c41c0"
+    ]
+  },
   "java-xmlbuilder": {
     "1.0": [
       "51164829a0d7e3eb8210bba41bac18f8e98f8417034aed76d00d66427d460473"
@@ -3197,6 +3358,9 @@
     ]
   },
   "javassist": {
+    "3.16.1-GA": [
+      "af8dd991238e53f2c642efc0d3ecf2e10c02f327362f00471a9f453b3cec6f63"
+    ],
     "3.18.1-GA": [
       "51164829a0d7e3eb8210bba41bac18f8e98f8417034aed76d00d66427d460473"
     ]
@@ -3315,10 +3479,16 @@
       "da89087ed0d80323f14e30d287457d7d8a953855b270c733f8955d7067551ff1"
     ]
   },
+  "jbake-core": {
+    "2.3.1": [
+      "af8dd991238e53f2c642efc0d3ecf2e10c02f327362f00471a9f453b3cec6f63"
+    ]
+  },
   "jbzip2": {
     "0.9": [
       "a15c32f456822ce6e94489aabf081b4b10a91a2322623becabad62170bc98487",
-      "82e5fa413d275a72c3de76e400a3d12a93ebdb4e1ef5391d7f7e9ce686671d8d"
+      "82e5fa413d275a72c3de76e400a3d12a93ebdb4e1ef5391d7f7e9ce686671d8d",
+      "f768ed8f705507d810d55a5a95efb3c37435474f602725048e53b750abe68e8e"
     ]
   },
   "jce": {
@@ -3351,6 +3521,9 @@
     "1.8.0_282": [
       "82e5fa413d275a72c3de76e400a3d12a93ebdb4e1ef5391d7f7e9ce686671d8d"
     ],
+    "1.8.0_342": [
+      "af8dd991238e53f2c642efc0d3ecf2e10c02f327362f00471a9f453b3cec6f63"
+    ],
     "1.8.0_92": [
       "a15c32f456822ce6e94489aabf081b4b10a91a2322623becabad62170bc98487"
     ]
@@ -3367,11 +3540,23 @@
     ],
     "1.7.7": [
       "da89087ed0d80323f14e30d287457d7d8a953855b270c733f8955d7067551ff1"
+    ],
+    "2.0.17": [
+      "2498694ccc32b2d68121ca40c72c7d10ae94878f82057d2782be1fd1c20c41c0"
+    ]
+  },
+  "jcodings": {
+    "1.0.10": [
+      "af8dd991238e53f2c642efc0d3ecf2e10c02f327362f00471a9f453b3cec6f63"
     ]
   },
   "jcommander": {
+    "1.30": [
+      "af8dd991238e53f2c642efc0d3ecf2e10c02f327362f00471a9f453b3cec6f63"
+    ],
     "1.35": [
-      "da89087ed0d80323f14e30d287457d7d8a953855b270c733f8955d7067551ff1"
+      "da89087ed0d80323f14e30d287457d7d8a953855b270c733f8955d7067551ff1",
+      "2498694ccc32b2d68121ca40c72c7d10ae94878f82057d2782be1fd1c20c41c0"
     ]
   },
   "jconsole": {
@@ -3474,6 +3659,9 @@
     ]
   },
   "jetty-continuation": {
+    "8.1.12.v20130726": [
+      "af8dd991238e53f2c642efc0d3ecf2e10c02f327362f00471a9f453b3cec6f63"
+    ],
     "8.1.9.v20130131": [
       "66fa1e266029df92e91eded0ad326c8a3a5c94ae9e4191a0fd3332d28349b3a6"
     ],
@@ -3482,6 +3670,9 @@
     ]
   },
   "jetty-http": {
+    "8.1.12.v20130726": [
+      "af8dd991238e53f2c642efc0d3ecf2e10c02f327362f00471a9f453b3cec6f63"
+    ],
     "8.1.9.v20130131": [
       "66fa1e266029df92e91eded0ad326c8a3a5c94ae9e4191a0fd3332d28349b3a6"
     ],
@@ -3490,6 +3681,9 @@
     ]
   },
   "jetty-io": {
+    "8.1.12.v20130726": [
+      "af8dd991238e53f2c642efc0d3ecf2e10c02f327362f00471a9f453b3cec6f63"
+    ],
     "8.1.9.v20130131": [
       "66fa1e266029df92e91eded0ad326c8a3a5c94ae9e4191a0fd3332d28349b3a6"
     ],
@@ -3516,6 +3710,9 @@
     ]
   },
   "jetty-server": {
+    "8.1.12.v20130726": [
+      "af8dd991238e53f2c642efc0d3ecf2e10c02f327362f00471a9f453b3cec6f63"
+    ],
     "8.1.9.v20130131": [
       "66fa1e266029df92e91eded0ad326c8a3a5c94ae9e4191a0fd3332d28349b3a6"
     ],
@@ -3558,6 +3755,9 @@
     "6.1.26": [
       "da89087ed0d80323f14e30d287457d7d8a953855b270c733f8955d7067551ff1"
     ],
+    "8.1.12.v20130726": [
+      "af8dd991238e53f2c642efc0d3ecf2e10c02f327362f00471a9f453b3cec6f63"
+    ],
     "8.1.9.v20130131": [
       "66fa1e266029df92e91eded0ad326c8a3a5c94ae9e4191a0fd3332d28349b3a6"
     ],
@@ -3590,12 +3790,20 @@
       "55513f9b0bda5403e31dec41142447045650e28a2accf3d0dd7e548b301c3a88"
     ]
   },
+  "jffi": {
+    "1.2.7": [
+      "af8dd991238e53f2c642efc0d3ecf2e10c02f327362f00471a9f453b3cec6f63"
+    ]
+  },
   "jfr": {
     "1.7.0_60": [
       "66fa1e266029df92e91eded0ad326c8a3a5c94ae9e4191a0fd3332d28349b3a6"
     ],
     "1.8.0_282": [
       "82e5fa413d275a72c3de76e400a3d12a93ebdb4e1ef5391d7f7e9ce686671d8d"
+    ],
+    "1.8.0_342": [
+      "af8dd991238e53f2c642efc0d3ecf2e10c02f327362f00471a9f453b3cec6f63"
     ]
   },
   "jfxrt": {
@@ -3681,11 +3889,27 @@
     ],
     "2.12.1": [
       "51164829a0d7e3eb8210bba41bac18f8e98f8417034aed76d00d66427d460473"
+    ],
+    "2.7": [
+      "af8dd991238e53f2c642efc0d3ecf2e10c02f327362f00471a9f453b3cec6f63"
+    ],
+    "2.9": [
+      "2498694ccc32b2d68121ca40c72c7d10ae94878f82057d2782be1fd1c20c41c0"
     ]
   },
   "jmi": {
     "UNKNOWN": [
       "66fa1e266029df92e91eded0ad326c8a3a5c94ae9e4191a0fd3332d28349b3a6"
+    ]
+  },
+  "jna": {
+    "4.0.0": [
+      "af8dd991238e53f2c642efc0d3ecf2e10c02f327362f00471a9f453b3cec6f63"
+    ]
+  },
+  "jna-platform": {
+    "4.0.0": [
+      "af8dd991238e53f2c642efc0d3ecf2e10c02f327362f00471a9f453b3cec6f63"
     ]
   },
   "jnati-core": {
@@ -3703,9 +3927,47 @@
       "a40b3be9b68e4c9eefec19a93f6235c2f143b93e1ddf0fa6c5b3f22e5d7cf224"
     ]
   },
+  "jnr-constants": {
+    "0.8.4": [
+      "af8dd991238e53f2c642efc0d3ecf2e10c02f327362f00471a9f453b3cec6f63"
+    ]
+  },
+  "jnr-enxio": {
+    "0.4": [
+      "af8dd991238e53f2c642efc0d3ecf2e10c02f327362f00471a9f453b3cec6f63"
+    ]
+  },
+  "jnr-ffi": {
+    "1.0.4": [
+      "af8dd991238e53f2c642efc0d3ecf2e10c02f327362f00471a9f453b3cec6f63"
+    ]
+  },
+  "jnr-netdb": {
+    "1.1.2": [
+      "af8dd991238e53f2c642efc0d3ecf2e10c02f327362f00471a9f453b3cec6f63"
+    ]
+  },
+  "jnr-posix": {
+    "2.5.3-SNAPSHOT": [
+      "af8dd991238e53f2c642efc0d3ecf2e10c02f327362f00471a9f453b3cec6f63"
+    ]
+  },
+  "jnr-unixsocket": {
+    "0.3": [
+      "af8dd991238e53f2c642efc0d3ecf2e10c02f327362f00471a9f453b3cec6f63"
+    ]
+  },
+  "jnr-x86asm": {
+    "1.0.2": [
+      "af8dd991238e53f2c642efc0d3ecf2e10c02f327362f00471a9f453b3cec6f63"
+    ]
+  },
   "joda-time": {
     "1.6.2": [
       "a40b3be9b68e4c9eefec19a93f6235c2f143b93e1ddf0fa6c5b3f22e5d7cf224"
+    ],
+    "2.2": [
+      "af8dd991238e53f2c642efc0d3ecf2e10c02f327362f00471a9f453b3cec6f63"
     ],
     "2.7": [
       "66fa1e266029df92e91eded0ad326c8a3a5c94ae9e4191a0fd3332d28349b3a6"
@@ -3722,6 +3984,16 @@
   "jogl-all": {
     "2.3.2-rc-20160516": [
       "66fa1e266029df92e91eded0ad326c8a3a5c94ae9e4191a0fd3332d28349b3a6"
+    ]
+  },
+  "joni": {
+    "2.0.0": [
+      "af8dd991238e53f2c642efc0d3ecf2e10c02f327362f00471a9f453b3cec6f63"
+    ]
+  },
+  "jopenssl": {
+    "UNKNOWN": [
+      "af8dd991238e53f2c642efc0d3ecf2e10c02f327362f00471a9f453b3cec6f63"
     ]
   },
   "jopt-simple": {
@@ -3748,12 +4020,21 @@
     "21.0.11": [
       "c59fd02629f614178dac105c3095f4ac06ef7a9353bd06c9e68d59d92616579c",
       "ced12c05e51a862e9cf8cd579d76a82a430c963b0aeb56da1480afbe5e2f9a70",
-      "8908ea621353b9ae073fee3844bfed4cf17c1dd7ace3264603b64fde0bc7ef01"
+      "8908ea621353b9ae073fee3844bfed4cf17c1dd7ace3264603b64fde0bc7ef01",
+      "2498694ccc32b2d68121ca40c72c7d10ae94878f82057d2782be1fd1c20c41c0"
+    ],
+    "25.0.1-internal": [
+      "f768ed8f705507d810d55a5a95efb3c37435474f602725048e53b750abe68e8e"
     ],
     "25.0.4": [
       "4941a5f9e950f0894d09c58eef7e6171e06c78c2e194e3f440d2d64e4e8cee12",
       "1c2f5e395f0b265ea9771f763ab438242bd5d35b74f001f6e4b4c71b084e73cf",
       "d2b27942e5e174a45e7ad6b4851e2084022af4bee6a3037447941120e61d7e06"
+    ]
+  },
+  "jruby-complete": {
+    "1.7.4": [
+      "af8dd991238e53f2c642efc0d3ecf2e10c02f327362f00471a9f453b3cec6f63"
     ]
   },
   "js": {
@@ -3849,6 +4130,9 @@
     "1.10.2": [
       "55513f9b0bda5403e31dec41142447045650e28a2accf3d0dd7e548b301c3a88"
     ],
+    "1.15.4": [
+      "2498694ccc32b2d68121ca40c72c7d10ae94878f82057d2782be1fd1c20c41c0"
+    ],
     "1.8.1": [
       "da89087ed0d80323f14e30d287457d7d8a953855b270c733f8955d7067551ff1"
     ]
@@ -3873,6 +4157,9 @@
     ],
     "2.0.1": [
       "da89087ed0d80323f14e30d287457d7d8a953855b270c733f8955d7067551ff1"
+    ],
+    "3.0.2": [
+      "2498694ccc32b2d68121ca40c72c7d10ae94878f82057d2782be1fd1c20c41c0"
     ]
   },
   "jsse": {
@@ -3905,6 +4192,9 @@
     "1.8.0_282": [
       "82e5fa413d275a72c3de76e400a3d12a93ebdb4e1ef5391d7f7e9ce686671d8d"
     ],
+    "1.8.0_342": [
+      "af8dd991238e53f2c642efc0d3ecf2e10c02f327362f00471a9f453b3cec6f63"
+    ],
     "1.8.0_92": [
       "a15c32f456822ce6e94489aabf081b4b10a91a2322623becabad62170bc98487"
     ]
@@ -3933,6 +4223,9 @@
     ],
     "1.7.7": [
       "da89087ed0d80323f14e30d287457d7d8a953855b270c733f8955d7067551ff1"
+    ],
+    "2.0.17": [
+      "2498694ccc32b2d68121ca40c72c7d10ae94878f82057d2782be1fd1c20c41c0"
     ]
   },
   "jung-algorithms": {
@@ -3971,6 +4264,9 @@
     ]
   },
   "jzlib": {
+    "1.1.2": [
+      "af8dd991238e53f2c642efc0d3ecf2e10c02f327362f00471a9f453b3cec6f63"
+    ],
     "1.1.3": [
       "da89087ed0d80323f14e30d287457d7d8a953855b270c733f8955d7067551ff1"
     ]
@@ -3978,11 +4274,24 @@
   "kryo": {
     "2.21": [
       "51164829a0d7e3eb8210bba41bac18f8e98f8417034aed76d00d66427d460473"
+    ],
+    "2.24.0": [
+      "2498694ccc32b2d68121ca40c72c7d10ae94878f82057d2782be1fd1c20c41c0"
     ]
   },
   "kryo-shaded": {
     "3.0.3": [
       "51164829a0d7e3eb8210bba41bac18f8e98f8417034aed76d00d66427d460473"
+    ]
+  },
+  "kryptcore": {
+    "UNKNOWN": [
+      "af8dd991238e53f2c642efc0d3ecf2e10c02f327362f00471a9f453b3cec6f63"
+    ]
+  },
+  "kryptproviderjdk": {
+    "UNKNOWN": [
+      "af8dd991238e53f2c642efc0d3ecf2e10c02f327362f00471a9f453b3cec6f63"
     ]
   },
   "laj": {
@@ -3995,6 +4304,16 @@
       "4941a5f9e950f0894d09c58eef7e6171e06c78c2e194e3f440d2d64e4e8cee12",
       "1c2f5e395f0b265ea9771f763ab438242bd5d35b74f001f6e4b4c71b084e73cf",
       "d2b27942e5e174a45e7ad6b4851e2084022af4bee6a3037447941120e61d7e06"
+    ]
+  },
+  "leveldb": {
+    "0.12": [
+      "2498694ccc32b2d68121ca40c72c7d10ae94878f82057d2782be1fd1c20c41c0"
+    ]
+  },
+  "leveldb-api": {
+    "0.12": [
+      "2498694ccc32b2d68121ca40c72c7d10ae94878f82057d2782be1fd1c20c41c0"
     ]
   },
   "leveldbjni-all": {
@@ -4042,6 +4361,11 @@
       "55513f9b0bda5403e31dec41142447045650e28a2accf3d0dd7e548b301c3a88"
     ]
   },
+  "listenablefuture": {
+    "9999.0-empty-to-avoid-conflict-with-guava": [
+      "2498694ccc32b2d68121ca40c72c7d10ae94878f82057d2782be1fd1c20c41c0"
+    ]
+  },
   "lmlogin": {
     "UNKNOWN": [
       "66fa1e266029df92e91eded0ad326c8a3a5c94ae9e4191a0fd3332d28349b3a6"
@@ -4067,7 +4391,8 @@
       "39426d212e396e16e3d5659701d764e02aaf8b4455466c488f51d7bc00f47b9f",
       "05a6dd401d47c930191fa8c017b2cf60c099c4da236f134586a2f3610e426229",
       "238717ec69830ec62a19fc05c6f70183f218a13f7678864060f0157dc63dc54f",
-      "4eb7d43c2bee093c48a1517fc0fef47ba138a7420e22ca20974e70abf866a94f"
+      "4eb7d43c2bee093c48a1517fc0fef47ba138a7420e22ca20974e70abf866a94f",
+      "af8dd991238e53f2c642efc0d3ecf2e10c02f327362f00471a9f453b3cec6f63"
     ]
   },
   "localedata": {
@@ -4085,7 +4410,8 @@
       "39426d212e396e16e3d5659701d764e02aaf8b4455466c488f51d7bc00f47b9f",
       "05a6dd401d47c930191fa8c017b2cf60c099c4da236f134586a2f3610e426229",
       "238717ec69830ec62a19fc05c6f70183f218a13f7678864060f0157dc63dc54f",
-      "4eb7d43c2bee093c48a1517fc0fef47ba138a7420e22ca20974e70abf866a94f"
+      "4eb7d43c2bee093c48a1517fc0fef47ba138a7420e22ca20974e70abf866a94f",
+      "af8dd991238e53f2c642efc0d3ecf2e10c02f327362f00471a9f453b3cec6f63"
     ]
   },
   "log4j": {
@@ -4153,6 +4479,9 @@
     ],
     "1.7.7": [
       "da89087ed0d80323f14e30d287457d7d8a953855b270c733f8955d7067551ff1"
+    ],
+    "2.0.17": [
+      "2498694ccc32b2d68121ca40c72c7d10ae94878f82057d2782be1fd1c20c41c0"
     ]
   },
   "log4j-slf4j-impl": {
@@ -4175,6 +4504,22 @@
   "log4j-web": {
     "2.11.1": [
       "55513f9b0bda5403e31dec41142447045650e28a2accf3d0dd7e548b301c3a88"
+    ]
+  },
+  "logback-classic": {
+    "1.0.9": [
+      "af8dd991238e53f2c642efc0d3ecf2e10c02f327362f00471a9f453b3cec6f63"
+    ],
+    "1.5.20": [
+      "2498694ccc32b2d68121ca40c72c7d10ae94878f82057d2782be1fd1c20c41c0"
+    ]
+  },
+  "logback-core": {
+    "1.0.9": [
+      "af8dd991238e53f2c642efc0d3ecf2e10c02f327362f00471a9f453b3cec6f63"
+    ],
+    "1.5.20": [
+      "2498694ccc32b2d68121ca40c72c7d10ae94878f82057d2782be1fd1c20c41c0"
     ]
   },
   "logging": {
@@ -4248,7 +4593,8 @@
       "66fa1e266029df92e91eded0ad326c8a3a5c94ae9e4191a0fd3332d28349b3a6"
     ],
     "1.4.7": [
-      "51164829a0d7e3eb8210bba41bac18f8e98f8417034aed76d00d66427d460473"
+      "51164829a0d7e3eb8210bba41bac18f8e98f8417034aed76d00d66427d460473",
+      "2498694ccc32b2d68121ca40c72c7d10ae94878f82057d2782be1fd1c20c41c0"
     ]
   },
   "main": {
@@ -4271,7 +4617,8 @@
       "39426d212e396e16e3d5659701d764e02aaf8b4455466c488f51d7bc00f47b9f",
       "05a6dd401d47c930191fa8c017b2cf60c099c4da236f134586a2f3610e426229",
       "238717ec69830ec62a19fc05c6f70183f218a13f7678864060f0157dc63dc54f",
-      "4eb7d43c2bee093c48a1517fc0fef47ba138a7420e22ca20974e70abf866a94f"
+      "4eb7d43c2bee093c48a1517fc0fef47ba138a7420e22ca20974e70abf866a94f",
+      "af8dd991238e53f2c642efc0d3ecf2e10c02f327362f00471a9f453b3cec6f63"
     ]
   },
   "mapreduce": {
@@ -5025,6 +5372,11 @@
       "da89087ed0d80323f14e30d287457d7d8a953855b270c733f8955d7067551ff1"
     ]
   },
+  "multiverse-core": {
+    "0.7.0": [
+      "2498694ccc32b2d68121ca40c72c7d10ae94878f82057d2782be1fd1c20c41c0"
+    ]
+  },
   "mvel2": {
     "2.5.2.Final": [
       "4941a5f9e950f0894d09c58eef7e6171e06c78c2e194e3f440d2d64e4e8cee12",
@@ -5119,6 +5471,9 @@
     "1.8.0_282-8u282-b08-0ubuntu1~16.04-b08": [
       "82e5fa413d275a72c3de76e400a3d12a93ebdb4e1ef5391d7f7e9ce686671d8d"
     ],
+    "1.8.0_342-b07": [
+      "af8dd991238e53f2c642efc0d3ecf2e10c02f327362f00471a9f453b3cec6f63"
+    ],
     "1.8.0_92-b15": [
       "a15c32f456822ce6e94489aabf081b4b10a91a2322623becabad62170bc98487"
     ]
@@ -5161,6 +5516,11 @@
       "a40b3be9b68e4c9eefec19a93f6235c2f143b93e1ddf0fa6c5b3f22e5d7cf224"
     ]
   },
+  "nextflow": {
+    "25.10.7-one": [
+      "2498694ccc32b2d68121ca40c72c7d10ae94878f82057d2782be1fd1c20c41c0"
+    ]
+  },
   "ngs-java": {
     "2.9.3": [
       "55513f9b0bda5403e31dec41142447045650e28a2accf3d0dd7e548b301c3a88"
@@ -5184,6 +5544,11 @@
       "51164829a0d7e3eb8210bba41bac18f8e98f8417034aed76d00d66427d460473"
     ]
   },
+  "ognl": {
+    "3.0.6": [
+      "af8dd991238e53f2c642efc0d3ecf2e10c02f327362f00471a9f453b3cec6f63"
+    ]
+  },
   "opencsv": {
     "2.3": [
       "51164829a0d7e3eb8210bba41bac18f8e98f8417034aed76d00d66427d460473"
@@ -5197,6 +5562,11 @@
   "openxml4j": {
     "UNKNOWN": [
       "66fa1e266029df92e91eded0ad326c8a3a5c94ae9e4191a0fd3332d28349b3a6"
+    ]
+  },
+  "org.abego.treelayout.core": {
+    "1.0.3": [
+      "2498694ccc32b2d68121ca40c72c7d10ae94878f82057d2782be1fd1c20c41c0"
     ]
   },
   "org.apache.felix.framework": {
@@ -5214,6 +5584,11 @@
       "66fa1e266029df92e91eded0ad326c8a3a5c94ae9e4191a0fd3332d28349b3a6"
     ]
   },
+  "org.eclipse.jgit": {
+    "7.1.1.202505221757-r": [
+      "2498694ccc32b2d68121ca40c72c7d10ae94878f82057d2782be1fd1c20c41c0"
+    ]
+  },
   "org.eclipse.sisu.inject": {
     "0.3.3": [
       "55513f9b0bda5403e31dec41142447045650e28a2accf3d0dd7e548b301c3a88"
@@ -5222,6 +5597,21 @@
   "org.eclipse.sisu.plexus": {
     "0.3.3": [
       "55513f9b0bda5403e31dec41142447045650e28a2accf3d0dd7e548b301c3a88"
+    ]
+  },
+  "orient-commons": {
+    "1.6.2": [
+      "af8dd991238e53f2c642efc0d3ecf2e10c02f327362f00471a9f453b3cec6f63"
+    ]
+  },
+  "orientdb-core": {
+    "1.6.2": [
+      "af8dd991238e53f2c642efc0d3ecf2e10c02f327362f00471a9f453b3cec6f63"
+    ]
+  },
+  "orientdb-nativeos": {
+    "1.6.2": [
+      "af8dd991238e53f2c642efc0d3ecf2e10c02f327362f00471a9f453b3cec6f63"
     ]
   },
   "oro": {
@@ -5250,6 +5640,16 @@
   "paranamer": {
     "2.3": [
       "51164829a0d7e3eb8210bba41bac18f8e98f8417034aed76d00d66427d460473"
+    ]
+  },
+  "parboiled-core": {
+    "1.1.6": [
+      "af8dd991238e53f2c642efc0d3ecf2e10c02f327362f00471a9f453b3cec6f63"
+    ]
+  },
+  "parboiled-java": {
+    "1.1.6": [
+      "af8dd991238e53f2c642efc0d3ecf2e10c02f327362f00471a9f453b3cec6f63"
     ]
   },
   "parquet-column": {
@@ -5292,6 +5692,11 @@
       "51164829a0d7e3eb8210bba41bac18f8e98f8417034aed76d00d66427d460473"
     ]
   },
+  "parser": {
+    "UNKNOWN": [
+      "af8dd991238e53f2c642efc0d3ecf2e10c02f327362f00471a9f453b3cec6f63"
+    ]
+  },
   "pax": {
     "UNKNOWN": [
       "51164829a0d7e3eb8210bba41bac18f8e98f8417034aed76d00d66427d460473",
@@ -5330,6 +5735,21 @@
   "peer_synchronizer": {
     "2.3.1": [
       "66fa1e266029df92e91eded0ad326c8a3a5c94ae9e4191a0fd3332d28349b3a6"
+    ]
+  },
+  "pegdown": {
+    "1.4.2": [
+      "af8dd991238e53f2c642efc0d3ecf2e10c02f327362f00471a9f453b3cec6f63"
+    ]
+  },
+  "pf4j": {
+    "3.12.0": [
+      "2498694ccc32b2d68121ca40c72c7d10ae94878f82057d2782be1fd1c20c41c0"
+    ]
+  },
+  "pf4j-update": {
+    "2.3.0": [
+      "2498694ccc32b2d68121ca40c72c7d10ae94878f82057d2782be1fd1c20c41c0"
     ]
   },
   "phoenix": {
@@ -5564,6 +5984,9 @@
     ]
   },
   "reflectasm": {
+    "1.09": [
+      "2498694ccc32b2d68121ca40c72c7d10ae94878f82057d2782be1fd1c20c41c0"
+    ],
     "1.10.1": [
       "51164829a0d7e3eb8210bba41bac18f8e98f8417034aed76d00d66427d460473"
     ]
@@ -5624,6 +6047,9 @@
     "1.8.0_282": [
       "82e5fa413d275a72c3de76e400a3d12a93ebdb4e1ef5391d7f7e9ce686671d8d"
     ],
+    "1.8.0_342": [
+      "af8dd991238e53f2c642efc0d3ecf2e10c02f327362f00471a9f453b3cec6f63"
+    ],
     "1.8.0_92": [
       "a15c32f456822ce6e94489aabf081b4b10a91a2322623becabad62170bc98487"
     ]
@@ -5683,6 +6109,9 @@
     ],
     "1.8.0_282": [
       "82e5fa413d275a72c3de76e400a3d12a93ebdb4e1ef5391d7f7e9ce686671d8d"
+    ],
+    "1.8.0_342": [
+      "af8dd991238e53f2c642efc0d3ecf2e10c02f327362f00471a9f453b3cec6f63"
     ],
     "1.8.0_92": [
       "a15c32f456822ce6e94489aabf081b4b10a91a2322623becabad62170bc98487"
@@ -5850,6 +6279,11 @@
       "66fa1e266029df92e91eded0ad326c8a3a5c94ae9e4191a0fd3332d28349b3a6"
     ]
   },
+  "servlet": {
+    "3.0.0.v201112011016": [
+      "af8dd991238e53f2c642efc0d3ecf2e10c02f327362f00471a9f453b3cec6f63"
+    ]
+  },
   "servlet-api": {
     "4.0.1": [
       "33374b086c3ba2baab5b84719253b4b865bbc48d796f98b902ed2d98d7f0a8a4"
@@ -5947,13 +6381,17 @@
     "1.7.25": [
       "55513f9b0bda5403e31dec41142447045650e28a2accf3d0dd7e548b301c3a88"
     ],
+    "1.7.5": [
+      "af8dd991238e53f2c642efc0d3ecf2e10c02f327362f00471a9f453b3cec6f63"
+    ],
     "1.7.7": [
       "da89087ed0d80323f14e30d287457d7d8a953855b270c733f8955d7067551ff1"
     ],
     "2.0.17": [
       "4941a5f9e950f0894d09c58eef7e6171e06c78c2e194e3f440d2d64e4e8cee12",
       "1c2f5e395f0b265ea9771f763ab438242bd5d35b74f001f6e4b4c71b084e73cf",
-      "d2b27942e5e174a45e7ad6b4851e2084022af4bee6a3037447941120e61d7e06"
+      "d2b27942e5e174a45e7ad6b4851e2084022af4bee6a3037447941120e61d7e06",
+      "2498694ccc32b2d68121ca40c72c7d10ae94878f82057d2782be1fd1c20c41c0"
     ]
   },
   "slf4j-jcl": {
@@ -6024,13 +6462,22 @@
     ]
   },
   "snakeyaml": {
+    "1.11": [
+      "af8dd991238e53f2c642efc0d3ecf2e10c02f327362f00471a9f453b3cec6f63"
+    ],
     "1.12": [
       "da89087ed0d80323f14e30d287457d7d8a953855b270c733f8955d7067551ff1"
+    ],
+    "2.4": [
+      "2498694ccc32b2d68121ca40c72c7d10ae94878f82057d2782be1fd1c20c41c0"
     ]
   },
   "snappy": {
     "0.2": [
       "51164829a0d7e3eb8210bba41bac18f8e98f8417034aed76d00d66427d460473"
+    ],
+    "0.3": [
+      "af8dd991238e53f2c642efc0d3ecf2e10c02f327362f00471a9f453b3cec6f63"
     ]
   },
   "snappy-java": {
@@ -6207,6 +6654,9 @@
   "stax2-api": {
     "3.1.4": [
       "b42b97e08804772c6f778a10714ddfb0664c31468ae2a969c6f453f07c1f86b1"
+    ],
+    "4.2.2": [
+      "2498694ccc32b2d68121ca40c72c7d10ae94878f82057d2782be1fd1c20c41c0"
     ]
   },
   "staxmate": {
@@ -6265,6 +6715,9 @@
     "1.8.0_282": [
       "82e5fa413d275a72c3de76e400a3d12a93ebdb4e1ef5391d7f7e9ce686671d8d"
     ],
+    "1.8.0_342": [
+      "af8dd991238e53f2c642efc0d3ecf2e10c02f327362f00471a9f453b3cec6f63"
+    ],
     "1.8.0_92": [
       "a15c32f456822ce6e94489aabf081b4b10a91a2322623becabad62170bc98487"
     ]
@@ -6299,6 +6752,9 @@
     "1.8.0_282": [
       "82e5fa413d275a72c3de76e400a3d12a93ebdb4e1ef5391d7f7e9ce686671d8d"
     ],
+    "1.8.0_342": [
+      "af8dd991238e53f2c642efc0d3ecf2e10c02f327362f00471a9f453b3cec6f63"
+    ],
     "1.8.0_92": [
       "a15c32f456822ce6e94489aabf081b4b10a91a2322623becabad62170bc98487"
     ]
@@ -6332,6 +6788,9 @@
     ],
     "1.8.0_282": [
       "82e5fa413d275a72c3de76e400a3d12a93ebdb4e1ef5391d7f7e9ce686671d8d"
+    ],
+    "1.8.0_342": [
+      "af8dd991238e53f2c642efc0d3ecf2e10c02f327362f00471a9f453b3cec6f63"
     ],
     "1.8.0_92": [
       "a15c32f456822ce6e94489aabf081b4b10a91a2322623becabad62170bc98487"
@@ -6411,6 +6870,11 @@
       "4941a5f9e950f0894d09c58eef7e6171e06c78c2e194e3f440d2d64e4e8cee12",
       "1c2f5e395f0b265ea9771f763ab438242bd5d35b74f001f6e4b4c71b084e73cf",
       "d2b27942e5e174a45e7ad6b4851e2084022af4bee6a3037447941120e61d7e06"
+    ]
+  },
+  "thymeleaf": {
+    "2.1.3.RELEASE": [
+      "af8dd991238e53f2c642efc0d3ecf2e10c02f327362f00471a9f453b3cec6f63"
     ]
   },
   "tiger-types": {
@@ -6546,6 +7010,11 @@
   "ugahp": {
     "UNKNOWN": [
       "a15c32f456822ce6e94489aabf081b4b10a91a2322623becabad62170bc98487"
+    ]
+  },
+  "unbescape": {
+    "1.0": [
+      "af8dd991238e53f2c642efc0d3ecf2e10c02f327362f00471a9f453b3cec6f63"
     ]
   },
   "universal_login_framework_res": {
@@ -6728,6 +7197,9 @@
   "woodstox-core": {
     "5.0.1": [
       "b42b97e08804772c6f778a10714ddfb0664c31468ae2a969c6f453f07c1f86b1"
+    ],
+    "7.1.1": [
+      "2498694ccc32b2d68121ca40c72c7d10ae94878f82057d2782be1fd1c20c41c0"
     ]
   },
   "worker_config_management": {
@@ -6937,6 +7409,9 @@
   "xsdlib": {
     "2009.1": [
       "da89087ed0d80323f14e30d287457d7d8a953855b270c733f8955d7067551ff1"
+    ],
+    "2022.7": [
+      "2498694ccc32b2d68121ca40c72c7d10ae94878f82057d2782be1fd1c20c41c0"
     ]
   },
   "xsom": {
@@ -6992,6 +7467,9 @@
     ],
     "1.8.0_282": [
       "82e5fa413d275a72c3de76e400a3d12a93ebdb4e1ef5391d7f7e9ce686671d8d"
+    ],
+    "1.8.0_342": [
+      "af8dd991238e53f2c642efc0d3ecf2e10c02f327362f00471a9f453b3cec6f63"
     ],
     "1.8.0_92": [
       "a15c32f456822ce6e94489aabf081b4b10a91a2322623becabad62170bc98487"

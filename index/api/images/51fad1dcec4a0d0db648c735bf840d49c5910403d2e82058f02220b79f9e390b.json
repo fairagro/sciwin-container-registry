@@ -1,11 +1,7 @@
 {
   "architecture": "amd64",
   "digest": "51fad1dcec4a0d0db648c735bf840d49c5910403d2e82058f02220b79f9e390b",
-  "entrypoint": [
-    "tini",
-    "-g",
-    "--"
-  ],
+  "entrypoint": null,
   "os": "linux",
   "packages": [
     {

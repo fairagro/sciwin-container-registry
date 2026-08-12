@@ -1,9 +1,7 @@
 {
   "architecture": "amd64",
   "digest": "6c1b22e8cfb1098894efc123c2237fee7009bfb21c3f6737d834bced7625ade1",
-  "entrypoint": [
-    "pythia"
-  ],
+  "entrypoint": null,
   "os": "linux",
   "packages": [
     {
