@@ -30,6 +30,13 @@ outputs:
   type: File?
   outputBinding:
     glob: $(inputs.digest.split(":")[1]).json
+    outputEval: |
+      ${
+        if (self.length === 0 || self[0].size === 0) {
+          return null;
+        }
+        return self[0];
+      }
 stdout: $(inputs.digest.split(":")[1]).json
 
 successCodes:
