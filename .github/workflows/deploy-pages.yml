@@ -41,7 +41,7 @@ jobs:
             - run: |
                   mkdir -p _site
                   cp -r web/dist/. _site/
-                  cp -r api/. _site/api/
+                  cp -r index/api/. _site/api/
             - uses: actions/upload-pages-artifact@v3
               with:
                   path: _site
