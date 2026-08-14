@@ -5,6 +5,11 @@
       "69112392bb4c86187591c4890c62d989fa57afe16029a685616893450be64b85"
     ]
   },
+  "cdr.dev/slog": {
+    "v1.3.0": [
+      "58efb85b70e969c53cadca25ffd115b5d4785f1c32f06ae4e149e161479599f2"
+    ]
+  },
   "charm.land/bubbles/v2": {
     "v2.1.1": [
       "194a7fa006bd2f75af4193a32fc0b97456d307ce9502de9e5a3a86601e9deac8",
@@ -67,6 +72,11 @@
       "d2c2fdb89df373750af387c96465b34a4aa77e26c278dc4f384a67ee9a8affcf",
       "51fad1dcec4a0d0db648c735bf840d49c5910403d2e82058f02220b79f9e390b",
       "314bb6b672589b2ca153d5bdf1bf1d1eca7581040e27d5d9c66d0c81776dd1c1"
+    ]
+  },
+  "github.com/BurntSushi/toml": {
+    "v0.3.1": [
+      "58efb85b70e969c53cadca25ffd115b5d4785f1c32f06ae4e149e161479599f2"
     ]
   },
   "github.com/GehirnInc/crypt": {
@@ -142,6 +152,11 @@
     "v0.0.0-20170116200512-5312a6153412": [
       "2aa900f1a937d61a3ebd03596b6fe79a0063fc1ff6132bac4454998528498d3d",
       "fb21a5f5ad8b2f8e9a451a08a5d13cc06a67456a5fff44ccce0708b1de1e2339"
+    ]
+  },
+  "github.com/alecthomas/chroma": {
+    "v0.7.0": [
+      "58efb85b70e969c53cadca25ffd115b5d4785f1c32f06ae4e149e161479599f2"
     ]
   },
   "github.com/alecthomas/chroma/v2": {
@@ -330,6 +345,11 @@
       "314bb6b672589b2ca153d5bdf1bf1d1eca7581040e27d5d9c66d0c81776dd1c1",
       "2aa900f1a937d61a3ebd03596b6fe79a0063fc1ff6132bac4454998528498d3d",
       "fb21a5f5ad8b2f8e9a451a08a5d13cc06a67456a5fff44ccce0708b1de1e2339"
+    ]
+  },
+  "github.com/boxboat/fixuid": {
+    "UNKNOWN": [
+      "58efb85b70e969c53cadca25ffd115b5d4785f1c32f06ae4e149e161479599f2"
     ]
   },
   "github.com/briandowns/spinner": {
@@ -787,6 +807,11 @@
       "fb21a5f5ad8b2f8e9a451a08a5d13cc06a67456a5fff44ccce0708b1de1e2339"
     ]
   },
+  "github.com/danwakefield/fnmatch": {
+    "v0.0.0-20160403171240-cbb64ac3d964": [
+      "58efb85b70e969c53cadca25ffd115b5d4785f1c32f06ae4e149e161479599f2"
+    ]
+  },
   "github.com/davecgh/go-spew": {
     "v1.1.1": [
       "2aa900f1a937d61a3ebd03596b6fe79a0063fc1ff6132bac4454998528498d3d",
@@ -835,6 +860,9 @@
       "d2c2fdb89df373750af387c96465b34a4aa77e26c278dc4f384a67ee9a8affcf",
       "51fad1dcec4a0d0db648c735bf840d49c5910403d2e82058f02220b79f9e390b",
       "314bb6b672589b2ca153d5bdf1bf1d1eca7581040e27d5d9c66d0c81776dd1c1"
+    ],
+    "v1.2.0": [
+      "58efb85b70e969c53cadca25ffd115b5d4785f1c32f06ae4e149e161479599f2"
     ]
   },
   "github.com/docker/buildx": {
@@ -986,7 +1014,8 @@
     ],
     "v1.7.0": [
       "2aa900f1a937d61a3ebd03596b6fe79a0063fc1ff6132bac4454998528498d3d",
-      "fb21a5f5ad8b2f8e9a451a08a5d13cc06a67456a5fff44ccce0708b1de1e2339"
+      "fb21a5f5ad8b2f8e9a451a08a5d13cc06a67456a5fff44ccce0708b1de1e2339",
+      "58efb85b70e969c53cadca25ffd115b5d4785f1c32f06ae4e149e161479599f2"
     ]
   },
   "github.com/fatih/structs": {
@@ -1305,6 +1334,11 @@
       "314bb6b672589b2ca153d5bdf1bf1d1eca7581040e27d5d9c66d0c81776dd1c1"
     ]
   },
+  "github.com/go-ozzo/ozzo-config": {
+    "v0.0.0-20160627170238-0ff174cf5aa6": [
+      "58efb85b70e969c53cadca25ffd115b5d4785f1c32f06ae4e149e161479599f2"
+    ]
+  },
   "github.com/go-viper/mapstructure/v2": {
     "v2.5.0": [
       "194a7fa006bd2f75af4193a32fc0b97456d307ce9502de9e5a3a86601e9deac8",
@@ -1368,6 +1402,9 @@
     ]
   },
   "github.com/golang/groupcache": {
+    "v0.0.0-20191027212112-611e8accdfc9": [
+      "58efb85b70e969c53cadca25ffd115b5d4785f1c32f06ae4e149e161479599f2"
+    ],
     "v0.0.0-20210331224755-41bb18bfe9da": [
       "2aa900f1a937d61a3ebd03596b6fe79a0063fc1ff6132bac4454998528498d3d",
       "fb21a5f5ad8b2f8e9a451a08a5d13cc06a67456a5fff44ccce0708b1de1e2339"
@@ -1559,6 +1596,11 @@
       "fb21a5f5ad8b2f8e9a451a08a5d13cc06a67456a5fff44ccce0708b1de1e2339"
     ]
   },
+  "github.com/hashicorp/yamux": {
+    "v0.0.0-20200609203250-aecfd211c9ce": [
+      "58efb85b70e969c53cadca25ffd115b5d4785f1c32f06ae4e149e161479599f2"
+    ]
+  },
   "github.com/hdevalence/ed25519consensus": {
     "v0.0.0-20220222234857-c00d1f31bab3": [
       "2aa900f1a937d61a3ebd03596b6fe79a0063fc1ff6132bac4454998528498d3d",
@@ -1571,6 +1613,11 @@
       "d2c2fdb89df373750af387c96465b34a4aa77e26c278dc4f384a67ee9a8affcf",
       "51fad1dcec4a0d0db648c735bf840d49c5910403d2e82058f02220b79f9e390b",
       "314bb6b672589b2ca153d5bdf1bf1d1eca7581040e27d5d9c66d0c81776dd1c1"
+    ]
+  },
+  "github.com/hnakamur/jsonpreprocess": {
+    "v0.0.0-20171017030034-a4e954386171": [
+      "58efb85b70e969c53cadca25ffd115b5d4785f1c32f06ae4e149e161479599f2"
     ]
   },
   "github.com/huandu/xstrings": {
@@ -1696,6 +1743,9 @@
     ]
   },
   "github.com/klauspost/compress": {
+    "v1.10.3": [
+      "58efb85b70e969c53cadca25ffd115b5d4785f1c32f06ae4e149e161479599f2"
+    ],
     "v1.15.5": [
       "2aa900f1a937d61a3ebd03596b6fe79a0063fc1ff6132bac4454998528498d3d",
       "fb21a5f5ad8b2f8e9a451a08a5d13cc06a67456a5fff44ccce0708b1de1e2339"
@@ -1814,6 +1864,9 @@
     "v0.1.2": [
       "2aa900f1a937d61a3ebd03596b6fe79a0063fc1ff6132bac4454998528498d3d",
       "fb21a5f5ad8b2f8e9a451a08a5d13cc06a67456a5fff44ccce0708b1de1e2339"
+    ],
+    "v0.1.7": [
+      "58efb85b70e969c53cadca25ffd115b5d4785f1c32f06ae4e149e161479599f2"
     ]
   },
   "github.com/mattn/go-ieproxy": {
@@ -1823,6 +1876,9 @@
     ]
   },
   "github.com/mattn/go-isatty": {
+    "v0.0.12": [
+      "58efb85b70e969c53cadca25ffd115b5d4785f1c32f06ae4e149e161479599f2"
+    ],
     "v0.0.20": [
       "4421ea7d63b408f6893d368e3ea0f3738efa5997ae9bd26e572c654fe31dfbe5",
       "69112392bb4c86187591c4890c62d989fa57afe16029a685616893450be64b85"
@@ -2270,6 +2326,11 @@
       "69112392bb4c86187591c4890c62d989fa57afe16029a685616893450be64b85"
     ]
   },
+  "github.com/pkg/browser": {
+    "v0.0.0-20180916011732-0a3d74bf9ce4": [
+      "58efb85b70e969c53cadca25ffd115b5d4785f1c32f06ae4e149e161479599f2"
+    ]
+  },
   "github.com/pkg/errors": {
     "v0.0.0-20170505043639-c605e284fe17": [
       "0c84435e74d417c4a322c1d89cc0d504781f3cd4e5f30d278b61f2c728dc44c0",
@@ -2650,7 +2711,8 @@
     ],
     "v1.0.5": [
       "2aa900f1a937d61a3ebd03596b6fe79a0063fc1ff6132bac4454998528498d3d",
-      "fb21a5f5ad8b2f8e9a451a08a5d13cc06a67456a5fff44ccce0708b1de1e2339"
+      "fb21a5f5ad8b2f8e9a451a08a5d13cc06a67456a5fff44ccce0708b1de1e2339",
+      "58efb85b70e969c53cadca25ffd115b5d4785f1c32f06ae4e149e161479599f2"
     ]
   },
   "github.com/spf13/viper": {
@@ -2957,6 +3019,21 @@
       "fb21a5f5ad8b2f8e9a451a08a5d13cc06a67456a5fff44ccce0708b1de1e2339"
     ]
   },
+  "go.coder.com/cli": {
+    "v0.4.0": [
+      "58efb85b70e969c53cadca25ffd115b5d4785f1c32f06ae4e149e161479599f2"
+    ]
+  },
+  "go.coder.com/cloud-agent": {
+    "UNKNOWN": [
+      "58efb85b70e969c53cadca25ffd115b5d4785f1c32f06ae4e149e161479599f2"
+    ]
+  },
+  "go.coder.com/flog": {
+    "v0.0.0-20200908145530-d7adc3802a47": [
+      "58efb85b70e969c53cadca25ffd115b5d4785f1c32f06ae4e149e161479599f2"
+    ]
+  },
   "go.etcd.io/bbolt": {
     "v1.3.6": [
       "2aa900f1a937d61a3ebd03596b6fe79a0063fc1ff6132bac4454998528498d3d",
@@ -2985,6 +3062,11 @@
     "v0.0.0-20200128120323-432b2356ecb1": [
       "2aa900f1a937d61a3ebd03596b6fe79a0063fc1ff6132bac4454998528498d3d",
       "fb21a5f5ad8b2f8e9a451a08a5d13cc06a67456a5fff44ccce0708b1de1e2339"
+    ]
+  },
+  "go.opencensus.io": {
+    "v0.22.2": [
+      "58efb85b70e969c53cadca25ffd115b5d4785f1c32f06ae4e149e161479599f2"
     ]
   },
   "go.opentelemetry.io/auto/sdk": {
@@ -3124,6 +3206,9 @@
     ]
   },
   "golang.org/x/crypto": {
+    "v0.0.0-20191206172530-e9b2fee46413": [
+      "58efb85b70e969c53cadca25ffd115b5d4785f1c32f06ae4e149e161479599f2"
+    ],
     "v0.0.0-20220518034528-6f7dac969898": [
       "2aa900f1a937d61a3ebd03596b6fe79a0063fc1ff6132bac4454998528498d3d",
       "fb21a5f5ad8b2f8e9a451a08a5d13cc06a67456a5fff44ccce0708b1de1e2339"
@@ -3213,6 +3298,9 @@
     ]
   },
   "golang.org/x/sys": {
+    "v0.0.0-20200223170610-d5e6a3e2c0ae": [
+      "58efb85b70e969c53cadca25ffd115b5d4785f1c32f06ae4e149e161479599f2"
+    ],
     "v0.0.0-20200922070232-aee5d888a860": [
       "0c84435e74d417c4a322c1d89cc0d504781f3cd4e5f30d278b61f2c728dc44c0"
     ],
@@ -3306,6 +3394,11 @@
       "fb21a5f5ad8b2f8e9a451a08a5d13cc06a67456a5fff44ccce0708b1de1e2339"
     ]
   },
+  "golang.org/x/xerrors": {
+    "v0.0.0-20200804184101-5ec99f83aff1": [
+      "58efb85b70e969c53cadca25ffd115b5d4785f1c32f06ae4e149e161479599f2"
+    ]
+  },
   "golang.zx2c4.com/wireguard": {
     "v0.0.0-20220904105730-b51010ba13f0": [
       "2aa900f1a937d61a3ebd03596b6fe79a0063fc1ff6132bac4454998528498d3d",
@@ -3396,6 +3489,9 @@
     ]
   },
   "gopkg.in/yaml.v2": {
+    "v2.2.1": [
+      "58efb85b70e969c53cadca25ffd115b5d4785f1c32f06ae4e149e161479599f2"
+    ],
     "v2.4.0": [
       "4421ea7d63b408f6893d368e3ea0f3738efa5997ae9bd26e572c654fe31dfbe5",
       "5dce84d9d79eaa937c1478455915c09bf27c159a10b90f2a5968cfd604f7b8d3",
@@ -3490,6 +3586,9 @@
     ]
   },
   "nhooyr.io/websocket": {
+    "v1.8.6": [
+      "58efb85b70e969c53cadca25ffd115b5d4785f1c32f06ae4e149e161479599f2"
+    ],
     "v1.8.7": [
       "2aa900f1a937d61a3ebd03596b6fe79a0063fc1ff6132bac4454998528498d3d",
       "fb21a5f5ad8b2f8e9a451a08a5d13cc06a67456a5fff44ccce0708b1de1e2339"
@@ -3510,6 +3609,9 @@
   "stdlib": {
     "go1.14.13": [
       "0c84435e74d417c4a322c1d89cc0d504781f3cd4e5f30d278b61f2c728dc44c0"
+    ],
+    "go1.16.4": [
+      "58efb85b70e969c53cadca25ffd115b5d4785f1c32f06ae4e149e161479599f2"
     ],
     "go1.19.2-ts3fd24dee31": [
       "2aa900f1a937d61a3ebd03596b6fe79a0063fc1ff6132bac4454998528498d3d",

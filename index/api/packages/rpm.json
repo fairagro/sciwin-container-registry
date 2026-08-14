@@ -1,4 +1,9 @@
 {
+  "acl": {
+    "2.3.1-3.el9": [
+      "8bd5e6fad3a0c3e8009edab4217662b8c5b56bc11a8d2305f3b707509299dd71"
+    ]
+  },
   "alsa-lib": {
     "1.2.7.2-1.amzn2023.0.3": [
       "2498694ccc32b2d68121ca40c72c7d10ae94878f82057d2782be1fd1c20c41c0"
@@ -7,6 +12,9 @@
   "alternatives": {
     "1.15-2.amzn2023.0.2": [
       "2498694ccc32b2d68121ca40c72c7d10ae94878f82057d2782be1fd1c20c41c0"
+    ],
+    "1.24-1.0.1.el9": [
+      "8bd5e6fad3a0c3e8009edab4217662b8c5b56bc11a8d2305f3b707509299dd71"
     ]
   },
   "amazon-linux-repo-cdn": {
@@ -15,6 +23,9 @@
     ]
   },
   "audit-libs": {
+    "3.0.7-104.el9": [
+      "8bd5e6fad3a0c3e8009edab4217662b8c5b56bc11a8d2305f3b707509299dd71"
+    ],
     "3.1.5-1.amzn2023.0.2": [
       "2498694ccc32b2d68121ca40c72c7d10ae94878f82057d2782be1fd1c20c41c0"
     ]
@@ -22,9 +33,15 @@
   "basesystem": {
     "11-11.amzn2023.0.2": [
       "2498694ccc32b2d68121ca40c72c7d10ae94878f82057d2782be1fd1c20c41c0"
+    ],
+    "11-13.el9": [
+      "8bd5e6fad3a0c3e8009edab4217662b8c5b56bc11a8d2305f3b707509299dd71"
     ]
   },
   "bash": {
+    "5.1.8-6.el9_1": [
+      "8bd5e6fad3a0c3e8009edab4217662b8c5b56bc11a8d2305f3b707509299dd71"
+    ],
     "5.2.15-1.amzn2023.0.2": [
       "2498694ccc32b2d68121ca40c72c7d10ae94878f82057d2782be1fd1c20c41c0"
     ]
@@ -32,9 +49,15 @@
   "bzip2-libs": {
     "1.0.8-6.amzn2023.0.2": [
       "2498694ccc32b2d68121ca40c72c7d10ae94878f82057d2782be1fd1c20c41c0"
+    ],
+    "1.0.8-8.el9": [
+      "8bd5e6fad3a0c3e8009edab4217662b8c5b56bc11a8d2305f3b707509299dd71"
     ]
   },
   "ca-certificates": {
+    "2023.2.60_v7.0.306-90.1.el9_2": [
+      "8bd5e6fad3a0c3e8009edab4217662b8c5b56bc11a8d2305f3b707509299dd71"
+    ],
     "2025.2.76-1.0.amzn2023.0.3": [
       "2498694ccc32b2d68121ca40c72c7d10ae94878f82057d2782be1fd1c20c41c0"
     ]
@@ -47,6 +70,19 @@
   "chkconfig": {
     "1.15-2.amzn2023.0.2": [
       "2498694ccc32b2d68121ca40c72c7d10ae94878f82057d2782be1fd1c20c41c0"
+    ],
+    "1.24-1.0.1.el9": [
+      "8bd5e6fad3a0c3e8009edab4217662b8c5b56bc11a8d2305f3b707509299dd71"
+    ]
+  },
+  "coreutils": {
+    "8.32-34.0.1.el9": [
+      "8bd5e6fad3a0c3e8009edab4217662b8c5b56bc11a8d2305f3b707509299dd71"
+    ]
+  },
+  "coreutils-common": {
+    "8.32-34.0.1.el9": [
+      "8bd5e6fad3a0c3e8009edab4217662b8c5b56bc11a8d2305f3b707509299dd71"
     ]
   },
   "coreutils-single": {
@@ -54,14 +90,57 @@
       "2498694ccc32b2d68121ca40c72c7d10ae94878f82057d2782be1fd1c20c41c0"
     ]
   },
+  "cracklib": {
+    "2.9.6-27.el9": [
+      "8bd5e6fad3a0c3e8009edab4217662b8c5b56bc11a8d2305f3b707509299dd71"
+    ]
+  },
+  "cracklib-dicts": {
+    "2.9.6-27.el9": [
+      "8bd5e6fad3a0c3e8009edab4217662b8c5b56bc11a8d2305f3b707509299dd71"
+    ]
+  },
   "crypto-policies": {
+    "20230731-1.git94f0e2c.el9": [
+      "8bd5e6fad3a0c3e8009edab4217662b8c5b56bc11a8d2305f3b707509299dd71"
+    ],
     "20260224-1.gitea0f072.amzn2023.0.4": [
       "2498694ccc32b2d68121ca40c72c7d10ae94878f82057d2782be1fd1c20c41c0"
+    ]
+  },
+  "curl": {
+    "7.76.1-26.el9_3.2": [
+      "8bd5e6fad3a0c3e8009edab4217662b8c5b56bc11a8d2305f3b707509299dd71"
     ]
   },
   "curl-minimal": {
     "8.17.0-1.amzn2023.0.3": [
       "2498694ccc32b2d68121ca40c72c7d10ae94878f82057d2782be1fd1c20c41c0"
+    ]
+  },
+  "cyrus-sasl-lib": {
+    "2.1.27-21.el9": [
+      "8bd5e6fad3a0c3e8009edab4217662b8c5b56bc11a8d2305f3b707509299dd71"
+    ]
+  },
+  "dbus": {
+    "1:1.12.20-8.0.1.el9": [
+      "8bd5e6fad3a0c3e8009edab4217662b8c5b56bc11a8d2305f3b707509299dd71"
+    ]
+  },
+  "dbus-broker": {
+    "28-7.el9": [
+      "8bd5e6fad3a0c3e8009edab4217662b8c5b56bc11a8d2305f3b707509299dd71"
+    ]
+  },
+  "dbus-common": {
+    "1:1.12.20-8.0.1.el9": [
+      "8bd5e6fad3a0c3e8009edab4217662b8c5b56bc11a8d2305f3b707509299dd71"
+    ]
+  },
+  "dbus-libs": {
+    "1:1.12.20-8.0.1.el9": [
+      "8bd5e6fad3a0c3e8009edab4217662b8c5b56bc11a8d2305f3b707509299dd71"
     ]
   },
   "dejavu-sans-fonts": {
@@ -79,37 +158,78 @@
       "2498694ccc32b2d68121ca40c72c7d10ae94878f82057d2782be1fd1c20c41c0"
     ]
   },
+  "dhcp-client": {
+    "12:4.4.2-19.b1.el9": [
+      "8bd5e6fad3a0c3e8009edab4217662b8c5b56bc11a8d2305f3b707509299dd71"
+    ]
+  },
+  "dhcp-common": {
+    "12:4.4.2-19.b1.el9": [
+      "8bd5e6fad3a0c3e8009edab4217662b8c5b56bc11a8d2305f3b707509299dd71"
+    ]
+  },
+  "diffutils": {
+    "3.7-12.el9": [
+      "8bd5e6fad3a0c3e8009edab4217662b8c5b56bc11a8d2305f3b707509299dd71"
+    ]
+  },
   "dnf": {
     "4.14.0-1.amzn2023.0.7": [
       "2498694ccc32b2d68121ca40c72c7d10ae94878f82057d2782be1fd1c20c41c0"
+    ],
+    "4.14.0-8.0.1.el9": [
+      "8bd5e6fad3a0c3e8009edab4217662b8c5b56bc11a8d2305f3b707509299dd71"
     ]
   },
   "dnf-data": {
     "4.14.0-1.amzn2023.0.7": [
       "2498694ccc32b2d68121ca40c72c7d10ae94878f82057d2782be1fd1c20c41c0"
+    ],
+    "4.14.0-8.0.1.el9": [
+      "8bd5e6fad3a0c3e8009edab4217662b8c5b56bc11a8d2305f3b707509299dd71"
+    ]
+  },
+  "dnf-plugins-core": {
+    "4.3.0-11.0.1.el9_3": [
+      "8bd5e6fad3a0c3e8009edab4217662b8c5b56bc11a8d2305f3b707509299dd71"
     ]
   },
   "elfutils-default-yama-scope": {
     "0.188-3.amzn2023.0.3": [
       "2498694ccc32b2d68121ca40c72c7d10ae94878f82057d2782be1fd1c20c41c0"
+    ],
+    "0.189-3.el9": [
+      "8bd5e6fad3a0c3e8009edab4217662b8c5b56bc11a8d2305f3b707509299dd71"
     ]
   },
   "elfutils-libelf": {
     "0.188-3.amzn2023.0.3": [
       "2498694ccc32b2d68121ca40c72c7d10ae94878f82057d2782be1fd1c20c41c0"
+    ],
+    "0.189-3.el9": [
+      "8bd5e6fad3a0c3e8009edab4217662b8c5b56bc11a8d2305f3b707509299dd71"
     ]
   },
   "elfutils-libs": {
     "0.188-3.amzn2023.0.3": [
       "2498694ccc32b2d68121ca40c72c7d10ae94878f82057d2782be1fd1c20c41c0"
+    ],
+    "0.189-3.el9": [
+      "8bd5e6fad3a0c3e8009edab4217662b8c5b56bc11a8d2305f3b707509299dd71"
     ]
   },
   "expat": {
+    "2.5.0-1.el9": [
+      "8bd5e6fad3a0c3e8009edab4217662b8c5b56bc11a8d2305f3b707509299dd71"
+    ],
     "2.6.3-1.amzn2023.0.6": [
       "2498694ccc32b2d68121ca40c72c7d10ae94878f82057d2782be1fd1c20c41c0"
     ]
   },
   "file-libs": {
+    "5.39-14.el9": [
+      "8bd5e6fad3a0c3e8009edab4217662b8c5b56bc11a8d2305f3b707509299dd71"
+    ],
     "5.39-7.amzn2023.0.4": [
       "2498694ccc32b2d68121ca40c72c7d10ae94878f82057d2782be1fd1c20c41c0"
     ]
@@ -117,6 +237,14 @@
   "filesystem": {
     "3.14-5.amzn2023.0.3": [
       "2498694ccc32b2d68121ca40c72c7d10ae94878f82057d2782be1fd1c20c41c0"
+    ],
+    "3.16-2.el9": [
+      "8bd5e6fad3a0c3e8009edab4217662b8c5b56bc11a8d2305f3b707509299dd71"
+    ]
+  },
+  "findutils": {
+    "1:4.8.0-6.el9": [
+      "8bd5e6fad3a0c3e8009edab4217662b8c5b56bc11a8d2305f3b707509299dd71"
     ]
   },
   "fontconfig": {
@@ -137,11 +265,17 @@
   "gawk": {
     "5.1.0-3.amzn2023.0.3": [
       "2498694ccc32b2d68121ca40c72c7d10ae94878f82057d2782be1fd1c20c41c0"
+    ],
+    "5.1.0-6.el9": [
+      "8bd5e6fad3a0c3e8009edab4217662b8c5b56bc11a8d2305f3b707509299dd71"
     ]
   },
   "gdbm-libs": {
     "1:1.19-2.amzn2023.0.2": [
       "2498694ccc32b2d68121ca40c72c7d10ae94878f82057d2782be1fd1c20c41c0"
+    ],
+    "1:1.19-4.el9": [
+      "8bd5e6fad3a0c3e8009edab4217662b8c5b56bc11a8d2305f3b707509299dd71"
     ]
   },
   "giflib": {
@@ -150,6 +284,9 @@
     ]
   },
   "glib2": {
+    "2.68.4-11.el9": [
+      "8bd5e6fad3a0c3e8009edab4217662b8c5b56bc11a8d2305f3b707509299dd71"
+    ],
     "2.82.2-769.amzn2023": [
       "2498694ccc32b2d68121ca40c72c7d10ae94878f82057d2782be1fd1c20c41c0"
     ]
@@ -157,11 +294,22 @@
   "glibc": {
     "2.34-231.amzn2023.0.4": [
       "2498694ccc32b2d68121ca40c72c7d10ae94878f82057d2782be1fd1c20c41c0"
+    ],
+    "2.34-83.0.1.el9_3.7": [
+      "8bd5e6fad3a0c3e8009edab4217662b8c5b56bc11a8d2305f3b707509299dd71"
     ]
   },
   "glibc-common": {
     "2.34-231.amzn2023.0.4": [
       "2498694ccc32b2d68121ca40c72c7d10ae94878f82057d2782be1fd1c20c41c0"
+    ],
+    "2.34-83.0.1.el9_3.7": [
+      "8bd5e6fad3a0c3e8009edab4217662b8c5b56bc11a8d2305f3b707509299dd71"
+    ]
+  },
+  "glibc-langpack-en": {
+    "2.34-83.0.1.el9_3.7": [
+      "8bd5e6fad3a0c3e8009edab4217662b8c5b56bc11a8d2305f3b707509299dd71"
     ]
   },
   "glibc-minimal-langpack": {
@@ -170,13 +318,26 @@
     ]
   },
   "gmp": {
+    "1:6.2.0-13.el9": [
+      "8bd5e6fad3a0c3e8009edab4217662b8c5b56bc11a8d2305f3b707509299dd71"
+    ],
     "1:6.2.1-2.amzn2023.0.2": [
       "2498694ccc32b2d68121ca40c72c7d10ae94878f82057d2782be1fd1c20c41c0"
+    ]
+  },
+  "gnupg2": {
+    "2.3.3-4.el9": [
+      "8bd5e6fad3a0c3e8009edab4217662b8c5b56bc11a8d2305f3b707509299dd71"
     ]
   },
   "gnupg2-minimal": {
     "2.3.7-1.amzn2023.0.9": [
       "2498694ccc32b2d68121ca40c72c7d10ae94878f82057d2782be1fd1c20c41c0"
+    ]
+  },
+  "gnutls": {
+    "3.7.6-23.el9": [
+      "8bd5e6fad3a0c3e8009edab4217662b8c5b56bc11a8d2305f3b707509299dd71"
     ]
   },
   "google-noto-fonts-common": {
@@ -190,11 +351,17 @@
     ]
   },
   "gpg-pubkey": {
+    "8d8b756f-629e59ec": [
+      "8bd5e6fad3a0c3e8009edab4217662b8c5b56bc11a8d2305f3b707509299dd71"
+    ],
     "d832c631-6515c85e": [
       "2498694ccc32b2d68121ca40c72c7d10ae94878f82057d2782be1fd1c20c41c0"
     ]
   },
   "gpgme": {
+    "1.15.1-6.el9": [
+      "8bd5e6fad3a0c3e8009edab4217662b8c5b56bc11a8d2305f3b707509299dd71"
+    ],
     "1.23.2-182.amzn2023.0.1": [
       "2498694ccc32b2d68121ca40c72c7d10ae94878f82057d2782be1fd1c20c41c0"
     ]
@@ -205,13 +372,61 @@
     ]
   },
   "grep": {
+    "3.6-5.el9": [
+      "8bd5e6fad3a0c3e8009edab4217662b8c5b56bc11a8d2305f3b707509299dd71"
+    ],
     "3.8-1.amzn2023.0.4": [
       "2498694ccc32b2d68121ca40c72c7d10ae94878f82057d2782be1fd1c20c41c0"
+    ]
+  },
+  "gzip": {
+    "1.12-1.el9": [
+      "8bd5e6fad3a0c3e8009edab4217662b8c5b56bc11a8d2305f3b707509299dd71"
     ]
   },
   "harfbuzz": {
     "7.0.0-2.amzn2023.0.2": [
       "2498694ccc32b2d68121ca40c72c7d10ae94878f82057d2782be1fd1c20c41c0"
+    ]
+  },
+  "hostname": {
+    "3.23-6.el9": [
+      "8bd5e6fad3a0c3e8009edab4217662b8c5b56bc11a8d2305f3b707509299dd71"
+    ]
+  },
+  "ima-evm-utils": {
+    "1.4-4.el9": [
+      "8bd5e6fad3a0c3e8009edab4217662b8c5b56bc11a8d2305f3b707509299dd71"
+    ]
+  },
+  "initscripts": {
+    "10.11.5-1.el9": [
+      "8bd5e6fad3a0c3e8009edab4217662b8c5b56bc11a8d2305f3b707509299dd71"
+    ]
+  },
+  "initscripts-rename-device": {
+    "10.11.5-1.el9": [
+      "8bd5e6fad3a0c3e8009edab4217662b8c5b56bc11a8d2305f3b707509299dd71"
+    ]
+  },
+  "initscripts-service": {
+    "10.11.5-1.el9": [
+      "8bd5e6fad3a0c3e8009edab4217662b8c5b56bc11a8d2305f3b707509299dd71"
+    ]
+  },
+  "ipcalc": {
+    "1.0.0-5.el9": [
+      "8bd5e6fad3a0c3e8009edab4217662b8c5b56bc11a8d2305f3b707509299dd71"
+    ]
+  },
+  "iproute": {
+    "6.2.0-5.el9": [
+      "8bd5e6fad3a0c3e8009edab4217662b8c5b56bc11a8d2305f3b707509299dd71"
+    ]
+  },
+  "iputils": {
+    "20210202-9.0.1.el9": [
+      "8bd5e6fad3a0c3e8009edab4217662b8c5b56bc11a8d2305f3b707509299dd71"
     ]
   },
   "java-21-amazon-corretto": {
@@ -240,6 +455,9 @@
     ]
   },
   "json-c": {
+    "0.14-11.el9": [
+      "8bd5e6fad3a0c3e8009edab4217662b8c5b56bc11a8d2305f3b707509299dd71"
+    ],
     "0.14-8.amzn2023.0.2": [
       "2498694ccc32b2d68121ca40c72c7d10ae94878f82057d2782be1fd1c20c41c0"
     ]
@@ -247,9 +465,20 @@
   "keyutils-libs": {
     "1.6.3-1.amzn2023.0.2": [
       "2498694ccc32b2d68121ca40c72c7d10ae94878f82057d2782be1fd1c20c41c0"
+    ],
+    "1.6.3-1.el9": [
+      "8bd5e6fad3a0c3e8009edab4217662b8c5b56bc11a8d2305f3b707509299dd71"
+    ]
+  },
+  "kmod-libs": {
+    "28-9.0.1.el9": [
+      "8bd5e6fad3a0c3e8009edab4217662b8c5b56bc11a8d2305f3b707509299dd71"
     ]
   },
   "krb5-libs": {
+    "1.21.1-1.0.1.el9": [
+      "8bd5e6fad3a0c3e8009edab4217662b8c5b56bc11a8d2305f3b707509299dd71"
+    ],
     "1.21.3-7.amzn2023.0.1": [
       "2498694ccc32b2d68121ca40c72c7d10ae94878f82057d2782be1fd1c20c41c0"
     ]
@@ -322,9 +551,15 @@
   "libacl": {
     "2.3.1-2.amzn2023.0.2": [
       "2498694ccc32b2d68121ca40c72c7d10ae94878f82057d2782be1fd1c20c41c0"
+    ],
+    "2.3.1-3.el9": [
+      "8bd5e6fad3a0c3e8009edab4217662b8c5b56bc11a8d2305f3b707509299dd71"
     ]
   },
   "libarchive": {
+    "3.5.3-4.el9": [
+      "8bd5e6fad3a0c3e8009edab4217662b8c5b56bc11a8d2305f3b707509299dd71"
+    ],
     "3.7.4-2.amzn2023.0.4": [
       "2498694ccc32b2d68121ca40c72c7d10ae94878f82057d2782be1fd1c20c41c0"
     ]
@@ -332,24 +567,44 @@
   "libassuan": {
     "2.5.5-1.amzn2023.0.2": [
       "2498694ccc32b2d68121ca40c72c7d10ae94878f82057d2782be1fd1c20c41c0"
+    ],
+    "2.5.5-3.el9": [
+      "8bd5e6fad3a0c3e8009edab4217662b8c5b56bc11a8d2305f3b707509299dd71"
     ]
   },
   "libattr": {
     "2.5.1-3.amzn2023.0.2": [
       "2498694ccc32b2d68121ca40c72c7d10ae94878f82057d2782be1fd1c20c41c0"
+    ],
+    "2.5.1-3.el9": [
+      "8bd5e6fad3a0c3e8009edab4217662b8c5b56bc11a8d2305f3b707509299dd71"
     ]
   },
   "libblkid": {
     "2.37.4-1.amzn2023.0.5": [
       "2498694ccc32b2d68121ca40c72c7d10ae94878f82057d2782be1fd1c20c41c0"
+    ],
+    "2.37.4-15.el9": [
+      "8bd5e6fad3a0c3e8009edab4217662b8c5b56bc11a8d2305f3b707509299dd71"
+    ]
+  },
+  "libbpf": {
+    "2:1.2.0-1.el9": [
+      "8bd5e6fad3a0c3e8009edab4217662b8c5b56bc11a8d2305f3b707509299dd71"
     ]
   },
   "libbrotli": {
     "1.0.9-4.amzn2023.0.2": [
       "2498694ccc32b2d68121ca40c72c7d10ae94878f82057d2782be1fd1c20c41c0"
+    ],
+    "1.0.9-6.el9": [
+      "8bd5e6fad3a0c3e8009edab4217662b8c5b56bc11a8d2305f3b707509299dd71"
     ]
   },
   "libcap": {
+    "2.48-9.el9_2": [
+      "8bd5e6fad3a0c3e8009edab4217662b8c5b56bc11a8d2305f3b707509299dd71"
+    ],
     "2.73-1.amzn2023.0.7": [
       "2498694ccc32b2d68121ca40c72c7d10ae94878f82057d2782be1fd1c20c41c0"
     ]
@@ -357,16 +612,35 @@
   "libcap-ng": {
     "0.8.2-4.amzn2023.0.2": [
       "2498694ccc32b2d68121ca40c72c7d10ae94878f82057d2782be1fd1c20c41c0"
+    ],
+    "0.8.2-7.el9": [
+      "8bd5e6fad3a0c3e8009edab4217662b8c5b56bc11a8d2305f3b707509299dd71"
+    ]
+  },
+  "libcbor": {
+    "0.7.0-5.el9": [
+      "8bd5e6fad3a0c3e8009edab4217662b8c5b56bc11a8d2305f3b707509299dd71"
     ]
   },
   "libcom_err": {
     "1.46.5-2.amzn2023.0.2": [
       "2498694ccc32b2d68121ca40c72c7d10ae94878f82057d2782be1fd1c20c41c0"
+    ],
+    "1.46.5-3.el9": [
+      "8bd5e6fad3a0c3e8009edab4217662b8c5b56bc11a8d2305f3b707509299dd71"
     ]
   },
   "libcomps": {
+    "0.1.18-1.el9": [
+      "8bd5e6fad3a0c3e8009edab4217662b8c5b56bc11a8d2305f3b707509299dd71"
+    ],
     "0.1.20-1.amzn2023": [
       "2498694ccc32b2d68121ca40c72c7d10ae94878f82057d2782be1fd1c20c41c0"
+    ]
+  },
+  "libcurl": {
+    "7.76.1-26.el9_3.2": [
+      "8bd5e6fad3a0c3e8009edab4217662b8c5b56bc11a8d2305f3b707509299dd71"
     ]
   },
   "libcurl-minimal": {
@@ -374,27 +648,82 @@
       "2498694ccc32b2d68121ca40c72c7d10ae94878f82057d2782be1fd1c20c41c0"
     ]
   },
+  "libdb": {
+    "5.3.28-53.0.1.el9": [
+      "8bd5e6fad3a0c3e8009edab4217662b8c5b56bc11a8d2305f3b707509299dd71"
+    ]
+  },
   "libdnf": {
+    "0.69.0-6.0.1.el9_3": [
+      "8bd5e6fad3a0c3e8009edab4217662b8c5b56bc11a8d2305f3b707509299dd71"
+    ],
     "0.69.0-8.amzn2023.0.8": [
       "2498694ccc32b2d68121ca40c72c7d10ae94878f82057d2782be1fd1c20c41c0"
     ]
   },
+  "libeconf": {
+    "0.4.1-3.el9_2": [
+      "8bd5e6fad3a0c3e8009edab4217662b8c5b56bc11a8d2305f3b707509299dd71"
+    ]
+  },
+  "libedit": {
+    "3.1-38.20210216cvs.el9": [
+      "8bd5e6fad3a0c3e8009edab4217662b8c5b56bc11a8d2305f3b707509299dd71"
+    ]
+  },
+  "libestr": {
+    "0.1.11-4.el9": [
+      "8bd5e6fad3a0c3e8009edab4217662b8c5b56bc11a8d2305f3b707509299dd71"
+    ]
+  },
+  "libevent": {
+    "2.1.12-6.el9": [
+      "8bd5e6fad3a0c3e8009edab4217662b8c5b56bc11a8d2305f3b707509299dd71"
+    ]
+  },
+  "libfastjson": {
+    "0.99.9-5.el9": [
+      "8bd5e6fad3a0c3e8009edab4217662b8c5b56bc11a8d2305f3b707509299dd71"
+    ]
+  },
+  "libfdisk": {
+    "2.37.4-15.el9": [
+      "8bd5e6fad3a0c3e8009edab4217662b8c5b56bc11a8d2305f3b707509299dd71"
+    ]
+  },
   "libffi": {
+    "3.4.2-8.el9": [
+      "8bd5e6fad3a0c3e8009edab4217662b8c5b56bc11a8d2305f3b707509299dd71"
+    ],
     "3.4.4-1.amzn2023.0.1": [
       "2498694ccc32b2d68121ca40c72c7d10ae94878f82057d2782be1fd1c20c41c0"
     ]
   },
+  "libfido2": {
+    "1.13.0-1.el9": [
+      "8bd5e6fad3a0c3e8009edab4217662b8c5b56bc11a8d2305f3b707509299dd71"
+    ]
+  },
   "libgcc": {
+    "11.4.1-2.1.0.1.el9": [
+      "8bd5e6fad3a0c3e8009edab4217662b8c5b56bc11a8d2305f3b707509299dd71"
+    ],
     "14.2.1-7.amzn2023.0.2": [
       "2498694ccc32b2d68121ca40c72c7d10ae94878f82057d2782be1fd1c20c41c0"
     ]
   },
   "libgcrypt": {
+    "1.10.0-10.el9_2": [
+      "8bd5e6fad3a0c3e8009edab4217662b8c5b56bc11a8d2305f3b707509299dd71"
+    ],
     "1.10.2-1.amzn2023.0.3": [
       "2498694ccc32b2d68121ca40c72c7d10ae94878f82057d2782be1fd1c20c41c0"
     ]
   },
   "libgomp": {
+    "11.4.1-2.1.0.1.el9": [
+      "8bd5e6fad3a0c3e8009edab4217662b8c5b56bc11a8d2305f3b707509299dd71"
+    ],
     "14.2.1-7.amzn2023.0.2": [
       "2498694ccc32b2d68121ca40c72c7d10ae94878f82057d2782be1fd1c20c41c0"
     ]
@@ -402,9 +731,15 @@
   "libgpg-error": {
     "1.42-1.amzn2023.0.2": [
       "2498694ccc32b2d68121ca40c72c7d10ae94878f82057d2782be1fd1c20c41c0"
+    ],
+    "1.42-5.el9": [
+      "8bd5e6fad3a0c3e8009edab4217662b8c5b56bc11a8d2305f3b707509299dd71"
     ]
   },
   "libidn2": {
+    "2.3.0-7.el9": [
+      "8bd5e6fad3a0c3e8009edab4217662b8c5b56bc11a8d2305f3b707509299dd71"
+    ],
     "2.3.2-1.amzn2023.0.5": [
       "2498694ccc32b2d68121ca40c72c7d10ae94878f82057d2782be1fd1c20c41c0"
     ]
@@ -414,17 +749,36 @@
       "2498694ccc32b2d68121ca40c72c7d10ae94878f82057d2782be1fd1c20c41c0"
     ]
   },
+  "libksba": {
+    "1.5.1-6.el9_1": [
+      "8bd5e6fad3a0c3e8009edab4217662b8c5b56bc11a8d2305f3b707509299dd71"
+    ]
+  },
+  "libmnl": {
+    "1.0.4-15.el9": [
+      "8bd5e6fad3a0c3e8009edab4217662b8c5b56bc11a8d2305f3b707509299dd71"
+    ]
+  },
   "libmodulemd": {
     "2.13.0-2.amzn2023.0.2": [
       "2498694ccc32b2d68121ca40c72c7d10ae94878f82057d2782be1fd1c20c41c0"
+    ],
+    "2.13.0-2.el9": [
+      "8bd5e6fad3a0c3e8009edab4217662b8c5b56bc11a8d2305f3b707509299dd71"
     ]
   },
   "libmount": {
     "2.37.4-1.amzn2023.0.5": [
       "2498694ccc32b2d68121ca40c72c7d10ae94878f82057d2782be1fd1c20c41c0"
+    ],
+    "2.37.4-15.el9": [
+      "8bd5e6fad3a0c3e8009edab4217662b8c5b56bc11a8d2305f3b707509299dd71"
     ]
   },
   "libnghttp2": {
+    "1.43.0-5.el9_3.1": [
+      "8bd5e6fad3a0c3e8009edab4217662b8c5b56bc11a8d2305f3b707509299dd71"
+    ],
     "1.59.0-3.amzn2023.0.2": [
       "2498694ccc32b2d68121ca40c72c7d10ae94878f82057d2782be1fd1c20c41c0"
     ]
@@ -435,11 +789,22 @@
     ]
   },
   "libpsl": {
+    "0.21.1-5.el9": [
+      "8bd5e6fad3a0c3e8009edab4217662b8c5b56bc11a8d2305f3b707509299dd71"
+    ],
     "0.21.5-1.amzn2023.0.1": [
       "2498694ccc32b2d68121ca40c72c7d10ae94878f82057d2782be1fd1c20c41c0"
     ]
   },
+  "libpwquality": {
+    "1.4.4-8.el9": [
+      "8bd5e6fad3a0c3e8009edab4217662b8c5b56bc11a8d2305f3b707509299dd71"
+    ]
+  },
   "librepo": {
+    "1.14.5-1.el9": [
+      "8bd5e6fad3a0c3e8009edab4217662b8c5b56bc11a8d2305f3b707509299dd71"
+    ],
     "1.14.5-2.amzn2023.0.2": [
       "2498694ccc32b2d68121ca40c72c7d10ae94878f82057d2782be1fd1c20c41c0"
     ]
@@ -447,44 +812,91 @@
   "libreport-filesystem": {
     "2.15.2-2.amzn2023.0.2": [
       "2498694ccc32b2d68121ca40c72c7d10ae94878f82057d2782be1fd1c20c41c0"
+    ],
+    "2.15.2-6.0.3.el9": [
+      "8bd5e6fad3a0c3e8009edab4217662b8c5b56bc11a8d2305f3b707509299dd71"
+    ]
+  },
+  "libseccomp": {
+    "2.5.2-2.el9": [
+      "8bd5e6fad3a0c3e8009edab4217662b8c5b56bc11a8d2305f3b707509299dd71"
     ]
   },
   "libselinux": {
     "3.4-5.amzn2023.0.2": [
       "2498694ccc32b2d68121ca40c72c7d10ae94878f82057d2782be1fd1c20c41c0"
+    ],
+    "3.5-1.el9": [
+      "8bd5e6fad3a0c3e8009edab4217662b8c5b56bc11a8d2305f3b707509299dd71"
+    ]
+  },
+  "libselinux-utils": {
+    "3.5-1.el9": [
+      "8bd5e6fad3a0c3e8009edab4217662b8c5b56bc11a8d2305f3b707509299dd71"
     ]
   },
   "libsemanage": {
     "3.4-5.amzn2023.0.2": [
       "2498694ccc32b2d68121ca40c72c7d10ae94878f82057d2782be1fd1c20c41c0"
+    ],
+    "3.5-2.el9": [
+      "8bd5e6fad3a0c3e8009edab4217662b8c5b56bc11a8d2305f3b707509299dd71"
     ]
   },
   "libsepol": {
     "3.4-3.amzn2023.0.3": [
       "2498694ccc32b2d68121ca40c72c7d10ae94878f82057d2782be1fd1c20c41c0"
+    ],
+    "3.5-1.el9": [
+      "8bd5e6fad3a0c3e8009edab4217662b8c5b56bc11a8d2305f3b707509299dd71"
     ]
   },
   "libsigsegv": {
     "2.13-2.amzn2023.0.2": [
       "2498694ccc32b2d68121ca40c72c7d10ae94878f82057d2782be1fd1c20c41c0"
+    ],
+    "2.13-4.el9": [
+      "8bd5e6fad3a0c3e8009edab4217662b8c5b56bc11a8d2305f3b707509299dd71"
     ]
   },
   "libsmartcols": {
     "2.37.4-1.amzn2023.0.5": [
       "2498694ccc32b2d68121ca40c72c7d10ae94878f82057d2782be1fd1c20c41c0"
+    ],
+    "2.37.4-15.el9": [
+      "8bd5e6fad3a0c3e8009edab4217662b8c5b56bc11a8d2305f3b707509299dd71"
     ]
   },
   "libsolv": {
     "0.7.22-1.amzn2023.0.4": [
       "2498694ccc32b2d68121ca40c72c7d10ae94878f82057d2782be1fd1c20c41c0"
+    ],
+    "0.7.24-2.el9": [
+      "8bd5e6fad3a0c3e8009edab4217662b8c5b56bc11a8d2305f3b707509299dd71"
+    ]
+  },
+  "libssh": {
+    "0.10.4-11.el9": [
+      "8bd5e6fad3a0c3e8009edab4217662b8c5b56bc11a8d2305f3b707509299dd71"
+    ]
+  },
+  "libssh-config": {
+    "0.10.4-11.el9": [
+      "8bd5e6fad3a0c3e8009edab4217662b8c5b56bc11a8d2305f3b707509299dd71"
     ]
   },
   "libstdc++": {
+    "11.4.1-2.1.0.1.el9": [
+      "8bd5e6fad3a0c3e8009edab4217662b8c5b56bc11a8d2305f3b707509299dd71"
+    ],
     "14.2.1-7.amzn2023.0.2": [
       "2498694ccc32b2d68121ca40c72c7d10ae94878f82057d2782be1fd1c20c41c0"
     ]
   },
   "libtasn1": {
+    "4.16.0-8.el9_1": [
+      "8bd5e6fad3a0c3e8009edab4217662b8c5b56bc11a8d2305f3b707509299dd71"
+    ],
     "4.19.0-1.amzn2023.0.6": [
       "2498694ccc32b2d68121ca40c72c7d10ae94878f82057d2782be1fd1c20c41c0"
     ]
@@ -492,16 +904,35 @@
   "libunistring": {
     "0.9.10-10.amzn2023.0.2": [
       "2498694ccc32b2d68121ca40c72c7d10ae94878f82057d2782be1fd1c20c41c0"
+    ],
+    "0.9.10-15.el9": [
+      "8bd5e6fad3a0c3e8009edab4217662b8c5b56bc11a8d2305f3b707509299dd71"
+    ]
+  },
+  "libuser": {
+    "0.63-13.el9": [
+      "8bd5e6fad3a0c3e8009edab4217662b8c5b56bc11a8d2305f3b707509299dd71"
+    ]
+  },
+  "libutempter": {
+    "1.2.1-6.el9": [
+      "8bd5e6fad3a0c3e8009edab4217662b8c5b56bc11a8d2305f3b707509299dd71"
     ]
   },
   "libuuid": {
     "2.37.4-1.amzn2023.0.5": [
       "2498694ccc32b2d68121ca40c72c7d10ae94878f82057d2782be1fd1c20c41c0"
+    ],
+    "2.37.4-15.el9": [
+      "8bd5e6fad3a0c3e8009edab4217662b8c5b56bc11a8d2305f3b707509299dd71"
     ]
   },
   "libverto": {
     "0.3.2-1.amzn2023.0.2": [
       "2498694ccc32b2d68121ca40c72c7d10ae94878f82057d2782be1fd1c20c41c0"
+    ],
+    "0.3.2-3.el9": [
+      "8bd5e6fad3a0c3e8009edab4217662b8c5b56bc11a8d2305f3b707509299dd71"
     ]
   },
   "libxcb": {
@@ -510,21 +941,38 @@
     ]
   },
   "libxcrypt": {
+    "4.4.18-3.el9": [
+      "8bd5e6fad3a0c3e8009edab4217662b8c5b56bc11a8d2305f3b707509299dd71"
+    ],
     "4.4.33-7.amzn2023": [
       "2498694ccc32b2d68121ca40c72c7d10ae94878f82057d2782be1fd1c20c41c0"
+    ]
+  },
+  "libxcrypt-compat": {
+    "4.4.18-3.el9": [
+      "8bd5e6fad3a0c3e8009edab4217662b8c5b56bc11a8d2305f3b707509299dd71"
     ]
   },
   "libxml2": {
     "2.10.4-1.amzn2023.0.19": [
       "2498694ccc32b2d68121ca40c72c7d10ae94878f82057d2782be1fd1c20c41c0"
+    ],
+    "2.9.13-4.el9": [
+      "8bd5e6fad3a0c3e8009edab4217662b8c5b56bc11a8d2305f3b707509299dd71"
     ]
   },
   "libyaml": {
     "0.2.5-5.amzn2023.0.2": [
       "2498694ccc32b2d68121ca40c72c7d10ae94878f82057d2782be1fd1c20c41c0"
+    ],
+    "0.2.5-7.el9": [
+      "8bd5e6fad3a0c3e8009edab4217662b8c5b56bc11a8d2305f3b707509299dd71"
     ]
   },
   "libzstd": {
+    "1.5.1-2.el9": [
+      "8bd5e6fad3a0c3e8009edab4217662b8c5b56bc11a8d2305f3b707509299dd71"
+    ],
     "1.5.5-1.amzn2023.0.1": [
       "2498694ccc32b2d68121ca40c72c7d10ae94878f82057d2782be1fd1c20c41c0"
     ]
@@ -532,9 +980,15 @@
   "lua-libs": {
     "5.4.4-3.amzn2023.0.2": [
       "2498694ccc32b2d68121ca40c72c7d10ae94878f82057d2782be1fd1c20c41c0"
+    ],
+    "5.4.4-4.el9": [
+      "8bd5e6fad3a0c3e8009edab4217662b8c5b56bc11a8d2305f3b707509299dd71"
     ]
   },
   "lz4-libs": {
+    "1.9.3-5.el9": [
+      "8bd5e6fad3a0c3e8009edab4217662b8c5b56bc11a8d2305f3b707509299dd71"
+    ],
     "1.9.4-1.amzn2023.0.3": [
       "2498694ccc32b2d68121ca40c72c7d10ae94878f82057d2782be1fd1c20c41c0"
     ]
@@ -542,21 +996,68 @@
   "mpfr": {
     "4.1.0-7.amzn2023.0.2": [
       "2498694ccc32b2d68121ca40c72c7d10ae94878f82057d2782be1fd1c20c41c0"
+    ],
+    "4.1.0-7.el9": [
+      "8bd5e6fad3a0c3e8009edab4217662b8c5b56bc11a8d2305f3b707509299dd71"
     ]
   },
   "ncurses-base": {
+    "6.2-10.20210508.el9": [
+      "8bd5e6fad3a0c3e8009edab4217662b8c5b56bc11a8d2305f3b707509299dd71"
+    ],
     "6.6-1.amzn2023.0.1": [
       "2498694ccc32b2d68121ca40c72c7d10ae94878f82057d2782be1fd1c20c41c0"
     ]
   },
   "ncurses-libs": {
+    "6.2-10.20210508.el9": [
+      "8bd5e6fad3a0c3e8009edab4217662b8c5b56bc11a8d2305f3b707509299dd71"
+    ],
     "6.6-1.amzn2023.0.1": [
       "2498694ccc32b2d68121ca40c72c7d10ae94878f82057d2782be1fd1c20c41c0"
+    ]
+  },
+  "net-tools": {
+    "2.0-0.62.20160912git.el9": [
+      "8bd5e6fad3a0c3e8009edab4217662b8c5b56bc11a8d2305f3b707509299dd71"
+    ]
+  },
+  "nettle": {
+    "3.8-3.el9_0": [
+      "8bd5e6fad3a0c3e8009edab4217662b8c5b56bc11a8d2305f3b707509299dd71"
     ]
   },
   "npth": {
     "1.6-6.amzn2023.0.2": [
       "2498694ccc32b2d68121ca40c72c7d10ae94878f82057d2782be1fd1c20c41c0"
+    ],
+    "1.6-8.el9": [
+      "8bd5e6fad3a0c3e8009edab4217662b8c5b56bc11a8d2305f3b707509299dd71"
+    ]
+  },
+  "openldap": {
+    "2.6.3-1.el9": [
+      "8bd5e6fad3a0c3e8009edab4217662b8c5b56bc11a8d2305f3b707509299dd71"
+    ]
+  },
+  "openssh": {
+    "8.7p1-34.el9": [
+      "8bd5e6fad3a0c3e8009edab4217662b8c5b56bc11a8d2305f3b707509299dd71"
+    ]
+  },
+  "openssh-clients": {
+    "8.7p1-34.el9": [
+      "8bd5e6fad3a0c3e8009edab4217662b8c5b56bc11a8d2305f3b707509299dd71"
+    ]
+  },
+  "openssh-server": {
+    "8.7p1-34.el9": [
+      "8bd5e6fad3a0c3e8009edab4217662b8c5b56bc11a8d2305f3b707509299dd71"
+    ]
+  },
+  "openssl": {
+    "1:3.0.7-24.0.1.el9": [
+      "8bd5e6fad3a0c3e8009edab4217662b8c5b56bc11a8d2305f3b707509299dd71"
     ]
   },
   "openssl-fips-provider-latest": {
@@ -565,28 +1066,68 @@
     ]
   },
   "openssl-libs": {
+    "1:3.0.7-24.0.1.el9": [
+      "8bd5e6fad3a0c3e8009edab4217662b8c5b56bc11a8d2305f3b707509299dd71"
+    ],
     "1:3.5.5-1.amzn2023.0.5": [
       "2498694ccc32b2d68121ca40c72c7d10ae94878f82057d2782be1fd1c20c41c0"
+    ]
+  },
+  "oraclelinux-release": {
+    "9:9.3-1.0.6.el9": [
+      "8bd5e6fad3a0c3e8009edab4217662b8c5b56bc11a8d2305f3b707509299dd71"
+    ]
+  },
+  "oraclelinux-release-el9": {
+    "1.0-12.el9": [
+      "8bd5e6fad3a0c3e8009edab4217662b8c5b56bc11a8d2305f3b707509299dd71"
     ]
   },
   "p11-kit": {
     "0.24.1-2.amzn2023.0.3": [
       "2498694ccc32b2d68121ca40c72c7d10ae94878f82057d2782be1fd1c20c41c0"
+    ],
+    "0.24.1-2.el9": [
+      "8bd5e6fad3a0c3e8009edab4217662b8c5b56bc11a8d2305f3b707509299dd71"
     ]
   },
   "p11-kit-trust": {
     "0.24.1-2.amzn2023.0.3": [
       "2498694ccc32b2d68121ca40c72c7d10ae94878f82057d2782be1fd1c20c41c0"
+    ],
+    "0.24.1-2.el9": [
+      "8bd5e6fad3a0c3e8009edab4217662b8c5b56bc11a8d2305f3b707509299dd71"
+    ]
+  },
+  "pam": {
+    "1.5.1-15.el9": [
+      "8bd5e6fad3a0c3e8009edab4217662b8c5b56bc11a8d2305f3b707509299dd71"
+    ]
+  },
+  "passwd": {
+    "0.80-12.el9": [
+      "8bd5e6fad3a0c3e8009edab4217662b8c5b56bc11a8d2305f3b707509299dd71"
+    ]
+  },
+  "pcre": {
+    "8.44-3.el9.3": [
+      "8bd5e6fad3a0c3e8009edab4217662b8c5b56bc11a8d2305f3b707509299dd71"
     ]
   },
   "pcre2": {
     "10.40-1.amzn2023.0.3": [
       "2498694ccc32b2d68121ca40c72c7d10ae94878f82057d2782be1fd1c20c41c0"
+    ],
+    "10.40-2.0.2.el9": [
+      "8bd5e6fad3a0c3e8009edab4217662b8c5b56bc11a8d2305f3b707509299dd71"
     ]
   },
   "pcre2-syntax": {
     "10.40-1.amzn2023.0.3": [
       "2498694ccc32b2d68121ca40c72c7d10ae94878f82057d2782be1fd1c20c41c0"
+    ],
+    "10.40-2.0.2.el9": [
+      "8bd5e6fad3a0c3e8009edab4217662b8c5b56bc11a8d2305f3b707509299dd71"
     ]
   },
   "pixman": {
@@ -594,112 +1135,233 @@
       "2498694ccc32b2d68121ca40c72c7d10ae94878f82057d2782be1fd1c20c41c0"
     ]
   },
+  "policycoreutils": {
+    "3.5-2.el9": [
+      "8bd5e6fad3a0c3e8009edab4217662b8c5b56bc11a8d2305f3b707509299dd71"
+    ]
+  },
   "popt": {
     "1.18-6.amzn2023.0.2": [
       "2498694ccc32b2d68121ca40c72c7d10ae94878f82057d2782be1fd1c20c41c0"
+    ],
+    "1.18-8.el9": [
+      "8bd5e6fad3a0c3e8009edab4217662b8c5b56bc11a8d2305f3b707509299dd71"
     ]
   },
   "procps-ng": {
     "3.3.17-1.amzn2023.0.2": [
       "2498694ccc32b2d68121ca40c72c7d10ae94878f82057d2782be1fd1c20c41c0"
+    ],
+    "3.3.17-13.0.1.el9": [
+      "8bd5e6fad3a0c3e8009edab4217662b8c5b56bc11a8d2305f3b707509299dd71"
+    ]
+  },
+  "psmisc": {
+    "23.4-3.el9": [
+      "8bd5e6fad3a0c3e8009edab4217662b8c5b56bc11a8d2305f3b707509299dd71"
     ]
   },
   "publicsuffix-list-dafsa": {
+    "20210518-3.el9": [
+      "8bd5e6fad3a0c3e8009edab4217662b8c5b56bc11a8d2305f3b707509299dd71"
+    ],
     "20260116-1.amzn2023.0.1": [
       "2498694ccc32b2d68121ca40c72c7d10ae94878f82057d2782be1fd1c20c41c0"
     ]
   },
   "python3": {
+    "3.9.18-1.el9_3": [
+      "8bd5e6fad3a0c3e8009edab4217662b8c5b56bc11a8d2305f3b707509299dd71"
+    ],
     "3.9.25-1.amzn2023.0.7": [
       "2498694ccc32b2d68121ca40c72c7d10ae94878f82057d2782be1fd1c20c41c0"
+    ]
+  },
+  "python3-dateutil": {
+    "1:2.8.1-7.el9": [
+      "8bd5e6fad3a0c3e8009edab4217662b8c5b56bc11a8d2305f3b707509299dd71"
+    ]
+  },
+  "python3-dbus": {
+    "1.2.18-2.el9": [
+      "8bd5e6fad3a0c3e8009edab4217662b8c5b56bc11a8d2305f3b707509299dd71"
     ]
   },
   "python3-dnf": {
     "4.14.0-1.amzn2023.0.7": [
       "2498694ccc32b2d68121ca40c72c7d10ae94878f82057d2782be1fd1c20c41c0"
+    ],
+    "4.14.0-8.0.1.el9": [
+      "8bd5e6fad3a0c3e8009edab4217662b8c5b56bc11a8d2305f3b707509299dd71"
+    ]
+  },
+  "python3-dnf-plugins-core": {
+    "4.3.0-11.0.1.el9_3": [
+      "8bd5e6fad3a0c3e8009edab4217662b8c5b56bc11a8d2305f3b707509299dd71"
     ]
   },
   "python3-gpg": {
+    "1.15.1-6.el9": [
+      "8bd5e6fad3a0c3e8009edab4217662b8c5b56bc11a8d2305f3b707509299dd71"
+    ],
     "1.23.2-182.amzn2023.0.1": [
       "2498694ccc32b2d68121ca40c72c7d10ae94878f82057d2782be1fd1c20c41c0"
     ]
   },
   "python3-hawkey": {
+    "0.69.0-6.0.1.el9_3": [
+      "8bd5e6fad3a0c3e8009edab4217662b8c5b56bc11a8d2305f3b707509299dd71"
+    ],
     "0.69.0-8.amzn2023.0.8": [
       "2498694ccc32b2d68121ca40c72c7d10ae94878f82057d2782be1fd1c20c41c0"
     ]
   },
   "python3-libcomps": {
+    "0.1.18-1.el9": [
+      "8bd5e6fad3a0c3e8009edab4217662b8c5b56bc11a8d2305f3b707509299dd71"
+    ],
     "0.1.20-1.amzn2023": [
       "2498694ccc32b2d68121ca40c72c7d10ae94878f82057d2782be1fd1c20c41c0"
     ]
   },
   "python3-libdnf": {
+    "0.69.0-6.0.1.el9_3": [
+      "8bd5e6fad3a0c3e8009edab4217662b8c5b56bc11a8d2305f3b707509299dd71"
+    ],
     "0.69.0-8.amzn2023.0.8": [
       "2498694ccc32b2d68121ca40c72c7d10ae94878f82057d2782be1fd1c20c41c0"
     ]
   },
   "python3-libs": {
+    "3.9.18-1.el9_3": [
+      "8bd5e6fad3a0c3e8009edab4217662b8c5b56bc11a8d2305f3b707509299dd71"
+    ],
     "3.9.25-1.amzn2023.0.7": [
       "2498694ccc32b2d68121ca40c72c7d10ae94878f82057d2782be1fd1c20c41c0"
     ]
   },
   "python3-pip-wheel": {
+    "21.2.3-7.el9": [
+      "8bd5e6fad3a0c3e8009edab4217662b8c5b56bc11a8d2305f3b707509299dd71"
+    ],
     "21.3.1-2.amzn2023.0.20": [
       "2498694ccc32b2d68121ca40c72c7d10ae94878f82057d2782be1fd1c20c41c0"
     ]
   },
   "python3-rpm": {
+    "4.16.1.3-25.el9": [
+      "8bd5e6fad3a0c3e8009edab4217662b8c5b56bc11a8d2305f3b707509299dd71"
+    ],
     "4.16.1.3-29.amzn2023.0.6": [
       "2498694ccc32b2d68121ca40c72c7d10ae94878f82057d2782be1fd1c20c41c0"
     ]
   },
   "python3-setuptools-wheel": {
+    "53.0.0-12.el9": [
+      "8bd5e6fad3a0c3e8009edab4217662b8c5b56bc11a8d2305f3b707509299dd71"
+    ],
     "59.6.0-2.amzn2023.0.6": [
       "2498694ccc32b2d68121ca40c72c7d10ae94878f82057d2782be1fd1c20c41c0"
+    ]
+  },
+  "python3-six": {
+    "1.15.0-9.0.1.el9": [
+      "8bd5e6fad3a0c3e8009edab4217662b8c5b56bc11a8d2305f3b707509299dd71"
+    ]
+  },
+  "python3-systemd": {
+    "234-18.el9": [
+      "8bd5e6fad3a0c3e8009edab4217662b8c5b56bc11a8d2305f3b707509299dd71"
     ]
   },
   "readline": {
     "8.1-2.amzn2023.0.2": [
       "2498694ccc32b2d68121ca40c72c7d10ae94878f82057d2782be1fd1c20c41c0"
+    ],
+    "8.1-4.el9": [
+      "8bd5e6fad3a0c3e8009edab4217662b8c5b56bc11a8d2305f3b707509299dd71"
+    ]
+  },
+  "redhat-release": {
+    "3:9.3-0.5.0.1.el9": [
+      "8bd5e6fad3a0c3e8009edab4217662b8c5b56bc11a8d2305f3b707509299dd71"
+    ]
+  },
+  "rootfiles": {
+    "8.1-31.el9": [
+      "8bd5e6fad3a0c3e8009edab4217662b8c5b56bc11a8d2305f3b707509299dd71"
     ]
   },
   "rpm": {
+    "4.16.1.3-25.el9": [
+      "8bd5e6fad3a0c3e8009edab4217662b8c5b56bc11a8d2305f3b707509299dd71"
+    ],
     "4.16.1.3-29.amzn2023.0.6": [
       "2498694ccc32b2d68121ca40c72c7d10ae94878f82057d2782be1fd1c20c41c0"
     ]
   },
   "rpm-build-libs": {
+    "4.16.1.3-25.el9": [
+      "8bd5e6fad3a0c3e8009edab4217662b8c5b56bc11a8d2305f3b707509299dd71"
+    ],
     "4.16.1.3-29.amzn2023.0.6": [
       "2498694ccc32b2d68121ca40c72c7d10ae94878f82057d2782be1fd1c20c41c0"
     ]
   },
   "rpm-libs": {
+    "4.16.1.3-25.el9": [
+      "8bd5e6fad3a0c3e8009edab4217662b8c5b56bc11a8d2305f3b707509299dd71"
+    ],
     "4.16.1.3-29.amzn2023.0.6": [
       "2498694ccc32b2d68121ca40c72c7d10ae94878f82057d2782be1fd1c20c41c0"
     ]
   },
+  "rpm-plugin-systemd-inhibit": {
+    "4.16.1.3-25.el9": [
+      "8bd5e6fad3a0c3e8009edab4217662b8c5b56bc11a8d2305f3b707509299dd71"
+    ]
+  },
   "rpm-sign-libs": {
+    "4.16.1.3-25.el9": [
+      "8bd5e6fad3a0c3e8009edab4217662b8c5b56bc11a8d2305f3b707509299dd71"
+    ],
     "4.16.1.3-29.amzn2023.0.6": [
       "2498694ccc32b2d68121ca40c72c7d10ae94878f82057d2782be1fd1c20c41c0"
+    ]
+  },
+  "rsyslog": {
+    "8.2102.0-117.el9": [
+      "8bd5e6fad3a0c3e8009edab4217662b8c5b56bc11a8d2305f3b707509299dd71"
     ]
   },
   "sed": {
     "4.8-7.amzn2023.0.2": [
       "2498694ccc32b2d68121ca40c72c7d10ae94878f82057d2782be1fd1c20c41c0"
+    ],
+    "4.8-9.el9": [
+      "8bd5e6fad3a0c3e8009edab4217662b8c5b56bc11a8d2305f3b707509299dd71"
     ]
   },
   "setup": {
     "2.13.7-3.amzn2023.0.2": [
       "2498694ccc32b2d68121ca40c72c7d10ae94878f82057d2782be1fd1c20c41c0"
+    ],
+    "2.13.7-9.el9": [
+      "8bd5e6fad3a0c3e8009edab4217662b8c5b56bc11a8d2305f3b707509299dd71"
     ]
   },
   "shadow-utils": {
     "2:4.9-12.amzn2023.0.4": [
       "2498694ccc32b2d68121ca40c72c7d10ae94878f82057d2782be1fd1c20c41c0"
+    ],
+    "2:4.9-8.el9": [
+      "8bd5e6fad3a0c3e8009edab4217662b8c5b56bc11a8d2305f3b707509299dd71"
     ]
   },
   "sqlite-libs": {
+    "3.34.1-6.el9_1": [
+      "8bd5e6fad3a0c3e8009edab4217662b8c5b56bc11a8d2305f3b707509299dd71"
+    ],
     "3.40.0-1.amzn2023.0.8": [
       "2498694ccc32b2d68121ca40c72c7d10ae94878f82057d2782be1fd1c20c41c0"
     ]
@@ -709,19 +1371,73 @@
       "2498694ccc32b2d68121ca40c72c7d10ae94878f82057d2782be1fd1c20c41c0"
     ]
   },
+  "systemd": {
+    "252-18.0.1.el9": [
+      "8bd5e6fad3a0c3e8009edab4217662b8c5b56bc11a8d2305f3b707509299dd71"
+    ]
+  },
   "systemd-libs": {
+    "252-18.0.1.el9": [
+      "8bd5e6fad3a0c3e8009edab4217662b8c5b56bc11a8d2305f3b707509299dd71"
+    ],
     "252.23-12.amzn2023": [
       "2498694ccc32b2d68121ca40c72c7d10ae94878f82057d2782be1fd1c20c41c0"
     ]
   },
+  "systemd-pam": {
+    "252-18.0.1.el9": [
+      "8bd5e6fad3a0c3e8009edab4217662b8c5b56bc11a8d2305f3b707509299dd71"
+    ]
+  },
+  "systemd-rpm-macros": {
+    "252-18.0.1.el9": [
+      "8bd5e6fad3a0c3e8009edab4217662b8c5b56bc11a8d2305f3b707509299dd71"
+    ]
+  },
+  "tar": {
+    "2:1.34-6.el9_1": [
+      "8bd5e6fad3a0c3e8009edab4217662b8c5b56bc11a8d2305f3b707509299dd71"
+    ]
+  },
+  "tpm2-tss": {
+    "3.2.2-2.el9": [
+      "8bd5e6fad3a0c3e8009edab4217662b8c5b56bc11a8d2305f3b707509299dd71"
+    ]
+  },
   "tzdata": {
+    "2023c-1.el9": [
+      "8bd5e6fad3a0c3e8009edab4217662b8c5b56bc11a8d2305f3b707509299dd71"
+    ],
     "2026b-1.amzn2023.0.1": [
       "2498694ccc32b2d68121ca40c72c7d10ae94878f82057d2782be1fd1c20c41c0"
+    ]
+  },
+  "util-linux": {
+    "2.37.4-15.el9": [
+      "8bd5e6fad3a0c3e8009edab4217662b8c5b56bc11a8d2305f3b707509299dd71"
+    ]
+  },
+  "util-linux-core": {
+    "2.37.4-15.el9": [
+      "8bd5e6fad3a0c3e8009edab4217662b8c5b56bc11a8d2305f3b707509299dd71"
+    ]
+  },
+  "vim-minimal": {
+    "2:8.2.2637-20.0.1.el9_1": [
+      "8bd5e6fad3a0c3e8009edab4217662b8c5b56bc11a8d2305f3b707509299dd71"
+    ]
+  },
+  "wget": {
+    "1.21.1-7.el9": [
+      "8bd5e6fad3a0c3e8009edab4217662b8c5b56bc11a8d2305f3b707509299dd71"
     ]
   },
   "which": {
     "2.21-26.amzn2023.0.2": [
       "2498694ccc32b2d68121ca40c72c7d10ae94878f82057d2782be1fd1c20c41c0"
+    ],
+    "2.21-29.el9": [
+      "8bd5e6fad3a0c3e8009edab4217662b8c5b56bc11a8d2305f3b707509299dd71"
     ]
   },
   "xml-common": {
@@ -730,6 +1446,9 @@
     ]
   },
   "xz-libs": {
+    "5.2.5-8.el9_0": [
+      "8bd5e6fad3a0c3e8009edab4217662b8c5b56bc11a8d2305f3b707509299dd71"
+    ],
     "5.2.5-9.amzn2023.0.2": [
       "2498694ccc32b2d68121ca40c72c7d10ae94878f82057d2782be1fd1c20c41c0"
     ]
@@ -737,11 +1456,22 @@
   "yum": {
     "4.14.0-1.amzn2023.0.7": [
       "2498694ccc32b2d68121ca40c72c7d10ae94878f82057d2782be1fd1c20c41c0"
+    ],
+    "4.14.0-8.0.1.el9": [
+      "8bd5e6fad3a0c3e8009edab4217662b8c5b56bc11a8d2305f3b707509299dd71"
+    ]
+  },
+  "yum-utils": {
+    "4.3.0-11.0.1.el9_3": [
+      "8bd5e6fad3a0c3e8009edab4217662b8c5b56bc11a8d2305f3b707509299dd71"
     ]
   },
   "zlib": {
     "1.2.11-33.amzn2023.0.6": [
       "2498694ccc32b2d68121ca40c72c7d10ae94878f82057d2782be1fd1c20c41c0"
+    ],
+    "1.2.11-40.el9": [
+      "8bd5e6fad3a0c3e8009edab4217662b8c5b56bc11a8d2305f3b707509299dd71"
     ]
   }
 }

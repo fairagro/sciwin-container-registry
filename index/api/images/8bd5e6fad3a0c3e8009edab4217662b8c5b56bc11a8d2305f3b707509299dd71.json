@@ -1,0 +1,1757 @@
+{
+  "architecture": null,
+  "digest": "8bd5e6fad3a0c3e8009edab4217662b8c5b56bc11a8d2305f3b707509299dd71",
+  "entrypoint": null,
+  "os": null,
+  "packages": [
+    {
+      "ecosystem": "binary",
+      "name": "Simple Launcher",
+      "version": "1.1.0.14"
+    },
+    {
+      "ecosystem": "binary",
+      "name": "cli",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "binary",
+      "name": "cli-32",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "binary",
+      "name": "cli-64",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "binary",
+      "name": "cli-arm64",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "binary",
+      "name": "gui",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "binary",
+      "name": "gui-32",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "binary",
+      "name": "gui-64",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "binary",
+      "name": "gui-arm64",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "binary",
+      "name": "jq",
+      "version": "1.6"
+    },
+    {
+      "ecosystem": "binary",
+      "name": "krb5",
+      "version": "1.21.2"
+    },
+    {
+      "ecosystem": "binary",
+      "name": "openssl",
+      "version": "3.1.4"
+    },
+    {
+      "ecosystem": "binary",
+      "name": "python",
+      "version": "3.11.6"
+    },
+    {
+      "ecosystem": "binary",
+      "name": "xz",
+      "version": "5.2.6"
+    },
+    {
+      "ecosystem": "binary",
+      "name": "zstd",
+      "version": "1.5.5"
+    },
+    {
+      "ecosystem": "npm",
+      "name": "jupyterlab_pygments",
+      "version": "0.2.2"
+    },
+    {
+      "ecosystem": "python",
+      "name": "aiobotocore",
+      "version": "2.7.0"
+    },
+    {
+      "ecosystem": "python",
+      "name": "aiohttp",
+      "version": "3.8.6"
+    },
+    {
+      "ecosystem": "python",
+      "name": "aioitertools",
+      "version": "0.11.0"
+    },
+    {
+      "ecosystem": "python",
+      "name": "aiosignal",
+      "version": "1.3.1"
+    },
+    {
+      "ecosystem": "python",
+      "name": "anyio",
+      "version": "4.0.0"
+    },
+    {
+      "ecosystem": "python",
+      "name": "archspec",
+      "version": "0.2.2"
+    },
+    {
+      "ecosystem": "python",
+      "name": "argon2-cffi",
+      "version": "23.1.0"
+    },
+    {
+      "ecosystem": "python",
+      "name": "argon2-cffi-bindings",
+      "version": "21.2.0"
+    },
+    {
+      "ecosystem": "python",
+      "name": "arrow",
+      "version": "1.3.0"
+    },
+    {
+      "ecosystem": "python",
+      "name": "asciitree",
+      "version": "0.3.3"
+    },
+    {
+      "ecosystem": "python",
+      "name": "async-timeout",
+      "version": "4.0.3"
+    },
+    {
+      "ecosystem": "python",
+      "name": "attrs",
+      "version": "23.1.0"
+    },
+    {
+      "ecosystem": "python",
+      "name": "beautifulsoup4",
+      "version": "4.12.2"
+    },
+    {
+      "ecosystem": "python",
+      "name": "bleach",
+      "version": "6.1.0"
+    },
+    {
+      "ecosystem": "python",
+      "name": "blosc",
+      "version": "1.10.6"
+    },
+    {
+      "ecosystem": "python",
+      "name": "bokeh",
+      "version": "2.4.3"
+    },
+    {
+      "ecosystem": "python",
+      "name": "boltons",
+      "version": "23.0.0"
+    },
+    {
+      "ecosystem": "python",
+      "name": "botocore",
+      "version": "1.31.64"
+    },
+    {
+      "ecosystem": "python",
+      "name": "brotli",
+      "version": "1.1.0"
+    },
+    {
+      "ecosystem": "python",
+      "name": "cached-property",
+      "version": "1.5.2"
+    },
+    {
+      "ecosystem": "python",
+      "name": "cachey",
+      "version": "0.2.1"
+    },
+    {
+      "ecosystem": "python",
+      "name": "certifi",
+      "version": "2023.7.22"
+    },
+    {
+      "ecosystem": "python",
+      "name": "cffi",
+      "version": "1.16.0"
+    },
+    {
+      "ecosystem": "python",
+      "name": "charset-normalizer",
+      "version": "3.2.0"
+    },
+    {
+      "ecosystem": "python",
+      "name": "click",
+      "version": "8.1.7"
+    },
+    {
+      "ecosystem": "python",
+      "name": "cloudpickle",
+      "version": "3.0.0"
+    },
+    {
+      "ecosystem": "python",
+      "name": "colorama",
+      "version": "0.4.6"
+    },
+    {
+      "ecosystem": "python",
+      "name": "conda",
+      "version": "23.10.0"
+    },
+    {
+      "ecosystem": "python",
+      "name": "conda-libmamba-solver",
+      "version": "23.11.1"
+    },
+    {
+      "ecosystem": "python",
+      "name": "conda-package-handling",
+      "version": "2.2.0"
+    },
+    {
+      "ecosystem": "python",
+      "name": "conda-package-streaming",
+      "version": "0.9.0"
+    },
+    {
+      "ecosystem": "python",
+      "name": "cryptography",
+      "version": "41.0.5"
+    },
+    {
+      "ecosystem": "python",
+      "name": "cytoolz",
+      "version": "0.12.2"
+    },
+    {
+      "ecosystem": "python",
+      "name": "dask",
+      "version": "2023.10.1"
+    },
+    {
+      "ecosystem": "python",
+      "name": "dbus-python",
+      "version": "1.2.18"
+    },
+    {
+      "ecosystem": "python",
+      "name": "defusedxml",
+      "version": "0.7.1"
+    },
+    {
+      "ecosystem": "python",
+      "name": "distributed",
+      "version": "2023.10.1"
+    },
+    {
+      "ecosystem": "python",
+      "name": "entrypoints",
+      "version": "0.4"
+    },
+    {
+      "ecosystem": "python",
+      "name": "exceptiongroup",
+      "version": "1.1.3"
+    },
+    {
+      "ecosystem": "python",
+      "name": "fasteners",
+      "version": "0.17.3"
+    },
+    {
+      "ecosystem": "python",
+      "name": "fastjsonschema",
+      "version": "2.19.0"
+    },
+    {
+      "ecosystem": "python",
+      "name": "fqdn",
+      "version": "1.5.1"
+    },
+    {
+      "ecosystem": "python",
+      "name": "frozenlist",
+      "version": "1.4.0"
+    },
+    {
+      "ecosystem": "python",
+      "name": "fsspec",
+      "version": "2023.10.0"
+    },
+    {
+      "ecosystem": "python",
+      "name": "gpg",
+      "version": "1.15.1"
+    },
+    {
+      "ecosystem": "python",
+      "name": "h5py",
+      "version": "3.10.0"
+    },
+    {
+      "ecosystem": "python",
+      "name": "heapdict",
+      "version": "1.0.1"
+    },
+    {
+      "ecosystem": "python",
+      "name": "html5lib",
+      "version": "1.1"
+    },
+    {
+      "ecosystem": "python",
+      "name": "idna",
+      "version": "3.4"
+    },
+    {
+      "ecosystem": "python",
+      "name": "importlib-metadata",
+      "version": "6.8.0"
+    },
+    {
+      "ecosystem": "python",
+      "name": "importlib-resources",
+      "version": "6.1.1"
+    },
+    {
+      "ecosystem": "python",
+      "name": "isoduration",
+      "version": "20.11.0"
+    },
+    {
+      "ecosystem": "python",
+      "name": "jinja2",
+      "version": "3.1.2"
+    },
+    {
+      "ecosystem": "python",
+      "name": "jmespath",
+      "version": "1.0.1"
+    },
+    {
+      "ecosystem": "python",
+      "name": "jsonpatch",
+      "version": "1.32"
+    },
+    {
+      "ecosystem": "python",
+      "name": "jsonpointer",
+      "version": "2.0"
+    },
+    {
+      "ecosystem": "python",
+      "name": "jsonschema",
+      "version": "4.19.2"
+    },
+    {
+      "ecosystem": "python",
+      "name": "jsonschema-specifications",
+      "version": "2023.11.1"
+    },
+    {
+      "ecosystem": "python",
+      "name": "jupyter-client",
+      "version": "8.6.0"
+    },
+    {
+      "ecosystem": "python",
+      "name": "jupyter-core",
+      "version": "5.5.0"
+    },
+    {
+      "ecosystem": "python",
+      "name": "jupyter-events",
+      "version": "0.9.0"
+    },
+    {
+      "ecosystem": "python",
+      "name": "jupyter-server",
+      "version": "2.10.1"
+    },
+    {
+      "ecosystem": "python",
+      "name": "jupyter-server-proxy",
+      "version": "4.1.0"
+    },
+    {
+      "ecosystem": "python",
+      "name": "jupyter-server-terminals",
+      "version": "0.4.4"
+    },
+    {
+      "ecosystem": "python",
+      "name": "jupyterlab-pygments",
+      "version": "0.2.2"
+    },
+    {
+      "ecosystem": "python",
+      "name": "libcomps",
+      "version": "0.1.18"
+    },
+    {
+      "ecosystem": "python",
+      "name": "libmambapy",
+      "version": "1.5.3"
+    },
+    {
+      "ecosystem": "python",
+      "name": "locket",
+      "version": "1.0.0"
+    },
+    {
+      "ecosystem": "python",
+      "name": "lz4",
+      "version": "4.3.2"
+    },
+    {
+      "ecosystem": "python",
+      "name": "mamba",
+      "version": "1.5.3"
+    },
+    {
+      "ecosystem": "python",
+      "name": "markupsafe",
+      "version": "2.1.3"
+    },
+    {
+      "ecosystem": "python",
+      "name": "mistune",
+      "version": "3.0.2"
+    },
+    {
+      "ecosystem": "python",
+      "name": "msgpack",
+      "version": "1.0.6"
+    },
+    {
+      "ecosystem": "python",
+      "name": "multidict",
+      "version": "6.0.4"
+    },
+    {
+      "ecosystem": "python",
+      "name": "nbclient",
+      "version": "0.8.0"
+    },
+    {
+      "ecosystem": "python",
+      "name": "nbconvert",
+      "version": "7.11.0"
+    },
+    {
+      "ecosystem": "python",
+      "name": "nbformat",
+      "version": "5.9.2"
+    },
+    {
+      "ecosystem": "python",
+      "name": "numcodecs",
+      "version": "0.12.1"
+    },
+    {
+      "ecosystem": "python",
+      "name": "numpy",
+      "version": "1.26.0"
+    },
+    {
+      "ecosystem": "python",
+      "name": "overrides",
+      "version": "7.4.0"
+    },
+    {
+      "ecosystem": "python",
+      "name": "packaging",
+      "version": "23.1"
+    },
+    {
+      "ecosystem": "python",
+      "name": "pandas",
+      "version": "1.5.1"
+    },
+    {
+      "ecosystem": "python",
+      "name": "pandocfilters",
+      "version": "1.5.0"
+    },
+    {
+      "ecosystem": "python",
+      "name": "partd",
+      "version": "1.4.1"
+    },
+    {
+      "ecosystem": "python",
+      "name": "pillow",
+      "version": "10.1.0"
+    },
+    {
+      "ecosystem": "python",
+      "name": "pip",
+      "version": "23.3.1"
+    },
+    {
+      "ecosystem": "python",
+      "name": "pkgutil-resolve-name",
+      "version": "1.3.10"
+    },
+    {
+      "ecosystem": "python",
+      "name": "platformdirs",
+      "version": "4.0.0"
+    },
+    {
+      "ecosystem": "python",
+      "name": "pluggy",
+      "version": "1.3.0"
+    },
+    {
+      "ecosystem": "python",
+      "name": "prometheus-client",
+      "version": "0.18.0"
+    },
+    {
+      "ecosystem": "python",
+      "name": "psutil",
+      "version": "5.9.5"
+    },
+    {
+      "ecosystem": "python",
+      "name": "ptyprocess",
+      "version": "0.7.0"
+    },
+    {
+      "ecosystem": "python",
+      "name": "pyarrow",
+      "version": "13.0.0"
+    },
+    {
+      "ecosystem": "python",
+      "name": "pycosat",
+      "version": "0.6.6"
+    },
+    {
+      "ecosystem": "python",
+      "name": "pycparser",
+      "version": "2.21"
+    },
+    {
+      "ecosystem": "python",
+      "name": "pygments",
+      "version": "2.16.1"
+    },
+    {
+      "ecosystem": "python",
+      "name": "pyopenssl",
+      "version": "23.2.0"
+    },
+    {
+      "ecosystem": "python",
+      "name": "pysocks",
+      "version": "1.7.1"
+    },
+    {
+      "ecosystem": "python",
+      "name": "python-dateutil",
+      "version": "2.8.2"
+    },
+    {
+      "ecosystem": "python",
+      "name": "python-json-logger",
+      "version": "2.0.7"
+    },
+    {
+      "ecosystem": "python",
+      "name": "pytz",
+      "version": "2023.3.post1"
+    },
+    {
+      "ecosystem": "python",
+      "name": "pyyaml",
+      "version": "6.0.1"
+    },
+    {
+      "ecosystem": "python",
+      "name": "pyzmq",
+      "version": "25.1.1"
+    },
+    {
+      "ecosystem": "python",
+      "name": "referencing",
+      "version": "0.31.0"
+    },
+    {
+      "ecosystem": "python",
+      "name": "requests",
+      "version": "2.31.0"
+    },
+    {
+      "ecosystem": "python",
+      "name": "rfc3339-validator",
+      "version": "0.1.4"
+    },
+    {
+      "ecosystem": "python",
+      "name": "rfc3986-validator",
+      "version": "0.1.1"
+    },
+    {
+      "ecosystem": "python",
+      "name": "rpds-py",
+      "version": "0.12.0"
+    },
+    {
+      "ecosystem": "python",
+      "name": "rpm",
+      "version": "4.16.1.3"
+    },
+    {
+      "ecosystem": "python",
+      "name": "ruamel-yaml",
+      "version": "0.18.5"
+    },
+    {
+      "ecosystem": "python",
+      "name": "ruamel-yaml-clib",
+      "version": "0.2.7"
+    },
+    {
+      "ecosystem": "python",
+      "name": "s3fs",
+      "version": "2023.10.0"
+    },
+    {
+      "ecosystem": "python",
+      "name": "scipy",
+      "version": "1.11.3"
+    },
+    {
+      "ecosystem": "python",
+      "name": "send2trash",
+      "version": "1.8.2"
+    },
+    {
+      "ecosystem": "python",
+      "name": "setuptools",
+      "version": "68.1.2"
+    },
+    {
+      "ecosystem": "python",
+      "name": "simpervisor",
+      "version": "1.0.0"
+    },
+    {
+      "ecosystem": "python",
+      "name": "six",
+      "version": "1.16.0"
+    },
+    {
+      "ecosystem": "python",
+      "name": "sniffio",
+      "version": "1.3.0"
+    },
+    {
+      "ecosystem": "python",
+      "name": "sortedcontainers",
+      "version": "2.4.0"
+    },
+    {
+      "ecosystem": "python",
+      "name": "soupsieve",
+      "version": "2.5"
+    },
+    {
+      "ecosystem": "python",
+      "name": "streamz",
+      "version": "0.6.3"
+    },
+    {
+      "ecosystem": "python",
+      "name": "systemd-python",
+      "version": "234"
+    },
+    {
+      "ecosystem": "python",
+      "name": "tblib",
+      "version": "2.0.0"
+    },
+    {
+      "ecosystem": "python",
+      "name": "terminado",
+      "version": "0.18.0"
+    },
+    {
+      "ecosystem": "python",
+      "name": "tinycss2",
+      "version": "1.2.1"
+    },
+    {
+      "ecosystem": "python",
+      "name": "toolz",
+      "version": "0.12.0"
+    },
+    {
+      "ecosystem": "python",
+      "name": "tornado",
+      "version": "6.3.3"
+    },
+    {
+      "ecosystem": "python",
+      "name": "tqdm",
+      "version": "4.66.1"
+    },
+    {
+      "ecosystem": "python",
+      "name": "traitlets",
+      "version": "5.13.0"
+    },
+    {
+      "ecosystem": "python",
+      "name": "truststore",
+      "version": "0.8.0"
+    },
+    {
+      "ecosystem": "python",
+      "name": "types-python-dateutil",
+      "version": "2.8.19.14"
+    },
+    {
+      "ecosystem": "python",
+      "name": "typing-extensions",
+      "version": "4.8.0"
+    },
+    {
+      "ecosystem": "python",
+      "name": "typing-utils",
+      "version": "0.1.0"
+    },
+    {
+      "ecosystem": "python",
+      "name": "uri-template",
+      "version": "1.3.0"
+    },
+    {
+      "ecosystem": "python",
+      "name": "urllib3",
+      "version": "1.26.18"
+    },
+    {
+      "ecosystem": "python",
+      "name": "webcolors",
+      "version": "1.13"
+    },
+    {
+      "ecosystem": "python",
+      "name": "webencodings",
+      "version": "0.5.1"
+    },
+    {
+      "ecosystem": "python",
+      "name": "websocket-client",
+      "version": "1.6.4"
+    },
+    {
+      "ecosystem": "python",
+      "name": "wheel",
+      "version": "0.41.2"
+    },
+    {
+      "ecosystem": "python",
+      "name": "wrapt",
+      "version": "1.16.0"
+    },
+    {
+      "ecosystem": "python",
+      "name": "yarl",
+      "version": "1.9.2"
+    },
+    {
+      "ecosystem": "python",
+      "name": "zarr",
+      "version": "2.16.1"
+    },
+    {
+      "ecosystem": "python",
+      "name": "zict",
+      "version": "3.0.0"
+    },
+    {
+      "ecosystem": "python",
+      "name": "zipp",
+      "version": "3.17.0"
+    },
+    {
+      "ecosystem": "python",
+      "name": "zstandard",
+      "version": "0.22.0"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "acl",
+      "version": "2.3.1-3.el9"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "alternatives",
+      "version": "1.24-1.0.1.el9"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "audit-libs",
+      "version": "3.0.7-104.el9"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "basesystem",
+      "version": "11-13.el9"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "bash",
+      "version": "5.1.8-6.el9_1"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "bzip2-libs",
+      "version": "1.0.8-8.el9"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "ca-certificates",
+      "version": "2023.2.60_v7.0.306-90.1.el9_2"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "chkconfig",
+      "version": "1.24-1.0.1.el9"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "coreutils",
+      "version": "8.32-34.0.1.el9"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "coreutils-common",
+      "version": "8.32-34.0.1.el9"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "cracklib",
+      "version": "2.9.6-27.el9"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "cracklib-dicts",
+      "version": "2.9.6-27.el9"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "crypto-policies",
+      "version": "20230731-1.git94f0e2c.el9"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "curl",
+      "version": "7.76.1-26.el9_3.2"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "cyrus-sasl-lib",
+      "version": "2.1.27-21.el9"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "dbus",
+      "version": "1:1.12.20-8.0.1.el9"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "dbus-broker",
+      "version": "28-7.el9"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "dbus-common",
+      "version": "1:1.12.20-8.0.1.el9"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "dbus-libs",
+      "version": "1:1.12.20-8.0.1.el9"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "dhcp-client",
+      "version": "12:4.4.2-19.b1.el9"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "dhcp-common",
+      "version": "12:4.4.2-19.b1.el9"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "diffutils",
+      "version": "3.7-12.el9"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "dnf",
+      "version": "4.14.0-8.0.1.el9"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "dnf-data",
+      "version": "4.14.0-8.0.1.el9"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "dnf-plugins-core",
+      "version": "4.3.0-11.0.1.el9_3"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "elfutils-default-yama-scope",
+      "version": "0.189-3.el9"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "elfutils-libelf",
+      "version": "0.189-3.el9"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "elfutils-libs",
+      "version": "0.189-3.el9"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "expat",
+      "version": "2.5.0-1.el9"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "file-libs",
+      "version": "5.39-14.el9"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "filesystem",
+      "version": "3.16-2.el9"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "findutils",
+      "version": "1:4.8.0-6.el9"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "gawk",
+      "version": "5.1.0-6.el9"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "gdbm-libs",
+      "version": "1:1.19-4.el9"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "glib2",
+      "version": "2.68.4-11.el9"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "glibc",
+      "version": "2.34-83.0.1.el9_3.7"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "glibc-common",
+      "version": "2.34-83.0.1.el9_3.7"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "glibc-langpack-en",
+      "version": "2.34-83.0.1.el9_3.7"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "gmp",
+      "version": "1:6.2.0-13.el9"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "gnupg2",
+      "version": "2.3.3-4.el9"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "gnutls",
+      "version": "3.7.6-23.el9"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "gpg-pubkey",
+      "version": "8d8b756f-629e59ec"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "gpgme",
+      "version": "1.15.1-6.el9"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "grep",
+      "version": "3.6-5.el9"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "gzip",
+      "version": "1.12-1.el9"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "hostname",
+      "version": "3.23-6.el9"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "ima-evm-utils",
+      "version": "1.4-4.el9"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "initscripts",
+      "version": "10.11.5-1.el9"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "initscripts-rename-device",
+      "version": "10.11.5-1.el9"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "initscripts-service",
+      "version": "10.11.5-1.el9"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "ipcalc",
+      "version": "1.0.0-5.el9"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "iproute",
+      "version": "6.2.0-5.el9"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "iputils",
+      "version": "20210202-9.0.1.el9"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "json-c",
+      "version": "0.14-11.el9"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "keyutils-libs",
+      "version": "1.6.3-1.el9"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "kmod-libs",
+      "version": "28-9.0.1.el9"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "krb5-libs",
+      "version": "1.21.1-1.0.1.el9"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "libacl",
+      "version": "2.3.1-3.el9"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "libarchive",
+      "version": "3.5.3-4.el9"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "libassuan",
+      "version": "2.5.5-3.el9"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "libattr",
+      "version": "2.5.1-3.el9"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "libblkid",
+      "version": "2.37.4-15.el9"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "libbpf",
+      "version": "2:1.2.0-1.el9"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "libbrotli",
+      "version": "1.0.9-6.el9"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "libcap",
+      "version": "2.48-9.el9_2"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "libcap-ng",
+      "version": "0.8.2-7.el9"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "libcbor",
+      "version": "0.7.0-5.el9"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "libcom_err",
+      "version": "1.46.5-3.el9"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "libcomps",
+      "version": "0.1.18-1.el9"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "libcurl",
+      "version": "7.76.1-26.el9_3.2"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "libdb",
+      "version": "5.3.28-53.0.1.el9"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "libdnf",
+      "version": "0.69.0-6.0.1.el9_3"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "libeconf",
+      "version": "0.4.1-3.el9_2"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "libedit",
+      "version": "3.1-38.20210216cvs.el9"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "libestr",
+      "version": "0.1.11-4.el9"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "libevent",
+      "version": "2.1.12-6.el9"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "libfastjson",
+      "version": "0.99.9-5.el9"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "libfdisk",
+      "version": "2.37.4-15.el9"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "libffi",
+      "version": "3.4.2-8.el9"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "libfido2",
+      "version": "1.13.0-1.el9"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "libgcc",
+      "version": "11.4.1-2.1.0.1.el9"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "libgcrypt",
+      "version": "1.10.0-10.el9_2"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "libgomp",
+      "version": "11.4.1-2.1.0.1.el9"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "libgpg-error",
+      "version": "1.42-5.el9"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "libidn2",
+      "version": "2.3.0-7.el9"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "libksba",
+      "version": "1.5.1-6.el9_1"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "libmnl",
+      "version": "1.0.4-15.el9"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "libmodulemd",
+      "version": "2.13.0-2.el9"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "libmount",
+      "version": "2.37.4-15.el9"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "libnghttp2",
+      "version": "1.43.0-5.el9_3.1"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "libpsl",
+      "version": "0.21.1-5.el9"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "libpwquality",
+      "version": "1.4.4-8.el9"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "librepo",
+      "version": "1.14.5-1.el9"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "libreport-filesystem",
+      "version": "2.15.2-6.0.3.el9"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "libseccomp",
+      "version": "2.5.2-2.el9"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "libselinux",
+      "version": "3.5-1.el9"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "libselinux-utils",
+      "version": "3.5-1.el9"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "libsemanage",
+      "version": "3.5-2.el9"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "libsepol",
+      "version": "3.5-1.el9"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "libsigsegv",
+      "version": "2.13-4.el9"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "libsmartcols",
+      "version": "2.37.4-15.el9"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "libsolv",
+      "version": "0.7.24-2.el9"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "libssh",
+      "version": "0.10.4-11.el9"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "libssh-config",
+      "version": "0.10.4-11.el9"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "libstdc++",
+      "version": "11.4.1-2.1.0.1.el9"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "libtasn1",
+      "version": "4.16.0-8.el9_1"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "libunistring",
+      "version": "0.9.10-15.el9"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "libuser",
+      "version": "0.63-13.el9"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "libutempter",
+      "version": "1.2.1-6.el9"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "libuuid",
+      "version": "2.37.4-15.el9"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "libverto",
+      "version": "0.3.2-3.el9"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "libxcrypt",
+      "version": "4.4.18-3.el9"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "libxcrypt-compat",
+      "version": "4.4.18-3.el9"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "libxml2",
+      "version": "2.9.13-4.el9"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "libyaml",
+      "version": "0.2.5-7.el9"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "libzstd",
+      "version": "1.5.1-2.el9"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "lua-libs",
+      "version": "5.4.4-4.el9"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "lz4-libs",
+      "version": "1.9.3-5.el9"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "mpfr",
+      "version": "4.1.0-7.el9"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "ncurses-base",
+      "version": "6.2-10.20210508.el9"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "ncurses-libs",
+      "version": "6.2-10.20210508.el9"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "net-tools",
+      "version": "2.0-0.62.20160912git.el9"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "nettle",
+      "version": "3.8-3.el9_0"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "npth",
+      "version": "1.6-8.el9"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "openldap",
+      "version": "2.6.3-1.el9"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "openssh",
+      "version": "8.7p1-34.el9"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "openssh-clients",
+      "version": "8.7p1-34.el9"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "openssh-server",
+      "version": "8.7p1-34.el9"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "openssl",
+      "version": "1:3.0.7-24.0.1.el9"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "openssl-libs",
+      "version": "1:3.0.7-24.0.1.el9"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "oraclelinux-release",
+      "version": "9:9.3-1.0.6.el9"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "oraclelinux-release-el9",
+      "version": "1.0-12.el9"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "p11-kit",
+      "version": "0.24.1-2.el9"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "p11-kit-trust",
+      "version": "0.24.1-2.el9"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "pam",
+      "version": "1.5.1-15.el9"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "passwd",
+      "version": "0.80-12.el9"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "pcre",
+      "version": "8.44-3.el9.3"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "pcre2",
+      "version": "10.40-2.0.2.el9"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "pcre2-syntax",
+      "version": "10.40-2.0.2.el9"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "policycoreutils",
+      "version": "3.5-2.el9"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "popt",
+      "version": "1.18-8.el9"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "procps-ng",
+      "version": "3.3.17-13.0.1.el9"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "psmisc",
+      "version": "23.4-3.el9"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "publicsuffix-list-dafsa",
+      "version": "20210518-3.el9"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "python3",
+      "version": "3.9.18-1.el9_3"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "python3-dateutil",
+      "version": "1:2.8.1-7.el9"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "python3-dbus",
+      "version": "1.2.18-2.el9"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "python3-dnf",
+      "version": "4.14.0-8.0.1.el9"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "python3-dnf-plugins-core",
+      "version": "4.3.0-11.0.1.el9_3"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "python3-gpg",
+      "version": "1.15.1-6.el9"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "python3-hawkey",
+      "version": "0.69.0-6.0.1.el9_3"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "python3-libcomps",
+      "version": "0.1.18-1.el9"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "python3-libdnf",
+      "version": "0.69.0-6.0.1.el9_3"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "python3-libs",
+      "version": "3.9.18-1.el9_3"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "python3-pip-wheel",
+      "version": "21.2.3-7.el9"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "python3-rpm",
+      "version": "4.16.1.3-25.el9"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "python3-setuptools-wheel",
+      "version": "53.0.0-12.el9"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "python3-six",
+      "version": "1.15.0-9.0.1.el9"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "python3-systemd",
+      "version": "234-18.el9"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "readline",
+      "version": "8.1-4.el9"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "redhat-release",
+      "version": "3:9.3-0.5.0.1.el9"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "rootfiles",
+      "version": "8.1-31.el9"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "rpm",
+      "version": "4.16.1.3-25.el9"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "rpm-build-libs",
+      "version": "4.16.1.3-25.el9"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "rpm-libs",
+      "version": "4.16.1.3-25.el9"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "rpm-plugin-systemd-inhibit",
+      "version": "4.16.1.3-25.el9"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "rpm-sign-libs",
+      "version": "4.16.1.3-25.el9"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "rsyslog",
+      "version": "8.2102.0-117.el9"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "sed",
+      "version": "4.8-9.el9"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "setup",
+      "version": "2.13.7-9.el9"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "shadow-utils",
+      "version": "2:4.9-8.el9"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "sqlite-libs",
+      "version": "3.34.1-6.el9_1"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "systemd",
+      "version": "252-18.0.1.el9"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "systemd-libs",
+      "version": "252-18.0.1.el9"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "systemd-pam",
+      "version": "252-18.0.1.el9"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "systemd-rpm-macros",
+      "version": "252-18.0.1.el9"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "tar",
+      "version": "2:1.34-6.el9_1"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "tpm2-tss",
+      "version": "3.2.2-2.el9"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "tzdata",
+      "version": "2023c-1.el9"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "util-linux",
+      "version": "2.37.4-15.el9"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "util-linux-core",
+      "version": "2.37.4-15.el9"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "vim-minimal",
+      "version": "2:8.2.2637-20.0.1.el9_1"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "wget",
+      "version": "1.21.1-7.el9"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "which",
+      "version": "2.21-29.el9"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "xz-libs",
+      "version": "5.2.5-8.el9_0"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "yum",
+      "version": "4.14.0-8.0.1.el9"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "yum-utils",
+      "version": "4.3.0-11.0.1.el9_3"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "zlib",
+      "version": "1.2.11-40.el9"
+    }
+  ],
+  "registry": "docker.io",
+  "repository": "biocontainers/dask",
+  "size": 3763759722,
+  "tag": null
+}

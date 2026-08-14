@@ -1,0 +1,2544 @@
+{
+  "architecture": null,
+  "digest": "8fc252347a1f0eea051a7a5a33b2b139b10d4bf166cda2346109f198a95d905a",
+  "entrypoint": [
+    "metabomatching.sh"
+  ],
+  "os": null,
+  "packages": [
+    {
+      "ecosystem": "deb",
+      "name": "adduser",
+      "version": "3.113+nmu3ubuntu4"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "aglfn",
+      "version": "1.7-3"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "apt",
+      "version": "1.2.24"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "aspell",
+      "version": "0.60.7~20110707-3build1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "aspell-en",
+      "version": "7.1-0-1.1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "base-files",
+      "version": "9.4ubuntu4.5"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "base-passwd",
+      "version": "3.5.39"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "bash",
+      "version": "4.3-14ubuntu1.2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "bsdutils",
+      "version": "1:2.27.1-6ubuntu3.3"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "ca-certificates",
+      "version": "20170717~16.04.1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "ca-certificates-java",
+      "version": "20160321ubuntu1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "coreutils",
+      "version": "8.25-2ubuntu3~16.04"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "dash",
+      "version": "0.5.8-2.1ubuntu2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "dbus",
+      "version": "1.10.6-1ubuntu3.3"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "dbus-x11",
+      "version": "1.10.6-1ubuntu3.3"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "debconf",
+      "version": "1.5.58ubuntu1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "debianutils",
+      "version": "4.7"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "default-jre-headless",
+      "version": "2:1.8-56ubuntu2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "dh-python",
+      "version": "2.20151103ubuntu1.1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "dictionaries-common",
+      "version": "1.26.3"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "diffutils",
+      "version": "1:3.3-3"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "dpkg",
+      "version": "1.18.4ubuntu1.3"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "e2fslibs",
+      "version": "1.42.13-1ubuntu1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "e2fsprogs",
+      "version": "1.42.13-1ubuntu1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "emacsen-common",
+      "version": "2.0.8"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "enchant",
+      "version": "1.6.0-10.1build2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "file",
+      "version": "1:5.25-2ubuntu1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "findutils",
+      "version": "4.6.0+git+20160126-2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "fontconfig",
+      "version": "2.11.94-0ubuntu1.1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "fontconfig-config",
+      "version": "2.11.94-0ubuntu1.1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "fonts-dejavu-core",
+      "version": "2.35-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "gawk",
+      "version": "1:4.1.3+dfsg-0.1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "gcc-5-base",
+      "version": "5.4.0-6ubuntu1~16.04.5"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "gcc-6-base",
+      "version": "6.0.1-0ubuntu1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "gcj-5-jre-lib",
+      "version": "5.4.0-6ubuntu1~16.04.5"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "gconf-service",
+      "version": "3.2.6-3ubuntu6"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "gconf-service-backend",
+      "version": "3.2.6-3ubuntu6"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "gconf2",
+      "version": "3.2.6-3ubuntu6"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "gconf2-common",
+      "version": "3.2.6-3ubuntu6"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "ghostscript",
+      "version": "9.18~dfsg~0-0ubuntu2.7"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "git",
+      "version": "1:2.7.4-0ubuntu1.3"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "git-man",
+      "version": "1:2.7.4-0ubuntu1.3"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "gnupg",
+      "version": "1.4.20-1ubuntu3.1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "gnuplot-data",
+      "version": "4.6.6-3"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "gnuplot-tex",
+      "version": "4.6.6-3"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "gnuplot-x11",
+      "version": "4.6.6-3"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "gpgv",
+      "version": "1.4.20-1ubuntu3.1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "grep",
+      "version": "2.25-1~16.04.1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "gsfonts",
+      "version": "1:8.11+urwcyr1.0.7~pre44-4.2ubuntu1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "gzip",
+      "version": "1.6-4ubuntu1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "hicolor-icon-theme",
+      "version": "0.15-0ubuntu1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "hostname",
+      "version": "3.16ubuntu2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "hunspell-en-us",
+      "version": "20070829-6ubuntu3"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "ifupdown",
+      "version": "0.8.10ubuntu1.2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "imagemagick",
+      "version": "8:6.8.9.9-7ubuntu5.9"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "imagemagick-6.q16",
+      "version": "8:6.8.9.9-7ubuntu5.9"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "imagemagick-common",
+      "version": "8:6.8.9.9-7ubuntu5.9"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "init",
+      "version": "1.29ubuntu4"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "init-system-helpers",
+      "version": "1.29ubuntu4"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "initscripts",
+      "version": "2.88dsf-59.3ubuntu2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "inkscape",
+      "version": "0.91-7ubuntu2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "insserv",
+      "version": "1.14.0-5ubuntu3"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "iproute2",
+      "version": "4.3.0-1ubuntu3.16.04.3"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "isc-dhcp-client",
+      "version": "4.3.3-5ubuntu12.7"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "isc-dhcp-common",
+      "version": "4.3.3-5ubuntu12.7"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "java-common",
+      "version": "0.56ubuntu2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "krb5-locales",
+      "version": "1.13.2+dfsg-5ubuntu2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "less",
+      "version": "481-2.1ubuntu0.2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libacl1",
+      "version": "2.2.52-3"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libaec0",
+      "version": "0.3.2-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libamd2.4.1",
+      "version": "1:4.4.6-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libapparmor1",
+      "version": "2.10.95-0ubuntu2.7"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libapt-pkg5.0",
+      "version": "1.2.24"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libarpack2",
+      "version": "3.3.0-1build2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libasn1-8-heimdal",
+      "version": "1.7~git20150920+dfsg-4ubuntu1.16.04.1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libasound2",
+      "version": "1.1.0-0ubuntu1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libasound2-data",
+      "version": "1.1.0-0ubuntu1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libaspell15",
+      "version": "0.60.7~20110707-3build1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libatk1.0-0",
+      "version": "2.18.0-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libatk1.0-data",
+      "version": "2.18.0-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libatkmm-1.6-1v5",
+      "version": "2.24.2-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libatm1",
+      "version": "1:2.5.1-1.5"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libattr1",
+      "version": "1:2.4.47-2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libaudio2",
+      "version": "1.9.4-4"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libaudit-common",
+      "version": "1:2.4.5-1ubuntu2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libaudit1",
+      "version": "1:2.4.5-1ubuntu2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libauthen-sasl-perl",
+      "version": "2.1600-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libavahi-client3",
+      "version": "0.6.32~rc+dfsg-1ubuntu2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libavahi-common-data",
+      "version": "0.6.32~rc+dfsg-1ubuntu2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libavahi-common3",
+      "version": "0.6.32~rc+dfsg-1ubuntu2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libavahi-glib1",
+      "version": "0.6.32~rc+dfsg-1ubuntu2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libblas-common",
+      "version": "3.6.0-2ubuntu2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libblas3",
+      "version": "3.6.0-2ubuntu2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libblkid1",
+      "version": "2.27.1-6ubuntu3.3"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libbsd0",
+      "version": "0.8.2-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libbz2-1.0",
+      "version": "1.0.6-8"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libc-bin",
+      "version": "2.23-0ubuntu9"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libc6",
+      "version": "2.23-0ubuntu9"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libcairo2",
+      "version": "1.14.6-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libcairomm-1.0-1v5",
+      "version": "1.12.0-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libcamd2.4.1",
+      "version": "1:4.4.6-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libcap-ng0",
+      "version": "0.7.7-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libcap2",
+      "version": "1:2.24-12"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libcap2-bin",
+      "version": "1:2.24-12"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libccolamd2.9.1",
+      "version": "1:4.4.6-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libcdr-0.1-1",
+      "version": "0.1.2-2ubuntu2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libcholmod3.0.6",
+      "version": "1:4.4.6-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libcolamd2.9.1",
+      "version": "1:4.4.6-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libcomerr2",
+      "version": "1.42.13-1ubuntu1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libcroco3",
+      "version": "0.6.11-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libcryptsetup4",
+      "version": "2:1.6.6-5ubuntu2.1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libcups2",
+      "version": "2.1.3-4ubuntu0.3"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libcupsfilters1",
+      "version": "1.8.3-2ubuntu3.1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libcupsimage2",
+      "version": "2.1.3-4ubuntu0.3"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libcurl3-gnutls",
+      "version": "7.47.0-1ubuntu2.5"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libcxsparse3.1.4",
+      "version": "1:4.4.6-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libdatrie1",
+      "version": "0.2.10-2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libdb5.3",
+      "version": "5.3.28-11ubuntu0.1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libdbus-1-3",
+      "version": "1.10.6-1ubuntu3.3"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libdbus-glib-1-2",
+      "version": "0.106-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libdebconfclient0",
+      "version": "0.198ubuntu1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libdevmapper1.02.1",
+      "version": "2:1.02.110-1ubuntu10"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libdjvulibre-text",
+      "version": "3.5.27.1-5"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libdjvulibre21",
+      "version": "3.5.27.1-5"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libdns-export162",
+      "version": "1:9.10.3.dfsg.P4-8ubuntu1.10"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libdrm-amdgpu1",
+      "version": "2.4.83-1~16.04.1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libdrm-common",
+      "version": "2.4.83-1~16.04.1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libdrm-intel1",
+      "version": "2.4.83-1~16.04.1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libdrm-nouveau2",
+      "version": "2.4.83-1~16.04.1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libdrm-radeon1",
+      "version": "2.4.83-1~16.04.1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libdrm2",
+      "version": "2.4.83-1~16.04.1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libedit2",
+      "version": "3.1-20150325-1ubuntu2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libelf1",
+      "version": "0.165-3ubuntu1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libenchant1c2a",
+      "version": "1.6.0-10.1build2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libencode-locale-perl",
+      "version": "1.05-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "liberror-perl",
+      "version": "0.17-1.2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libexpat1",
+      "version": "2.1.0-7ubuntu0.16.04.3"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libfdisk1",
+      "version": "2.27.1-6ubuntu3.3"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libffi6",
+      "version": "3.2.1-4"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libfftw3-double3",
+      "version": "3.3.4-2ubuntu1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libfftw3-single3",
+      "version": "3.3.4-2ubuntu1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libfile-listing-perl",
+      "version": "6.04-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libflac8",
+      "version": "1.3.1-4"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libfltk-gl1.3",
+      "version": "1.3.3-7"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libfltk1.3",
+      "version": "1.3.3-7"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libfont-afm-perl",
+      "version": "1.20-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libfontconfig1",
+      "version": "2.11.94-0ubuntu1.1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libfreetype6",
+      "version": "2.6.1-0.1ubuntu2.3"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libgc1c2",
+      "version": "1:7.4.2-7.3ubuntu0.1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libgcc1",
+      "version": "1:6.0.1-0ubuntu1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libgcj-common",
+      "version": "1:4.9.3-9ubuntu1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libgcj16",
+      "version": "5.4.0-6ubuntu1~16.04.5"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libgconf-2-4",
+      "version": "3.2.6-3ubuntu6"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libgcrypt20",
+      "version": "1.6.5-2ubuntu0.3"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libgd3",
+      "version": "2.1.1-4ubuntu0.16.04.8"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libgdbm3",
+      "version": "1.8.3-13.1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libgdk-pixbuf2.0-0",
+      "version": "2.32.2-1ubuntu1.4"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libgdk-pixbuf2.0-common",
+      "version": "2.32.2-1ubuntu1.4"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libgfortran3",
+      "version": "5.4.0-6ubuntu1~16.04.5"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libgl1-mesa-dri",
+      "version": "17.2.4-0ubuntu1~16.04.4"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libgl1-mesa-glx",
+      "version": "17.2.4-0ubuntu1~16.04.4"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libgl2ps0",
+      "version": "1.3.8-1.2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libglapi-mesa",
+      "version": "17.2.4-0ubuntu1~16.04.4"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libglib2.0-0",
+      "version": "2.48.2-0ubuntu1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libglib2.0-data",
+      "version": "2.48.2-0ubuntu1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libglibmm-2.4-1v5",
+      "version": "2.46.3-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libglpk36",
+      "version": "4.57-1build3"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libglu1-mesa",
+      "version": "9.0.0-2.1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libgmp10",
+      "version": "2:6.1.0+dfsg-2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libgnomevfs2-0",
+      "version": "1:2.24.4-6.1ubuntu1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libgnomevfs2-common",
+      "version": "1:2.24.4-6.1ubuntu1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libgnomevfs2-extra",
+      "version": "1:2.24.4-6.1ubuntu1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libgnutls30",
+      "version": "3.4.10-4ubuntu1.4"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libgomp1",
+      "version": "5.4.0-6ubuntu1~16.04.5"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libgpg-error0",
+      "version": "1.21-2ubuntu1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libgraphicsmagick++-q16-12",
+      "version": "1.3.23-1build1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libgraphicsmagick-q16-3",
+      "version": "1.3.23-1build1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libgraphite2-3",
+      "version": "1.3.10-0ubuntu0.16.04.1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libgs9",
+      "version": "9.18~dfsg~0-0ubuntu2.7"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libgs9-common",
+      "version": "9.18~dfsg~0-0ubuntu2.7"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libgsl2",
+      "version": "2.1+dfsg-2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libgssapi-krb5-2",
+      "version": "1.13.2+dfsg-5ubuntu2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libgssapi3-heimdal",
+      "version": "1.7~git20150920+dfsg-4ubuntu1.16.04.1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libgtk2.0-0",
+      "version": "2.24.30-1ubuntu1.16.04.2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libgtk2.0-bin",
+      "version": "2.24.30-1ubuntu1.16.04.2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libgtk2.0-common",
+      "version": "2.24.30-1ubuntu1.16.04.2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libgtkmm-2.4-1v5",
+      "version": "1:2.24.4-2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libgtkspell0",
+      "version": "2.0.16-1.1ubuntu1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libharfbuzz0b",
+      "version": "1.0.1-1ubuntu0.1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libhcrypto4-heimdal",
+      "version": "1.7~git20150920+dfsg-4ubuntu1.16.04.1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libhdf5-10",
+      "version": "1.8.16+docs-4ubuntu1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libheimbase1-heimdal",
+      "version": "1.7~git20150920+dfsg-4ubuntu1.16.04.1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libheimntlm0-heimdal",
+      "version": "1.7~git20150920+dfsg-4ubuntu1.16.04.1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libhogweed4",
+      "version": "3.2-1ubuntu0.16.04.1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libhtml-form-perl",
+      "version": "6.03-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libhtml-format-perl",
+      "version": "2.11-2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libhtml-parser-perl",
+      "version": "3.72-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libhtml-tagset-perl",
+      "version": "3.20-2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libhtml-tree-perl",
+      "version": "5.03-2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libhttp-cookies-perl",
+      "version": "6.01-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libhttp-daemon-perl",
+      "version": "6.01-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libhttp-date-perl",
+      "version": "6.02-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libhttp-message-perl",
+      "version": "6.11-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libhttp-negotiate-perl",
+      "version": "6.00-2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libhunspell-1.3-0",
+      "version": "1.3.3-4ubuntu1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libhx509-5-heimdal",
+      "version": "1.7~git20150920+dfsg-4ubuntu1.16.04.1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libice6",
+      "version": "2:1.0.9-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libicu55",
+      "version": "55.1-7ubuntu0.3"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libidn11",
+      "version": "1.32-3ubuntu1.2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libijs-0.35",
+      "version": "0.35-12"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libilmbase12",
+      "version": "2.2.0-11ubuntu2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libimage-magick-perl",
+      "version": "8:6.8.9.9-7ubuntu5.9"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libimage-magick-q16-perl",
+      "version": "8:6.8.9.9-7ubuntu5.9"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libio-html-perl",
+      "version": "1.001-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libio-socket-ssl-perl",
+      "version": "2.024-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libisc-export160",
+      "version": "1:9.10.3.dfsg.P4-8ubuntu1.10"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libjack-jackd2-0",
+      "version": "1.9.10+20150825git1ed50c92~dfsg-1ubuntu1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libjasper1",
+      "version": "1.900.1-debian1-2.4ubuntu1.1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libjbig0",
+      "version": "2.1-3.1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libjbig2dec0",
+      "version": "0.12+20150918-1ubuntu0.1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libjpeg-turbo8",
+      "version": "1.4.2-0ubuntu3"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libjpeg8",
+      "version": "8c-2ubuntu8"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libk5crypto3",
+      "version": "1.13.2+dfsg-5ubuntu2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libkeyutils1",
+      "version": "1.5.9-8ubuntu1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libkmod2",
+      "version": "22-1ubuntu5"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libkrb5-26-heimdal",
+      "version": "1.7~git20150920+dfsg-4ubuntu1.16.04.1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libkrb5-3",
+      "version": "1.13.2+dfsg-5ubuntu2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libkrb5support0",
+      "version": "1.13.2+dfsg-5ubuntu2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "liblapack3",
+      "version": "3.6.0-2ubuntu2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "liblcms2-2",
+      "version": "2.6-3ubuntu2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libldap-2.4-2",
+      "version": "2.4.42+dfsg-2ubuntu3.2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libllvm5.0",
+      "version": "1:5.0-3~16.04.1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "liblqr-1-0",
+      "version": "0.4.2-2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libltdl7",
+      "version": "2.4.6-0.1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "liblua5.1-0",
+      "version": "5.1.5-8ubuntu1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "liblwp-mediatypes-perl",
+      "version": "6.02-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "liblwp-protocol-https-perl",
+      "version": "6.06-2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "liblz4-1",
+      "version": "0.0~r131-2ubuntu2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "liblzma5",
+      "version": "5.1.1alpha+20120614-2ubuntu2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libmagic1",
+      "version": "1:5.25-2ubuntu1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libmagick++-6.q16-5v5",
+      "version": "8:6.8.9.9-7ubuntu5.9"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libmagickcore-6.q16-2",
+      "version": "8:6.8.9.9-7ubuntu5.9"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libmagickcore-6.q16-2-extra",
+      "version": "8:6.8.9.9-7ubuntu5.9"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libmagickwand-6.q16-2",
+      "version": "8:6.8.9.9-7ubuntu5.9"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libmailtools-perl",
+      "version": "2.13-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libmng2",
+      "version": "2.0.2-0ubuntu3"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libmnl0",
+      "version": "1.0.3-5"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libmount1",
+      "version": "2.27.1-6ubuntu3.3"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libmpdec2",
+      "version": "2.4.2-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libmpfr4",
+      "version": "3.1.4-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libmysqlclient20",
+      "version": "5.7.21-0ubuntu0.16.04.1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libncurses5",
+      "version": "6.0+20160213-1ubuntu1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libncursesw5",
+      "version": "6.0+20160213-1ubuntu1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libnet-http-perl",
+      "version": "6.09-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libnet-smtp-ssl-perl",
+      "version": "1.03-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libnet-ssleay-perl",
+      "version": "1.72-1build1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libnetpbm10",
+      "version": "2:10.0-15.3"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libnettle6",
+      "version": "3.2-1ubuntu0.16.04.1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libnspr4",
+      "version": "2:4.13.1-0ubuntu0.16.04.1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libnss3",
+      "version": "2:3.28.4-0ubuntu0.16.04.3"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libnss3-nssdb",
+      "version": "2:3.28.4-0ubuntu0.16.04.3"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "liboctave3",
+      "version": "4.0.0-3ubuntu9.1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libogg0",
+      "version": "1.3.2-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libopenblas-base",
+      "version": "0.2.18-1ubuntu1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libopenexr22",
+      "version": "2.2.0-10ubuntu2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libosmesa6",
+      "version": "17.2.4-0ubuntu1~16.04.4"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libp11-kit0",
+      "version": "0.23.2-5~ubuntu16.04.1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libpam-modules",
+      "version": "1.1.8-3.2ubuntu2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libpam-modules-bin",
+      "version": "1.1.8-3.2ubuntu2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libpam-runtime",
+      "version": "1.1.8-3.2ubuntu2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libpam0g",
+      "version": "1.1.8-3.2ubuntu2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libpango-1.0-0",
+      "version": "1.38.1-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libpangocairo-1.0-0",
+      "version": "1.38.1-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libpangoft2-1.0-0",
+      "version": "1.38.1-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libpangomm-1.4-1v5",
+      "version": "2.38.1-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libpaper-utils",
+      "version": "1.1.24+nmu4ubuntu1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libpaper1",
+      "version": "1.1.24+nmu4ubuntu1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libpciaccess0",
+      "version": "0.13.4-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libpcre3",
+      "version": "2:8.38-3.1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libpcsclite1",
+      "version": "1.8.14-1ubuntu1.16.04.1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libperl5.22",
+      "version": "5.22.1-9ubuntu0.2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libpixman-1-0",
+      "version": "0.33.6-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libplot2c2",
+      "version": "2.6-3ubuntu1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libpng12-0",
+      "version": "1.2.54-1ubuntu1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libpoppler-glib8",
+      "version": "0.41.0-0ubuntu1.6"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libpoppler58",
+      "version": "0.41.0-0ubuntu1.6"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libpopt0",
+      "version": "1.16-10"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libportaudio2",
+      "version": "19+svn20140130-1build1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libprocps4",
+      "version": "2:3.3.10-4ubuntu2.3"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libpstoedit0c2a",
+      "version": "3.70-1ubuntu2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libpython-stdlib",
+      "version": "2.7.11-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libpython2.7-minimal",
+      "version": "2.7.12-1ubuntu0~16.04.3"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libpython2.7-stdlib",
+      "version": "2.7.12-1ubuntu0~16.04.3"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libpython3-stdlib",
+      "version": "3.5.1-3"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libpython3.5-minimal",
+      "version": "3.5.2-2ubuntu0~16.04.4"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libpython3.5-stdlib",
+      "version": "3.5.2-2ubuntu0~16.04.4"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libqhull7",
+      "version": "2015.2-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libqrupdate1",
+      "version": "1.1.2-1build1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libqscintilla2-12v5",
+      "version": "2.9.1+dfsg-4build1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libqscintilla2-l10n",
+      "version": "2.9.1+dfsg-4build1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libqt4-dbus",
+      "version": "4:4.8.7+dfsg-5ubuntu2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libqt4-declarative",
+      "version": "4:4.8.7+dfsg-5ubuntu2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libqt4-network",
+      "version": "4:4.8.7+dfsg-5ubuntu2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libqt4-opengl",
+      "version": "4:4.8.7+dfsg-5ubuntu2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libqt4-script",
+      "version": "4:4.8.7+dfsg-5ubuntu2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libqt4-sql",
+      "version": "4:4.8.7+dfsg-5ubuntu2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libqt4-sql-mysql",
+      "version": "4:4.8.7+dfsg-5ubuntu2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libqt4-xml",
+      "version": "4:4.8.7+dfsg-5ubuntu2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libqt4-xmlpatterns",
+      "version": "4:4.8.7+dfsg-5ubuntu2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libqtcore4",
+      "version": "4:4.8.7+dfsg-5ubuntu2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libqtdbus4",
+      "version": "4:4.8.7+dfsg-5ubuntu2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libqtgui4",
+      "version": "4:4.8.7+dfsg-5ubuntu2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libquadmath0",
+      "version": "5.4.0-6ubuntu1~16.04.5"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libreadline6",
+      "version": "6.3-8ubuntu2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "librevenge-0.0-0",
+      "version": "0.0.4-4ubuntu1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libroken18-heimdal",
+      "version": "1.7~git20150920+dfsg-4ubuntu1.16.04.1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "librsvg2-2",
+      "version": "2.40.13-3"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "librsvg2-common",
+      "version": "2.40.13-3"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "librtmp1",
+      "version": "2.4+20151223.gitfa8646d-1ubuntu0.1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libsamplerate0",
+      "version": "0.1.8-8"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libsasl2-2",
+      "version": "2.1.26.dfsg1-14build1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libsasl2-modules",
+      "version": "2.1.26.dfsg1-14build1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libsasl2-modules-db",
+      "version": "2.1.26.dfsg1-14build1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libseccomp2",
+      "version": "2.3.1-2.1ubuntu2~16.04.1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libselinux1",
+      "version": "2.4-3build2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libsemanage-common",
+      "version": "2.3-1build3"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libsemanage1",
+      "version": "2.3-1build3"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libsensors4",
+      "version": "1:3.4.0-2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libsepol1",
+      "version": "2.4-2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libsigc++-2.0-0v5",
+      "version": "2.6.2-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libsigsegv2",
+      "version": "2.10-4"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libsm6",
+      "version": "2:1.2.2-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libsmartcols1",
+      "version": "2.27.1-6ubuntu3.3"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libsndfile1",
+      "version": "1.0.25-10ubuntu0.16.04.1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libsqlite3-0",
+      "version": "3.11.0-1ubuntu1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libss2",
+      "version": "1.42.13-1ubuntu1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libssl1.0.0",
+      "version": "1.0.2g-1ubuntu4.10"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libstdc++6",
+      "version": "5.4.0-6ubuntu1~16.04.5"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libsuitesparseconfig4.4.6",
+      "version": "1:4.4.6-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libsystemd0",
+      "version": "229-4ubuntu21"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libsz2",
+      "version": "0.3.2-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libtasn1-6",
+      "version": "4.7-3ubuntu0.16.04.2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libtext-iconv-perl",
+      "version": "1.7-5build4"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libtext-unidecode-perl",
+      "version": "1.27-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libthai-data",
+      "version": "0.1.24-2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libthai0",
+      "version": "0.1.24-2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libtiff5",
+      "version": "4.0.6-1ubuntu0.2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libtimedate-perl",
+      "version": "2.3000-2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libtinfo5",
+      "version": "6.0+20160213-1ubuntu1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libtxc-dxtn-s2tc0",
+      "version": "0~git20131104-1.1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libudev1",
+      "version": "229-4ubuntu21"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libumfpack5.7.1",
+      "version": "1:4.4.6-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "liburi-perl",
+      "version": "1.71-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libusb-0.1-4",
+      "version": "2:0.1.12-28"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libustr-1.0-1",
+      "version": "1.0.4-5"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libuuid1",
+      "version": "2.27.1-6ubuntu3.3"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libvisio-0.1-1",
+      "version": "0.1.5-1ubuntu1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libvorbis0a",
+      "version": "1.3.5-3"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libvorbisenc2",
+      "version": "1.3.5-3"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libvpx3",
+      "version": "1.5.0-2ubuntu1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libwebp5",
+      "version": "0.4.4-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libwind0-heimdal",
+      "version": "1.7~git20150920+dfsg-4ubuntu1.16.04.1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libwmf-bin",
+      "version": "0.2.8.4-10.5ubuntu1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libwmf0.2-7",
+      "version": "0.2.8.4-10.5ubuntu1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libwpd-0.10-10",
+      "version": "0.10.1-1ubuntu1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libwpg-0.3-3",
+      "version": "0.3.1-1ubuntu1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libwww-perl",
+      "version": "6.15-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libwww-robotrules-perl",
+      "version": "6.01-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libx11-6",
+      "version": "2:1.6.3-1ubuntu2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libx11-data",
+      "version": "2:1.6.3-1ubuntu2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libx11-xcb1",
+      "version": "2:1.6.3-1ubuntu2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libxau6",
+      "version": "1:1.0.8-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libxaw7",
+      "version": "2:1.0.13-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libxcb-dri2-0",
+      "version": "1.11.1-1ubuntu1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libxcb-dri3-0",
+      "version": "1.11.1-1ubuntu1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libxcb-glx0",
+      "version": "1.11.1-1ubuntu1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libxcb-present0",
+      "version": "1.11.1-1ubuntu1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libxcb-render0",
+      "version": "1.11.1-1ubuntu1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libxcb-shm0",
+      "version": "1.11.1-1ubuntu1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libxcb-sync1",
+      "version": "1.11.1-1ubuntu1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libxcb1",
+      "version": "1.11.1-1ubuntu1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libxcomposite1",
+      "version": "1:0.4.4-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libxcursor1",
+      "version": "1:1.1.14-1ubuntu0.16.04.1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libxdamage1",
+      "version": "1:1.1.4-2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libxdmcp6",
+      "version": "1:1.1.2-1.1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libxext6",
+      "version": "2:1.3.3-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libxfixes3",
+      "version": "1:5.0.1-2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libxft2",
+      "version": "2.3.2-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libxi6",
+      "version": "2:1.7.6-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libxinerama1",
+      "version": "2:1.1.3-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libxml-libxml-perl",
+      "version": "2.0123+dfsg-1ubuntu0.1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libxml-namespacesupport-perl",
+      "version": "1.11-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libxml-parser-perl",
+      "version": "2.44-1build1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libxml-sax-base-perl",
+      "version": "1.07-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libxml-sax-expat-perl",
+      "version": "0.40-2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libxml-sax-perl",
+      "version": "0.99+dfsg-2ubuntu1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libxml2",
+      "version": "2.9.3+dfsg1-1ubuntu0.5"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libxmu6",
+      "version": "2:1.1.2-2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libxmuu1",
+      "version": "2:1.1.2-2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libxpm4",
+      "version": "1:3.5.11-1ubuntu0.16.04.1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libxrandr2",
+      "version": "2:1.5.0-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libxrender1",
+      "version": "1:0.9.9-0ubuntu1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libxshmfence1",
+      "version": "1.2-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libxslt1.1",
+      "version": "1.1.28-2.1ubuntu0.1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libxt6",
+      "version": "1:1.1.5-0ubuntu1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libxtables11",
+      "version": "1.6.0-2ubuntu3"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libxtst6",
+      "version": "2:1.2.2-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libxxf86vm1",
+      "version": "1:1.1.4-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "login",
+      "version": "1:4.2-3.1ubuntu5.3"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "lsb-base",
+      "version": "9.20160110ubuntu0.2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "makedev",
+      "version": "2.3.1-93ubuntu2~ubuntu16.04.1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "mawk",
+      "version": "1.3.3-17ubuntu2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "mime-support",
+      "version": "3.59ubuntu1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "mount",
+      "version": "2.27.1-6ubuntu3.3"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "multiarch-support",
+      "version": "2.23-0ubuntu9"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "mysql-common",
+      "version": "5.7.21-0ubuntu0.16.04.1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "ncurses-base",
+      "version": "6.0+20160213-1ubuntu1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "ncurses-bin",
+      "version": "6.0+20160213-1ubuntu1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "netbase",
+      "version": "5.3"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "netpbm",
+      "version": "2:10.0-15.3"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "octave",
+      "version": "4.0.0-3ubuntu9.1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "octave-common",
+      "version": "4.0.0-3ubuntu9.1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "openjdk-8-jre-headless",
+      "version": "8u151-b12-0ubuntu0.16.04.2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "openssh-client",
+      "version": "1:7.2p2-4ubuntu2.4"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "openssl",
+      "version": "1.0.2g-1ubuntu4.10"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "passwd",
+      "version": "1:4.2-3.1ubuntu5.3"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "patch",
+      "version": "2.7.5-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "pdftk",
+      "version": "2.02-4"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "perl",
+      "version": "5.22.1-9ubuntu0.2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "perl-base",
+      "version": "5.22.1-9ubuntu0.2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "perl-modules-5.22",
+      "version": "5.22.1-9ubuntu0.2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "poppler-data",
+      "version": "0.4.7-7"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "procps",
+      "version": "2:3.3.10-4ubuntu2.3"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "psmisc",
+      "version": "22.21-2.1build1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "pstoedit",
+      "version": "3.70-1ubuntu2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "python",
+      "version": "2.7.11-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "python-bs4",
+      "version": "4.4.1-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "python-chardet",
+      "version": "2.3.0-2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "python-html5lib",
+      "version": "0.999-4"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "python-lxml",
+      "version": "3.5.0-1build1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "python-minimal",
+      "version": "2.7.11-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "python-numpy",
+      "version": "1:1.11.0-1ubuntu1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "python-pkg-resources",
+      "version": "20.7.0-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "python-six",
+      "version": "1.10.0-3"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "python2.7",
+      "version": "2.7.12-1ubuntu0~16.04.3"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "python2.7-minimal",
+      "version": "2.7.12-1ubuntu0~16.04.3"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "python3",
+      "version": "3.5.1-3"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "python3-minimal",
+      "version": "3.5.1-3"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "python3.5",
+      "version": "3.5.2-2ubuntu0~16.04.4"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "python3.5-minimal",
+      "version": "3.5.2-2ubuntu0~16.04.4"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "qdbus",
+      "version": "4:4.8.7+dfsg-5ubuntu2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "qt-at-spi",
+      "version": "0.4.0-3"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "qtchooser",
+      "version": "52-gae5eeef-2build1~gcc5.2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "qtcore4-l10n",
+      "version": "4:4.8.7+dfsg-5ubuntu2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "readline-common",
+      "version": "6.3-8ubuntu2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "rename",
+      "version": "0.20-4"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "rsync",
+      "version": "3.1.1-3ubuntu1.2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "sed",
+      "version": "4.2.2-7"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "sensible-utils",
+      "version": "0.0.9"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "sgml-base",
+      "version": "1.26+nmu4ubuntu1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "shared-mime-info",
+      "version": "1.5-2ubuntu0.1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "systemd",
+      "version": "229-4ubuntu21"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "systemd-sysv",
+      "version": "229-4ubuntu21"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "sysv-rc",
+      "version": "2.88dsf-59.3ubuntu2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "sysvinit-utils",
+      "version": "2.88dsf-59.3ubuntu2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "tar",
+      "version": "1.28-2.1ubuntu0.1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "tex-common",
+      "version": "6.04"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "texinfo",
+      "version": "6.1.0.dfsg.1-5"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "transfig",
+      "version": "1:3.2.5.e-5"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "ubuntu-keyring",
+      "version": "2012.05.19"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "ucf",
+      "version": "3.0036"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "util-linux",
+      "version": "2.27.1-6ubuntu3.3"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "x11-common",
+      "version": "1:7.7+13ubuntu3"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "xauth",
+      "version": "1:1.0.9-1ubuntu2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "xdg-user-dirs",
+      "version": "0.15-2ubuntu6"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "xml-core",
+      "version": "0.13+nmu2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "zlib1g",
+      "version": "1:1.2.8.dfsg-2ubuntu4.1"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "US_export_policy",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "ca-certificates-java",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "charsets",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "cldrdata",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "dnsns",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "icedtea-sound",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "jaccess",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "jce",
+      "version": "1.8.0_151"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "jsse",
+      "version": "1.8.0_151"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "libgcj-tools",
+      "version": "5"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "local_policy",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "localedata",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "management-agent",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "nashorn",
+      "version": "1.8.0_151-8u151-b12-0ubuntu0.16.04.2-b12"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "octave",
+      "version": "UNKNOWN"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "resources",
+      "version": "1.8.0_151"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "rt",
+      "version": "1.8.0_151"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "sunec",
+      "version": "1.8.0_151"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "sunjce_provider",
+      "version": "1.8.0_151"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "sunpkcs11",
+      "version": "1.8.0_151"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "zipfs",
+      "version": "1.8.0_151"
+    },
+    {
+      "ecosystem": "python",
+      "name": "argparse",
+      "version": "1.2.1"
+    },
+    {
+      "ecosystem": "python",
+      "name": "beautifulsoup4",
+      "version": "4.4.1"
+    },
+    {
+      "ecosystem": "python",
+      "name": "chardet",
+      "version": "2.3.0"
+    },
+    {
+      "ecosystem": "python",
+      "name": "html5lib",
+      "version": "0.999"
+    },
+    {
+      "ecosystem": "python",
+      "name": "lxml",
+      "version": "3.5.0"
+    },
+    {
+      "ecosystem": "python",
+      "name": "numpy",
+      "version": "1.11.0"
+    },
+    {
+      "ecosystem": "python",
+      "name": "six",
+      "version": "1.10.0"
+    },
+    {
+      "ecosystem": "python",
+      "name": "wsgiref",
+      "version": "0.1.2"
+    }
+  ],
+  "registry": "docker.io",
+  "repository": "biocontainers/stocsy",
+  "size": 1031049470,
+  "tag": null
+}
