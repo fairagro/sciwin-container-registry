@@ -4,7 +4,7 @@ import path from "node:path";
 // astro commands always run with cwd = web/, so the repo-root api/ dir is one level up.
 // (import.meta.url is not usable here: Vite relocates this module during the build,
 // which would silently point the path at the wrong directory.)
-const apiDir = path.resolve(process.cwd(), "../api");
+const apiDir = path.resolve(process.cwd(), "../index/api");
 
 export interface ImageSummary {
   digest: string;
