@@ -1845,6 +1845,16 @@
     },
     {
       "architecture": "amd64",
+      "digest": "93786b354a38bf91bb83885c73e6d34e6a835980bb39a59ff3c0ce2bed314300",
+      "entrypoint": null,
+      "os": "linux",
+      "registry": "docker.io",
+      "repository": "rocker/r-ver",
+      "size": 1067185248,
+      "tag": null
+    },
+    {
+      "architecture": "amd64",
       "digest": "5dce84d9d79eaa937c1478455915c09bf27c159a10b90f2a5968cfd604f7b8d3",
       "entrypoint": null,
       "os": "linux",
