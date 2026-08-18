@@ -1669,6 +1669,16 @@
     },
     {
       "architecture": "amd64",
+      "digest": "6e36dba975f1ba843ac7f747847868658a93e46d921a7c97087681375b9a07b5",
+      "entrypoint": null,
+      "os": "linux",
+      "registry": "docker.io",
+      "repository": "rocker/cuda-spatial",
+      "size": 20265371427,
+      "tag": null
+    },
+    {
+      "architecture": "amd64",
       "digest": "8908ea621353b9ae073fee3844bfed4cf17c1dd7ace3264603b64fde0bc7ef01",
       "entrypoint": null,
       "os": "linux",
@@ -1679,12 +1689,32 @@
     },
     {
       "architecture": "amd64",
+      "digest": "42e1e986d4e7f78f81ee903b5335d0972d17ac6847a9bdf73fddaa67ff914c02",
+      "entrypoint": null,
+      "os": "linux",
+      "registry": "docker.io",
+      "repository": "rocker/drd",
+      "size": 1653594395,
+      "tag": null
+    },
+    {
+      "architecture": "amd64",
       "digest": "c59fd02629f614178dac105c3095f4ac06ef7a9353bd06c9e68d59d92616579c",
       "entrypoint": null,
       "os": "linux",
       "registry": "docker.io",
       "repository": "rocker/drp",
       "size": 1646760549,
+      "tag": null
+    },
+    {
+      "architecture": "amd64",
+      "digest": "0a75cc3b34b1e182297f01b5e5c151413c2a999ec24e2fd368bc4480ac5f1e32",
+      "entrypoint": null,
+      "os": "linux",
+      "registry": "docker.io",
+      "repository": "rocker/drp",
+      "size": 1651969653,
       "tag": null
     },
     {
@@ -1709,12 +1739,32 @@
     },
     {
       "architecture": "amd64",
+      "digest": "0a4df2ac617bebbde34c8c790de94816f0ead08d4eb34e2808c0f22b2aa51f38",
+      "entrypoint": null,
+      "os": "linux",
+      "registry": "docker.io",
+      "repository": "rocker/geospatial",
+      "size": 4372793837,
+      "tag": null
+    },
+    {
+      "architecture": "amd64",
       "digest": "194a7fa006bd2f75af4193a32fc0b97456d307ce9502de9e5a3a86601e9deac8",
       "entrypoint": null,
       "os": "linux",
       "registry": "docker.io",
       "repository": "rocker/ml",
       "size": 7524766358,
+      "tag": null
+    },
+    {
+      "architecture": "amd64",
+      "digest": "4aca640f1a75b4c94203c9f3198458a6f5a79018d0b38a75907ea3678b33852c",
+      "entrypoint": null,
+      "os": "linux",
+      "registry": "docker.io",
+      "repository": "rocker/ml",
+      "size": 7600175250,
       "tag": null
     },
     {
@@ -1735,6 +1785,16 @@
       "registry": "docker.io",
       "repository": "rocker/ml-spatial",
       "size": 10114055868,
+      "tag": null
+    },
+    {
+      "architecture": "amd64",
+      "digest": "ae8b3f63fe54eb6f0f00c9bab6708f17252b07561ed19a6a0aaeeaa8b0595758",
+      "entrypoint": null,
+      "os": "linux",
+      "registry": "docker.io",
+      "repository": "rocker/ml-spatial",
+      "size": 10210185194,
       "tag": null
     },
     {
