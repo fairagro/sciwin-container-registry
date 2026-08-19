@@ -1,0 +1,3899 @@
+{
+  "architecture": null,
+  "digest": "6625a3a81d60bc81be34a036ca1cd1b99b2ad5ff5ce7a08ca3139062f65957a1",
+  "entrypoint": [
+    "ApsimNG"
+  ],
+  "os": null,
+  "packages": [
+    {
+      "ecosystem": "deb",
+      "name": "adduser",
+      "version": "3.134"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "adwaita-icon-theme",
+      "version": "43-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "apt",
+      "version": "2.6.1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "at-spi2-common",
+      "version": "2.46.0-5"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "at-spi2-core",
+      "version": "2.46.0-5"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "base-files",
+      "version": "12.4+deb12u15"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "base-passwd",
+      "version": "3.6.1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "bash",
+      "version": "5.2.15-2+b13"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "binfmt-support",
+      "version": "2.2.2-2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "binutils",
+      "version": "2.40-2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "binutils-common",
+      "version": "2.40-2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "binutils-x86-64-linux-gnu",
+      "version": "2.40-2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "bsdutils",
+      "version": "1:2.38.1-5+deb12u3"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "bzip2",
+      "version": "1.0.8-5+b1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "ca-certificates",
+      "version": "20250419~deb12u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "ca-certificates-mono",
+      "version": "6.8.0.105+dfsg-3.3+deb12u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "cli-common",
+      "version": "0.10+nmu1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "coreutils",
+      "version": "9.1-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "dash",
+      "version": "0.5.12-2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "dbus",
+      "version": "1.14.10-1~deb12u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "dbus-bin",
+      "version": "1.14.10-1~deb12u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "dbus-daemon",
+      "version": "1.14.10-1~deb12u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "dbus-session-bus-common",
+      "version": "1.14.10-1~deb12u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "dbus-system-bus-common",
+      "version": "1.14.10-1~deb12u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "dbus-user-session",
+      "version": "1.14.10-1~deb12u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "dconf-gsettings-backend",
+      "version": "0.40.0-4"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "dconf-service",
+      "version": "0.40.0-4"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "debconf",
+      "version": "1.5.82"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "debian-archive-keyring",
+      "version": "2023.3+deb12u2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "debianutils",
+      "version": "5.7-0.5~deb12u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "diffutils",
+      "version": "1:3.8-4"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "dmsetup",
+      "version": "2:1.02.185-2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "dpkg",
+      "version": "1.21.23"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "e2fsprogs",
+      "version": "1.47.0-2+b2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "file",
+      "version": "1:5.44-3"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "findutils",
+      "version": "4.9.0-4"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "fontconfig",
+      "version": "2.14.1-4"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "fontconfig-config",
+      "version": "2.14.1-4"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "fonts-dejavu-core",
+      "version": "2.37-6"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "gcc-12-base",
+      "version": "12.2.0-14+deb12u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "gpgv",
+      "version": "2.2.40-1.1+deb12u2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "grep",
+      "version": "3.8-5"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "gsettings-desktop-schemas",
+      "version": "43.0-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "gtk-sharp3",
+      "version": "2.99.3-4.1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "gtk-sharp3-examples",
+      "version": "2.99.3-4.1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "gtk-sharp3-gapi",
+      "version": "2.99.3-4.1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "gtk-update-icon-cache",
+      "version": "3.24.38-2~deb12u3"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "gzip",
+      "version": "1.12-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "hicolor-icon-theme",
+      "version": "0.17-2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "hostname",
+      "version": "3.23+nmu1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "init-system-helpers",
+      "version": "1.65.2+deb12u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "javascript-common",
+      "version": "11+nmu1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "krb5-locales",
+      "version": "1.20.1-2+deb12u5"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libabsl20220623",
+      "version": "20220623.1-1+deb12u2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libacl1",
+      "version": "2.3.1-3"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libaom3",
+      "version": "3.6.0-1+deb12u2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libapparmor1",
+      "version": "3.0.8-3"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libapt-pkg6.0",
+      "version": "2.6.1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libargon2-1",
+      "version": "0~20171227-0.3+deb12u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libatk-bridge2.0-0",
+      "version": "2.46.0-5"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libatk1.0-0",
+      "version": "2.46.0-5"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libatk3.0-cil",
+      "version": "2.99.3-4.1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libatspi2.0-0",
+      "version": "2.46.0-5"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libattr1",
+      "version": "1:2.5.1-4"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libaudit-common",
+      "version": "1:3.0.9-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libaudit1",
+      "version": "1:3.0.9-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libauthen-sasl-perl",
+      "version": "2.1600-3"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libavahi-client3",
+      "version": "0.8-10+deb12u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libavahi-common-data",
+      "version": "0.8-10+deb12u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libavahi-common3",
+      "version": "0.8-10+deb12u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libavif15",
+      "version": "0.11.1-1+deb12u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libbinutils",
+      "version": "2.40-2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libblkid1",
+      "version": "2.38.1-5+deb12u3"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libbrotli1",
+      "version": "1.0.9-2+b6"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libbsd0",
+      "version": "0.11.7-2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libbz2-1.0",
+      "version": "1.0.8-5+b1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libc-bin",
+      "version": "2.36-9+deb12u14"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libc-dev-bin",
+      "version": "2.36-9+deb12u14"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libc-devtools",
+      "version": "2.36-9+deb12u14"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libc6",
+      "version": "2.36-9+deb12u14"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libc6-dev",
+      "version": "2.36-9+deb12u14"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libcairo-gobject2",
+      "version": "1.16.0-7"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libcairo1.10-cil",
+      "version": "2.99.3-4.1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libcairo2",
+      "version": "1.16.0-7"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libcap-ng0",
+      "version": "0.8.3-1+b3"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libcap2",
+      "version": "1:2.66-4+deb12u3+b1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libclone-perl",
+      "version": "0.46-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libcolord2",
+      "version": "1.4.6-2.2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libcom-err2",
+      "version": "1.47.0-2+b2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libcrypt-dev",
+      "version": "1:4.4.33-2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libcrypt1",
+      "version": "1:4.4.33-2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libcryptsetup12",
+      "version": "2:2.6.1-4~deb12u2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libctf-nobfd0",
+      "version": "2.40-2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libctf0",
+      "version": "2.40-2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libcups2",
+      "version": "2.4.2-3+deb12u9"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libdata-dump-perl",
+      "version": "1.25-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libdatrie1",
+      "version": "0.2.13-2+b1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libdav1d6",
+      "version": "1.0.0-2+deb12u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libdb5.3",
+      "version": "5.3.28+dfsg2-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libdbus-1-3",
+      "version": "1.14.10-1~deb12u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libdconf1",
+      "version": "0.40.0-4"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libde265-0",
+      "version": "1.0.11-1+deb12u2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libdebconfclient0",
+      "version": "0.270"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libdeflate0",
+      "version": "1.14-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libdevmapper1.02.1",
+      "version": "2:1.02.185-2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libencode-locale-perl",
+      "version": "1.05-3"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libepoxy0",
+      "version": "1.5.10-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libexif12",
+      "version": "0.6.24-1+deb12u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libexpat1",
+      "version": "2.5.0-1+deb12u2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libext2fs2",
+      "version": "1.47.0-2+b2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libfdisk1",
+      "version": "2.38.1-5+deb12u3"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libffi8",
+      "version": "3.4.4-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libfile-listing-perl",
+      "version": "6.15-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libfont-afm-perl",
+      "version": "1.20-4"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libfontconfig1",
+      "version": "2.14.1-4"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libfreetype6",
+      "version": "2.12.1+dfsg-5+deb12u4"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libfribidi0",
+      "version": "1.0.8-2.1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libgav1-1",
+      "version": "0.18.0-1+b1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libgcc-s1",
+      "version": "12.2.0-14+deb12u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libgcrypt20",
+      "version": "1.10.1-3+deb12u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libgd3",
+      "version": "2.3.3-9+deb12u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libgdbm-compat4",
+      "version": "1.23-3"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libgdbm6",
+      "version": "1.23-3"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libgdiplus",
+      "version": "6.1+dfsg-1+b1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libgdk-pixbuf-2.0-0",
+      "version": "2.42.10+dfsg-1+deb12u4"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libgdk-pixbuf2.0-bin",
+      "version": "2.42.10+dfsg-1+deb12u4"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libgdk-pixbuf2.0-common",
+      "version": "2.42.10+dfsg-1+deb12u4"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libgdk3.0-cil",
+      "version": "2.99.3-4.1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libgdk3.0-cil-dev",
+      "version": "2.99.3-4.1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libgif7",
+      "version": "5.2.1-2.5+deb12u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libgio3.0-cil",
+      "version": "2.99.3-4.1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libgio3.0-cil-dev",
+      "version": "2.99.3-4.1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libglib2.0-0",
+      "version": "2.74.6-2+deb12u9"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libglib2.0-data",
+      "version": "2.74.6-2+deb12u9"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libglib3.0-cil",
+      "version": "2.99.3-4.1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libglib3.0-cil-dev",
+      "version": "2.99.3-4.1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libgmp10",
+      "version": "2:6.2.1+dfsg1-1.1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libgnutls30",
+      "version": "3.7.9-2+deb12u7"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libgpg-error0",
+      "version": "1.46-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libgpm2",
+      "version": "1.20.7-10+b1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libgprofng0",
+      "version": "2.40-2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libgraphite2-3",
+      "version": "1.3.14-1+deb12u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libgssapi-krb5-2",
+      "version": "1.20.1-2+deb12u5"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libgtk-3-0",
+      "version": "3.24.38-2~deb12u3"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libgtk-3-bin",
+      "version": "3.24.38-2~deb12u3"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libgtk-3-common",
+      "version": "3.24.38-2~deb12u3"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libgtk3.0-cil",
+      "version": "2.99.3-4.1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libgtk3.0-cil-dev",
+      "version": "2.99.3-4.1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libgtksourceview-4-0",
+      "version": "4.8.4-4"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libgtksourceview-4-common",
+      "version": "4.8.4-4"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libharfbuzz0b",
+      "version": "6.0.0+dfsg-3"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libheif1",
+      "version": "1.15.1-1+deb12u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libhogweed6",
+      "version": "3.8.1-2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libhtml-form-perl",
+      "version": "6.11-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libhtml-format-perl",
+      "version": "2.16-2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libhtml-parser-perl",
+      "version": "3.81-1+deb12u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libhtml-tagset-perl",
+      "version": "3.20-6"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libhtml-tree-perl",
+      "version": "5.07-3"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libhttp-cookies-perl",
+      "version": "6.10-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libhttp-daemon-perl",
+      "version": "6.16-1+deb13u1~deb12u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libhttp-date-perl",
+      "version": "6.05-2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libhttp-message-perl",
+      "version": "6.44-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libhttp-negotiate-perl",
+      "version": "6.01-2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libicu72",
+      "version": "72.1-3+deb12u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libidn2-0",
+      "version": "2.3.3-1+b1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libio-html-perl",
+      "version": "1.004-3"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libio-socket-ssl-perl",
+      "version": "2.081-2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libip4tc2",
+      "version": "1.8.9-2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libjansson4",
+      "version": "2.14-2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libjbig0",
+      "version": "2.1-6.1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libjpeg62-turbo",
+      "version": "1:2.1.5-2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libjs-xmlextras",
+      "version": "20060529-2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libjson-c5",
+      "version": "0.16-2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libk5crypto3",
+      "version": "1.20.1-2+deb12u5"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libkeyutils1",
+      "version": "1.6.3-2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libkmod2",
+      "version": "30+20221128-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libkrb5-3",
+      "version": "1.20.1-2+deb12u5"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libkrb5support0",
+      "version": "1.20.1-2+deb12u5"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "liblcms2-2",
+      "version": "2.14-2+deb12u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "liblerc4",
+      "version": "4.0.0+ds-2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "liblwp-mediatypes-perl",
+      "version": "6.04-2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "liblwp-protocol-https-perl",
+      "version": "6.10-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "liblz4-1",
+      "version": "1.9.4-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "liblzma5",
+      "version": "5.4.1-1+deb12u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libmagic-mgc",
+      "version": "1:5.44-3"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libmagic1",
+      "version": "1:5.44-3"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libmailtools-perl",
+      "version": "2.21-2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libmd0",
+      "version": "1.0.4-2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libmono-2.0-dev",
+      "version": "6.8.0.105+dfsg-3.3+deb12u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libmono-accessibility4.0-cil",
+      "version": "6.8.0.105+dfsg-3.3+deb12u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libmono-btls-interface4.0-cil",
+      "version": "6.8.0.105+dfsg-3.3+deb12u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libmono-cairo4.0-cil",
+      "version": "6.8.0.105+dfsg-3.3+deb12u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libmono-cecil-private-cil",
+      "version": "6.8.0.105+dfsg-3.3+deb12u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libmono-cil-dev",
+      "version": "6.8.0.105+dfsg-3.3+deb12u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libmono-codecontracts4.0-cil",
+      "version": "6.8.0.105+dfsg-3.3+deb12u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libmono-compilerservices-symbolwriter4.0-cil",
+      "version": "6.8.0.105+dfsg-3.3+deb12u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libmono-corlib4.5-cil",
+      "version": "6.8.0.105+dfsg-3.3+deb12u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libmono-corlib4.5-dll",
+      "version": "6.8.0.105+dfsg-3.3+deb12u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libmono-cscompmgd0.0-cil",
+      "version": "6.8.0.105+dfsg-3.3+deb12u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libmono-csharp4.0c-cil",
+      "version": "6.8.0.105+dfsg-3.3+deb12u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libmono-custommarshalers4.0-cil",
+      "version": "6.8.0.105+dfsg-3.3+deb12u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libmono-data-tds4.0-cil",
+      "version": "6.8.0.105+dfsg-3.3+deb12u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libmono-db2-1.0-cil",
+      "version": "6.8.0.105+dfsg-3.3+deb12u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libmono-debugger-soft4.0a-cil",
+      "version": "6.8.0.105+dfsg-3.3+deb12u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libmono-http4.0-cil",
+      "version": "6.8.0.105+dfsg-3.3+deb12u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libmono-i18n-cjk4.0-cil",
+      "version": "6.8.0.105+dfsg-3.3+deb12u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libmono-i18n-mideast4.0-cil",
+      "version": "6.8.0.105+dfsg-3.3+deb12u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libmono-i18n-other4.0-cil",
+      "version": "6.8.0.105+dfsg-3.3+deb12u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libmono-i18n-rare4.0-cil",
+      "version": "6.8.0.105+dfsg-3.3+deb12u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libmono-i18n-west4.0-cil",
+      "version": "6.8.0.105+dfsg-3.3+deb12u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libmono-i18n4.0-all",
+      "version": "6.8.0.105+dfsg-3.3+deb12u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libmono-i18n4.0-cil",
+      "version": "6.8.0.105+dfsg-3.3+deb12u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libmono-ldap4.0-cil",
+      "version": "6.8.0.105+dfsg-3.3+deb12u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libmono-management4.0-cil",
+      "version": "6.8.0.105+dfsg-3.3+deb12u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libmono-messaging-rabbitmq4.0-cil",
+      "version": "6.8.0.105+dfsg-3.3+deb12u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libmono-messaging4.0-cil",
+      "version": "6.8.0.105+dfsg-3.3+deb12u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libmono-microsoft-build-engine4.0-cil",
+      "version": "6.8.0.105+dfsg-3.3+deb12u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libmono-microsoft-build-framework4.0-cil",
+      "version": "6.8.0.105+dfsg-3.3+deb12u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libmono-microsoft-build-tasks-v4.0-4.0-cil",
+      "version": "6.8.0.105+dfsg-3.3+deb12u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libmono-microsoft-build-utilities-v4.0-4.0-cil",
+      "version": "6.8.0.105+dfsg-3.3+deb12u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libmono-microsoft-build4.0-cil",
+      "version": "6.8.0.105+dfsg-3.3+deb12u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libmono-microsoft-csharp4.0-cil",
+      "version": "6.8.0.105+dfsg-3.3+deb12u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libmono-microsoft-visualc10.0-cil",
+      "version": "6.8.0.105+dfsg-3.3+deb12u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libmono-microsoft-web-infrastructure1.0-cil",
+      "version": "6.8.0.105+dfsg-3.3+deb12u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libmono-oracle4.0-cil",
+      "version": "6.8.0.105+dfsg-3.3+deb12u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libmono-parallel4.0-cil",
+      "version": "6.8.0.105+dfsg-3.3+deb12u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libmono-peapi4.0a-cil",
+      "version": "6.8.0.105+dfsg-3.3+deb12u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libmono-posix4.0-cil",
+      "version": "6.8.0.105+dfsg-3.3+deb12u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libmono-profiler-gui-thread-check",
+      "version": "2.99.3-4.1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libmono-rabbitmq4.0-cil",
+      "version": "6.8.0.105+dfsg-3.3+deb12u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libmono-relaxng4.0-cil",
+      "version": "6.8.0.105+dfsg-3.3+deb12u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libmono-security4.0-cil",
+      "version": "6.8.0.105+dfsg-3.3+deb12u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libmono-sharpzip4.84-cil",
+      "version": "6.8.0.105+dfsg-3.3+deb12u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libmono-simd4.0-cil",
+      "version": "6.8.0.105+dfsg-3.3+deb12u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libmono-smdiagnostics0.0-cil",
+      "version": "6.8.0.105+dfsg-3.3+deb12u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libmono-sqlite4.0-cil",
+      "version": "6.8.0.105+dfsg-3.3+deb12u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libmono-system-componentmodel-composition4.0-cil",
+      "version": "6.8.0.105+dfsg-3.3+deb12u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libmono-system-componentmodel-dataannotations4.0-cil",
+      "version": "6.8.0.105+dfsg-3.3+deb12u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libmono-system-configuration-install4.0-cil",
+      "version": "6.8.0.105+dfsg-3.3+deb12u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libmono-system-configuration4.0-cil",
+      "version": "6.8.0.105+dfsg-3.3+deb12u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libmono-system-core4.0-cil",
+      "version": "6.8.0.105+dfsg-3.3+deb12u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libmono-system-data-datasetextensions4.0-cil",
+      "version": "6.8.0.105+dfsg-3.3+deb12u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libmono-system-data-entity4.0-cil",
+      "version": "6.8.0.105+dfsg-3.3+deb12u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libmono-system-data-linq4.0-cil",
+      "version": "6.8.0.105+dfsg-3.3+deb12u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libmono-system-data-services-client4.0-cil",
+      "version": "6.8.0.105+dfsg-3.3+deb12u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libmono-system-data-services4.0-cil",
+      "version": "6.8.0.105+dfsg-3.3+deb12u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libmono-system-data4.0-cil",
+      "version": "6.8.0.105+dfsg-3.3+deb12u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libmono-system-deployment4.0-cil",
+      "version": "6.8.0.105+dfsg-3.3+deb12u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libmono-system-design4.0-cil",
+      "version": "6.8.0.105+dfsg-3.3+deb12u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libmono-system-drawing-design4.0-cil",
+      "version": "6.8.0.105+dfsg-3.3+deb12u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libmono-system-drawing4.0-cil",
+      "version": "6.8.0.105+dfsg-3.3+deb12u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libmono-system-dynamic4.0-cil",
+      "version": "6.8.0.105+dfsg-3.3+deb12u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libmono-system-enterpriseservices4.0-cil",
+      "version": "6.8.0.105+dfsg-3.3+deb12u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libmono-system-identitymodel-selectors4.0-cil",
+      "version": "6.8.0.105+dfsg-3.3+deb12u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libmono-system-identitymodel4.0-cil",
+      "version": "6.8.0.105+dfsg-3.3+deb12u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libmono-system-io-compression-filesystem4.0-cil",
+      "version": "6.8.0.105+dfsg-3.3+deb12u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libmono-system-io-compression4.0-cil",
+      "version": "6.8.0.105+dfsg-3.3+deb12u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libmono-system-json-microsoft4.0-cil",
+      "version": "6.8.0.105+dfsg-3.3+deb12u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libmono-system-json4.0-cil",
+      "version": "6.8.0.105+dfsg-3.3+deb12u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libmono-system-ldap-protocols4.0-cil",
+      "version": "6.8.0.105+dfsg-3.3+deb12u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libmono-system-ldap4.0-cil",
+      "version": "6.8.0.105+dfsg-3.3+deb12u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libmono-system-management4.0-cil",
+      "version": "6.8.0.105+dfsg-3.3+deb12u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libmono-system-messaging4.0-cil",
+      "version": "6.8.0.105+dfsg-3.3+deb12u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libmono-system-net-http-formatting4.0-cil",
+      "version": "6.8.0.105+dfsg-3.3+deb12u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libmono-system-net-http-webrequest4.0-cil",
+      "version": "6.8.0.105+dfsg-3.3+deb12u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libmono-system-net-http4.0-cil",
+      "version": "6.8.0.105+dfsg-3.3+deb12u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libmono-system-net4.0-cil",
+      "version": "6.8.0.105+dfsg-3.3+deb12u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libmono-system-numerics-vectors4.0-cil",
+      "version": "6.8.0.105+dfsg-3.3+deb12u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libmono-system-numerics4.0-cil",
+      "version": "6.8.0.105+dfsg-3.3+deb12u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libmono-system-reactive-core2.2-cil",
+      "version": "6.8.0.105+dfsg-3.3+deb12u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libmono-system-reactive-debugger2.2-cil",
+      "version": "6.8.0.105+dfsg-3.3+deb12u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libmono-system-reactive-experimental2.2-cil",
+      "version": "6.8.0.105+dfsg-3.3+deb12u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libmono-system-reactive-interfaces2.2-cil",
+      "version": "6.8.0.105+dfsg-3.3+deb12u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libmono-system-reactive-linq2.2-cil",
+      "version": "6.8.0.105+dfsg-3.3+deb12u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libmono-system-reactive-observable-aliases0.0-cil",
+      "version": "6.8.0.105+dfsg-3.3+deb12u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libmono-system-reactive-platformservices2.2-cil",
+      "version": "6.8.0.105+dfsg-3.3+deb12u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libmono-system-reactive-providers2.2-cil",
+      "version": "6.8.0.105+dfsg-3.3+deb12u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libmono-system-reactive-runtime-remoting2.2-cil",
+      "version": "6.8.0.105+dfsg-3.3+deb12u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libmono-system-reactive-windows-forms2.2-cil",
+      "version": "6.8.0.105+dfsg-3.3+deb12u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libmono-system-reactive-windows-threading2.2-cil",
+      "version": "6.8.0.105+dfsg-3.3+deb12u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libmono-system-reflection-context4.0-cil",
+      "version": "6.8.0.105+dfsg-3.3+deb12u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libmono-system-runtime-caching4.0-cil",
+      "version": "6.8.0.105+dfsg-3.3+deb12u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libmono-system-runtime-durableinstancing4.0-cil",
+      "version": "6.8.0.105+dfsg-3.3+deb12u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libmono-system-runtime-serialization-formatters-soap4.0-cil",
+      "version": "6.8.0.105+dfsg-3.3+deb12u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libmono-system-runtime-serialization4.0-cil",
+      "version": "6.8.0.105+dfsg-3.3+deb12u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libmono-system-runtime4.0-cil",
+      "version": "6.8.0.105+dfsg-3.3+deb12u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libmono-system-security4.0-cil",
+      "version": "6.8.0.105+dfsg-3.3+deb12u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libmono-system-servicemodel-activation4.0-cil",
+      "version": "6.8.0.105+dfsg-3.3+deb12u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libmono-system-servicemodel-discovery4.0-cil",
+      "version": "6.8.0.105+dfsg-3.3+deb12u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libmono-system-servicemodel-internals0.0-cil",
+      "version": "6.8.0.105+dfsg-3.3+deb12u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libmono-system-servicemodel-routing4.0-cil",
+      "version": "6.8.0.105+dfsg-3.3+deb12u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libmono-system-servicemodel-web4.0-cil",
+      "version": "6.8.0.105+dfsg-3.3+deb12u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libmono-system-servicemodel4.0a-cil",
+      "version": "6.8.0.105+dfsg-3.3+deb12u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libmono-system-serviceprocess4.0-cil",
+      "version": "6.8.0.105+dfsg-3.3+deb12u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libmono-system-threading-tasks-dataflow4.0-cil",
+      "version": "6.8.0.105+dfsg-3.3+deb12u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libmono-system-transactions4.0-cil",
+      "version": "6.8.0.105+dfsg-3.3+deb12u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libmono-system-web-abstractions4.0-cil",
+      "version": "6.8.0.105+dfsg-3.3+deb12u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libmono-system-web-applicationservices4.0-cil",
+      "version": "6.8.0.105+dfsg-3.3+deb12u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libmono-system-web-dynamicdata4.0-cil",
+      "version": "6.8.0.105+dfsg-3.3+deb12u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libmono-system-web-extensions-design4.0-cil",
+      "version": "6.8.0.105+dfsg-3.3+deb12u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libmono-system-web-extensions4.0-cil",
+      "version": "6.8.0.105+dfsg-3.3+deb12u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libmono-system-web-http-selfhost4.0-cil",
+      "version": "6.8.0.105+dfsg-3.3+deb12u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libmono-system-web-http-webhost4.0-cil",
+      "version": "6.8.0.105+dfsg-3.3+deb12u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libmono-system-web-http4.0-cil",
+      "version": "6.8.0.105+dfsg-3.3+deb12u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libmono-system-web-mobile4.0-cil",
+      "version": "6.8.0.105+dfsg-3.3+deb12u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libmono-system-web-mvc3.0-cil",
+      "version": "6.8.0.105+dfsg-3.3+deb12u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libmono-system-web-razor2.0-cil",
+      "version": "6.8.0.105+dfsg-3.3+deb12u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libmono-system-web-regularexpressions4.0-cil",
+      "version": "6.8.0.105+dfsg-3.3+deb12u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libmono-system-web-routing4.0-cil",
+      "version": "6.8.0.105+dfsg-3.3+deb12u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libmono-system-web-services4.0-cil",
+      "version": "6.8.0.105+dfsg-3.3+deb12u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libmono-system-web-webpages-deployment2.0-cil",
+      "version": "6.8.0.105+dfsg-3.3+deb12u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libmono-system-web-webpages-razor2.0-cil",
+      "version": "6.8.0.105+dfsg-3.3+deb12u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libmono-system-web-webpages2.0-cil",
+      "version": "6.8.0.105+dfsg-3.3+deb12u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libmono-system-web4.0-cil",
+      "version": "6.8.0.105+dfsg-3.3+deb12u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libmono-system-windows-forms-datavisualization4.0a-cil",
+      "version": "6.8.0.105+dfsg-3.3+deb12u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libmono-system-windows-forms4.0-cil",
+      "version": "6.8.0.105+dfsg-3.3+deb12u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libmono-system-windows4.0-cil",
+      "version": "6.8.0.105+dfsg-3.3+deb12u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libmono-system-workflow-activities4.0-cil",
+      "version": "6.8.0.105+dfsg-3.3+deb12u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libmono-system-workflow-componentmodel4.0-cil",
+      "version": "6.8.0.105+dfsg-3.3+deb12u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libmono-system-workflow-runtime4.0-cil",
+      "version": "6.8.0.105+dfsg-3.3+deb12u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libmono-system-xaml4.0-cil",
+      "version": "6.8.0.105+dfsg-3.3+deb12u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libmono-system-xml-linq4.0-cil",
+      "version": "6.8.0.105+dfsg-3.3+deb12u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libmono-system-xml-serialization4.0-cil",
+      "version": "6.8.0.105+dfsg-3.3+deb12u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libmono-system-xml4.0-cil",
+      "version": "6.8.0.105+dfsg-3.3+deb12u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libmono-system4.0-cil",
+      "version": "6.8.0.105+dfsg-3.3+deb12u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libmono-tasklets4.0-cil",
+      "version": "6.8.0.105+dfsg-3.3+deb12u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libmono-webbrowser4.0-cil",
+      "version": "6.8.0.105+dfsg-3.3+deb12u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libmono-webmatrix-data4.0-cil",
+      "version": "6.8.0.105+dfsg-3.3+deb12u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libmono-windowsbase4.0-cil",
+      "version": "6.8.0.105+dfsg-3.3+deb12u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libmono-xbuild-tasks4.0-cil",
+      "version": "6.8.0.105+dfsg-3.3+deb12u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libmonosgen-2.0-1",
+      "version": "6.8.0.105+dfsg-3.3+deb12u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libmonosgen-2.0-dev",
+      "version": "6.8.0.105+dfsg-3.3+deb12u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libmount1",
+      "version": "2.38.1-5+deb12u3"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libncursesw6",
+      "version": "6.4-4"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libnet-http-perl",
+      "version": "6.22-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libnet-smtp-ssl-perl",
+      "version": "1.04-2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libnet-ssleay-perl",
+      "version": "1.92-2+b1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libnettle8",
+      "version": "3.8.1-2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libnsl-dev",
+      "version": "1.3.0-2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libnsl2",
+      "version": "1.3.0-2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libnss-systemd",
+      "version": "252.39-1~deb12u2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libnuma1",
+      "version": "2.0.16-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libnunit-cil-dev",
+      "version": "2.6.4+dfsg-1.1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libnunit-console-runner2.6.3-cil",
+      "version": "2.6.4+dfsg-1.1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libnunit-core-interfaces2.6.3-cil",
+      "version": "2.6.4+dfsg-1.1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libnunit-core2.6.3-cil",
+      "version": "2.6.4+dfsg-1.1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libnunit-framework2.6.3-cil",
+      "version": "2.6.4+dfsg-1.1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libnunit-mocks2.6.3-cil",
+      "version": "2.6.4+dfsg-1.1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libnunit-util2.6.3-cil",
+      "version": "2.6.4+dfsg-1.1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libp11-kit0",
+      "version": "0.24.1-2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libpam-modules",
+      "version": "1.5.2-6+deb12u2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libpam-modules-bin",
+      "version": "1.5.2-6+deb12u2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libpam-runtime",
+      "version": "1.5.2-6+deb12u2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libpam-systemd",
+      "version": "252.39-1~deb12u2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libpam0g",
+      "version": "1.5.2-6+deb12u2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libpango-1.0-0",
+      "version": "1.50.12+ds-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libpango3.0-cil",
+      "version": "2.99.3-4.1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libpangocairo-1.0-0",
+      "version": "1.50.12+ds-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libpangoft2-1.0-0",
+      "version": "1.50.12+ds-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libpcre2-8-0",
+      "version": "10.42-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libperl5.36",
+      "version": "5.36.0-7+deb12u3"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libpipeline1",
+      "version": "1.5.7-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libpixman-1-0",
+      "version": "0.42.2-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libpkgconf3",
+      "version": "1.8.1-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libpng16-16",
+      "version": "1.6.39-2+deb12u5"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libproc2-0",
+      "version": "2:4.0.2-3"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "librav1e0",
+      "version": "0.5.1-6"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libregexp-ipv6-perl",
+      "version": "0.03-3"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "librsvg2-2",
+      "version": "2.54.7+dfsg-1~deb12u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "librsvg2-common",
+      "version": "2.54.7+dfsg-1~deb12u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libseccomp2",
+      "version": "2.5.4-1+deb12u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libselinux1",
+      "version": "3.4-1+b6"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libsemanage-common",
+      "version": "3.4-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libsemanage2",
+      "version": "3.4-1+b5"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libsepol2",
+      "version": "3.4-2.1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libsmartcols1",
+      "version": "2.38.1-5+deb12u3"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libsqlite3-0",
+      "version": "3.40.1-2+deb12u2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libsqlite3-dev",
+      "version": "3.40.1-2+deb12u2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libss2",
+      "version": "1.47.0-2+b2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libssl3",
+      "version": "3.0.20-1~deb12u2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libstdc++6",
+      "version": "12.2.0-14+deb12u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libsvtav1enc1",
+      "version": "1.4.1+dfsg-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libsystemd-shared",
+      "version": "252.39-1~deb12u2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libsystemd0",
+      "version": "252.39-1~deb12u2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libtasn1-6",
+      "version": "4.19.0-2+deb12u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libthai-data",
+      "version": "0.1.29-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libthai0",
+      "version": "0.1.29-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libtiff6",
+      "version": "4.5.0-6+deb12u4"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libtimedate-perl",
+      "version": "2.3300-2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libtinfo6",
+      "version": "6.4-4"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libtirpc-common",
+      "version": "1.3.3+ds-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libtirpc-dev",
+      "version": "1.3.3+ds-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libtirpc3",
+      "version": "1.3.3+ds-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libtry-tiny-perl",
+      "version": "0.31-2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libudev1",
+      "version": "252.39-1~deb12u2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libunistring2",
+      "version": "1.0-2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "liburi-perl",
+      "version": "5.17-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libuuid1",
+      "version": "2.38.1-5+deb12u3"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libwayland-client0",
+      "version": "1.21.0-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libwayland-cursor0",
+      "version": "1.21.0-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libwayland-egl1",
+      "version": "1.21.0-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libwebp7",
+      "version": "1.2.4-0.2+deb12u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libwww-perl",
+      "version": "6.68-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libwww-robotrules-perl",
+      "version": "6.02-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libx11-6",
+      "version": "2:1.8.4-2+deb12u2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libx11-data",
+      "version": "2:1.8.4-2+deb12u2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libx265-199",
+      "version": "3.5-2+b1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libxau6",
+      "version": "1:1.0.9-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libxcb-render0",
+      "version": "1.15-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libxcb-shm0",
+      "version": "1.15-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libxcb1",
+      "version": "1.15-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libxcomposite1",
+      "version": "1:0.4.5-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libxcursor1",
+      "version": "1:1.2.1-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libxdamage1",
+      "version": "1:1.1.6-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libxdmcp6",
+      "version": "1:1.1.2-3"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libxext6",
+      "version": "2:1.3.4-1+b1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libxfixes3",
+      "version": "1:6.0.0-2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libxi6",
+      "version": "2:1.8-1+b1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libxinerama1",
+      "version": "2:1.1.4-3"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libxkbcommon0",
+      "version": "1.5.0-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libxml-libxml-perl",
+      "version": "2.0207+dfsg+really+2.0134-1+deb12u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libxml-namespacesupport-perl",
+      "version": "1.12-2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libxml-parser-perl",
+      "version": "2.46-4+deb12u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libxml-sax-base-perl",
+      "version": "1.09-3"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libxml-sax-expat-perl",
+      "version": "0.51-2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libxml-sax-perl",
+      "version": "1.02+dfsg-3"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libxml2",
+      "version": "2.9.14+dfsg-1.3~deb12u6"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libxpm4",
+      "version": "1:3.5.12-1.1+deb12u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libxrandr2",
+      "version": "2:1.5.2-2+b1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libxrender1",
+      "version": "1:0.9.10-1.1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libxtst6",
+      "version": "2:1.2.3-1.1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libxxhash0",
+      "version": "0.8.1-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libyuv0",
+      "version": "0.0~git20230123.b2528b0-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libzstd1",
+      "version": "1.5.4+dfsg2-5"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "linux-libc-dev",
+      "version": "6.1.180-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "login",
+      "version": "1:4.13+dfsg1-1+deb12u2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "logsave",
+      "version": "1.47.0-2+b2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "lynx",
+      "version": "2.9.0dev.12-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "lynx-common",
+      "version": "2.9.0dev.12-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "mailcap",
+      "version": "3.70+nmu1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "manpages",
+      "version": "6.03-2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "manpages-dev",
+      "version": "6.03-2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "mawk",
+      "version": "1.3.4.20200120-3.1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "media-types",
+      "version": "10.0.0"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "mono-4.0-gac",
+      "version": "6.8.0.105+dfsg-3.3+deb12u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "mono-csharp-shell",
+      "version": "6.8.0.105+dfsg-3.3+deb12u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "mono-devel",
+      "version": "6.8.0.105+dfsg-3.3+deb12u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "mono-gac",
+      "version": "6.8.0.105+dfsg-3.3+deb12u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "mono-mcs",
+      "version": "6.8.0.105+dfsg-3.3+deb12u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "mono-runtime",
+      "version": "6.8.0.105+dfsg-3.3+deb12u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "mono-runtime-common",
+      "version": "6.8.0.105+dfsg-3.3+deb12u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "mono-runtime-sgen",
+      "version": "6.8.0.105+dfsg-3.3+deb12u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "mono-xbuild",
+      "version": "6.8.0.105+dfsg-3.3+deb12u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "mono-xsp4",
+      "version": "4.2-2.4"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "mono-xsp4-base",
+      "version": "4.2-2.4"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "monodoc-base",
+      "version": "6.8.0.105+dfsg-3.3+deb12u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "monodoc-gtk3.0-manual",
+      "version": "2.99.3-4.1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "monodoc-http",
+      "version": "4.2-3.1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "monodoc-manual",
+      "version": "6.8.0.105+dfsg-3.3+deb12u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "mount",
+      "version": "2.38.1-5+deb12u3"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "ncurses-base",
+      "version": "6.4-4"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "ncurses-bin",
+      "version": "6.4-4"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "netbase",
+      "version": "6.4"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "openssl",
+      "version": "3.0.20-1~deb12u2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "passwd",
+      "version": "1:4.13+dfsg1-1+deb12u2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "perl",
+      "version": "5.36.0-7+deb12u3"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "perl-base",
+      "version": "5.36.0-7+deb12u3"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "perl-modules-5.36",
+      "version": "5.36.0-7+deb12u3"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "perl-openssl-defaults",
+      "version": "7+b1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "pkg-config",
+      "version": "1.8.1-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "pkgconf",
+      "version": "1.8.1-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "pkgconf-bin",
+      "version": "1.8.1-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "procps",
+      "version": "2:4.0.2-3"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "psmisc",
+      "version": "23.6-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "rpcsvc-proto",
+      "version": "1.4.3-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "sed",
+      "version": "4.9-1+deb12u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "sensible-utils",
+      "version": "0.0.17+nmu1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "shared-mime-info",
+      "version": "2.2-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "systemd",
+      "version": "252.39-1~deb12u2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "systemd-sysv",
+      "version": "252.39-1~deb12u2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "systemd-timesyncd",
+      "version": "252.39-1~deb12u2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "sysvinit-utils",
+      "version": "3.06-4"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "tar",
+      "version": "1.34+dfsg-1.2+deb12u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "tzdata",
+      "version": "2026b-0+deb12u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "ucf",
+      "version": "3.0043+nmu1+deb12u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "usr-is-merged",
+      "version": "37~deb12u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "util-linux",
+      "version": "2.38.1-5+deb12u3"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "util-linux-extra",
+      "version": "2.38.1-5+deb12u3"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "x11-common",
+      "version": "1:7.7+23"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "xdg-user-dirs",
+      "version": "0.18-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "xkb-data",
+      "version": "2.35.1-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "xz-utils",
+      "version": "5.4.1-1+deb12u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "zlib1g",
+      "version": "1:1.2.13.dfsg-1"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "#ZipLibrary",
+      "version": "4.84.0.0"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "APSIM.Documentation",
+      "version": "2026.8.8099.0"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "APSIM.Numerics",
+      "version": "8.4.0"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "APSIM.Soils",
+      "version": "8.2.0"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "ASP.Net WebPages",
+      "version": "1.0.20105.407"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "ApsimNG",
+      "version": "2026.8.8099.0"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "AsyncIO",
+      "version": "0.1.69"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "AtkSharp",
+      "version": "3.24.24.38"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "Azure.Core",
+      "version": "1.50.0"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "Azure.Identity",
+      "version": "1.17.1"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "BruTile",
+      "version": "6.0.0"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "C# LDAP",
+      "version": "4.0.0.0"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "C5: Copenhagen Comprehensive Collection Classes for CLI",
+      "version": "1.1.1.0"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "CairoSharp",
+      "version": "3.24.24.38"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "ClosedXML",
+      "version": "0.105.0"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "ClosedXML.Parser",
+      "version": "2.0.0"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "CommandLineParser",
+      "version": "2.9.1"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "Commons.Xml.Relaxng",
+      "version": "0.0.0.1"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "DbLinq",
+      "version": "0.20"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "Docker.DotNet",
+      "version": "3.125.15"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "DocumentFormat.OpenXml",
+      "version": "3.4.1"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "DocumentFormat.OpenXml.Framework",
+      "version": "3.4.1"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "ExCSS",
+      "version": "4.3.1"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "ExcelDataReader",
+      "version": "3.8.0"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "ExcelDataReader.DataSet",
+      "version": "3.8.0"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "ExcelNumberFormat",
+      "version": "1.1.0"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "Fractions",
+      "version": "7.3.0"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "GLibSharp",
+      "version": "3.24.24.38"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "GdkSharp",
+      "version": "3.24.24.38"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "GeoAPI.CoordinateSystems",
+      "version": "1.7.5"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "GeoAPI.Core",
+      "version": "1.7.5"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "GioSharp",
+      "version": "3.24.24.38"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "GtkDemo",
+      "version": "0.0.0.0"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "GtkSharp",
+      "version": "3.24.24.38"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "GtkSourceSharp",
+      "version": "3.24.24.38"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "HarfBuzzSharp",
+      "version": "8.3.1.2"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "HarfBuzzSharp.NativeAssets.Linux",
+      "version": "8.3.1.2"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "HtmlAgilityPack",
+      "version": "1.12.4"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "Humanizer.Core",
+      "version": "2.14.1"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "I18N",
+      "version": "4.0.0.0"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "I18N.CJK",
+      "version": "4.0.0.0"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "I18N.MidEast",
+      "version": "4.0.0.0"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "I18N.Other",
+      "version": "4.0.0.0"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "I18N.Rare",
+      "version": "4.0.0.0"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "I18N.West",
+      "version": "4.0.0.0"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "IBM.Data.DB2",
+      "version": "1.0.0.0"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "IKVM.Reflection",
+      "version": "0.0.0.0"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "ISO3166",
+      "version": "1.0.4"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "JetBrains.Annotations",
+      "version": "2025.2.4"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "KubernetesClient",
+      "version": "18.0.13"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "LC",
+      "version": "1.0.0.0"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "MONO CLI",
+      "version": "4.6.57.0"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "Mapsui",
+      "version": "5.0.2"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "Mapsui.Nts",
+      "version": "5.0.2"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "Mapsui.Rendering.Skia",
+      "version": "5.0.2"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "Mapsui.Tiling",
+      "version": "5.0.2"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "Markdig",
+      "version": "0.44.0"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "MathNet.Numerics",
+      "version": "5.0.0"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "MessagePack",
+      "version": "3.1.7"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "MessagePack.Annotations",
+      "version": "3.1.7"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "Microsoft.Bcl.AsyncInterfaces",
+      "version": "9.0.0"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "Microsoft.CodeAnalysis",
+      "version": "5.0.0"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "Microsoft.CodeAnalysis.CSharp",
+      "version": "5.0.0"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "Microsoft.CodeAnalysis.CSharp.Features",
+      "version": "5.0.0"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "Microsoft.CodeAnalysis.CSharp.Workspaces",
+      "version": "5.0.0"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "Microsoft.CodeAnalysis.Common",
+      "version": "5.0.0"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "Microsoft.CodeAnalysis.Elfie",
+      "version": "1.0.0"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "Microsoft.CodeAnalysis.Features",
+      "version": "5.0.0"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "Microsoft.CodeAnalysis.Scripting.Common",
+      "version": "5.0.0"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "Microsoft.CodeAnalysis.VisualBasic",
+      "version": "5.0.0"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "Microsoft.CodeAnalysis.VisualBasic.Workspaces",
+      "version": "5.0.0"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "Microsoft.CodeAnalysis.Workspaces.Common",
+      "version": "5.0.0"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "Microsoft.Data.SqlClient",
+      "version": "6.1.4"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "Microsoft.Data.Sqlite",
+      "version": "10.0.2"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "Microsoft.Data.Sqlite.Core",
+      "version": "10.0.2"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "Microsoft.DiaSymReader",
+      "version": "2.0.0"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "Microsoft.Extensions.Caching.Abstractions",
+      "version": "8.0.0"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "Microsoft.Extensions.Caching.Memory",
+      "version": "8.0.1"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "Microsoft.Extensions.DependencyInjection.Abstractions",
+      "version": "8.0.2"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "Microsoft.Extensions.Logging.Abstractions",
+      "version": "8.0.3"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "Microsoft.Extensions.ObjectPool",
+      "version": "8.0.10"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "Microsoft.Extensions.Options",
+      "version": "8.0.2"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "Microsoft.Extensions.Primitives",
+      "version": "8.0.0"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "Microsoft.Identity.Client",
+      "version": "4.80.0"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "Microsoft.Identity.Client.Extensions.Msal",
+      "version": "4.78.0"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "Microsoft.IdentityModel.Abstractions",
+      "version": "8.14.0"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "Microsoft.IdentityModel.JsonWebTokens",
+      "version": "7.7.1"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "Microsoft.IdentityModel.Logging",
+      "version": "7.7.1"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "Microsoft.IdentityModel.Protocols",
+      "version": "7.7.1"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "Microsoft.IdentityModel.Protocols.OpenIdConnect",
+      "version": "7.7.1"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "Microsoft.IdentityModel.Tokens",
+      "version": "7.7.1"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "Microsoft.NET.StringTools",
+      "version": "17.11.4"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "Microsoft.NETCore.App.Runtime.linux-x64",
+      "version": "8.0.30"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "Microsoft.NuGet.Build.Tasks",
+      "version": "0.0.0.0"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "Microsoft.SqlServer.Server",
+      "version": "1.0.0"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "Microsoft.VisualC",
+      "version": "8.0.0.0"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "Microsoft.Win32.SystemEvents",
+      "version": "10.0.2"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "Models",
+      "version": "2026.8.8099.0"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "Mono ASP.NET State Server",
+      "version": "4.2.0.0"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "Mono C# Compiler",
+      "version": "4.6.57.0"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "Mono Common Language Infrastructure",
+      "version": "4.8.3761.0"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "Mono Configuration Cryptography Tools",
+      "version": "4.0.0.0"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "Mono DB Session Tool",
+      "version": "4.2.0.0"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "Mono ILasm Compiler",
+      "version": "6.8.0.105"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "Mono Security Tools",
+      "version": "6.8.0.105"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "Mono service contract conversion tool",
+      "version": "0.1.0.0"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "Mono.Cairo",
+      "version": "4.0.0.0"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "Mono.Cecil",
+      "version": "0.9.5.0"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "Mono.Cecil.Pdb",
+      "version": "0.0.0.0"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "Mono.CompilerServices.SymbolWriter",
+      "version": "4.0.0.0"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "Mono.Data.Tds",
+      "version": "4.0.0.0"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "Mono.Debugger.Soft.dll",
+      "version": "4.0.0.0"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "Mono.Management",
+      "version": "4.0.0.0"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "Mono.Options.dll",
+      "version": "0.2.3.0"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "Mono.Parallel",
+      "version": "4.0.0.0"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "Mono.Posix.dll",
+      "version": "4.0.0.0"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "Mono.Tasklets",
+      "version": "4.0.0.0"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "Mono.WebBrowser",
+      "version": "4.6.57.0"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "Mono.WebServer.XSP",
+      "version": "4.2.0.0"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "Mono.WebServer2",
+      "version": "0.4.0.0"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "MonoGetAssemblyName",
+      "version": "0.0.0.0"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "Monodocs-to-HTML",
+      "version": "0.0.0.0"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "NUnit",
+      "version": "2.6.4.0"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "NaCl.Net",
+      "version": "0.1.13"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "NetMQ",
+      "version": "4.0.2.2"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "NetTopologySuite",
+      "version": "2.6.0"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "NetTopologySuite.Features",
+      "version": "2.1.0"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "NetTopologySuite.IO.GeoJSON4STJ",
+      "version": "4.0.0"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "Newtonsoft.Json",
+      "version": "13.0.4"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "OxyPlot.Core",
+      "version": "2.2.0"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "OxyPlot.GtkSharp3",
+      "version": "2.1.0-Preview1"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "OxyPlot.SkiaSharp",
+      "version": "2.2.0"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "PDFsharp",
+      "version": "6.2.4"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "PDFsharp-MigraDoc",
+      "version": "6.2.4"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "PEAPI",
+      "version": "4.0.0.0"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "PangoSharp",
+      "version": "3.24.24.38"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "ProjNET4GeoAPI",
+      "version": "1.4.1"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "RBush.Signed",
+      "version": "4.0.0"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "RabbitMQ.Client.Apigen",
+      "version": "0.0.0.0"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "SMDiagnostics.dll",
+      "version": "4.7.2046.0"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "SQLitePCLRaw.bundle_e_sqlite3",
+      "version": "2.1.11"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "SQLitePCLRaw.core",
+      "version": "2.1.11"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "SQLitePCLRaw.lib.e_sqlite3",
+      "version": "2.1.11"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "SQLitePCLRaw.provider.e_sqlite3",
+      "version": "2.1.11"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "ShimSkiaSharp",
+      "version": "3.2.1"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "SixLabors.Fonts",
+      "version": "1.0.0"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "SkiaSharp",
+      "version": "3.119.1"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "SkiaSharp.HarfBuzz",
+      "version": "3.119.1"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "SkiaSharp.NativeAssets.Linux",
+      "version": "3.119.1"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "Svg.Custom",
+      "version": "3.2.1"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "Svg.Model",
+      "version": "3.2.1"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "Svg.Skia",
+      "version": "3.2.1"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "System.ClientModel",
+      "version": "1.8.0"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "System.CodeDom",
+      "version": "10.0.2"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "System.Collections.Immutable",
+      "version": "10.0.2"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "System.ComponentModel.Composition",
+      "version": "4.0.0.0"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "System.Composition",
+      "version": "9.0.0"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "System.Composition.AttributedModel",
+      "version": "9.0.0"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "System.Composition.Convention",
+      "version": "9.0.0"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "System.Composition.Hosting",
+      "version": "9.0.0"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "System.Composition.Runtime",
+      "version": "9.0.0"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "System.Composition.TypedParts",
+      "version": "9.0.0"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "System.Configuration.ConfigurationManager",
+      "version": "8.0.1"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "System.Data.SQLite",
+      "version": "1.0.61.0"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "System.Data.Services.Client.dll",
+      "version": "3.5.30729.4426"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "System.Diagnostics.EventLog",
+      "version": "8.0.1"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "System.Drawing.Common",
+      "version": "10.0.2"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "System.Formats.Nrbf",
+      "version": "10.0.2"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "System.IO.Packaging",
+      "version": "8.0.1"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "System.IO.Pipelines",
+      "version": "9.0.0"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "System.IdentityModel.Tokens.Jwt",
+      "version": "7.7.1"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "System.Json",
+      "version": "4.7.2046.0"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "System.Memory.Data",
+      "version": "8.0.1"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "System.Net.Http.Formatting",
+      "version": "4.0.0.0"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "System.Reactive.Core",
+      "version": "2.2.0.0"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "System.Reactive.Debugger",
+      "version": "2.2.0.0"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "System.Reactive.Experimental",
+      "version": "2.2.0.0"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "System.Reactive.Interfaces",
+      "version": "2.2.0.0"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "System.Reactive.Linq",
+      "version": "2.2.0.0"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "System.Reactive.Observable.Aliases",
+      "version": "0.0.0.0"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "System.Reactive.PlatformServices",
+      "version": "2.2.0.0"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "System.Reactive.Providers",
+      "version": "2.2.0.0"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "System.Reactive.Runtime.Remoting",
+      "version": "2.2.0.0"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "System.Reactive.Windows.Forms",
+      "version": "2.2.0.0"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "System.Reactive.Windows.Threading",
+      "version": "2.2.0.0"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "System.Reflection.Metadata",
+      "version": "10.0.2"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "System.Resources.Extensions",
+      "version": "10.0.2"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "System.Security.Cryptography.Pkcs",
+      "version": "8.0.1"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "System.Security.Cryptography.ProtectedData",
+      "version": "8.0.0"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "System.Security.Cryptography.Xml",
+      "version": "8.0.2"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "System.ServiceModel.Internals.dll",
+      "version": "4.7.2046.0"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "System.ServiceModel.Primitives",
+      "version": "8.1.2"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "System.Text.Encodings.Web",
+      "version": "9.0.0"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "System.Text.Json",
+      "version": "9.0.0"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "System.Web.Http",
+      "version": "4.0.0.0"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "System.Web.Http.SelfHost",
+      "version": "4.0.0.0"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "System.Web.Http.WebHost",
+      "version": "4.0.0.0"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "System.Web.Mvc.dll",
+      "version": "3.0.20107.0"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "System.Web.Razor",
+      "version": "4.7.2046.0"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "System.Web.WebPages",
+      "version": "4.7.2046.0"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "System.Web.WebPages.Deployment",
+      "version": "4.7.2046.0"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "System.Web.WebPages.Razor",
+      "version": "4.7.2046.0"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "System.Windows.Extensions",
+      "version": "10.0.2"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "Topten.RichTextKit",
+      "version": "0.4.167"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "WebMatrix.Data",
+      "version": "4.0.0.0"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "YamlDotNet",
+      "version": "16.3.0"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "actions",
+      "version": "0.0.0.0"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "aprofutil",
+      "version": "0.0.0.0"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "apsim-server",
+      "version": "2026.8.8099.0"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "apsim-server.Reference",
+      "version": "0.0.0.0"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "assistant",
+      "version": "0.0.0.0"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "async-sample",
+      "version": "0.0.0.0"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "atk-sharp",
+      "version": "3.0.0.0"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "browsercaps-updater",
+      "version": "0.0.0.0"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "button",
+      "version": "0.0.0.0"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "cairo-png",
+      "version": "0.0.0.0"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "cairo-sample",
+      "version": "0.0.0.0"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "cairo-sharp",
+      "version": "1.10.0.0"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "calendar",
+      "version": "0.0.0.0"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "cccheck",
+      "version": "0.0.0.0"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "ccrewrite",
+      "version": "0.0.0.0"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "csharp",
+      "version": "0.0.0.0"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "culevel",
+      "version": "0.0.0.0"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "custom-cellrenderer",
+      "version": "0.0.0.0"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "custom-scrollable",
+      "version": "0.0.0.0"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "custom-widget",
+      "version": "0.0.0.0"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "disco",
+      "version": "0.0.0.0"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "dtd2rng",
+      "version": "0.0.0.0"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "dtd2xsd",
+      "version": "0.0.0.0"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "gacutil",
+      "version": "0.0.0.0"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "gapi-fixup",
+      "version": "0.0.0.0"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "gapi-parser",
+      "version": "0.0.0.0"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "gapi_codegen",
+      "version": "0.0.0.0"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "gdk-sharp",
+      "version": "3.0.0.0"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "genxs",
+      "version": "0.0.0.0"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "gexceptiontest",
+      "version": "0.0.0.0"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "gio-sharp",
+      "version": "3.0.0.0"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "glib-sharp",
+      "version": "3.0.0.0"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "gtk-hello-world",
+      "version": "0.0.0.0"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "gtk-sharp",
+      "version": "3.0.0.0"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "ictool",
+      "version": "0.0.0.0"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "ikdasm",
+      "version": "0.0.0.0"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "illinkanalyzer",
+      "version": "0.0.0.0"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "installutil",
+      "version": "0.0.0.0"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "installvst",
+      "version": "0.0.0.0"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "macpack.exe",
+      "version": "6.8.0.105"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "managedtreeviewdemo",
+      "version": "0.0.0.0"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "mconfig",
+      "version": "0.1.0.0"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "mdbrebase",
+      "version": "0.0.0.0"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "menu",
+      "version": "0.0.0.0"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "mkbundle",
+      "version": "0.0.0.0"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "mod",
+      "version": "0.0.0.0"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "mono-api-diff",
+      "version": "0.0.0.0"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "mono-api-html",
+      "version": "0.0.0.0"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "mono-api-info",
+      "version": "0.0.0.0"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "mono-shlib-cop",
+      "version": "0.0.0.0"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "mono-xmltool",
+      "version": "0.0.0.0"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "monodoc",
+      "version": "1.0.0.0"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "monop",
+      "version": "0.0.0.0"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "native-instantiation",
+      "version": "0.0.0.0"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "nodeviewdemo",
+      "version": "0.0.0.0"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "pango-sharp",
+      "version": "3.0.0.0"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "pdb2mdb",
+      "version": "0.0.0.0"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "polarfixed",
+      "version": "0.0.0.0"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "policy.2.6.nunit-console-runner",
+      "version": "0.0.0.0"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "policy.2.6.nunit.core",
+      "version": "0.0.0.0"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "policy.2.6.nunit.core.interfaces",
+      "version": "0.0.0.0"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "policy.2.6.nunit.framework",
+      "version": "0.0.0.0"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "policy.2.6.nunit.mocks",
+      "version": "0.0.0.0"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "policy.2.6.nunit.util",
+      "version": "0.0.0.0"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "registerprop",
+      "version": "0.0.0.0"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "scribble",
+      "version": "0.0.0.0"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "sgen",
+      "version": "0.0.0.0"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "soapsuds",
+      "version": "0.0.0.0"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "spawn",
+      "version": "0.0.0.0"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "sqlsharp",
+      "version": "0.0.0.0"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "subclass",
+      "version": "0.0.0.0"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "testdnd",
+      "version": "0.0.0.0"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "treemodeldemo",
+      "version": "0.0.0.0"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "treeviewdemo",
+      "version": "0.0.0.0"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "vbruntime",
+      "version": "8.0.50727.42"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "wsdl",
+      "version": "0.0.0.0"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "xbuild",
+      "version": "6.8.0.105"
+    },
+    {
+      "ecosystem": "dotnet",
+      "name": "xsd",
+      "version": "0.0.0.0"
+    }
+  ],
+  "registry": "docker.io",
+  "repository": "apsiminitiative/apsimng-gui",
+  "size": 905420725,
+  "tag": null
+}
