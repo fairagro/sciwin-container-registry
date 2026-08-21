@@ -1,0 +1,1079 @@
+{
+  "architecture": null,
+  "digest": "8e67a3554ec2484f0748d21d475cf995587d69a7355f21857409996d649dd24f",
+  "entrypoint": [
+    "/usr/local/bin/entry.sh"
+  ],
+  "os": null,
+  "packages": [
+    {
+      "ecosystem": "java-archive",
+      "name": "JavaEWAH",
+      "version": "1.2.3"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "ST4",
+      "version": "4.3.4"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "antlr-runtime",
+      "version": "3.5.3"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "antlr4",
+      "version": "4.13.2.14"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "antlr4-annotations",
+      "version": "4.13.2.14"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "antlr4-runtime",
+      "version": "4.13.2.14"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "commons-codec",
+      "version": "1.17.1"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "commons-compress",
+      "version": "1.27.1"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "commons-io",
+      "version": "2.16.1"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "commons-lang3",
+      "version": "3.18.0"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "error_prone_annotations",
+      "version": "2.38.0"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "failsafe",
+      "version": "3.3.2"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "failureaccess",
+      "version": "1.0.2"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "gson",
+      "version": "2.13.1"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "guava",
+      "version": "33.0.0-jre"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "isorelax",
+      "version": "20090621"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "itu",
+      "version": "1.14.0"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "jackson-annotations",
+      "version": "2.21"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "jackson-core",
+      "version": "2.21.5"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "jackson-databind",
+      "version": "2.21.5"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "jackson-dataformat-yaml",
+      "version": "2.21.5"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "jakarta.validation-api",
+      "version": "3.1.0"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "java-semver",
+      "version": "0.10.2"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "jcl-over-slf4j",
+      "version": "2.0.17"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "jcommander",
+      "version": "1.35"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "jline",
+      "version": "2.9"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "jrt-fs",
+      "version": "25.0.4"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "json-schema-validator",
+      "version": "1.5.9"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "jsoup",
+      "version": "1.23.1"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "jsr305",
+      "version": "3.0.2"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "jul-to-slf4j",
+      "version": "2.0.17"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "kryo",
+      "version": "2.24.0"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "leveldb",
+      "version": "0.12"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "leveldb-api",
+      "version": "0.12"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "listenablefuture",
+      "version": "9999.0-empty-to-avoid-conflict-with-guava"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "log4j-over-slf4j",
+      "version": "2.0.17"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "logback-classic",
+      "version": "1.5.38"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "logback-core",
+      "version": "1.5.38"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "mail",
+      "version": "1.4.7"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "multiverse-core",
+      "version": "0.7.0"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "nextflow",
+      "version": "26.08.0-edge-one"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "org.abego.treelayout.core",
+      "version": "1.0.3"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "org.eclipse.jgit",
+      "version": "7.1.1.202505221757-r"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "pf4j",
+      "version": "3.14.1"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "pf4j-update",
+      "version": "2.3.0"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "reflectasm",
+      "version": "1.09"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "slf4j-api",
+      "version": "2.0.17"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "snakeyaml",
+      "version": "2.5"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "stax2-api",
+      "version": "4.2.2"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "woodstox-core",
+      "version": "7.1.1"
+    },
+    {
+      "ecosystem": "java-archive",
+      "name": "xsdlib",
+      "version": "2022.7"
+    },
+    {
+      "ecosystem": "python",
+      "name": "gpg",
+      "version": "1.23.2"
+    },
+    {
+      "ecosystem": "python",
+      "name": "libcomps",
+      "version": "0.1.20"
+    },
+    {
+      "ecosystem": "python",
+      "name": "rpm",
+      "version": "4.16.1.3"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "alsa-lib",
+      "version": "1.2.7.2-1.amzn2023.0.3"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "alternatives",
+      "version": "1.15-2.amzn2023.0.2"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "amazon-linux-repo-cdn",
+      "version": "2023.12.20260727-0.amzn2023"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "audit-libs",
+      "version": "3.1.5-1.amzn2023.0.2"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "basesystem",
+      "version": "11-11.amzn2023.0.2"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "bash",
+      "version": "5.2.15-1.amzn2023.0.2"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "bzip2-libs",
+      "version": "1.0.8-6.amzn2023.0.2"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "ca-certificates",
+      "version": "2025.2.76-1.0.amzn2023.0.3"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "cairo",
+      "version": "1.18.0-4.amzn2023.0.3"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "chkconfig",
+      "version": "1.15-2.amzn2023.0.2"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "coreutils-single",
+      "version": "8.32-30.amzn2023.0.5"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "cracklib",
+      "version": "2.9.6-27.amzn2023.0.2"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "crypto-policies",
+      "version": "20260224-1.gitea0f072.amzn2023.0.4"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "curl-minimal",
+      "version": "8.17.0-1.amzn2023.0.3"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "dejavu-sans-fonts",
+      "version": "2.37-16.amzn2023.0.2"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "dejavu-sans-mono-fonts",
+      "version": "2.37-16.amzn2023.0.2"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "dejavu-serif-fonts",
+      "version": "2.37-16.amzn2023.0.2"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "dnf",
+      "version": "4.14.0-1.amzn2023.0.7"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "dnf-data",
+      "version": "4.14.0-1.amzn2023.0.7"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "elfutils-default-yama-scope",
+      "version": "0.188-3.amzn2023.0.3"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "elfutils-libelf",
+      "version": "0.188-3.amzn2023.0.3"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "elfutils-libs",
+      "version": "0.188-3.amzn2023.0.3"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "expat",
+      "version": "2.6.3-1.amzn2023.0.6"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "file-libs",
+      "version": "5.39-7.amzn2023.0.4"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "filesystem",
+      "version": "3.14-5.amzn2023.0.3"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "fontconfig",
+      "version": "2.13.94-2.amzn2023.0.2"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "fonts-filesystem",
+      "version": "1:2.0.5-12.amzn2023.0.2"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "freetype",
+      "version": "2.13.2-5.amzn2023.0.2"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "gawk",
+      "version": "5.1.0-3.amzn2023.0.3"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "gdbm-libs",
+      "version": "1:1.19-2.amzn2023.0.2"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "giflib",
+      "version": "5.2.1-9.amzn2023.0.4"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "glib2",
+      "version": "2.82.2-770.amzn2023"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "glibc",
+      "version": "2.34-231.amzn2023.0.5"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "glibc-common",
+      "version": "2.34-231.amzn2023.0.5"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "glibc-minimal-langpack",
+      "version": "2.34-231.amzn2023.0.5"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "gmp",
+      "version": "1:6.2.1-2.amzn2023.0.2"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "gnupg2-minimal",
+      "version": "2.3.7-1.amzn2023.0.9"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "google-noto-fonts-common",
+      "version": "20240401-1.amzn2023.0.2"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "google-noto-sans-vf-fonts",
+      "version": "20240401-1.amzn2023.0.2"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "gpg-pubkey",
+      "version": "d832c631-6515c85e"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "gpgme",
+      "version": "1.23.2-182.amzn2023.0.1"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "graphite2",
+      "version": "1.3.14-7.amzn2023.0.3"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "grep",
+      "version": "3.8-1.amzn2023.0.4"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "gzip",
+      "version": "1.12-1.amzn2023.0.1"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "harfbuzz",
+      "version": "7.0.0-2.amzn2023.0.2"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "java-25-amazon-corretto",
+      "version": "1:25.0.4+7-1.amzn2023.1"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "java-25-amazon-corretto-devel",
+      "version": "1:25.0.4+7-1.amzn2023.1"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "java-25-amazon-corretto-headless",
+      "version": "1:25.0.4+7-1.amzn2023.1"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "java-25-amazon-corretto-jmods",
+      "version": "1:25.0.4+7-1.amzn2023.1"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "javapackages-filesystem",
+      "version": "6.0.0-7.amzn2023.0.6"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "json-c",
+      "version": "0.14-8.amzn2023.0.2"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "keyutils-libs",
+      "version": "1.6.3-1.amzn2023.0.2"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "krb5-libs",
+      "version": "1.21.3-8.amzn2023.0.1"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "langpacks-core-font-en",
+      "version": "3.0-21.amzn2023.0.4"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "libICE",
+      "version": "1.1.1-3.amzn2023.0.1"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "libSM",
+      "version": "1.2.4-3.amzn2023.0.1"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "libX11",
+      "version": "1.8.10-2.amzn2023.0.1"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "libX11-common",
+      "version": "1.8.10-2.amzn2023.0.1"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "libXau",
+      "version": "1.0.11-6.amzn2023.0.1"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "libXext",
+      "version": "1.3.6-1.amzn2023.0.1"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "libXi",
+      "version": "1.8.2-1.amzn2023.0.1"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "libXinerama",
+      "version": "1.1.5-6.amzn2023.0.1"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "libXrandr",
+      "version": "1.5.4-3.amzn2023.0.1"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "libXrender",
+      "version": "0.9.11-6.amzn2023.0.1"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "libXt",
+      "version": "1.3.0-3.amzn2023.0.1"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "libXtst",
+      "version": "1.2.5-1.amzn2023.0.1"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "libacl",
+      "version": "2.4.0-1.amzn2023.0.1"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "libarchive",
+      "version": "3.7.4-2.amzn2023.0.4"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "libassuan",
+      "version": "2.5.5-1.amzn2023.0.2"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "libattr",
+      "version": "2.5.1-3.amzn2023.0.2"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "libblkid",
+      "version": "2.37.4-1.amzn2023.0.6"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "libbrotli",
+      "version": "1.0.9-4.amzn2023.0.2"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "libcap",
+      "version": "2.73-1.amzn2023.0.7"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "libcap-ng",
+      "version": "0.8.2-4.amzn2023.0.2"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "libcom_err",
+      "version": "1.46.5-2.amzn2023.0.2"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "libcomps",
+      "version": "0.1.20-1.amzn2023"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "libcurl-minimal",
+      "version": "8.17.0-1.amzn2023.0.3"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "libdb",
+      "version": "5.3.28-49.amzn2023.0.2"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "libdnf",
+      "version": "0.69.0-8.amzn2023.0.8"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "libeconf",
+      "version": "0.7.9-1.amzn2023.0.1"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "libfdisk",
+      "version": "2.37.4-1.amzn2023.0.6"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "libffi",
+      "version": "3.4.4-1.amzn2023.0.1"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "libgcc",
+      "version": "14.2.1-7.amzn2023.0.2"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "libgcrypt",
+      "version": "1.10.2-1.amzn2023.0.3"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "libgomp",
+      "version": "14.2.1-7.amzn2023.0.2"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "libgpg-error",
+      "version": "1.42-1.amzn2023.0.2"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "libidn2",
+      "version": "2.3.2-1.amzn2023.0.5"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "libjpeg-turbo",
+      "version": "2.1.4-2.amzn2023.0.5"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "libmodulemd",
+      "version": "2.13.0-2.amzn2023.0.2"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "libmount",
+      "version": "2.37.4-1.amzn2023.0.6"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "libnghttp2",
+      "version": "1.59.0-3.amzn2023.0.2"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "libpng",
+      "version": "2:1.6.37-10.amzn2023.0.13"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "libpsl",
+      "version": "0.21.5-1.amzn2023.0.1"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "libpwquality",
+      "version": "1.4.4-6.amzn2023.0.2"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "librepo",
+      "version": "1.14.5-2.amzn2023.0.2"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "libreport-filesystem",
+      "version": "2.15.2-2.amzn2023.0.2"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "libselinux",
+      "version": "3.4-5.amzn2023.0.2"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "libsemanage",
+      "version": "3.4-5.amzn2023.0.2"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "libsepol",
+      "version": "3.4-3.amzn2023.0.3"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "libsigsegv",
+      "version": "2.13-2.amzn2023.0.2"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "libsmartcols",
+      "version": "2.37.4-1.amzn2023.0.6"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "libsolv",
+      "version": "0.7.22-1.amzn2023.0.4"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "libstdc++",
+      "version": "14.2.1-7.amzn2023.0.2"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "libtasn1",
+      "version": "4.19.0-1.amzn2023.0.6"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "libunistring",
+      "version": "0.9.10-10.amzn2023.0.2"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "libutempter",
+      "version": "1.2.1-4.amzn2023.0.2"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "libuuid",
+      "version": "2.37.4-1.amzn2023.0.6"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "libverto",
+      "version": "0.3.2-1.amzn2023.0.2"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "libxcb",
+      "version": "1.17.0-1.amzn2023.0.1"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "libxcrypt",
+      "version": "4.4.33-7.amzn2023"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "libxml2",
+      "version": "2.10.4-1.amzn2023.0.19"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "libyaml",
+      "version": "0.2.5-5.amzn2023.0.2"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "libzstd",
+      "version": "1.5.5-1.amzn2023.0.1"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "lua-libs",
+      "version": "5.4.4-3.amzn2023.0.2"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "lz4-libs",
+      "version": "1.9.4-1.amzn2023.0.3"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "mpfr",
+      "version": "4.1.0-7.amzn2023.0.2"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "ncurses-base",
+      "version": "6.6-1.amzn2023.0.1"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "ncurses-libs",
+      "version": "6.6-1.amzn2023.0.1"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "npth",
+      "version": "1.6-6.amzn2023.0.2"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "openssl-fips-provider-latest",
+      "version": "1:3.5.5-1.amzn2023.0.5"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "openssl-libs",
+      "version": "1:3.5.5-1.amzn2023.0.5"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "p11-kit",
+      "version": "0.24.1-2.amzn2023.0.3"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "p11-kit-trust",
+      "version": "0.24.1-2.amzn2023.0.3"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "pam",
+      "version": "1.5.1-8.amzn2023.0.8"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "pcre2",
+      "version": "10.40-1.amzn2023.0.3"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "pcre2-syntax",
+      "version": "10.40-1.amzn2023.0.3"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "pixman",
+      "version": "0.43.4-1.amzn2023.0.4"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "popt",
+      "version": "1.18-6.amzn2023.0.2"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "procps-ng",
+      "version": "3.3.17-1.amzn2023.0.2"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "publicsuffix-list-dafsa",
+      "version": "20260116-1.amzn2023.0.1"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "python3",
+      "version": "3.9.25-1.amzn2023.0.8"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "python3-dnf",
+      "version": "4.14.0-1.amzn2023.0.7"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "python3-gpg",
+      "version": "1.23.2-182.amzn2023.0.1"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "python3-hawkey",
+      "version": "0.69.0-8.amzn2023.0.8"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "python3-libcomps",
+      "version": "0.1.20-1.amzn2023"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "python3-libdnf",
+      "version": "0.69.0-8.amzn2023.0.8"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "python3-libs",
+      "version": "3.9.25-1.amzn2023.0.8"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "python3-pip-wheel",
+      "version": "21.3.1-2.amzn2023.0.20"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "python3-rpm",
+      "version": "4.16.1.3-29.amzn2023.0.6"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "python3-setuptools-wheel",
+      "version": "59.6.0-2.amzn2023.0.6"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "readline",
+      "version": "8.1-2.amzn2023.0.2"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "rpm",
+      "version": "4.16.1.3-29.amzn2023.0.6"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "rpm-build-libs",
+      "version": "4.16.1.3-29.amzn2023.0.6"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "rpm-libs",
+      "version": "4.16.1.3-29.amzn2023.0.6"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "rpm-sign-libs",
+      "version": "4.16.1.3-29.amzn2023.0.6"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "sed",
+      "version": "4.8-7.amzn2023.0.2"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "setup",
+      "version": "2.13.7-3.amzn2023.0.2"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "shadow-utils",
+      "version": "2:4.9-12.amzn2023.0.4"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "sqlite-libs",
+      "version": "3.40.0-1.amzn2023.0.8"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "system-release",
+      "version": "2023.12.20260727-0.amzn2023"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "systemd-libs",
+      "version": "252.23-12.amzn2023"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "tzdata",
+      "version": "2026c-1.amzn2023.0.1"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "util-linux",
+      "version": "2.37.4-1.amzn2023.0.6"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "util-linux-core",
+      "version": "2.37.4-1.amzn2023.0.6"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "which",
+      "version": "2.21-26.amzn2023.0.2"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "xml-common",
+      "version": "0.6.3-56.amzn2023.0.2"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "xz-libs",
+      "version": "5.2.5-9.amzn2023.0.2"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "yum",
+      "version": "4.14.0-1.amzn2023.0.7"
+    },
+    {
+      "ecosystem": "rpm",
+      "name": "zlib",
+      "version": "1.2.11-33.amzn2023.0.6"
+    }
+  ],
+  "registry": "docker.io",
+  "repository": "nextflow/nextflow",
+  "size": 839839096,
+  "tag": null
+}

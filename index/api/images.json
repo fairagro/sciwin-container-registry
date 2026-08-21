@@ -243,6 +243,18 @@
     },
     {
       "architecture": null,
+      "digest": "e20c219c2da0232cfa2c63680ea6dc6c5bb6782a4d331f25cd74910539161486",
+      "entrypoint": [
+        "/entrypoint.sh"
+      ],
+      "os": null,
+      "registry": "docker.io",
+      "repository": "apsiminitiative/apsimplusr",
+      "size": 3894107939,
+      "tag": null
+    },
+    {
+      "architecture": null,
       "digest": "8d3c1199098cf335a42a92df9328717989709abbc7c1503410aac8e696e7883f",
       "entrypoint": [
         "dotnet",
@@ -612,6 +624,16 @@
     },
     {
       "architecture": null,
+      "digest": "e43fc99122e5c44168d1538f15149b938fbb4bc7877c44e5a300f2b34aecaf74",
+      "entrypoint": null,
+      "os": null,
+      "registry": "docker.io",
+      "repository": "biocontainers/blaze",
+      "size": 1220009918,
+      "tag": null
+    },
+    {
+      "architecture": null,
       "digest": "47148858f55463c2432564eff631726c77a7d0e598f35e806a1cbcd6ce30be1a",
       "entrypoint": null,
       "os": null,
@@ -628,6 +650,28 @@
       "registry": "docker.io",
       "repository": "biocontainers/bwa",
       "size": 956429196,
+      "tag": null
+    },
+    {
+      "architecture": null,
+      "digest": "3f64731d282084bf017f275b1dc42905cf9a8b71f93d4b823c999a2ddb99c7a4",
+      "entrypoint": [
+        "/usr/local/bin/_entrypoint.sh"
+      ],
+      "os": null,
+      "registry": "docker.io",
+      "repository": "biocontainers/cadd-scripts-with-envs",
+      "size": 3017075823,
+      "tag": null
+    },
+    {
+      "architecture": null,
+      "digest": "1ece14a8f3557558a1447ca62ef15398805936cae07160f64caa434b8288616f",
+      "entrypoint": null,
+      "os": null,
+      "registry": "docker.io",
+      "repository": "biocontainers/cellpose",
+      "size": 8911456635,
       "tag": null
     },
     {
@@ -704,6 +748,16 @@
     },
     {
       "architecture": null,
+      "digest": "458521d6683abb6897dfce74a28058da9bca4c0f68b35198421b426f94303974",
+      "entrypoint": null,
+      "os": null,
+      "registry": "docker.io",
+      "repository": "biocontainers/evidential-gene",
+      "size": 1172598772,
+      "tag": null
+    },
+    {
+      "architecture": null,
       "digest": "82e5fa413d275a72c3de76e400a3d12a93ebdb4e1ef5391d7f7e9ce686671d8d",
       "entrypoint": null,
       "os": null,
@@ -740,6 +794,26 @@
       "registry": "docker.io",
       "repository": "biocontainers/guidance2",
       "size": 664765101,
+      "tag": null
+    },
+    {
+      "architecture": null,
+      "digest": "e8a6b3ca6ba92c5d44b6bb2ab5133b457730b38ea915d9277e0bd38e9ec8ad4d",
+      "entrypoint": null,
+      "os": null,
+      "registry": "docker.io",
+      "repository": "biocontainers/i2nca",
+      "size": 1963559868,
+      "tag": null
+    },
+    {
+      "architecture": null,
+      "digest": "a7bd8e00c6e7bb3341dc4a1437e19285ca22ad2521a06c64040415c2406f8fb8",
+      "entrypoint": null,
+      "os": null,
+      "registry": "docker.io",
+      "repository": "biocontainers/ilastik",
+      "size": 5901996997,
       "tag": null
     },
     {
@@ -852,6 +926,38 @@
     },
     {
       "architecture": null,
+      "digest": "e6d0f8aedb7ba9213b13e92b5f4da2f9450eb7547e67fdbb30af81723e48328d",
+      "entrypoint": [
+        "/usr/local/bin/_entrypoint.sh"
+      ],
+      "os": null,
+      "registry": "docker.io",
+      "repository": "biocontainers/micro-sam",
+      "size": 4977248999,
+      "tag": null
+    },
+    {
+      "architecture": "amd64",
+      "digest": "3535d6bc909dbee0e72abfa9ca079a422b08b03dced4bbf7e0affae2a0118e9e",
+      "entrypoint": null,
+      "os": "linux",
+      "registry": "docker.io",
+      "repository": "biocontainers/ncbi-datasets-cli",
+      "size": 964823011,
+      "tag": null
+    },
+    {
+      "architecture": null,
+      "digest": "d255e642c33a2f2e884886e2a4642cf040dab883c0a4b14a9045875e21642db4",
+      "entrypoint": null,
+      "os": null,
+      "registry": "docker.io",
+      "repository": "biocontainers/ncbi-tools-bin",
+      "size": 160329751,
+      "tag": null
+    },
+    {
+      "architecture": null,
       "digest": "8369e3da60643293ef3d1eb1c830d23ba74e308b9ecd98c2bbeb981a2e96b78c",
       "entrypoint": [
         "/bin/sh",
@@ -879,6 +985,16 @@
       "registry": "docker.io",
       "repository": "biocontainers/nmrpro",
       "size": 1951787092,
+      "tag": null
+    },
+    {
+      "architecture": null,
+      "digest": "0202b7c49e5f26345692e4b5dde660082a7d33217fa243a6f04b63ce0571bfa0",
+      "entrypoint": null,
+      "os": null,
+      "registry": "docker.io",
+      "repository": "biocontainers/openms",
+      "size": 1322245023,
       "tag": null
     },
     {
@@ -1055,6 +1171,16 @@
       "tag": null
     },
     {
+      "architecture": "amd64",
+      "digest": "dd76f543e100ae22979babf1eeb553f18d1419ab1268cb13095ab7c4b8f8d37a",
+      "entrypoint": null,
+      "os": "linux",
+      "registry": "docker.io",
+      "repository": "biocontainers/rastair",
+      "size": 1565927101,
+      "tag": null
+    },
+    {
       "architecture": null,
       "digest": "14a5d446d19dfe53216793d79b045f8f7f6f31edcb8d073fe1118f710c6bd794",
       "entrypoint": [
@@ -1084,6 +1210,16 @@
       "registry": "docker.io",
       "repository": "biocontainers/rnmr",
       "size": 3156293329,
+      "tag": null
+    },
+    {
+      "architecture": null,
+      "digest": "56b44e29b2644acaf9bdbd9726eb7a0c5e88ce687448b967145ecec13e9acd3c",
+      "entrypoint": null,
+      "os": null,
+      "registry": "docker.io",
+      "repository": "biocontainers/rsat",
+      "size": 8073523909,
       "tag": null
     },
     {
@@ -1133,6 +1269,28 @@
       "tag": null
     },
     {
+      "architecture": "amd64",
+      "digest": "6b9c9485c178b812226fd616e104ba73a148cbb348282c3aad00fd40f6d5546d",
+      "entrypoint": null,
+      "os": "linux",
+      "registry": "docker.io",
+      "repository": "biocontainers/sourmash_plugin_branchwater",
+      "size": 815089629,
+      "tag": null
+    },
+    {
+      "architecture": null,
+      "digest": "7f6926962605936517d2ca55eb37a43e5dd122799eef24e8540d177e31f7000a",
+      "entrypoint": [
+        "/opt/entrypoint.sh"
+      ],
+      "os": null,
+      "registry": "docker.io",
+      "repository": "biocontainers/spark",
+      "size": 531284556,
+      "tag": null
+    },
+    {
       "architecture": null,
       "digest": "8fc252347a1f0eea051a7a5a33b2b139b10d4bf166cda2346109f198a95d905a",
       "entrypoint": [
@@ -1162,6 +1320,16 @@
       "registry": "docker.io",
       "repository": "biocontainers/talon",
       "size": 703058085,
+      "tag": null
+    },
+    {
+      "architecture": "amd64",
+      "digest": "4a2ccada4e09d00f7b8ef67c14fe9fce26e471e5be1588854abdf28582ea83b2",
+      "entrypoint": null,
+      "os": "linux",
+      "registry": "docker.io",
+      "repository": "biocontainers/test-ci",
+      "size": 78622803,
       "tag": null
     },
     {
@@ -1512,6 +1680,18 @@
     },
     {
       "architecture": null,
+      "digest": "8e67a3554ec2484f0748d21d475cf995587d69a7355f21857409996d649dd24f",
+      "entrypoint": [
+        "/usr/local/bin/entry.sh"
+      ],
+      "os": null,
+      "registry": "docker.io",
+      "repository": "nextflow/nextflow",
+      "size": 839839096,
+      "tag": null
+    },
+    {
+      "architecture": null,
       "digest": "b2a22dbdb130f0bd9fb201e4149267a0de6f878ca391c13f5728af2290b82a2d",
       "entrypoint": null,
       "os": null,
@@ -1697,6 +1877,16 @@
     },
     {
       "architecture": "amd64",
+      "digest": "dbbbe105b3de2e57ec53ad1be822ceb8f9d824689bd8a95fd655d97ae285e685",
+      "entrypoint": null,
+      "os": "linux",
+      "registry": "docker.io",
+      "repository": "rocker/binder",
+      "size": 9544468095,
+      "tag": null
+    },
+    {
+      "architecture": "amd64",
       "digest": "d2c2fdb89df373750af387c96465b34a4aa77e26c278dc4f384a67ee9a8affcf",
       "entrypoint": null,
       "os": "linux",
@@ -1713,6 +1903,16 @@
       "registry": "docker.io",
       "repository": "rocker/cuda",
       "size": 17975619058,
+      "tag": null
+    },
+    {
+      "architecture": "amd64",
+      "digest": "55f4f6c2de0ab6b11abff9886952eca676182fe46d14436ace228d902734306a",
+      "entrypoint": null,
+      "os": "linux",
+      "registry": "docker.io",
+      "repository": "rocker/cuda",
+      "size": 16074491519,
       "tag": null
     },
     {
@@ -1843,6 +2043,16 @@
       "registry": "docker.io",
       "repository": "rocker/ml",
       "size": 7600175250,
+      "tag": null
+    },
+    {
+      "architecture": "amd64",
+      "digest": "ea46589baa7cfb5071c2f62bebf331cc978ad5e42235e1553eb74973114c7519",
+      "entrypoint": null,
+      "os": "linux",
+      "registry": "docker.io",
+      "repository": "rocker/ml",
+      "size": 7721122583,
       "tag": null
     },
     {
@@ -2093,6 +2303,16 @@
       "registry": "docker.io",
       "repository": "rocker/r-ver",
       "size": 1041806977,
+      "tag": null
+    },
+    {
+      "architecture": "amd64",
+      "digest": "2898622287c42e3690114e0490d697dcfe638dd1ef18a5964e8cb6f31e810bb0",
+      "entrypoint": null,
+      "os": "linux",
+      "registry": "docker.io",
+      "repository": "rocker/r-ver",
+      "size": 1041814002,
       "tag": null
     },
     {
