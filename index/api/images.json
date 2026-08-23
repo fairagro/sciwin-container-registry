@@ -15,6 +15,19 @@
     },
     {
       "architecture": null,
+      "digest": "ec496d070487ada38ff07ac890d6c6c81c1a7b99305778af0f996f443171bbe0",
+      "entrypoint": [
+        "dotnet",
+        "APSIM.Docs.dll"
+      ],
+      "os": null,
+      "registry": "docker.io",
+      "repository": "apsiminitiative/apsim-docs",
+      "size": 871214179,
+      "tag": null
+    },
+    {
+      "architecture": null,
       "digest": "6958907c15b08fefa0fd679319184241c801c1b967048c29c671577e48b8a77a",
       "entrypoint": [
         "Models"
@@ -1947,6 +1960,16 @@
     },
     {
       "architecture": "amd64",
+      "digest": "fac9a30b896442639c9ddd1f782302bc0bbd5fe30a23b93d6653550fa52795cb",
+      "entrypoint": null,
+      "os": "linux",
+      "registry": "docker.io",
+      "repository": "rocker/cuda-spatial",
+      "size": 17374933787,
+      "tag": null
+    },
+    {
+      "architecture": "amd64",
       "digest": "8908ea621353b9ae073fee3844bfed4cf17c1dd7ace3264603b64fde0bc7ef01",
       "entrypoint": null,
       "os": "linux",
@@ -2083,6 +2106,16 @@
       "registry": "docker.io",
       "repository": "rocker/ml-spatial",
       "size": 10210185194,
+      "tag": null
+    },
+    {
+      "architecture": "amd64",
+      "digest": "b02c9d61ee882729d8fd66f0ac45e7b03bba4a1354fb499dcba5117579b8279b",
+      "entrypoint": null,
+      "os": "linux",
+      "registry": "docker.io",
+      "repository": "rocker/ml-spatial",
+      "size": 9224291979,
       "tag": null
     },
     {
