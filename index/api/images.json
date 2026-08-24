@@ -1970,6 +1970,16 @@
     },
     {
       "architecture": "amd64",
+      "digest": "50d988f714e6721f7fbbb8129d2e80c28d68b4d1b1708d9218731a7670084bb9",
+      "entrypoint": null,
+      "os": "linux",
+      "registry": "docker.io",
+      "repository": "rocker/cuda-spatial",
+      "size": 17385940968,
+      "tag": null
+    },
+    {
+      "architecture": "amd64",
       "digest": "8908ea621353b9ae073fee3844bfed4cf17c1dd7ace3264603b64fde0bc7ef01",
       "entrypoint": null,
       "os": "linux",
@@ -2116,6 +2126,16 @@
       "registry": "docker.io",
       "repository": "rocker/ml-spatial",
       "size": 9224291979,
+      "tag": null
+    },
+    {
+      "architecture": "amd64",
+      "digest": "98726d8f031ab5c677977df165c49394dcbe154de5aef99a2bb787a32ba0056e",
+      "entrypoint": null,
+      "os": "linux",
+      "registry": "docker.io",
+      "repository": "rocker/ml-spatial",
+      "size": 9249857050,
       "tag": null
     },
     {
