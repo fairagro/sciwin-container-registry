@@ -316,6 +316,18 @@
     },
     {
       "architecture": null,
+      "digest": "653ce63f9f81c2985952802a7558975ba2dc56b36114b3d17a1c928589641ae8",
+      "entrypoint": [
+        "/entrypoint.sh"
+      ],
+      "os": null,
+      "registry": "docker.io",
+      "repository": "apsiminitiative/apsimplusr",
+      "size": 3893158622,
+      "tag": null
+    },
+    {
+      "architecture": null,
       "digest": "8d3c1199098cf335a42a92df9328717989709abbc7c1503410aac8e696e7883f",
       "entrypoint": [
         "dotnet",
