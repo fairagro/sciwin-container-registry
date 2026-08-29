@@ -2510,6 +2510,16 @@
     },
     {
       "architecture": "amd64",
+      "digest": "9b201037cac3e39c48f13574c014034df92201f24f28a2545967cfed2b6c1ebc",
+      "entrypoint": null,
+      "os": "linux",
+      "registry": "docker.io",
+      "repository": "rocker/r-ver",
+      "size": 1047148302,
+      "tag": null
+    },
+    {
+      "architecture": "amd64",
       "digest": "5dce84d9d79eaa937c1478455915c09bf27c159a10b90f2a5968cfd604f7b8d3",
       "entrypoint": null,
       "os": "linux",
@@ -2584,6 +2594,16 @@
       "tag": null
     },
     {
+      "architecture": "amd64",
+      "digest": "f40fca09e44cba014b23478dda82eaf824c0465d59a06f1a0d77e34b80d1cc5c",
+      "entrypoint": null,
+      "os": "linux",
+      "registry": "docker.io",
+      "repository": "rocker/rstudio",
+      "size": 2835395412,
+      "tag": null
+    },
+    {
       "architecture": null,
       "digest": "f0b72f08912b96b5126c42872e7bf38ae80ba1c1808807191852ab8bebd6707a",
       "entrypoint": null,
@@ -2625,6 +2645,16 @@
     },
     {
       "architecture": "amd64",
+      "digest": "c72df3cb4ffb422cc21cd57af7b0bd81ef7593c4035d8d9501d24b6f323faa84",
+      "entrypoint": null,
+      "os": "linux",
+      "registry": "docker.io",
+      "repository": "rocker/shiny",
+      "size": 1669249320,
+      "tag": null
+    },
+    {
+      "architecture": "amd64",
       "digest": "d187c77c5479ecc46e5f93890695d1708fedc00df686519c9fa93ef5bde4e660",
       "entrypoint": null,
       "os": "linux",
@@ -2651,6 +2681,16 @@
       "registry": "docker.io",
       "repository": "rocker/shiny-verse",
       "size": 2139682052,
+      "tag": null
+    },
+    {
+      "architecture": "amd64",
+      "digest": "39cacbac133e30ef4ca332124a4dc9a8ea9eb22eed2655a667e93ee25d23efde",
+      "entrypoint": null,
+      "os": "linux",
+      "registry": "docker.io",
+      "repository": "rocker/shiny-verse",
+      "size": 2153902746,
       "tag": null
     },
     {
@@ -2701,6 +2741,16 @@
       "registry": "docker.io",
       "repository": "rocker/tidyverse",
       "size": 3261000713,
+      "tag": null
+    },
+    {
+      "architecture": "amd64",
+      "digest": "07711a9ebaceebd70e74957b574c460bb01266881821ff0add5b0b705a1d2ba7",
+      "entrypoint": null,
+      "os": "linux",
+      "registry": "docker.io",
+      "repository": "rocker/tidyverse",
+      "size": 3275384994,
       "tag": null
     },
     {
