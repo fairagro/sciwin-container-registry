@@ -76,6 +76,18 @@
     },
     {
       "architecture": null,
+      "digest": "05f0942f4258e3d86e8ca6527a3a2b16bb6610bcb0d415f109152acb447b1e17",
+      "entrypoint": [
+        "Models"
+      ],
+      "os": null,
+      "registry": "docker.io",
+      "repository": "apsiminitiative/apsimng",
+      "size": 376024060,
+      "tag": null
+    },
+    {
+      "architecture": null,
       "digest": "16fc4881cfb3b9ae82473115eadc3d9431039e197ed02a9493d3621cedb7ad28",
       "entrypoint": [
         "dotnet",
@@ -152,6 +164,18 @@
     },
     {
       "architecture": null,
+      "digest": "ca1ef064686adf769c7b551b52a4857e9012707ab645457077267cb028c12eca",
+      "entrypoint": [
+        "Models"
+      ],
+      "os": null,
+      "registry": "docker.io",
+      "repository": "apsiminitiative/apsimng-complete",
+      "size": 1641832508,
+      "tag": null
+    },
+    {
+      "architecture": null,
       "digest": "61ea6198de91bf3c58a0b5bac85a93a2acd86ec5939fb8686a215ab691ab935f",
       "entrypoint": [
         "ApsimNG"
@@ -196,6 +220,18 @@
       "registry": "docker.io",
       "repository": "apsiminitiative/apsimng-gui",
       "size": 905418594,
+      "tag": null
+    },
+    {
+      "architecture": null,
+      "digest": "1da3e5704e35f43e8bfda4efd2911e0886d0c0d320d731c75098faabb2cc4dfb",
+      "entrypoint": [
+        "ApsimNG"
+      ],
+      "os": null,
+      "registry": "docker.io",
+      "repository": "apsiminitiative/apsimng-gui",
+      "size": 905432387,
       "tag": null
     },
     {
@@ -382,6 +418,18 @@
       "registry": "docker.io",
       "repository": "apsiminitiative/apsimplusr",
       "size": 3905943018,
+      "tag": null
+    },
+    {
+      "architecture": null,
+      "digest": "80b029cc9ed95697697c219e95c332f86cf44bcb535c9de365111f7114e53b0f",
+      "entrypoint": [
+        "/entrypoint.sh"
+      ],
+      "os": null,
+      "registry": "docker.io",
+      "repository": "apsiminitiative/apsimplusr",
+      "size": 3905941718,
       "tag": null
     },
     {
@@ -2638,6 +2686,16 @@
     },
     {
       "architecture": "amd64",
+      "digest": "b6eb3ca314199ad5a81b3d2725935454a646e34cbecd366c81560a852512bfde",
+      "entrypoint": null,
+      "os": "linux",
+      "registry": "docker.io",
+      "repository": "rocker/r-ubuntu",
+      "size": 772900580,
+      "tag": null
+    },
+    {
+      "architecture": "amd64",
       "digest": "fbf62b6ca344dbedba46e3eb5dec4eb5e0dbd6e2554e8774d6ca8f6f68c60a52",
       "entrypoint": null,
       "os": "linux",
@@ -2724,6 +2782,16 @@
       "registry": "docker.io",
       "repository": "rocker/r-ver",
       "size": 1047148302,
+      "tag": null
+    },
+    {
+      "architecture": "amd64",
+      "digest": "fef80aa695612b8eba2f99dbd4107d8f3a571a4bb1243593d0393743cfa5faca",
+      "entrypoint": null,
+      "os": "linux",
+      "registry": "docker.io",
+      "repository": "rocker/r-ver",
+      "size": 1050994590,
       "tag": null
     },
     {
@@ -3018,12 +3086,72 @@
     },
     {
       "architecture": null,
+      "digest": "7075287e9b17cf8cbc1968a543eb1e8412645aacf2ebc278d3d4fd8ba8a563de",
+      "entrypoint": [
+        "/usr/local/bin/_entrypoint.sh"
+      ],
+      "os": null,
+      "registry": "docker.io",
+      "repository": "sciwin/python-datascience",
+      "size": 507711307,
+      "tag": null
+    },
+    {
+      "architecture": null,
+      "digest": "308ee8a513925c222e70675500cad86df304bf147fbaa9f9a39f010ba3572cce",
+      "entrypoint": [
+        "/usr/local/bin/_entrypoint.sh"
+      ],
+      "os": null,
+      "registry": "docker.io",
+      "repository": "sciwin/python-datascience-plotly",
+      "size": 857388422,
+      "tag": null
+    },
+    {
+      "architecture": null,
       "digest": "ac21c7f48c5c46fcfd61bc0eb37c4f55719d12c5059d672c22aafe41977738a3",
       "entrypoint": null,
       "os": null,
       "registry": "docker.io",
       "repository": "sciwin/python-geospatial",
       "size": 1472950120,
+      "tag": null
+    },
+    {
+      "architecture": null,
+      "digest": "111a7b636f5560459fa8fd4848e760ab451e79657961f0b801f9eb81c90b6634",
+      "entrypoint": [
+        "/usr/local/bin/_entrypoint.sh"
+      ],
+      "os": null,
+      "registry": "docker.io",
+      "repository": "sciwin/python-geospatial",
+      "size": 784856085,
+      "tag": null
+    },
+    {
+      "architecture": null,
+      "digest": "afc6ded106b5ef4e56e703b0ed3536a896f6c7fd16679f19140dd7673c364116",
+      "entrypoint": [
+        "/usr/local/bin/_entrypoint.sh"
+      ],
+      "os": null,
+      "registry": "docker.io",
+      "repository": "sciwin/python-geospatial-small",
+      "size": 772076238,
+      "tag": null
+    },
+    {
+      "architecture": null,
+      "digest": "792033e5daff80c3935e6d430fcb77b5ba12b6522c738e9639e86f7551cc8023",
+      "entrypoint": [
+        "/usr/local/bin/_entrypoint.sh"
+      ],
+      "os": null,
+      "registry": "docker.io",
+      "repository": "sciwin/python-net",
+      "size": 329485425,
       "tag": null
     },
     {
@@ -3038,12 +3166,36 @@
     },
     {
       "architecture": null,
+      "digest": "8aec19e4a21587d2db9ec67a567a0d20924fa0469375bcc2af32aad20122343e",
+      "entrypoint": [
+        "/usr/local/bin/_entrypoint.sh"
+      ],
+      "os": null,
+      "registry": "docker.io",
+      "repository": "sciwin/r-datascience",
+      "size": 1617191601,
+      "tag": null
+    },
+    {
+      "architecture": null,
       "digest": "d0a071ad94cfec6b336d84da20e6331bdf6d2576ec31e5d4e37f6de41250d78a",
       "entrypoint": null,
       "os": null,
       "registry": "docker.io",
       "repository": "sciwin/r-geospatial",
       "size": 4946700047,
+      "tag": null
+    },
+    {
+      "architecture": null,
+      "digest": "51a9c8485e64ba70c1620442df309c21b4ecf863515244a760aa4c62d6c7e7df",
+      "entrypoint": [
+        "/usr/local/bin/_entrypoint.sh"
+      ],
+      "os": null,
+      "registry": "docker.io",
+      "repository": "sciwin/r-geospatial",
+      "size": 1868344186,
       "tag": null
     }
   ]
