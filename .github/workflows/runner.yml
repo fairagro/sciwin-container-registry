@@ -5,7 +5,8 @@ on:
         branches: ["main"] # runs on push to main
     schedule:
         - cron: "0 0 * * *" # runs every day
-
+    workflow_dispatch:
+    
 jobs:
     run:
         runs-on: ubuntu-latest
