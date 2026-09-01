@@ -3098,6 +3098,16 @@
     },
     {
       "architecture": null,
+      "digest": "ebe24351e8a9e2014aff473df7eccb1cb73123b4ac8efdd18a8fa4d00aba9114",
+      "entrypoint": null,
+      "os": null,
+      "registry": "docker.io",
+      "repository": "sciwin/python-datascience",
+      "size": 559045279,
+      "tag": null
+    },
+    {
+      "architecture": null,
       "digest": "308ee8a513925c222e70675500cad86df304bf147fbaa9f9a39f010ba3572cce",
       "entrypoint": [
         "/usr/local/bin/_entrypoint.sh"
@@ -3106,6 +3116,16 @@
       "registry": "docker.io",
       "repository": "sciwin/python-datascience-plotly",
       "size": 857388422,
+      "tag": null
+    },
+    {
+      "architecture": null,
+      "digest": "8fdea79959d79a31029c5a138e86daba2023f99d1e31d098f89c7e760f1c29ba",
+      "entrypoint": null,
+      "os": null,
+      "registry": "docker.io",
+      "repository": "sciwin/python-datascience-plotly",
+      "size": 904371747,
       "tag": null
     },
     {
@@ -3132,6 +3152,16 @@
     },
     {
       "architecture": null,
+      "digest": "e6f9e3952e76584c3600a2248272e54f43f5a9ae4c7677d155182a9638a21900",
+      "entrypoint": null,
+      "os": null,
+      "registry": "docker.io",
+      "repository": "sciwin/python-geospatial",
+      "size": 878488524,
+      "tag": null
+    },
+    {
+      "architecture": null,
       "digest": "afc6ded106b5ef4e56e703b0ed3536a896f6c7fd16679f19140dd7673c364116",
       "entrypoint": [
         "/usr/local/bin/_entrypoint.sh"
@@ -3144,6 +3174,16 @@
     },
     {
       "architecture": null,
+      "digest": "ad1d519dd81dbe7b9852b9ea469cedd04ee4373ef64dd01129ac6b3c98b491fa",
+      "entrypoint": null,
+      "os": null,
+      "registry": "docker.io",
+      "repository": "sciwin/python-geospatial-small",
+      "size": 860046236,
+      "tag": null
+    },
+    {
+      "architecture": null,
       "digest": "792033e5daff80c3935e6d430fcb77b5ba12b6522c738e9639e86f7551cc8023",
       "entrypoint": [
         "/usr/local/bin/_entrypoint.sh"
@@ -3152,6 +3192,16 @@
       "registry": "docker.io",
       "repository": "sciwin/python-net",
       "size": 329485425,
+      "tag": null
+    },
+    {
+      "architecture": null,
+      "digest": "ca0a4b10cea667ce3150347953a6c2f433d26bf6694598c3d762f00c0b6119cb",
+      "entrypoint": null,
+      "os": null,
+      "registry": "docker.io",
+      "repository": "sciwin/python-net",
+      "size": 322281003,
       "tag": null
     },
     {
@@ -3178,6 +3228,16 @@
     },
     {
       "architecture": null,
+      "digest": "498607a34e52eb106d8bb88f1cf181517edeeafc16e8adf87e7f4f17c224a6fb",
+      "entrypoint": null,
+      "os": null,
+      "registry": "docker.io",
+      "repository": "sciwin/r-datascience",
+      "size": 1563668695,
+      "tag": null
+    },
+    {
+      "architecture": null,
       "digest": "d0a071ad94cfec6b336d84da20e6331bdf6d2576ec31e5d4e37f6de41250d78a",
       "entrypoint": null,
       "os": null,
@@ -3196,6 +3256,16 @@
       "registry": "docker.io",
       "repository": "sciwin/r-geospatial",
       "size": 1868344186,
+      "tag": null
+    },
+    {
+      "architecture": null,
+      "digest": "a1bba98499754ad2c9411eb49baead9e633752fae742fdc47dd55426b28fa05b",
+      "entrypoint": null,
+      "os": null,
+      "registry": "docker.io",
+      "repository": "sciwin/r-geospatial",
+      "size": 1818837359,
       "tag": null
     }
   ]

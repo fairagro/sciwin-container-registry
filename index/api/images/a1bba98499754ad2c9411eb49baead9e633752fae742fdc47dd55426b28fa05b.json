@@ -1,0 +1,1077 @@
+{
+  "architecture": null,
+  "digest": "a1bba98499754ad2c9411eb49baead9e633752fae742fdc47dd55426b28fa05b",
+  "entrypoint": null,
+  "os": null,
+  "packages": [
+    {
+      "ecosystem": "R-package",
+      "name": "DBI",
+      "version": "1.3.0"
+    },
+    {
+      "ecosystem": "R-package",
+      "name": "KernSmooth",
+      "version": "2.23-26"
+    },
+    {
+      "ecosystem": "R-package",
+      "name": "MASS",
+      "version": "7.3-66"
+    },
+    {
+      "ecosystem": "R-package",
+      "name": "R6",
+      "version": "2.6.1"
+    },
+    {
+      "ecosystem": "R-package",
+      "name": "RColorBrewer",
+      "version": "1.1-3"
+    },
+    {
+      "ecosystem": "R-package",
+      "name": "Rcpp",
+      "version": "1.1.2"
+    },
+    {
+      "ecosystem": "R-package",
+      "name": "abind",
+      "version": "1.4-8"
+    },
+    {
+      "ecosystem": "R-package",
+      "name": "base",
+      "version": "4.4.3"
+    },
+    {
+      "ecosystem": "R-package",
+      "name": "base64enc",
+      "version": "0.1-6"
+    },
+    {
+      "ecosystem": "R-package",
+      "name": "boot",
+      "version": "1.3-32"
+    },
+    {
+      "ecosystem": "R-package",
+      "name": "brew",
+      "version": "1.0-10"
+    },
+    {
+      "ecosystem": "R-package",
+      "name": "bslib",
+      "version": "0.12.0"
+    },
+    {
+      "ecosystem": "R-package",
+      "name": "cachem",
+      "version": "1.1.0"
+    },
+    {
+      "ecosystem": "R-package",
+      "name": "callr",
+      "version": "3.7.6"
+    },
+    {
+      "ecosystem": "R-package",
+      "name": "class",
+      "version": "7.3-23"
+    },
+    {
+      "ecosystem": "R-package",
+      "name": "classInt",
+      "version": "0.4-11"
+    },
+    {
+      "ecosystem": "R-package",
+      "name": "cli",
+      "version": "3.6.6"
+    },
+    {
+      "ecosystem": "R-package",
+      "name": "colorspace",
+      "version": "2.1-3"
+    },
+    {
+      "ecosystem": "R-package",
+      "name": "colourvalues",
+      "version": "0.3.11"
+    },
+    {
+      "ecosystem": "R-package",
+      "name": "commonmark",
+      "version": "2.0.0"
+    },
+    {
+      "ecosystem": "R-package",
+      "name": "compiler",
+      "version": "4.4.3"
+    },
+    {
+      "ecosystem": "R-package",
+      "name": "cpp11",
+      "version": "0.5.5"
+    },
+    {
+      "ecosystem": "R-package",
+      "name": "crayon",
+      "version": "1.5.3"
+    },
+    {
+      "ecosystem": "R-package",
+      "name": "crosstalk",
+      "version": "1.2.2"
+    },
+    {
+      "ecosystem": "R-package",
+      "name": "datasets",
+      "version": "4.4.3"
+    },
+    {
+      "ecosystem": "R-package",
+      "name": "deldir",
+      "version": "2.0-4"
+    },
+    {
+      "ecosystem": "R-package",
+      "name": "digest",
+      "version": "0.6.39"
+    },
+    {
+      "ecosystem": "R-package",
+      "name": "e1071",
+      "version": "1.7-17"
+    },
+    {
+      "ecosystem": "R-package",
+      "name": "ellipsis",
+      "version": "0.3.3"
+    },
+    {
+      "ecosystem": "R-package",
+      "name": "evaluate",
+      "version": "1.0.5"
+    },
+    {
+      "ecosystem": "R-package",
+      "name": "farver",
+      "version": "2.1.2"
+    },
+    {
+      "ecosystem": "R-package",
+      "name": "fastmap",
+      "version": "1.2.0"
+    },
+    {
+      "ecosystem": "R-package",
+      "name": "fontawesome",
+      "version": "0.5.3"
+    },
+    {
+      "ecosystem": "R-package",
+      "name": "fs",
+      "version": "2.1.0"
+    },
+    {
+      "ecosystem": "R-package",
+      "name": "geojsonsf",
+      "version": "2.0.5"
+    },
+    {
+      "ecosystem": "R-package",
+      "name": "geometries",
+      "version": "0.2.5"
+    },
+    {
+      "ecosystem": "R-package",
+      "name": "geosphere",
+      "version": "1.6-8"
+    },
+    {
+      "ecosystem": "R-package",
+      "name": "getopt",
+      "version": "1.21.1"
+    },
+    {
+      "ecosystem": "R-package",
+      "name": "glue",
+      "version": "1.8.1"
+    },
+    {
+      "ecosystem": "R-package",
+      "name": "googlePolylines",
+      "version": "0.8.7"
+    },
+    {
+      "ecosystem": "R-package",
+      "name": "grDevices",
+      "version": "4.4.3"
+    },
+    {
+      "ecosystem": "R-package",
+      "name": "graphics",
+      "version": "4.4.3"
+    },
+    {
+      "ecosystem": "R-package",
+      "name": "grid",
+      "version": "4.4.3"
+    },
+    {
+      "ecosystem": "R-package",
+      "name": "highr",
+      "version": "0.12"
+    },
+    {
+      "ecosystem": "R-package",
+      "name": "htmltools",
+      "version": "0.5.9"
+    },
+    {
+      "ecosystem": "R-package",
+      "name": "htmlwidgets",
+      "version": "1.6.4"
+    },
+    {
+      "ecosystem": "R-package",
+      "name": "httpuv",
+      "version": "1.6.17"
+    },
+    {
+      "ecosystem": "R-package",
+      "name": "jquerylib",
+      "version": "0.1.4"
+    },
+    {
+      "ecosystem": "R-package",
+      "name": "jsonify",
+      "version": "1.2.3"
+    },
+    {
+      "ecosystem": "R-package",
+      "name": "jsonlite",
+      "version": "2.0.0"
+    },
+    {
+      "ecosystem": "R-package",
+      "name": "knitr",
+      "version": "1.51"
+    },
+    {
+      "ecosystem": "R-package",
+      "name": "labeling",
+      "version": "0.4.3"
+    },
+    {
+      "ecosystem": "R-package",
+      "name": "later",
+      "version": "1.4.8"
+    },
+    {
+      "ecosystem": "R-package",
+      "name": "lattice",
+      "version": "0.23-1"
+    },
+    {
+      "ecosystem": "R-package",
+      "name": "lazyeval",
+      "version": "0.2.3"
+    },
+    {
+      "ecosystem": "R-package",
+      "name": "leafem",
+      "version": "0.2.5"
+    },
+    {
+      "ecosystem": "R-package",
+      "name": "leaflet",
+      "version": "2.2.3"
+    },
+    {
+      "ecosystem": "R-package",
+      "name": "leaflet.providers",
+      "version": "3.0.0"
+    },
+    {
+      "ecosystem": "R-package",
+      "name": "leafpop",
+      "version": "0.1.0"
+    },
+    {
+      "ecosystem": "R-package",
+      "name": "lifecycle",
+      "version": "1.0.5"
+    },
+    {
+      "ecosystem": "R-package",
+      "name": "magrittr",
+      "version": "2.0.5"
+    },
+    {
+      "ecosystem": "R-package",
+      "name": "mapdeck",
+      "version": "0.3.6"
+    },
+    {
+      "ecosystem": "R-package",
+      "name": "mapview",
+      "version": "2.11.4"
+    },
+    {
+      "ecosystem": "R-package",
+      "name": "memoise",
+      "version": "2.0.1"
+    },
+    {
+      "ecosystem": "R-package",
+      "name": "methods",
+      "version": "4.4.3"
+    },
+    {
+      "ecosystem": "R-package",
+      "name": "mime",
+      "version": "0.13"
+    },
+    {
+      "ecosystem": "R-package",
+      "name": "munsell",
+      "version": "0.5.1"
+    },
+    {
+      "ecosystem": "R-package",
+      "name": "optparse",
+      "version": "1.8.2"
+    },
+    {
+      "ecosystem": "R-package",
+      "name": "otel",
+      "version": "0.2.0"
+    },
+    {
+      "ecosystem": "R-package",
+      "name": "parallel",
+      "version": "4.4.3"
+    },
+    {
+      "ecosystem": "R-package",
+      "name": "plyr",
+      "version": "1.8.9"
+    },
+    {
+      "ecosystem": "R-package",
+      "name": "png",
+      "version": "0.1-9"
+    },
+    {
+      "ecosystem": "R-package",
+      "name": "processx",
+      "version": "3.9.0"
+    },
+    {
+      "ecosystem": "R-package",
+      "name": "promises",
+      "version": "1.5.0"
+    },
+    {
+      "ecosystem": "R-package",
+      "name": "proxy",
+      "version": "0.4-29"
+    },
+    {
+      "ecosystem": "R-package",
+      "name": "ps",
+      "version": "1.9.3"
+    },
+    {
+      "ecosystem": "R-package",
+      "name": "rapidjsonr",
+      "version": "1.2.1"
+    },
+    {
+      "ecosystem": "R-package",
+      "name": "rappdirs",
+      "version": "0.3.4"
+    },
+    {
+      "ecosystem": "R-package",
+      "name": "raster",
+      "version": "3.6-32"
+    },
+    {
+      "ecosystem": "R-package",
+      "name": "rlang",
+      "version": "1.3.0"
+    },
+    {
+      "ecosystem": "R-package",
+      "name": "rmarkdown",
+      "version": "2.31"
+    },
+    {
+      "ecosystem": "R-package",
+      "name": "s2",
+      "version": "1.1.11"
+    },
+    {
+      "ecosystem": "R-package",
+      "name": "sass",
+      "version": "0.4.10"
+    },
+    {
+      "ecosystem": "R-package",
+      "name": "satellite",
+      "version": "1.0.6"
+    },
+    {
+      "ecosystem": "R-package",
+      "name": "scales",
+      "version": "1.4.0"
+    },
+    {
+      "ecosystem": "R-package",
+      "name": "servr",
+      "version": "0.33"
+    },
+    {
+      "ecosystem": "R-package",
+      "name": "sf",
+      "version": "1.1-2"
+    },
+    {
+      "ecosystem": "R-package",
+      "name": "sfheaders",
+      "version": "0.4.5"
+    },
+    {
+      "ecosystem": "R-package",
+      "name": "shiny",
+      "version": "1.14.0"
+    },
+    {
+      "ecosystem": "R-package",
+      "name": "sourcetools",
+      "version": "0.1.7-2"
+    },
+    {
+      "ecosystem": "R-package",
+      "name": "sp",
+      "version": "2.2-3"
+    },
+    {
+      "ecosystem": "R-package",
+      "name": "spData",
+      "version": "2.3.5"
+    },
+    {
+      "ecosystem": "R-package",
+      "name": "spdep",
+      "version": "1.4-2"
+    },
+    {
+      "ecosystem": "R-package",
+      "name": "splines",
+      "version": "4.4.3"
+    },
+    {
+      "ecosystem": "R-package",
+      "name": "stars",
+      "version": "0.7-3"
+    },
+    {
+      "ecosystem": "R-package",
+      "name": "stats",
+      "version": "4.4.3"
+    },
+    {
+      "ecosystem": "R-package",
+      "name": "stats4",
+      "version": "4.4.3"
+    },
+    {
+      "ecosystem": "R-package",
+      "name": "stringi",
+      "version": "1.8.9"
+    },
+    {
+      "ecosystem": "R-package",
+      "name": "svglite",
+      "version": "2.2.2"
+    },
+    {
+      "ecosystem": "R-package",
+      "name": "systemfonts",
+      "version": "1.3.2"
+    },
+    {
+      "ecosystem": "R-package",
+      "name": "tcltk",
+      "version": "4.4.3"
+    },
+    {
+      "ecosystem": "R-package",
+      "name": "terra",
+      "version": "1.9-34"
+    },
+    {
+      "ecosystem": "R-package",
+      "name": "testRcppAttributePackage",
+      "version": "1.0"
+    },
+    {
+      "ecosystem": "R-package",
+      "name": "testRcppClass",
+      "version": "0.1"
+    },
+    {
+      "ecosystem": "R-package",
+      "name": "testRcppInterfaceExporter",
+      "version": "0.1.0"
+    },
+    {
+      "ecosystem": "R-package",
+      "name": "testRcppInterfaceUser",
+      "version": "0.1.0"
+    },
+    {
+      "ecosystem": "R-package",
+      "name": "testRcppModule",
+      "version": "0.1"
+    },
+    {
+      "ecosystem": "R-package",
+      "name": "testRcppPackage",
+      "version": "0.1.0"
+    },
+    {
+      "ecosystem": "R-package",
+      "name": "textshaping",
+      "version": "1.0.5"
+    },
+    {
+      "ecosystem": "R-package",
+      "name": "tinytex",
+      "version": "0.60"
+    },
+    {
+      "ecosystem": "R-package",
+      "name": "tools",
+      "version": "4.4.3"
+    },
+    {
+      "ecosystem": "R-package",
+      "name": "translations",
+      "version": "4.4.3"
+    },
+    {
+      "ecosystem": "R-package",
+      "name": "units",
+      "version": "1.0-1"
+    },
+    {
+      "ecosystem": "R-package",
+      "name": "utils",
+      "version": "4.4.3"
+    },
+    {
+      "ecosystem": "R-package",
+      "name": "uuid",
+      "version": "1.2-2"
+    },
+    {
+      "ecosystem": "R-package",
+      "name": "viridisLite",
+      "version": "0.4.3"
+    },
+    {
+      "ecosystem": "R-package",
+      "name": "webshot",
+      "version": "0.5.5"
+    },
+    {
+      "ecosystem": "R-package",
+      "name": "withr",
+      "version": "3.0.3"
+    },
+    {
+      "ecosystem": "R-package",
+      "name": "wk",
+      "version": "0.9.5"
+    },
+    {
+      "ecosystem": "R-package",
+      "name": "xfun",
+      "version": "0.60"
+    },
+    {
+      "ecosystem": "R-package",
+      "name": "xtable",
+      "version": "1.8-8"
+    },
+    {
+      "ecosystem": "R-package",
+      "name": "yaml",
+      "version": "2.3.12"
+    },
+    {
+      "ecosystem": "binary",
+      "name": "curl",
+      "version": "8.21.0"
+    },
+    {
+      "ecosystem": "binary",
+      "name": "gcc",
+      "version": "4.8.5"
+    },
+    {
+      "ecosystem": "binary",
+      "name": "krb5",
+      "version": "1.22.2"
+    },
+    {
+      "ecosystem": "binary",
+      "name": "openssl",
+      "version": "3.6.4"
+    },
+    {
+      "ecosystem": "binary",
+      "name": "zstd",
+      "version": "1.5.7"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "apt",
+      "version": "3.0.3"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "base-files",
+      "version": "13.8+deb13u6"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "base-passwd",
+      "version": "3.6.7"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "bash",
+      "version": "5.2.37-2+b9"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "bsdutils",
+      "version": "1:2.41.5-0+deb13u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "coreutils",
+      "version": "9.7-3"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "dash",
+      "version": "0.5.12-12"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "debconf",
+      "version": "1.5.91"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "debian-archive-keyring",
+      "version": "2025.1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "debianutils",
+      "version": "5.23.2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "diffutils",
+      "version": "1:3.10-4"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "dpkg",
+      "version": "1.22.22"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "findutils",
+      "version": "4.10.0-3"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "gcc-14-base",
+      "version": "14.2.0-19"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "grep",
+      "version": "3.11-4"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "gzip",
+      "version": "1.13-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "hostname",
+      "version": "3.25"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "init-system-helpers",
+      "version": "1.69~deb13u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libacl1",
+      "version": "2.3.2-2+b1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libapt-pkg7.0",
+      "version": "3.0.3"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libattr1",
+      "version": "1:2.5.2-3"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libaudit-common",
+      "version": "1:4.0.2-2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libaudit1",
+      "version": "1:4.0.2-2+b2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libblkid1",
+      "version": "2.41.5-0+deb13u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libbsd0",
+      "version": "0.12.2-2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libbz2-1.0",
+      "version": "1.0.8-6"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libc-bin",
+      "version": "2.41-12+deb13u3"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libc6",
+      "version": "2.41-12+deb13u3"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libcap-ng0",
+      "version": "0.8.5-4+b1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libcap2",
+      "version": "1:2.75-10+deb13u1+b1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libcrypt1",
+      "version": "1:4.4.38-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libdb5.3t64",
+      "version": "5.3.28+dfsg2-9"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libdebconfclient0",
+      "version": "0.280"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libgcc-s1",
+      "version": "14.2.0-19"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libgmp10",
+      "version": "2:6.3.0+dfsg-3"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libhogweed6t64",
+      "version": "3.10.1-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "liblastlog2-2",
+      "version": "2.41.5-0+deb13u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "liblz4-1",
+      "version": "1.10.0-4"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "liblzma5",
+      "version": "5.8.1-1+deb13u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libmd0",
+      "version": "1.1.0-2+b1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libmount1",
+      "version": "2.41.5-0+deb13u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libnettle8t64",
+      "version": "3.10.1-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libpam-modules",
+      "version": "1.7.0-5"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libpam-modules-bin",
+      "version": "1.7.0-5"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libpam-runtime",
+      "version": "1.7.0-5"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libpam0g",
+      "version": "1.7.0-5"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libpcre2-8-0",
+      "version": "10.46-1~deb13u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libseccomp2",
+      "version": "2.6.0-2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libselinux1",
+      "version": "3.8.1-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libsemanage-common",
+      "version": "3.8.1-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libsemanage2",
+      "version": "3.8.1-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libsepol2",
+      "version": "3.8.1-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libsmartcols1",
+      "version": "2.41.5-0+deb13u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libsqlite3-0",
+      "version": "3.46.1-7+deb13u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libssl3t64",
+      "version": "3.5.6-1~deb13u2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libstdc++6",
+      "version": "14.2.0-19"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libsystemd0",
+      "version": "257.13-1~deb13u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libtinfo6",
+      "version": "6.5+20250216-2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libudev1",
+      "version": "257.13-1~deb13u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libuuid1",
+      "version": "2.41.5-0+deb13u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libxxhash0",
+      "version": "0.8.3-2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "libzstd1",
+      "version": "1.5.7+dfsg-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "login",
+      "version": "1:4.16.0-2+really2.41.5-0+deb13u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "login.defs",
+      "version": "1:4.17.4-2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "mawk",
+      "version": "1.3.4.20250131-1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "mount",
+      "version": "2.41.5-0+deb13u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "ncurses-base",
+      "version": "6.5+20250216-2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "ncurses-bin",
+      "version": "6.5+20250216-2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "openssl-provider-legacy",
+      "version": "3.5.6-1~deb13u2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "passwd",
+      "version": "1:4.17.4-2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "perl-base",
+      "version": "5.40.1-6"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "sed",
+      "version": "4.9-2+deb13u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "sqv",
+      "version": "1.3.0-3+b2"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "sysvinit-utils",
+      "version": "3.14-4"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "tar",
+      "version": "1.35+dfsg-3.1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "tzdata",
+      "version": "2026b-0+deb13u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "util-linux",
+      "version": "2.41.5-0+deb13u1"
+    },
+    {
+      "ecosystem": "deb",
+      "name": "zlib1g",
+      "version": "1:1.3.dfsg+really1.3.1-1+b1"
+    },
+    {
+      "ecosystem": "npm",
+      "name": "bootstrap",
+      "version": "5.3.8"
+    },
+    {
+      "ecosystem": "npm",
+      "name": "bootstrap-accessibility-plugin",
+      "version": "1.0.6"
+    },
+    {
+      "ecosystem": "npm",
+      "name": "bootstrap-colorpicker",
+      "version": "3.4.0"
+    },
+    {
+      "ecosystem": "npm",
+      "name": "bootstrap-sass",
+      "version": "3.4.1"
+    },
+    {
+      "ecosystem": "npm",
+      "name": "bootswatch",
+      "version": "5.3.8"
+    },
+    {
+      "ecosystem": "npm",
+      "name": "casperjs",
+      "version": "1.1.0-beta5"
+    },
+    {
+      "ecosystem": "npm",
+      "name": "leaflet-omnivore",
+      "version": "0.3.4"
+    },
+    {
+      "ecosystem": "npm",
+      "name": "leaflet.markercluster",
+      "version": "1.1.0"
+    }
+  ],
+  "registry": "docker.io",
+  "repository": "sciwin/r-geospatial",
+  "size": 1818837359,
+  "tag": null
+}
