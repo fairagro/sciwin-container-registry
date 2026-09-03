@@ -88,6 +88,18 @@
     },
     {
       "architecture": null,
+      "digest": "aae0c966116670ec09ca20ecb13959f90497b7b20e189ce473786fcd9be715eb",
+      "entrypoint": [
+        "Models"
+      ],
+      "os": null,
+      "registry": "docker.io",
+      "repository": "apsiminitiative/apsimng",
+      "size": 376026321,
+      "tag": null
+    },
+    {
+      "architecture": null,
       "digest": "16fc4881cfb3b9ae82473115eadc3d9431039e197ed02a9493d3621cedb7ad28",
       "entrypoint": [
         "dotnet",
@@ -176,6 +188,18 @@
     },
     {
       "architecture": null,
+      "digest": "78dbbb5cf28dd4f3d03d713715ac3b174c86ae25898c4d8ef2e2af1d9d95e9d7",
+      "entrypoint": [
+        "Models"
+      ],
+      "os": null,
+      "registry": "docker.io",
+      "repository": "apsiminitiative/apsimng-complete",
+      "size": 1641834769,
+      "tag": null
+    },
+    {
+      "architecture": null,
       "digest": "61ea6198de91bf3c58a0b5bac85a93a2acd86ec5939fb8686a215ab691ab935f",
       "entrypoint": [
         "ApsimNG"
@@ -232,6 +256,18 @@
       "registry": "docker.io",
       "repository": "apsiminitiative/apsimng-gui",
       "size": 905432387,
+      "tag": null
+    },
+    {
+      "architecture": null,
+      "digest": "1cdb8ba90f1d66df8d4f4a9695d2e1c062bbe83f8ce1771a81d50ae3c2b48c26",
+      "entrypoint": [
+        "ApsimNG"
+      ],
+      "os": null,
+      "registry": "docker.io",
+      "repository": "apsiminitiative/apsimng-gui",
+      "size": 905434648,
       "tag": null
     },
     {
@@ -430,6 +466,18 @@
       "registry": "docker.io",
       "repository": "apsiminitiative/apsimplusr",
       "size": 3905941718,
+      "tag": null
+    },
+    {
+      "architecture": null,
+      "digest": "351b4d88f66d8bb4b210c2afb646d794826a5c679a74dedd2861fcdd84d1e4bc",
+      "entrypoint": [
+        "/entrypoint.sh"
+      ],
+      "os": null,
+      "registry": "docker.io",
+      "repository": "apsiminitiative/apsimplusr",
+      "size": 3905948676,
       "tag": null
     },
     {
