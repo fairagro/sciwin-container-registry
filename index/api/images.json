@@ -2252,6 +2252,16 @@
     },
     {
       "architecture": "amd64",
+      "digest": "e0b2739c2b17f00075351fd965cc47e309c54835e30666e6f200ee570e962368",
+      "entrypoint": null,
+      "os": "linux",
+      "registry": "docker.io",
+      "repository": "rocker/binder",
+      "size": 9630374287,
+      "tag": null
+    },
+    {
+      "architecture": "amd64",
       "digest": "d2c2fdb89df373750af387c96465b34a4aa77e26c278dc4f384a67ee9a8affcf",
       "entrypoint": null,
       "os": "linux",
@@ -2288,6 +2298,16 @@
       "registry": "docker.io",
       "repository": "rocker/cuda",
       "size": 16158992331,
+      "tag": null
+    },
+    {
+      "architecture": "amd64",
+      "digest": "ef45d2c62d3c886970bf5355403c19599156645d0e454237ce8afac4a6509404",
+      "entrypoint": null,
+      "os": "linux",
+      "registry": "docker.io",
+      "repository": "rocker/cuda",
+      "size": 16917743379,
       "tag": null
     },
     {
@@ -2421,6 +2441,16 @@
       "tag": null
     },
     {
+      "architecture": "amd64",
+      "digest": "da5aadfbf10a3fa89fb0e2d848bb4be46ea8460285c6e288cac49ff4122833d3",
+      "entrypoint": null,
+      "os": "linux",
+      "registry": "docker.io",
+      "repository": "rocker/drp",
+      "size": 1762298455,
+      "tag": null
+    },
+    {
       "architecture": null,
       "digest": "16d27a36b961716a9ee966f4d49b0fdaaa8822709a3a8284da79d7d3b74fda74",
       "entrypoint": null,
@@ -2462,6 +2492,16 @@
     },
     {
       "architecture": "amd64",
+      "digest": "8371ba03252f70bb4e793138c704f29a17af2006839043bed5161741f7634c15",
+      "entrypoint": null,
+      "os": "linux",
+      "registry": "docker.io",
+      "repository": "rocker/geospatial",
+      "size": 6625777579,
+      "tag": null
+    },
+    {
+      "architecture": "amd64",
       "digest": "194a7fa006bd2f75af4193a32fc0b97456d307ce9502de9e5a3a86601e9deac8",
       "entrypoint": null,
       "os": "linux",
@@ -2498,6 +2538,16 @@
       "registry": "docker.io",
       "repository": "rocker/ml",
       "size": 7813545239,
+      "tag": null
+    },
+    {
+      "architecture": "amd64",
+      "digest": "259208cff4ae15945643484649299a4ed441d759d6ea9827c08fac00ca699ded",
+      "entrypoint": null,
+      "os": "linux",
+      "registry": "docker.io",
+      "repository": "rocker/ml",
+      "size": 7833152337,
       "tag": null
     },
     {
@@ -2562,6 +2612,16 @@
     },
     {
       "architecture": "amd64",
+      "digest": "608a5e660a5c9289b0705f474cb59cc21cfeea37fe02499cc9069c6f917254b9",
+      "entrypoint": null,
+      "os": "linux",
+      "registry": "docker.io",
+      "repository": "rocker/ml-spatial",
+      "size": 9362975305,
+      "tag": null
+    },
+    {
+      "architecture": "amd64",
       "digest": "827ca22fc2919f47d9bef670e8e756bb542c1f582fa2b1257d92117b8ddd0ffa",
       "entrypoint": null,
       "os": "linux",
@@ -2608,6 +2668,16 @@
       "registry": "docker.io",
       "repository": "rocker/r-bspm",
       "size": 828790566,
+      "tag": null
+    },
+    {
+      "architecture": "amd64",
+      "digest": "b81dd3139c3dd2128c20a15af9366cc454f7ae2b720071f6d4db4538547585cc",
+      "entrypoint": null,
+      "os": "linux",
+      "registry": "docker.io",
+      "repository": "rocker/r-bspm",
+      "size": 826574246,
       "tag": null
     },
     {
@@ -2892,6 +2962,16 @@
     },
     {
       "architecture": "amd64",
+      "digest": "8013f9170ee7a957d0e7fca9cf931ec860d1a8c853bd50104a8f44bf3d55fe8d",
+      "entrypoint": null,
+      "os": "linux",
+      "registry": "docker.io",
+      "repository": "rocker/r-ver",
+      "size": 1051592704,
+      "tag": null
+    },
+    {
+      "architecture": "amd64",
       "digest": "5dce84d9d79eaa937c1478455915c09bf27c159a10b90f2a5968cfd604f7b8d3",
       "entrypoint": null,
       "os": "linux",
@@ -2902,12 +2982,32 @@
     },
     {
       "architecture": "amd64",
+      "digest": "8849624e272e10402d756100d4ec7b959eec8f9719b8fcaad55109ce40014a83",
+      "entrypoint": null,
+      "os": "linux",
+      "registry": "docker.io",
+      "repository": "rocker/r2u",
+      "size": 869118013,
+      "tag": null
+    },
+    {
+      "architecture": "amd64",
       "digest": "32617fd28e56033f8de44c89ffcc5a635fa04d2bcb23e529d5366f814301384b",
       "entrypoint": null,
       "os": "linux",
       "registry": "docker.io",
       "repository": "rocker/r2u4ci",
       "size": 833914992,
+      "tag": null
+    },
+    {
+      "architecture": "amd64",
+      "digest": "44a57c73700676f0b9c30f0cefb7cc98f7ec5408bf1938f798b93dc1f50908ae",
+      "entrypoint": null,
+      "os": "linux",
+      "registry": "docker.io",
+      "repository": "rocker/r2u4ci",
+      "size": 830639196,
       "tag": null
     },
     {
