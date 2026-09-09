@@ -578,6 +578,18 @@
     },
     {
       "architecture": null,
+      "digest": "8dc980a4d24f88f4af0d0cb625d067a73b1d512dbd457cc26b3f512851c3bf14",
+      "entrypoint": [
+        "/entrypoint.sh"
+      ],
+      "os": null,
+      "registry": "docker.io",
+      "repository": "apsiminitiative/apsimplusr",
+      "size": 3905999231,
+      "tag": null
+    },
+    {
+      "architecture": null,
       "digest": "8d3c1199098cf335a42a92df9328717989709abbc7c1503410aac8e696e7883f",
       "entrypoint": [
         "dotnet",
@@ -879,6 +891,16 @@
       "registry": "docker.io",
       "repository": "biocontainers/amide",
       "size": 448191878,
+      "tag": null
+    },
+    {
+      "architecture": null,
+      "digest": "d92eff2abaf77885c5c729f972eb05bfc7d04b5b223b841ca4b8ee2f6de2310d",
+      "entrypoint": null,
+      "os": null,
+      "registry": "docker.io",
+      "repository": "biocontainers/bamtools",
+      "size": 118797692,
       "tag": null
     },
     {
