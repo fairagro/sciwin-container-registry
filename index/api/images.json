@@ -638,6 +638,18 @@
     },
     {
       "architecture": null,
+      "digest": "64152b022f705ccbdf1290f4c48cf0074737af3597aa63e4d45a481a8452e508",
+      "entrypoint": [
+        "/entrypoint.sh"
+      ],
+      "os": null,
+      "registry": "docker.io",
+      "repository": "apsiminitiative/apsimplusr",
+      "size": 3906020344,
+      "tag": null
+    },
+    {
+      "architecture": null,
       "digest": "8d3c1199098cf335a42a92df9328717989709abbc7c1503410aac8e696e7883f",
       "entrypoint": [
         "dotnet",
@@ -726,6 +738,18 @@
     },
     {
       "architecture": null,
+      "digest": "17d483f20b1bda25de43c357af0f672677ba7e57141d41ddf765168e7614e803",
+      "entrypoint": [
+        "APSIM.POStats.Collector"
+      ],
+      "os": null,
+      "registry": "docker.io",
+      "repository": "apsiminitiative/postats2-collector",
+      "size": 223159227,
+      "tag": null
+    },
+    {
+      "architecture": null,
       "digest": "74c5f724b8171d107b2faddfa05ab28ebeea35477f5a896b71b4ee3a4d16ce00",
       "entrypoint": [
         "dotnet",
@@ -735,6 +759,19 @@
       "registry": "docker.io",
       "repository": "apsiminitiative/postats2-portal",
       "size": 255638080,
+      "tag": null
+    },
+    {
+      "architecture": null,
+      "digest": "dea63ee4501a60330b8a94ce6a7b6bd3549dd39a606a4fe2884eb252b47a00a6",
+      "entrypoint": [
+        "dotnet",
+        "/code/postats-portal/APSIM.POStats.Portal.dll"
+      ],
+      "os": null,
+      "registry": "docker.io",
+      "repository": "apsiminitiative/postats2-portal",
+      "size": 255662354,
       "tag": null
     },
     {
@@ -993,6 +1030,16 @@
       "registry": "docker.io",
       "repository": "biocontainers/bedtools",
       "size": 119424021,
+      "tag": null
+    },
+    {
+      "architecture": null,
+      "digest": "c244e2ccebcb2ca8abc0c24cd5e647d7c014f45af78b163071060421835ede5c",
+      "entrypoint": null,
+      "os": null,
+      "registry": "docker.io",
+      "repository": "biocontainers/biocontainer-pipelines",
+      "size": 1439498314,
       "tag": null
     },
     {
