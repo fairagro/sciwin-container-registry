@@ -136,6 +136,18 @@
     },
     {
       "architecture": null,
+      "digest": "f1442bae45f03d47456d4d2215c7bffda310cc579a3214f56f97aa1577f07d6e",
+      "entrypoint": [
+        "Models"
+      ],
+      "os": null,
+      "registry": "docker.io",
+      "repository": "apsiminitiative/apsimng",
+      "size": 376045110,
+      "tag": null
+    },
+    {
+      "architecture": null,
       "digest": "16fc4881cfb3b9ae82473115eadc3d9431039e197ed02a9493d3621cedb7ad28",
       "entrypoint": [
         "dotnet",
@@ -272,6 +284,18 @@
     },
     {
       "architecture": null,
+      "digest": "a5a001cdfff3a74f7630e3895a92217ccb3a9d7b125d7cd0d7e6063693a05ff6",
+      "entrypoint": [
+        "Models"
+      ],
+      "os": null,
+      "registry": "docker.io",
+      "repository": "apsiminitiative/apsimng-complete",
+      "size": 1641853611,
+      "tag": null
+    },
+    {
+      "architecture": null,
       "digest": "61ea6198de91bf3c58a0b5bac85a93a2acd86ec5939fb8686a215ab691ab935f",
       "entrypoint": [
         "ApsimNG"
@@ -376,6 +400,18 @@
       "registry": "docker.io",
       "repository": "apsiminitiative/apsimng-gui",
       "size": 905443765,
+      "tag": null
+    },
+    {
+      "architecture": null,
+      "digest": "f6e9dae5bd8e019050c203830f21972d8af0523a8a0cfc55247af01654a4db7c",
+      "entrypoint": [
+        "ApsimNG"
+      ],
+      "os": null,
+      "registry": "docker.io",
+      "repository": "apsiminitiative/apsimng-gui",
+      "size": 905453437,
       "tag": null
     },
     {
@@ -670,6 +706,18 @@
       "registry": "docker.io",
       "repository": "apsiminitiative/apsimplusr",
       "size": 3906029381,
+      "tag": null
+    },
+    {
+      "architecture": null,
+      "digest": "a0f96c40fe017422bf60547bf7427bbcaf747ac523d58c1b51fe40e8a24a4a71",
+      "entrypoint": [
+        "/entrypoint.sh"
+      ],
+      "os": null,
+      "registry": "docker.io",
+      "repository": "apsiminitiative/apsimplusr",
+      "size": 3906006482,
       "tag": null
     },
     {
@@ -3287,6 +3335,16 @@
       "registry": "docker.io",
       "repository": "rocker/r-ver",
       "size": 1065684455,
+      "tag": null
+    },
+    {
+      "architecture": "amd64",
+      "digest": "f6c0bec62f0cf307fae9640bf2ebe6993d26ac31547b5f4d6d29536dd2139430",
+      "entrypoint": null,
+      "os": "linux",
+      "registry": "docker.io",
+      "repository": "rocker/r-ver",
+      "size": 1065685264,
       "tag": null
     },
     {
