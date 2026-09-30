@@ -195,6 +195,18 @@
       "tag": null
     },
     {
+      "architecture": "amd64",
+      "digest": "10affcc0b33afa3a809e4e245633c2028361bd6901019aa22f18f18dad282c37",
+      "entrypoint": [
+        "Models"
+      ],
+      "os": "linux",
+      "registry": "docker.io",
+      "repository": "apsiminitiative/apsimng",
+      "size": 376084487,
+      "tag": null
+    },
+    {
       "architecture": null,
       "digest": "16fc4881cfb3b9ae82473115eadc3d9431039e197ed02a9493d3621cedb7ad28",
       "entrypoint": [
@@ -391,6 +403,18 @@
       "tag": null
     },
     {
+      "architecture": "amd64",
+      "digest": "4778fbb875466f1cd151f90b4e72637274c398c19013de19760da782e722cefd",
+      "entrypoint": [
+        "Models"
+      ],
+      "os": "linux",
+      "registry": "docker.io",
+      "repository": "apsiminitiative/apsimng-complete",
+      "size": 1641888401,
+      "tag": null
+    },
+    {
       "architecture": null,
       "digest": "61ea6198de91bf3c58a0b5bac85a93a2acd86ec5939fb8686a215ab691ab935f",
       "entrypoint": [
@@ -556,6 +580,18 @@
       "registry": "docker.io",
       "repository": "apsiminitiative/apsimng-gui",
       "size": 905482257,
+      "tag": null
+    },
+    {
+      "architecture": "amd64",
+      "digest": "14ec14251f9cd53ac4937bf1b6132907627f31a8c1b48f0c8692a050508901ef",
+      "entrypoint": [
+        "ApsimNG"
+      ],
+      "os": "linux",
+      "registry": "docker.io",
+      "repository": "apsiminitiative/apsimng-gui",
+      "size": 905526835,
       "tag": null
     },
     {
@@ -910,6 +946,18 @@
       "registry": "docker.io",
       "repository": "apsiminitiative/apsimplusr",
       "size": 3906618876,
+      "tag": null
+    },
+    {
+      "architecture": "amd64",
+      "digest": "f8c3cf393ddc49acea7c39d5b054e6af1c8b504eadac5787cb96032634cef842",
+      "entrypoint": [
+        "/entrypoint.sh"
+      ],
+      "os": "linux",
+      "registry": "docker.io",
+      "repository": "apsiminitiative/apsimplusr",
+      "size": 3906614212,
       "tag": null
     },
     {
@@ -2416,6 +2464,18 @@
       "registry": "docker.io",
       "repository": "nextflow/nextflow",
       "size": 851300995,
+      "tag": null
+    },
+    {
+      "architecture": "amd64",
+      "digest": "32e6eaa7daaec79da20c4616d1c662609d0ee4f3c37cb9e1061f9780693608f5",
+      "entrypoint": [
+        "/usr/local/bin/entry.sh"
+      ],
+      "os": "linux",
+      "registry": "docker.io",
+      "repository": "nextflow/nextflow",
+      "size": 740390134,
       "tag": null
     },
     {
