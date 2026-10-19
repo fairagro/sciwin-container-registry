@@ -267,6 +267,18 @@
       "tag": null
     },
     {
+      "architecture": "amd64",
+      "digest": "28d8f2d249e8021a75106a49e4eff50ede5f98111fa51c1f34ddd332f456888b",
+      "entrypoint": [
+        "Models"
+      ],
+      "os": "linux",
+      "registry": "docker.io",
+      "repository": "apsiminitiative/apsimng",
+      "size": 375855636,
+      "tag": null
+    },
+    {
       "architecture": null,
       "digest": "16fc4881cfb3b9ae82473115eadc3d9431039e197ed02a9493d3621cedb7ad28",
       "entrypoint": [
@@ -535,6 +547,18 @@
       "tag": null
     },
     {
+      "architecture": "amd64",
+      "digest": "49e97e991958005abbb581a77861a43f835431f6e6acf67cc2d63b73122bb902",
+      "entrypoint": [
+        "Models"
+      ],
+      "os": "linux",
+      "registry": "docker.io",
+      "repository": "apsiminitiative/apsimng-complete",
+      "size": 1641563493,
+      "tag": null
+    },
+    {
       "architecture": null,
       "digest": "61ea6198de91bf3c58a0b5bac85a93a2acd86ec5939fb8686a215ab691ab935f",
       "entrypoint": [
@@ -772,6 +796,18 @@
       "registry": "docker.io",
       "repository": "apsiminitiative/apsimng-gui",
       "size": 913062008,
+      "tag": null
+    },
+    {
+      "architecture": "amd64",
+      "digest": "618abc65200efd44a4e939895844a87cce01dfe052ee348a2bbe33468fa3dda8",
+      "entrypoint": [
+        "ApsimNG"
+      ],
+      "os": "linux",
+      "registry": "docker.io",
+      "repository": "apsiminitiative/apsimng-gui",
+      "size": 912631201,
       "tag": null
     },
     {
@@ -1258,6 +1294,18 @@
       "registry": "docker.io",
       "repository": "apsiminitiative/apsimplusr",
       "size": 3907192816,
+      "tag": null
+    },
+    {
+      "architecture": "amd64",
+      "digest": "f152c1932f227a120f6fb40456df71384cf0d4b3d6a738d0136a3c802173b896",
+      "entrypoint": [
+        "/entrypoint.sh"
+      ],
+      "os": "linux",
+      "registry": "docker.io",
+      "repository": "apsiminitiative/apsimplusr",
+      "size": 3906803071,
       "tag": null
     },
     {
