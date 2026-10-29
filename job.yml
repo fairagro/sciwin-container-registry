@@ -3,7 +3,6 @@ namespaces:
   - rocker
   - biocontainers
   - dssat
-  - apsiminitiative
   - pandas
 images:
   - python:3.14-slim
