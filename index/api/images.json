@@ -3571,6 +3571,16 @@
     },
     {
       "architecture": "amd64",
+      "digest": "c546e45b6badc48a80c6756cabaf09c5fd078dfac1a90dadd7f5f00d34c5ad03",
+      "entrypoint": null,
+      "os": "linux",
+      "registry": "docker.io",
+      "repository": "rocker/binder",
+      "size": 10028869101,
+      "tag": null
+    },
+    {
+      "architecture": "amd64",
       "digest": "d2c2fdb89df373750af387c96465b34a4aa77e26c278dc4f384a67ee9a8affcf",
       "entrypoint": null,
       "os": "linux",
@@ -3637,6 +3647,16 @@
       "registry": "docker.io",
       "repository": "rocker/cuda",
       "size": 17515053723,
+      "tag": null
+    },
+    {
+      "architecture": "amd64",
+      "digest": "7e5b3fc1ba89b4ca9cad6037c5266b3eec9241c71e37ffb2a93298188cde7dc8",
+      "entrypoint": null,
+      "os": "linux",
+      "registry": "docker.io",
+      "repository": "rocker/cuda",
+      "size": 17270329197,
       "tag": null
     },
     {
@@ -3890,6 +3910,16 @@
       "tag": null
     },
     {
+      "architecture": "amd64",
+      "digest": "b1ddfa6349beab5dd917c736b73861fc9b3da663d5456dd9934defaeeeec247d",
+      "entrypoint": null,
+      "os": "linux",
+      "registry": "docker.io",
+      "repository": "rocker/drp",
+      "size": 1795663948,
+      "tag": null
+    },
+    {
       "architecture": null,
       "digest": "16d27a36b961716a9ee966f4d49b0fdaaa8822709a3a8284da79d7d3b74fda74",
       "entrypoint": null,
@@ -4027,6 +4057,16 @@
       "registry": "docker.io",
       "repository": "rocker/ml",
       "size": 8272413682,
+      "tag": null
+    },
+    {
+      "architecture": "amd64",
+      "digest": "6f29d1296798cf86f9386ed4a9031b357f3c255b77defbb95bc455ba95f9bf4f",
+      "entrypoint": null,
+      "os": "linux",
+      "registry": "docker.io",
+      "repository": "rocker/ml",
+      "size": 8161954212,
       "tag": null
     },
     {
@@ -4777,6 +4817,16 @@
       "registry": "docker.io",
       "repository": "rocker/r-ver",
       "size": 1043573023,
+      "tag": null
+    },
+    {
+      "architecture": "amd64",
+      "digest": "fb9f497787f469b78a4d25004d11d916f2ec2ced6533d3c15b40e86adab67315",
+      "entrypoint": null,
+      "os": "linux",
+      "registry": "docker.io",
+      "repository": "rocker/r-ver",
+      "size": 1043820525,
       "tag": null
     },
     {
