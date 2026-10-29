@@ -27,6 +27,19 @@
       "tag": null
     },
     {
+      "architecture": "amd64",
+      "digest": "39a5e60b1f95c5654f89d2d7d6255d022b0d947fa61c086f69dc26f810614ba4",
+      "entrypoint": [
+        "dotnet",
+        "APSIM.Docs.dll"
+      ],
+      "os": "linux",
+      "registry": "docker.io",
+      "repository": "apsiminitiative/apsim-docs",
+      "size": 944136046,
+      "tag": null
+    },
+    {
       "architecture": null,
       "digest": "6958907c15b08fefa0fd679319184241c801c1b967048c29c671577e48b8a77a",
       "entrypoint": [
@@ -300,6 +313,18 @@
       "registry": "docker.io",
       "repository": "apsiminitiative/apsimng",
       "size": 385425511,
+      "tag": null
+    },
+    {
+      "architecture": "amd64",
+      "digest": "903a2ebccdd6093924e0c928bd13fcea72d160d8a9172e183f4112bd522b60b8",
+      "entrypoint": [
+        "Models"
+      ],
+      "os": "linux",
+      "registry": "docker.io",
+      "repository": "apsiminitiative/apsimng",
+      "size": 385450891,
       "tag": null
     },
     {
@@ -607,6 +632,18 @@
       "tag": null
     },
     {
+      "architecture": "amd64",
+      "digest": "c50b2dbd3a841aece5ad1fadf4e945b4eccdee33ed145235c88bac850ba36996",
+      "entrypoint": [
+        "Models"
+      ],
+      "os": "linux",
+      "registry": "docker.io",
+      "repository": "apsiminitiative/apsimng-complete",
+      "size": 1640246215,
+      "tag": null
+    },
+    {
       "architecture": null,
       "digest": "61ea6198de91bf3c58a0b5bac85a93a2acd86ec5939fb8686a215ab691ab935f",
       "entrypoint": [
@@ -880,6 +917,18 @@
       "registry": "docker.io",
       "repository": "apsiminitiative/apsimng-gui",
       "size": 969831060,
+      "tag": null
+    },
+    {
+      "architecture": "amd64",
+      "digest": "87bbf0faed17f8ce594b180ddb10f53eaf21a37d435b84d05925a8f7ab2268ac",
+      "entrypoint": [
+        "ApsimNG"
+      ],
+      "os": "linux",
+      "registry": "docker.io",
+      "repository": "apsiminitiative/apsimng-gui",
+      "size": 968317389,
       "tag": null
     },
     {
@@ -1405,6 +1454,18 @@
       "tag": null
     },
     {
+      "architecture": "amd64",
+      "digest": "c449c9eea9b64ca09d7bed20199bd98a549722a9d80557248aca885eba8343cf",
+      "entrypoint": [
+        "/entrypoint.sh"
+      ],
+      "os": "linux",
+      "registry": "docker.io",
+      "repository": "apsiminitiative/apsimplusr",
+      "size": 4004966548,
+      "tag": null
+    },
+    {
       "architecture": null,
       "digest": "8d3c1199098cf335a42a92df9328717989709abbc7c1503410aac8e696e7883f",
       "entrypoint": [
@@ -1505,6 +1566,18 @@
       "tag": null
     },
     {
+      "architecture": "amd64",
+      "digest": "8bdd09182650861cc74529b9fa4ae8f92435b85d7021e9580c3802261539821b",
+      "entrypoint": [
+        "APSIM.POStats.Collector"
+      ],
+      "os": "linux",
+      "registry": "docker.io",
+      "repository": "apsiminitiative/postats2-collector",
+      "size": 234474620,
+      "tag": null
+    },
+    {
       "architecture": null,
       "digest": "74c5f724b8171d107b2faddfa05ab28ebeea35477f5a896b71b4ee3a4d16ce00",
       "entrypoint": [
@@ -1528,6 +1601,19 @@
       "registry": "docker.io",
       "repository": "apsiminitiative/postats2-portal",
       "size": 255662354,
+      "tag": null
+    },
+    {
+      "architecture": "amd64",
+      "digest": "84bc446bc3641db0c91314c118fe25142a540e1105022b129aca3aa606353a47",
+      "entrypoint": [
+        "dotnet",
+        "/code/postats-portal/APSIM.POStats.Portal.dll"
+      ],
+      "os": "linux",
+      "registry": "docker.io",
+      "repository": "apsiminitiative/postats2-portal",
+      "size": 271558517,
       "tag": null
     },
     {
@@ -3361,6 +3447,46 @@
       "registry": "docker.io",
       "repository": "python",
       "size": 119733596,
+      "tag": null
+    },
+    {
+      "architecture": "amd64",
+      "digest": "ec6a14df5b63e3fbb3498e3240f7f640c230f9dca67683d23265db3866697f2d",
+      "entrypoint": null,
+      "os": "linux",
+      "registry": "docker.io",
+      "repository": "python",
+      "size": 119842318,
+      "tag": null
+    },
+    {
+      "architecture": "amd64",
+      "digest": "6d10e720318bd84cc3d88af92bb5a47189222e17620a2fd214da6445e4afb679",
+      "entrypoint": null,
+      "os": "linux",
+      "registry": "docker.io",
+      "repository": "python",
+      "size": 125098150,
+      "tag": null
+    },
+    {
+      "architecture": "amd64",
+      "digest": "aaf08c5490d52cd92bc27142a5215b1e47355a5eaf9adfad2a0fbc022d0b5490",
+      "entrypoint": null,
+      "os": "linux",
+      "registry": "docker.io",
+      "repository": "python",
+      "size": 118351534,
+      "tag": null
+    },
+    {
+      "architecture": "amd64",
+      "digest": "1148dbb014615300fa7e713b2f94f550c0d1c69780c0805f84f093ceee34dd0b",
+      "entrypoint": null,
+      "os": "linux",
+      "registry": "docker.io",
+      "repository": "python",
+      "size": 119470714,
       "tag": null
     },
     {
