@@ -3491,6 +3491,46 @@
     },
     {
       "architecture": "amd64",
+      "digest": "ac25e5afbfdb4a94ff99cc24b0345719210133144481480bcba6085efa36a341",
+      "entrypoint": null,
+      "os": "linux",
+      "registry": "docker.io",
+      "repository": "python",
+      "size": 119842370,
+      "tag": null
+    },
+    {
+      "architecture": "amd64",
+      "digest": "b701198cb708b68d9413ca67d6311bd97c9389a2c5fe4da0511fc652642366cd",
+      "entrypoint": null,
+      "os": "linux",
+      "registry": "docker.io",
+      "repository": "python",
+      "size": 125094090,
+      "tag": null
+    },
+    {
+      "architecture": "amd64",
+      "digest": "48d884813cf44e927cf64c5529dd630dd3b18338c6dc727991eef9b71e934a20",
+      "entrypoint": null,
+      "os": "linux",
+      "registry": "docker.io",
+      "repository": "python",
+      "size": 118351570,
+      "tag": null
+    },
+    {
+      "architecture": "amd64",
+      "digest": "05a994d2344eb364cc186910f4fc8786a38215f39f00d0acc25bff33a08f4177",
+      "entrypoint": null,
+      "os": "linux",
+      "registry": "docker.io",
+      "repository": "python",
+      "size": 119470750,
+      "tag": null
+    },
+    {
+      "architecture": "amd64",
       "digest": "4421ea7d63b408f6893d368e3ea0f3738efa5997ae9bd26e572c654fe31dfbe5",
       "entrypoint": null,
       "os": "linux",
