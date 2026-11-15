@@ -3801,6 +3801,16 @@
     },
     {
       "architecture": "amd64",
+      "digest": "cf6ce9077a1bf83cf07d65ecc4309082e2762618e24b7054dbca5d5c9f585c2b",
+      "entrypoint": null,
+      "os": "linux",
+      "registry": "docker.io",
+      "repository": "rocker/cuda-spatial",
+      "size": 18303856772,
+      "tag": null
+    },
+    {
+      "architecture": "amd64",
       "digest": "8908ea621353b9ae073fee3844bfed4cf17c1dd7ace3264603b64fde0bc7ef01",
       "entrypoint": null,
       "os": "linux",
@@ -3887,6 +3897,16 @@
       "registry": "docker.io",
       "repository": "rocker/drd",
       "size": 1819728377,
+      "tag": null
+    },
+    {
+      "architecture": "amd64",
+      "digest": "b86d92f136ce99f9d24aafd841a8d145b3c2996cb88dc13b06f1ba39948432f4",
+      "entrypoint": null,
+      "os": "linux",
+      "registry": "docker.io",
+      "repository": "rocker/drd",
+      "size": 1589898572,
       "tag": null
     },
     {
@@ -4211,6 +4231,16 @@
     },
     {
       "architecture": "amd64",
+      "digest": "16b82172eb1a6bfca1c93a29923a814a82448a86579b3d4b2f1076b992e09ee5",
+      "entrypoint": null,
+      "os": "linux",
+      "registry": "docker.io",
+      "repository": "rocker/ml-spatial",
+      "size": 9359418718,
+      "tag": null
+    },
+    {
+      "architecture": "amd64",
       "digest": "827ca22fc2919f47d9bef670e8e756bb542c1f582fa2b1257d92117b8ddd0ffa",
       "entrypoint": null,
       "os": "linux",
@@ -4371,6 +4401,16 @@
     },
     {
       "architecture": "amd64",
+      "digest": "315fbcdd17ac263830dda4feb9b55eb2e3d671aa1dddc90c31df0ab3e0d60e02",
+      "entrypoint": null,
+      "os": "linux",
+      "registry": "docker.io",
+      "repository": "rocker/r-devel",
+      "size": 5302129364,
+      "tag": null
+    },
+    {
+      "architecture": "amd64",
       "digest": "1c2f5e395f0b265ea9771f763ab438242bd5d35b74f001f6e4b4c71b084e73cf",
       "entrypoint": null,
       "os": "linux",
@@ -4481,6 +4521,16 @@
     },
     {
       "architecture": "amd64",
+      "digest": "1f2d4c00a48f074f70d0c90670650715d320067f044379a8c94290f0c4b2688f",
+      "entrypoint": null,
+      "os": "linux",
+      "registry": "docker.io",
+      "repository": "rocker/r-devel-san",
+      "size": 5544903024,
+      "tag": null
+    },
+    {
+      "architecture": "amd64",
       "digest": "d2b27942e5e174a45e7ad6b4851e2084022af4bee6a3037447941120e61d7e06",
       "entrypoint": null,
       "os": "linux",
@@ -4587,6 +4637,16 @@
       "registry": "docker.io",
       "repository": "rocker/r-devel-ubsan-clang",
       "size": 6011482070,
+      "tag": null
+    },
+    {
+      "architecture": "amd64",
+      "digest": "73ecb34908746af1d53d76fafc0637d564d17d4a97b1de515564de86b335beb8",
+      "entrypoint": null,
+      "os": "linux",
+      "registry": "docker.io",
+      "repository": "rocker/r-devel-ubsan-clang",
+      "size": 5972821893,
       "tag": null
     },
     {
@@ -4907,6 +4967,16 @@
       "registry": "docker.io",
       "repository": "rocker/r2u4ci",
       "size": 830639196,
+      "tag": null
+    },
+    {
+      "architecture": "amd64",
+      "digest": "cf01c2c22af85dfb6b2c693567de376a2489b5a35a5a87c4f8eeee77c4db2862",
+      "entrypoint": null,
+      "os": "linux",
+      "registry": "docker.io",
+      "repository": "rocker/r2u4ci",
+      "size": 803995786,
       "tag": null
     },
     {
