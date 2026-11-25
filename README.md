@@ -100,3 +100,10 @@ once before starting it.
 The site is built with `npm run build` and deployed to GitHub Pages by
 [`deploy-pages.yml`](.github/workflows/deploy-pages.yml), alongside a copy of `api/` so the
 deployed site and its data live under the same origin.
+
+## Acknowledgements
+ 
+This work was created as part of the NFDI consortium FAIRagro (www.fairagro.net). We gratefully acknowledge the financial support of the German Research Foundation (DFG) – project number 501899475.
+ 
+<img src="https://fairagro.net/assets/Fairagro_Logo_lb_ohLiRand_weiss.svg" alt="FAIRagro Logo" style="width:300px;" />
+
